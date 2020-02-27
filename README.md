@@ -1,4 +1,4 @@
-# Virtual Science Forum
+# howto
 
 ## What is a virtual science forum?
 
