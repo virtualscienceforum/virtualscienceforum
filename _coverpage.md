@@ -9,4 +9,4 @@
 - Interact with your audience in new ways
 
 [GitHub](https://github.com/virtualscienceforum/docs/)
-[Get Started](#howto)
+[Get Started](#about)
