@@ -12,7 +12,8 @@ This page provides helpful guidelines and checklists to ensure an as-smooth-as-p
  - [ ] [Decide on a relevant topic](#topic-selection)
  - [ ] [Approach potential speakers](#invite-speakers)
  - [ ] [Begin setting up a conference website](#website-setup)
- - [ ] []
+ - [ ] [Decide on the audiovisual software](#software-selection)
+ - [ ] [Hold a trial run](#trial-run)
 
 ## Topic selection
 If you've reached this point, you are likely thinking about organizing a virtual conference. That means you perhaps have an idea for a topic that
@@ -41,3 +42,12 @@ for your conference. Doing so requires a minimal understanding of GitHub.
 1. Create a GitHub account for the conference. Alternatively, use a GitHub account of one of the organizers. Please be aware that in order to edit the website, a GitHub account is necessary also for other users.
 2. Visit the [template GitHub page](https://github.com/virtualscienceforum/docs) and select "Fork" in the top right to create a copy in your own (or new) GitHub account.
 3. In your own account, select "settings". You will be shown the "Options" tab automatically. Scroll down to the "GitHub Pages" section, and in the "source" part select the master branch.
+4. In your forked repository, feel free to remove the organizer guide (be sure to also remove it from the _sidebar.md file). We recommend keeping (and editing if required) the speaker and moderator guides to fit your needs and expectations.
+5. You can add files to create new pages (be sure to add them to _sidebar.md if you want them to show up in the sidebar). These files use "markdown" to define elements like lists, tables, headers and figures. The files in the repository have examples of all of those, but if you'd rather have an external resource on the markdown language: [see here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+## Software selection
+We have been using Zoom as the virtual conference software.
+
+## Trial run
+To make sure people know what to do and expect, holding a trial run can be extremely important. We recommend asking the speakers and moderators to join for 10 minutes so that
+everyone can make sure their microphone works, and their cameras too. 
