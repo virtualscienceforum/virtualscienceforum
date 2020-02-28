@@ -1,4 +1,4 @@
-![logo](imgs/VSF_LOGO_1.png)
+![logo](media/VSF_LOGO_1.png)
 
 # Virtual Science Forum <small>v1.0</small>
 
@@ -9,4 +9,4 @@
 - Interact with your audience in new ways
 
 [GitHub](https://github.com/virtualscienceforum/docs/)
-[Get Started](#about)
+[Get Started](#howto)
