@@ -1,4 +1,4 @@
-![logo](media/VSF_LOGO_1.png)
+![logo](media/VSF_LOGO_2.png)
 
 # Virtual Science Forum <small>v1.0</small>
 
