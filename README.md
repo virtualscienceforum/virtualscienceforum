@@ -20,5 +20,9 @@ If you are interested in organizing a VSF, we recommend going over the [Organize
 
 If you have been invited to speak at a virtual conference, the [Speaker Guide](speakerguide.md) is for you.
 
+If you are moderating a session, please read the [Moderator Guide](moderatorguide.md).
+
+If you are joining as an attendee, please read the [Attendee Guide](attendeeguide.md).
+
 ## Contributing and providing feedback
 Further contributions to this set of documents are welcome. Please send us suggestions via info@virtualscienceforum.org.
