@@ -15,14 +15,14 @@ Nonetheless, the same general principles apply to a virtual conference as they d
 Prepare your presentation.
 TIP: You will be sharing your screen so no need to rely exclusively on slides. You can seamlessly switch between slides, Jupyter/Mathematica notebook, etc.
 
-Familiarize yourself with the basic features of the video conference platform. We use Zoom, and we recommend downloading its desktop version [here](https://zoom.us/download).
+Familiarize yourself with the basic features of the video conference platform. We use Zoom, and we recommend downloading its desktop version [here](https://zoom.us/download). 
 
 Make sure that you have reserved a room and tested its technical capabilities as per the “[technical setup](#technical-setup)” section above.
 
 Return the [consent form](https://docs.google.com/forms/d/e/1FAIpQLSccvvnOTIQiFX6idGnWKQOFhQ85QG4c6Xjble9Q0CjkIR2Tjw/viewform) for the recording of your talk.
 
 ## One day before your seminar
-You will be provided with a link to a testing area on our virtual conferencing platform (currently Zoom). Connect and test your video, audio, microphone, the display of your presentation, etc.
+You will be provided with a link to a testing area on our virtual conferencing platform (currently Zoom). Connect and test your video, audio, microphone, the display of your presentation, etc. Become familiar with the different screen-sharing options (share all screen, share particular program window, etc) to be prepared to choose the correct one.
 
 ## The day of your seminar
 Join the meeting a few minutes before the start of your talk. Make sure you are undisturbed in a well-lit and quiet room. Try to avoid strong background light sources.
