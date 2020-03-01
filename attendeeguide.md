@@ -26,4 +26,5 @@ You cannot unmute your microphone on your own. Zoom has a “raise hand” featu
 ### When to ask
 
 Short talks: after the talk ends.
+
 Long talks: ask your questions at any time.
