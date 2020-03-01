@@ -1,7 +1,8 @@
 # Virtual Science Forum: Attendee Guide
 
 As an attendee, of course your job is the easiest. However, with this new conferencing format, certain things, like asking questions, are now different. Below we provide guidelines regarding your attendance and technical instructions on how to interact. 
-Guidelines
+
+## Guidelines
 
 * Be polite and respectful.
 * Try to stay for the complete event.
