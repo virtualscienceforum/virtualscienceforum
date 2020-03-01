@@ -1,11 +1,7 @@
 # Organizer Guide
 
 ## Summary
-As the organizers, your task is to coordinate all the high-level aspects of a virtual science forum.
-
-![alt text](https://imgs.xkcd.com/comics/home_organization.png "Give up")
-
-This page provides helpful guidelines and checklists to ensure an as-smooth-as-possible experience for yourself, but also for all of the participants, speakers and moderators.
+As the organizers, your task is to coordinate all the high-level aspects of a virtual science forum. This page provides helpful guidelines and checklists to ensure an as-smooth-as-possible experience for yourself as well as for all of the participants, speakers and moderators.
 
 ## ToDo list
  - [ ] Read through this documentation once
@@ -16,9 +12,7 @@ This page provides helpful guidelines and checklists to ensure an as-smooth-as-p
  - [ ] [Hold a trial run](#trial-run)
 
 ## Topic selection
-If you've reached this point, you are likely thinking about organizing a virtual conference. That means you perhaps have an idea for a topic that
-your conference would be about. Before going through with the rest of the organization, we've put together a list of a few important pointers to
-think about carefully.
+If you've reached this point, you are likely thinking about organizing a virtual conference. That means you perhaps have an idea for a topic that your conference would be about. Before going through with the rest of the organization, we've put together a list of a few important pointers to think about carefully.
 
 * How large is the community?
   * This is an important point. Virtual conferences work well at intermediate scales in terms of participants (although the limit on 'view-only' participants is virtually absent).
@@ -49,5 +43,4 @@ for your conference. Doing so requires a minimal understanding of GitHub.
 We have been using Zoom as the virtual conference software.
 
 ## Trial run
-To make sure people know what to do and expect, holding a trial run can be extremely important. We recommend asking the speakers and moderators to join for 10 minutes so that
-everyone can make sure their microphone works, and their cameras too. 
+To make sure speakers and moderators know what to do and expect, holding a trial run can be extremely important. We recommend asking the speakers and moderators to join for a 10 minute test so that they all can make sure their hardware works and become familiarized with the conferencing platform. 
