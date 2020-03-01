@@ -10,3 +10,7 @@
 
 [GitHub](https://github.com/virtualscienceforum/docs/)
 [Get Started](#about)
+
+<!-- background image -->
+
+![](media/bg.jpg)
