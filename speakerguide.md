@@ -19,7 +19,7 @@ Familiarize yourself with the basic features of the video conference platform. W
 
 Make sure that you have reserved a room and tested its technical capabilities as per the “[technical setup](#technical-setup)” section above.
 
-Return the consent form for the recording of your talk.
+Return the [consent form](https://docs.google.com/forms/d/e/1FAIpQLSccvvnOTIQiFX6idGnWKQOFhQ85QG4c6Xjble9Q0CjkIR2Tjw/viewform) for the recording of your talk.
 
 ## One day before your seminar
 You will be provided with a link to a testing area on our virtual conferencing platform (currently Zoom). Connect and test your video, audio, microphone, the display of your presentation, etc.
