@@ -1,6 +1,6 @@
-![logo](media/VSF_LOGO_1.png)
+![logo](media/logo.png)
 
-# Virtual Science Forum <small>v1.0</small>
+# Virtual Science Forum
 
 > A platform for scientific conferences going fully digital
 
