@@ -5,6 +5,8 @@ As an attendee, of course your job is the easiest. However, with this new confer
 ## Guidelines
 
 * Be polite and respectful.
+* Hostile, disruptive, or disrespectful behaviour will be monitored by the moderator
+* Continuous misbehaviour will lead to a termination of your participation in the session upon the decision of the moderator(s).
 * Try to stay for the complete event.
 * Use your real name when logging in.
 * Check your internet connection and microphone sound quality in advance.

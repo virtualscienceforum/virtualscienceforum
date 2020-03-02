@@ -1,28 +1,18 @@
-# About
+## Welcome
 
-## What is a virtual science forum?
+Virtual Science Forum is a volunteer-run open platform aiming to accommodate organization of online conferences.
+We provide support and hosting of virtual conference sessions.
+Additionally we develop best practices and provide detailed guidelines for all community members.
 
-A VSF is a fully digital conference, where participants and speakers join remotely via audio & video software.
+## Inaugural event
 
-Scientific conferences often require traveling to other parts of the world.
-Modern technology, however, enables us to host virtual conferences with thousands of viewers and
-hundreds of interacting participants.
+Like many in the physics community we were saddened to hear of the cancellation of the APS March Meeting—a cornerstone conference for the worldwide physics community.
+To counteract this disruption, and following a successful beta testing, we are now ready to launch the first online conference session, and allow the community members catch up with the latest news.
 
-Hosting a virtual conference has multiple benefits:
+### Program
 
-* Reduction in CO2 emission due to elimination of travel
-* Enabling participants who are otherwise constrained (family) to participate
-* Prevent pandemics
+The event will take place Friday 6 March [12:0O EST](https://arewemeetingyet.com/New%20York/2020-03-06/12:00/Virtual%20Science%20Forum%20inaugural%20meeting#eyJ1cmwiOiJodHRwczovL3ZpcnR1YWxzY2llbmNlZm9ydW0ub3JnLyJ9).
 
-## How does it work?
+### Registration
 
-If you are interested in organizing a VSF, we recommend going over the [Organizer Guide](organizerguide.md).
-
-If you have been invited to speak at a virtual conference, the [Speaker Guide](speakerguide.md) is for you.
-
-If you are moderating a session, please read the [Moderator Guide](moderatorguide.md).
-
-If you are joining as an attendee, please read the [Attendee Guide](attendeeguide.md).
-
-## Contributing and providing feedback
-Further contributions to this set of documents are welcome. Please send us suggestions via info@virtualscienceforum.org.
+Registration link will follow shortly.
