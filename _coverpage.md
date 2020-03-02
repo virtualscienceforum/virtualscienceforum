@@ -4,12 +4,13 @@
 
 > A platform for scientific conferences going fully digital
 
-- No more travel constraints and costs
-- Reach many more people
-- Interact with your audience in new ways
+Virtual conferences
 
-[GitHub](https://github.com/virtualscienceforum/docs/)
-[Get Started](#about)
+- Are fast and easy to organize
+- Are not constrained by budget or travel limitations
+- Transform how researchers interact
+
+[Join our first session](#about)
 
 <!-- background image -->
 
