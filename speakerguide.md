@@ -4,6 +4,8 @@ As a speaker, being prepared for an audience that you don’t see directly makes
 
 Nonetheless, the same general principles apply to a virtual conference as they do to an non-virtual conference. A great seminar will generally be great in both contexts, as long as you are prepared, which includes knowing what to expect and avoiding technical problems. In a virtual conference you won’t need to worry about forgetting your video connection adapter, but you will need to take a few different steps to ensure a smooth process, which we detail below.
 
+Finally, because the talk will be recorded and posted online, there are some considerations regarding what images you can use, detailed in “[Considerations for the recording of your talk](#considerations-for-the-recording-of-your-talk)”
+
 ## Technical setup
 * Find and reserve a room, which you will use to present.
 * Your internet connection in that room must be reliable.
@@ -11,7 +13,8 @@ Nonetheless, the same general principles apply to a virtual conference as they d
 * If you can arrange two screens, so that you use one for your presentation, and the other to view the audience, it may help get some visual feedback.
 * The sound quality makes a difference: try to find a good external microphone.
 
-## One week before your seminar
+## Timeline of preparation
+### One week before your seminar
 Prepare your presentation.
 TIP: You will be sharing your screen so no need to rely exclusively on slides. You can seamlessly switch between slides, Jupyter/Mathematica notebook, etc.
 
@@ -21,7 +24,7 @@ Make sure that you have reserved a room and tested its technical capabilities as
 
 Return the [consent form](https://docs.google.com/forms/d/e/1FAIpQLSccvvnOTIQiFX6idGnWKQOFhQ85QG4c6Xjble9Q0CjkIR2Tjw/viewform) for the recording of your talk.
 
-## One day before your seminar
+### One day before your seminar
 You will be provided with a link to a testing area on our virtual conferencing platform (currently Zoom). Connect and test your video, audio, microphone, the display of your presentation, etc.
 
 ## The day of your seminar
@@ -56,5 +59,7 @@ Since you cannot see people "raising hands" and moderator needs to interrupt you
 
 Unlike during a regular conference, you will have no option to chat informally after your talk. To compensate for that, we invite you to tell the audience how they can reach you afterwards.
 
-## Recording of your talk
+## Considerations for the recording of your talk
 Given you provided your consent prior to your seminar, your talk will be recorded via the Zoom platform. You should also be aware that the participants may take screenshots/their own recordings during your talk.
+
+Since the recording will be published, images that were simply grabbed from the internet should not be included. We recommend to use either Google image search with the copyright filter turned on or the wikimedia commons if you need one. 
