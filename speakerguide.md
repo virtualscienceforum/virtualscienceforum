@@ -11,7 +11,8 @@ Nonetheless, the same general principles apply to a virtual conference as they d
 * If you can arrange two screens, so that you use one for your presentation, and the other to view the audience, it may help get some visual feedback.
 * The sound quality makes a difference: try to find a good external microphone.
 
-## One week before your seminar
+## Timeline of preparation
+### One week before your seminar
 Prepare your presentation.
 TIP: You will be sharing your screen so no need to rely exclusively on slides. You can seamlessly switch between slides, Jupyter/Mathematica notebook, etc.
 
@@ -21,10 +22,10 @@ Make sure that you have reserved a room and tested its technical capabilities as
 
 Return the [consent form](https://docs.google.com/forms/d/e/1FAIpQLSccvvnOTIQiFX6idGnWKQOFhQ85QG4c6Xjble9Q0CjkIR2Tjw/viewform) for the recording of your talk.
 
-## One day before your seminar
+### One day before your seminar
 You will be provided with a link to a testing area on our virtual conferencing platform (currently Zoom). Connect and test your video, audio, microphone, the display of your presentation, etc.
 
-## The day of your seminar
+### The day of your seminar
 Join the meeting a few minutes before the start of your talk. Make sure you are undisturbed in a well-lit and quiet room. Try to avoid strong background light sources.
 
 Make sure to turn off any programs that would result in pop-up notifications during your talk. This can include email software, any chat programs (Slack, Google chat, gitter, etc), VOIP software (Skype, etc), or other ones as well like Dropbox.
