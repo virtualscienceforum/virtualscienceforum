@@ -27,8 +27,8 @@ Return the [consent form](https://docs.google.com/forms/d/e/1FAIpQLSccvvnOTIQiFX
 ### One day before your seminar
 You will be provided with a link to a testing area on our virtual conferencing platform (currently Zoom). Connect and test your video, audio, microphone, the display of your presentation, etc.
 
-### The day of your seminar
-Join the meeting a few minutes before the start of your talk. Make sure you are undisturbed in a well-lit and quiet room. Try to avoid strong background light sources.
+## The day of your seminar
+Join the meeting at least 10 minutes before the start of your talk. Make sure you are undisturbed in a well-lit and quiet room. Try to avoid strong background light sources.
 
 Make sure to turn off any programs that would result in pop-up notifications during your talk. This can include email software, any chat programs (Slack, Google chat, gitter, etc), VOIP software (Skype, etc), or other ones as well like Dropbox.
 
