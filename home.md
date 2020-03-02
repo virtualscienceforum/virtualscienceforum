@@ -11,7 +11,7 @@ To counteract this disruption, and following a successful beta testing, we are n
 
 ### Program
 
-The event will take place Friday 6 March [12:0O EST](https://arewemeetingyet.com/New%20York/2020-03-06/12:00/Virtual%20Science%20Forum%20inaugural%20meeting#eyJ1cmwiOiJodHRwczovL3ZpcnR1YWxzY2llbmNlZm9ydW0ub3JnLyJ9).
+The event will take place Friday 6 March [12:00 EST](https://arewemeetingyet.com/New%20York/2020-03-06/12:00/Virtual%20Science%20Forum%20inaugural%20meeting#eyJ1cmwiOiJodHRwczovL3ZpcnR1YWxzY2llbmNlZm9ydW0ub3JnLyJ9).
 
 ### Registration
 
