@@ -1,6 +1,5 @@
 # Moderator Guide
 
-
 ## Summary
 
 Moderation of a virtual conference involves more responsibility than chairing an offline session.
@@ -63,5 +62,3 @@ In the event of misconduct (defined by the code of conduct) from any participant
 * Warn involved participant(s) of their behaviour and the possible consequences.
 * Remove repeat offenders from the session.
 * Overlook chat interactions where the same rules apply.
-
-
