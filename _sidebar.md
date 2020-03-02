@@ -3,4 +3,3 @@
 * [Speaker Guide](speakerguide.md)
 * [Moderator Guide](moderatorguide.md)
 * [Attendee Guide](attendeeguide.md)
-* [Program](program.md)
