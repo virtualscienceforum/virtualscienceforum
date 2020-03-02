@@ -7,7 +7,7 @@ Additionally we develop best practices and provide detailed guidelines for all c
 ## Inaugural event
 
 Like many in the physics community we were saddened to hear of the cancellation of the APS March Meeting—a cornerstone conference for the worldwide physics community.
-To counteract this disruption, and following a successful beta testing, we are now ready to launch the first online conference session, and allow the community members catch up with the latest news.
+To counteract this disruption, and following a successful beta testing, we are now ready to launch the [first online conference session](#MM2020.md), and allow the community members catch up with the latest news.
 
 ### Program
 
