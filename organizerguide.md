@@ -26,6 +26,10 @@ Here is a short summary of all the steps you will need to take
 - Both conventional conference talks of up to one hour (including questions), and 10-15 minute talks work well.
 - We require that all the videos are recorded and published on the website after the session.
 
+#### Application form
+
+Apply via a github issue [here](https://github.com/virtualscienceforum/virtualscienceforum/issues/new?assignees=&labels=application&template=application.md&title=Please+specify+the+session+title) (requires a github.com account).
+
 ## Detailed instructions
 
 ### Planning and application: two months before the session
