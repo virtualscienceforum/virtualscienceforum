@@ -12,15 +12,15 @@ assignees: ""
 
 ## Organizers
 
-**List the names of the organizers, preferably link to their personal webpages.**
+**List the names of the organizers, preferably [link](url) to their personal webpages.**
 
 ## Description
 
 **A 1-2 paragraph description explaining the scope, timeliness, and the interest of the session.**
 
-## List of potential speakers
+## List of potential speakers 
 
-**Please plan a safety margin: people are often busy.**
+**Please have more potential speaks than slots in the conference: people are often busy.**
 
 ## Preferred date and time slot
 
