@@ -47,10 +47,12 @@ Finally, submit the materials that you collected to the VSF. At this stage we ai
 Once we approved your application and reserved your time slot, you and your co-organizers can start contacting the speakers. The length of your seminar shouldn't exceed 3 hours, so once you decide the length and format of the talks, adjust the number of speakers accordingly.
 
 You should aim to secure your speakers at least one month prior to your event.
-Finalizing and announcing: 4 weeks before the session
+
+### Finalizing and announcing: 4 weeks before the session
+
 Once your program is complete, we will prepare a page for your session on the VSF website and a registration form for the participants. Now you can start advertising your session.
 
-We will announce the session to anyone signed up, but since you have community connections, the main advertising job is on you. Use your resources. For example you can consider:
+We will announce the session to anyone signed up and publically through our twitter account, but since you have community connections, you hold the advertising job. Use your resources. For example you can consider:
 
 - Announcing the session to your colleagues via email
 - Mentioning it during your travel
@@ -60,10 +62,10 @@ This aspect is not different from the traditional conferences: mailing lists, pr
 
 ### Final preparations: 1 week before the session
 
-In the virtual conference setting moderators play a vital role. Find moderators for your event. The role of the moderator is very demanding, and we recommend finding more than one moderator. The moderators should also be familiar with the sesion topic.
+In the virtual conference setting moderators play a vital role. Find moderators for your event. The moderator's role is demanding, and we recommend finding more than one person to fill it. The moderators should also be familiar with the sesion topic.
 
 Set up an appointment with the speakers and the moderators to introduce them to the platform. It is likely that a common slot for all might be hard to find and individual appointments might become necessary.
-If your session is over subscribed, we will ask you to filter the applicants list that you want to allow participating in the session.
+If your session is over-subscribed, we will ask you to filter the applicants list that you want to allow participating in the session.
 
 ### During the session
 
