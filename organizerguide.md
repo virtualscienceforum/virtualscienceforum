@@ -1,46 +1,82 @@
 # Organizer Guide
 
-## Summary
-As the organizers, your task is to coordinate all the high-level aspects of a virtual science forum. This page provides helpful guidelines and checklists to ensure an as-smooth-as-possible experience for yourself as well as for all of the participants, speakers and moderators.
+So, you are thinking of organizing a short virtual conference session. This is easy, rewarding, and takes little work. This manual will guide you through the process.
 
-## ToDo list
- - [ ] Read through this documentation once
- - [ ] [Decide on a relevant topic](#topic-selection)
- - [ ] [Approach potential speakers](#invite-speakers)
- - [ ] [Begin setting up a conference website](#website-setup)
- - [ ] [Decide on the audiovisual software](#software-selection)
- - [ ] [Hold a trial run](#trial-run)
+#### Bird’s eye view of what it takes
+Here is a short summary of all the steps you will need to take
 
-## Topic selection
-If you've reached this point, you are likely thinking about organizing a virtual conference. That means you perhaps have an idea for a topic that your conference would be about. Before going through with the rest of the organization, we've put together a list of a few important pointers to think about carefully.
+- Make a team of organizers
+- Decide on a recent and exciting topic
+- Write a brief description of the session
+- Decide on the scale/format of the session: number of speakers and length of talks
+- Make a list of possible author groups to approach
+- Decide on a date that suits your timeline (should be at least 2 months in the future, so that you can find the speakers and announce the session properly)
+- Submit an application to us
+- After the time slot is reserved, approach the speakers, make a program
+- Find the moderators for the talks, ensure that the moderators and the speakers try the software in advance
+- Advertise the event
+- Approve participant applications for registration.
+- Run the session
+- Summarize your experience
 
-* How large is the community?
-  * This is an important point. Virtual conferences work well at intermediate scales in terms of participants (although the limit on 'view-only' participants is virtually absent).
-* How relevant is the topic?
-  * Virtual conferences are great for new and upcoming topics, in which progress is quick.
-* More to come!
+#### Basic facts
 
-## Invite speakers
-At this point, most people have little to no experience with a virtual conference. Having a demonstration for them
-to look at can therefore be very helpful, and we suggest pointing them towards our [Speaker Guide](speakerguide.md). Once you have
-set up your conference website (see [Website Setup](#website-setup)), you can easily modify the guides to include your own preferences.
+- We support sessions of up to 3 hours in a single day (longer sessions have problems with retention).
+- There is essentially one time slot that suits America and Europe: 12:00–15:00 EST.
+- Both conventional conference talks of up to one hour (including questions), and 10-15 minute talks work well.
+- We require that all the videos are recorded and published on the website after the session.
 
-## Website setup
-Having all of the information (times, program, speakers) and guides together in an attractive web environment can make a big difference.
-The website you're reading right now, or the [conference website template](http://www.virtualscienceforum.org/docs), can directly be copied and edited
-for your conference. Doing so requires a minimal understanding of GitHub.
+## Detailed instructions
 
-### Steps
-!! These steps are not fully functional as-is! We are still working on the best (easiest) way for new organizers to get up and running.
+### Planning and application: two months before the session
 
-1. Create a GitHub account for the conference. Alternatively, use a GitHub account of one of the organizers. Please be aware that in order to edit the website, a GitHub account is necessary also for other users.
-2. Visit the [template GitHub page](https://github.com/virtualscienceforum/docs) and select "Fork" in the top right to create a copy in your own (or new) GitHub account.
-3. In your own account, select "settings". You will be shown the "Options" tab automatically. Scroll down to the "GitHub Pages" section, and in the "source" part select the master branch.
-4. In your forked repository, feel free to remove the organizer guide (be sure to also remove it from the _sidebar.md file). We recommend keeping (and editing if required) the speaker and moderator guides to fit your needs and expectations.
-5. You can add files to create new pages (be sure to add them to _sidebar.md if you want them to show up in the sidebar). These files use "markdown" to define elements like lists, tables, headers and figures. The files in the repository have examples of all of those, but if you'd rather have an external resource on the markdown language: [see here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+Choose the organizer team of 2-4 people. Since you will be inviting the speakers and the audience, your team should have good connections in the community. It is also a good idea to find organizers from more than one research group/university.
 
-## Software selection
-We have been using Zoom as the virtual conference software.
+Decide on the topic of the session. We strongly recommend to focus on recent developments: these make it easier to attract an audience, and you benefit from a shorter waiting period until the conference.
 
-## Trial run
-To make sure speakers and moderators know what to do and expect, holding a trial run can be extremely important. We recommend asking the speakers and moderators to join for a 10 minute test so that they all can make sure their hardware works and become familiarized with the conferencing platform. 
+Choose a session name. Write a brief explanation of what the topic is, and why it is important. These will eventually go on the session webpage, so try and make them clean and attractive. If possible, prepare a poster-like image to go along with the description.
+
+Make a list of prospective speakers that you plan to approach. Since the virtual conferences are experimental in nature, we recommend approaching groups of authors instead of single researchers. This also gives an extra opportunity for less senior researchers to present exciting work.
+
+Choose a date and time slot that suits your session. Try to avoid conflicts with conferences on related topics, major holidays, etc.
+
+Finally, submit the materials that you collected to the VSF. At this stage we aim to accept all applications after basic review (unless the demand is overwhelming).
+
+### Reaching out to speakers: at least 6 weeks before the session
+
+Once we approved your application and reserved your time slot, you and your co-organizers can start contacting the speakers. The length of your seminar shouldn't exceed 3 hours, so once you decide the length and format of the talks, adjust the number of speakers accordingly.
+
+You should aim to secure your speakers at least one month prior to your event.
+Finalizing and announcing: 4 weeks before the session
+Once your program is complete, we will prepare a page for your session on the VSF website and a registration form for the participants. Now you can start advertising your session.
+
+We will announce the session to anyone signed up, but since you have community connections, the main advertising job is on you. Use your resources. For example you can consider:
+
+- Announcing the session to your colleagues via email
+- Mentioning it during your travel
+- Posting about it on social media
+
+This aspect is not different from the traditional conferences: mailing lists, professional contacts, flyers, social media etc. We of course ask you to be considerate and avoid spamming your colleagues.
+
+### Final preparations: 1 week before the session
+
+In the virtual conference setting moderators play a vital role. Find moderators for your event. The role of the moderator is very demanding, and we recommend finding more than one moderator. The moderators should also be familiar with the sesion topic.
+
+Set up an appointment with the speakers and the moderators to introduce them to the platform. It is likely that a common slot for all might be hard to find and individual appointments might become necessary.
+If your session is over subscribed, we will ask you to filter the applicants list that you want to allow participating in the session.
+
+### During the session
+
+Make final technical checks shortly before the session starts. By this time you, the moderators, and the speakers should know how the platform works (it’s easy, but requires some preparation).
+
+Give a brief opening and closing speech. In the opening speech, introduce the session, and remind participants of the code of conduct.
+
+### After the session
+
+Review the event page with the published recordings of the talks. If you like, add any concluding remarks to the page content.
+
+VSF is a newly developed platform, and we welcome your feedback and overall evaluation of your experience. Please write a short summary with your thoughts and suggestions: what worked well, what didn’t, and what would you like to improve.
+
+## Conclusion
+
+That’s all it takes. It should all fit within about a working day if you have a good idea. Let us know if you have any questions, and we’re looking forward to hosting your session!
