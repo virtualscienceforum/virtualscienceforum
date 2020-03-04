@@ -13,8 +13,8 @@ To counteract this disruption, and following a successful beta testing, we are n
 
 Confirmed speaker list:
 
-* Eun-Ah Kim, Cornell University
-* Steve Girvin, Yale University
+* Eun-Ah Kim, Cornell University: Machine Learning Quantum Emergence
+* Steve Girvin, Yale University: Circuit QED theory and experiment: Encoding quantum information in harmonic oscillators
 
 The event will take place Friday 6 March [12:00 EST](https://arewemeetingyet.com/New%20York/2020-03-06/12:00/Virtual%20Science%20Forum%20inaugural%20meeting#eyJ1cmwiOiJodHRwczovL3ZpcnR1YWxzY2llbmNlZm9ydW0ub3JnLyJ9).
 
