@@ -1,5 +1,14 @@
 # Program
 
+<script>
+  var loc = Intl.DateTimeFormat().resolvedOptions().timeZone;
+  document.getElementById("location").innerHTML = loc;
+
+  var conferencedate = new Date('2020-03-06T17:00Z');
+  var localtime = conferencedate.getHours();
+  document.getElementById("conferencestart").innerHTML = localtime;
+</script>
+
 The preliminary program and confirmed invited speakers are listed here.
 
 ## Invited speakers
@@ -8,6 +17,8 @@ The preliminary program and confirmed invited speakers are listed here.
 
 
 ## Detailed program
+It seems that you might be browsing from <span id="location">here</span>.
+That means the conference will start at your location at <span id="conferencestart">here</span>.
 
 | PST   	        | EST     	      | CET   	        | Speaker    	|
 |---------------	|---------------	|---------------	|-----------	|
