@@ -11,8 +11,13 @@ To counteract this disruption, and following a successful beta testing, we are n
 
 ### Program
 
+Confirmed speaker list:
+
+* Eun-Ah Kim
+* Steve Girvin
+
 The event will take place Friday 6 March [12:00 EST](https://arewemeetingyet.com/New%20York/2020-03-06/12:00/Virtual%20Science%20Forum%20inaugural%20meeting#eyJ1cmwiOiJodHRwczovL3ZpcnR1YWxzY2llbmNlZm9ydW0ub3JnLyJ9).
 
 ### Registration
 
-Registration link will follow shortly.
+The attendance is free, but please register by filling out the [registration form](https://forms.gle/eHmMbuFv3Mf2Akxu9).
