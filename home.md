@@ -11,13 +11,21 @@ To counteract this disruption, and following a successful beta testing, we are n
 
 ### Program
 
-Confirmed speaker list:
+We are starting Friday 6 March 12:00 EST ([click to check in your time zone](https://arewemeetingyet.com/New%20York/2020-03-06/12:00/Virtual%20Science%20Forum%20inaugural%20meeting#eyJ1cmwiOiJodHRwczovL3ZpcnR1YWxzY2llbmNlZm9ydW0ub3JnLyJ9)).
 
-* Eun-Ah Kim, Cornell University: Machine Learning Quantum Emergence
-* Steve Girvin, Yale University: Circuit QED theory and experiment: Encoding quantum information in harmonic oscillators
-* Florian Marquardt, Max Planck Institute for the Science of Light and Friedrich-Alexander Universität Erlangen-Nürnberg: Deep Learning for Rapid Exploration of Topological Band Structures
+| Time (EST) <img width=100/> | Activity <img width=800/> |
+|:-----:|:-- |
+| 12:00–12:15 | Opening |
+| 12:15­–12:45 | Florian Marquardt: *Deep Learning for Rapid Exploration of Topological Band Structures* |
+| 12:45­–13:00 | Discussion |
+| 13:00­–13:30 | Eun-Ah Kim: *Machine Learning Quantum Emergence* |
+| 13:30­–13:45 | Discussion |
+| 13:45­–14:00 | Break |
+| 14:00­–14:30 | Steve Girvin: *Circuit QED theory and experiment: Encoding quantum information in harmonic oscillators* |
+| 14:30­–14:45 | Discussion |
+| 14:45–14:50 | Concluding remarks |
 
-The event will take place Friday 6 March [12:00 EST](https://arewemeetingyet.com/New%20York/2020-03-06/12:00/Virtual%20Science%20Forum%20inaugural%20meeting#eyJ1cmwiOiJodHRwczovL3ZpcnR1YWxzY2llbmNlZm9ydW0ub3JnLyJ9). We will host it on the Zoom platform in a webinar style format -- please register at the link below to get more details! 
+We will host the session on the Zoom platform in a webinar style format—please register at the link below to get more details!
 
 ### Registration
 
