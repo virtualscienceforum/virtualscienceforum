@@ -25,7 +25,7 @@ We are starting Friday 6 March 12:00 EST ([click to check in your time zone](htt
 | 14:30­–14:45 | Discussion |
 | 14:45–14:50 | Concluding remarks |
 
-We will host the session on the Zoom platform in a webinar style format—please register at the link below to get more details!
+Join the meeting [via Zoom](https://iu.zoom.us/j/307774455) (no setup required), and please fill out the registration form below.
 
 ### Registration
 
