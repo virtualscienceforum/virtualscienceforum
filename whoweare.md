@@ -6,7 +6,7 @@ The founding VSF team members are listed below in alphabetical order. We continu
 * Xavi Bonet, Leiden U.
 * Valla Fatemi, Yale U.
 * Eliska Greplova, ETH Zurich
-* Sinead Griffin, Lawrence Berkeley National Labs
+* Sinead Griffin, Lawrence Berkeley National Lab
 * Adolfo Grushin, Institut Neel
 * Akashdeep Kamra, NTNU Trondheim
 * Maciej Malinowski, ETH Zurich
