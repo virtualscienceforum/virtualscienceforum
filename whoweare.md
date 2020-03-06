@@ -5,11 +5,11 @@ The founding VSF team members are listed below in alphabetical order. We continu
 * Anton Akhmerov, TU Delft
 * Xavi Bonet, Leiden U.
 * Valla Fatemi, Yale U.
-* Eliska Greplova, World Economic Forum
+* Eliska Greplova, ETH Zurich
 * Sinead Griffin, Lawrence Berkeley National Labs
 * Adolfo Grushin, Institut Neel
 * Akashdeep Kamra, NTNU Trondheim
 * Maciej Malinowski, ETH Zurich
-* Everard van Nieuwenburg, U. Copenhagen
+* Evert van Nieuwenburg, Niels Bohr Institute
 * Babak Seradjeh, U. of Indiana
 * Daniel Varjas, TU Delft
