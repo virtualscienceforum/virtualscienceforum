@@ -1,6 +1,6 @@
 # Who We Are
 
-The founding VSF team members are listed below in alphabetical order. We continue our effort with VSF by continuing to the platform and assisting organizers in setting up their virtual conferences.
+Virtual Science Forum is a collaborative effort of the research community. Below is the list of contributors so far (in the alphabetical order)!
 
 * Anton Akhmerov, TU Delft
 * Xavi Bonet, Leiden U.
