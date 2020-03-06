@@ -8,6 +8,7 @@ The founding VSF team members are listed below in alphabetical order. We continu
 * Eliska Greplova, World Economic Forum
 * Sinead Griffin, Lawrence Berkeley National Labs
 * Adolfo Grushin, Institut Neel
+* Akashdeep Kamra, NTNU Trondheim
 * Maciej Malinowski, ETH Zurich
 * Everard van Nieuwenburg, U. Copenhagen
 * Babak Seradjeh, U. of Indiana
