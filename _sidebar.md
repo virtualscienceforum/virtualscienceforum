@@ -4,3 +4,4 @@
 * [Moderator Guide](moderatorguide.md)
 * [Attendee Guide](attendeeguide.md)
 * [Contact us](contact.md)
+* [Contributors](whoweare.md)
