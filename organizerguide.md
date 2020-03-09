@@ -2,6 +2,9 @@
 
 So, you are thinking of organizing a short virtual conference session. This is easy, rewarding, and takes little work. This manual will guide you through the process.
 
+## Main points to consider
+---
+
 #### Bird’s eye view of what it takes
 Here is a short summary of all the steps you will need to take
 
@@ -19,18 +22,21 @@ Here is a short summary of all the steps you will need to take
 - Run the session
 - Summarize your experience
 
-#### Basic facts
+#### Basic facts on conference format
 
 - We support sessions of up to 3 hours in a single day (longer sessions have problems with retention).
 - There is essentially one time slot that suits America and Europe: 12:00–15:00 EST.
 - Both conventional conference talks of up to one hour (including questions), and 10-15 minute talks work well.
 - We require that all the videos are recorded and published on the website after the session.
 
-#### Application form
+#### Application form and questions
 
 Apply via a github issue [here](https://github.com/virtualscienceforum/virtualscienceforum/issues/new?assignees=&labels=application&template=application.md&title=Please+specify+the+session+title) (requires a github.com account).
 
+If you have any questions, please reach out via any of the modes of communication listed on our [contact page](https://virtualscienceforum.org/#/contact).
+
 ## Detailed instructions
+---
 
 ### Planning and application: two months before the session
 
@@ -84,5 +90,6 @@ Review the event page with the published recordings of the talks. If you like, a
 VSF is a newly developed platform, and we welcome your feedback and overall evaluation of your experience. Please write a short summary with your thoughts and suggestions: what worked well, what didn’t, and what would you like to improve.
 
 ## Conclusion
+---
 
-That’s all it takes. It should all fit within about a working day if you have a good idea. Let us know if you have any questions, and we’re looking forward to hosting your session!
+That’s all it takes. It should all fit within about a working day if you have a good idea. [Let us know](https://virtualscienceforum.org/#/contact) if you have any questions, and we’re looking forward to hosting your session!
