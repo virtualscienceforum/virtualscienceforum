@@ -10,7 +10,7 @@ Virtual conferences
 - Are not constrained by budget or travel limitations
 - Transform how researchers interact
 
-[Join our first session](#welcome)
+[Join in](#welcome)
 
 <!-- background image -->
 
