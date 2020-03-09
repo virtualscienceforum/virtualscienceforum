@@ -5,3 +5,4 @@
 * [Attendee Guide](attendeeguide.md)
 * [Contact us](contact.md)
 * [Contributors](whoweare.md)
+* [Inaugural session](inauguralsession.md)
