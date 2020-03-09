@@ -7,7 +7,7 @@ We thank the speakers and the participants of the inaugural session, organized i
 * Valla Fatemi (Yale University)
 * Evert van Nieuwenburg (Niels Bohr Institute)
 * Xavier Bonet-Monroig (Leiden University)
-* Babak Seradjeh (University of Indiana)
+* Babak Seradjeh (Indiana University)
 * Eliska Greplova (ETH Zürich)
 * Anton Akhmerov (Delft University of Technology)
 
