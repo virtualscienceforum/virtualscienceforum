@@ -1,4 +1,5 @@
 * [Home](/)
+* [Nonlocal Interaction Colloquium](seminar_announcement.md)
 * [Call for organizers](announcement.md)
 * [Organizer Guide](organizerguide.md)
 * [Speaker Guide](speakerguide.md)
