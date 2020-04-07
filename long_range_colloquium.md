@@ -1,6 +1,6 @@
 # Long Range Colloquium
 
-We aim to provide a platform for talks about latest developments in the fields of condensed matter and quantum information.
+We provide a venue for talks about latest developments in the fields of condensed matter and quantum information.
 
 The colloquium runs Wednesday every other week at 1:30 PM EST (19:00 CET), starting April 15.
 The attendance is open to everyone, but please register!
