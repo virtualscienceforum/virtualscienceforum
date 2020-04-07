@@ -10,7 +10,7 @@ The attendance is open to everyone, but please register!
 |   Date   |     Speaker    | Title |
 |:--------:|:--------------:|:-----:|
 | April 15 | [Liang Fu](#liang-fu-mit) | Charge Transfer Excitations, Pair Density Waves, and Superconductivity in Moiré Materials |
-| April 29 | [Charles Marcus](#charles-marcus-center-for-quantum-devices-and-microsoft-quantum-lab-copenhagen) |  TBA  |
+| April 29 | [Charles Marcus](#charles-marcus-center-for-quantum-devices-and-microsoft-quantum-lab-copenhagen) |  Zero-field Topological Superconductivity in Ferromagnetic Hybrid Nanowires  |
 |  May 13  | Vidya Madhavan |  TBA  |
 
 ## Upcoming talks
