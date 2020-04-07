@@ -10,7 +10,8 @@ Virtual conferences
 - Are not constrained by budget or travel limitations
 - Transform how researchers interact
 
-[Learn more](#welcome) [Long Range colloquium](long_range_colloquium.md)
+[Join in](#welcome)
+[Long Range colloquium](/long_range_colloquium.md)
 
 <!-- background image -->
 
