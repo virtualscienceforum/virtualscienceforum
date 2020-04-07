@@ -1,23 +1,23 @@
 # Long Range Colloquium
 
-We provide a venue for talks about latest developments in the fields of condensed matter and quantum information.
+We provide a venue for seminars about latest developments in condensed matter physics and quantum information.
 
 The colloquium runs every other Wednesday at 1:30 PM EST (19:00 CET), starting April 15.
-The attendance is open to everyone, but please [register](https://forms.gle/W1SBnMbD8ypbXrPZ7)!
+Attendance is open to everyone, but please [register](https://forms.gle/W1SBnMbD8ypbXrPZ7)!
 
 ## Program
 
 |   Date   |     Speaker    | Title |
-|:--------:|:--------------:|:-----:|
-| April 15 | [Liang Fu](#liang-fu-mit) | Charge Transfer Excitations, Pair Density Waves, and Superconductivity in Moiré Materials |
-| April 29 | [Charles Marcus](#charles-marcus-center-for-quantum-devices-and-microsoft-quantum-lab-copenhagen) |  Zero-field Topological Superconductivity in Ferromagnetic Hybrid Nanowires  |
+|:---------:|:--------------:|:-----:|
+| April 15  | [Liang Fu](#liang-fu-mit) | Charge Transfer Excitations, Pair Density Waves, and Superconductivity in Moiré Materials |
+| April 29  | [Charles Marcus](#charles-marcus-center-for-quantum-devices-and-microsoft-quantum-lab-copenhagen) |  Zero-field Topological Superconductivity in Ferromagnetic Hybrid Nanowires  |
 |  May 13  | Vidya Madhavan |  TBA  |
 
 ## Upcoming talks
 
 ### Liang Fu, MIT
 
-Date: 15 April 2020
+15 April 2020, 1:30 PM EST (19:00 CET)
 
 Register [here](https://forms.gle/W1SBnMbD8ypbXrPZ7).
 
@@ -27,7 +27,7 @@ Transition metal dichalcogenide heterobilayers are a new class of tunable Moiré
 
 ### Charles Marcus, Center for Quantum Devices and Microsoft Quantum Lab, Copenhagen
 
-Date: 29 April 2020
+29 April 2020, 1:30 PM EST (19:00 CET)
 
 #### Zero-field Topological Superconductivity in Ferromagnetic Hybrid Nanowires
 
