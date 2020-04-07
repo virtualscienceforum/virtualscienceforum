@@ -11,6 +11,7 @@ Virtual conferences
 - Transform how researchers interact
 
 [Join in](#welcome)
+[Long Range colloquium](/long_range_colloquium.md)
 
 <!-- background image -->
 
