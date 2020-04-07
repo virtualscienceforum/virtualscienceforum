@@ -3,7 +3,7 @@
 We provide a venue for talks about latest developments in the fields of condensed matter and quantum information.
 
 The colloquium runs Wednesday every other week at 1:30 PM EST (19:00 CET), starting April 15.
-The attendance is open to everyone, but please register!
+The attendance is open to everyone, but please [register](https://forms.gle/W1SBnMbD8ypbXrPZ7)!
 
 ## Program
 
@@ -18,6 +18,8 @@ The attendance is open to everyone, but please register!
 ### Liang Fu, MIT
 
 Date: 15 April 2020
+
+Register [here](https://forms.gle/W1SBnMbD8ypbXrPZ7).
 
 #### Charge Transfer Excitations, Pair Density Waves, and Superconductivity in Moiré Materials
 
