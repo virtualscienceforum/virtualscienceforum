@@ -2,7 +2,7 @@
 
 We provide a venue for seminars about latest developments in condensed matter physics and quantum information.
 
-The colloquium runs every other Wednesday at 1:30 PM EST (19:00 CET), starting April 15.
+The colloquium runs every other Wednesday at 1:30 PM ET (19:30 CEST), starting April 15.
 Attendance is open to everyone, but please [register](https://forms.gle/W1SBnMbD8ypbXrPZ7)!
 
 ## Program
@@ -17,7 +17,7 @@ Attendance is open to everyone, but please [register](https://forms.gle/W1SBnMbD
 
 ### Liang Fu, MIT
 
-15 April 2020, 1:30 PM EST (19:00 CET)
+15 April 2020, 1:30 PM ET (19:30 CEST)
 
 Register [here](https://forms.gle/W1SBnMbD8ypbXrPZ7).
 
@@ -27,7 +27,7 @@ Transition metal dichalcogenide heterobilayers are a new class of tunable Moiré
 
 ### Charles Marcus, Center for Quantum Devices and Microsoft Quantum Lab, Copenhagen
 
-29 April 2020, 1:30 PM EST (19:00 CET)
+29 April 2020, 1:30 PM ET (19:30 CEST)
 
 #### Zero-field Topological Superconductivity in Ferromagnetic Hybrid Nanowires
 
