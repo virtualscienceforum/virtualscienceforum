@@ -39,7 +39,7 @@ We report transport measurements and tunneling spectroscopy in hybrid nanowires 
 
 Date: 13 May 2020
 
-### Nicola Spaldin, ETH Zurich
+### Nicola Spaldin, ETH Zürich
 
 Date: 27 May 2020
 
