@@ -3,7 +3,7 @@
 We provide a venue for seminars about latest developments in condensed matter physics and quantum information.
 
 The colloquium runs every other Wednesday at 1:30 PM ET (19:30 CEST), starting April 15.
-Attendance is open to everyone, but please [register](https://forms.gle/W1SBnMbD8ypbXrPZ7)!
+Attendance is open to everyone, but please [register](https://forms.gle/W1SBnMbD8ypbXrPZ7) to attend!
 
 ## Program
 
