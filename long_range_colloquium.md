@@ -12,6 +12,8 @@ Attendance is open to everyone, but please [register](https://forms.gle/W1SBnMbD
 | April 15  | [Liang Fu](#liang-fu-mit) | Charge Transfer Excitations, Pair Density Waves, and Superconductivity in Moiré Materials |
 | April 29  | [Charles Marcus](#charles-marcus-center-for-quantum-devices-and-microsoft-quantum-lab-copenhagen) |  Zero-field Topological Superconductivity in Ferromagnetic Hybrid Nanowires  |
 |  May 13  | Vidya Madhavan |  TBA  |
+|  May 27  | Nicola Spaldin |  TBA  |
+|  June 24  | Ali Yazdani |  TBA  |
 
 ## Upcoming talks
 
@@ -36,3 +38,11 @@ We report transport measurements and tunneling spectroscopy in hybrid nanowires 
 ### Vidya Madhavan, University of Illinois
 
 Date: 13 May 2020
+
+### Nicola Spaldin, ETH Zurich
+
+Date: 27 May 2020
+
+### Ali Yazdani, Princeton University
+
+Date: 24 June 2020
