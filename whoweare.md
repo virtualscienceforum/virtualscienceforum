@@ -11,6 +11,6 @@ Virtual Science Forum is a collaborative effort of the research community. Below
 * Akashdeep Kamra, NTNU Trondheim
 * Maciej Malinowski, ETH Zürich
 * Evert van Nieuwenburg, Niels Bohr Institute
-* Giulia Pacchioni, Nature Publishing Group
+* Giulia Pacchioni, Springer Nature
 * Babak Seradjeh, Indiana University
 * Daniel Varjas, TU Delft
