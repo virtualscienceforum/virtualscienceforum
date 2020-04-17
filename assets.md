@@ -3,6 +3,7 @@
 Add resources as necessary, ask the admin to get access.
 
 * This [github org](https://github.com/virtualscienceforum). Admin: Evert
+* Gitter https://gitter.im/virtualscienceforum/virtualscienceforum . Admin: Anton
 * Domain name virtualscienceforum.org managed by namecheap. Admin: Anton
 * https://twitter.com/virtualsciforum. Admin: Eliska
 * mailgun. Admin: Anton
