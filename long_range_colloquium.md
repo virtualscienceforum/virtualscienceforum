@@ -3,7 +3,7 @@
 We provide a venue for seminars about latest developments in condensed matter physics and quantum information.
 
 The colloquium runs every other Wednesday at 1:30 PM ET (19:30 CEST), starting April 15.
-Attendance is open to everyone, but please register to attend!
+Attendance is open to everyone, but please [register](#charles-marcus-center-for-quantum-devices-and-microsoft-quantum-lab-copenhagen) to attend!
 
 ## Program
 
