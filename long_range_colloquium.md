@@ -13,6 +13,7 @@ Attendance is open to everyone, but please [register](#charles-marcus-center-for
 | April 29  | [Charles Marcus](#charles-marcus-center-for-quantum-devices-and-microsoft-quantum-lab-copenhagen) |  Zero-field Topological Superconductivity in Ferromagnetic Hybrid Nanowires  |
 |  May 13  | Vidya Madhavan |  TBA  |
 |  May 27  | Nicola Spaldin |  From Materials to Cosmology: Studying the early universe under the microscope  |
+|  June 10 | Klaus Mølmer |  TBA  |
 |  June 24  | Ali Yazdani |  TBA  |
 
 ## Upcoming talks
