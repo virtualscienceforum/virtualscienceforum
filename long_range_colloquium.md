@@ -18,16 +18,6 @@ Attendance is open to everyone, but please [register](#charles-marcus-center-for
 
 ## Upcoming talks
 
-### Charles Marcus, Center for Quantum Devices and Microsoft Quantum Lab, Copenhagen
-
-29 April 2020, 1:30 PM ET (19:30 CEST)
-
-#### Zero-field Topological Superconductivity in Ferromagnetic Hybrid Nanowires
-
-We report transport measurements and tunneling spectroscopy in hybrid nanowires with epitaxial layers of superconducting Al and the ferromagnetic insulator EuS, grown on semiconducting InAs nanowires. In devices where the Al and EuS covered facets overlap, we infer a remanent effective Zeeman field of order 1 T, and observe stable zero-bias conductance peaks in tunneling spectroscopy into the end of the nanowire, consistent with topological superconductivity at zero applied field. Hysteretic features in critical current and tunneling spectra as a function of applied magnetic field support this picture. Nanowires with non-overlapping Al and EuS covered facets do not show comparable features. Topological superconductivity in zero applied field allows new device geometries and types of control.
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScasQhYPNbgl0UvKyOW0Y78GAON_uXJ8yTZyv0PzWK2y_U3Eg/viewform?embedded=true" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
 ### Vidya Madhavan, Department of Physics and Materials Research Laboratory, University of Illinois Urbana-Champaign
 
 Date: 13 May 2020
@@ -65,3 +55,9 @@ Date: 24 June 2020
 Title: **Charge Transfer Excitations, Pair Density Waves, and Superconductivity in Moiré Materials**
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PYYgBBIerYQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Charles Marcus, Center for Quantum Devices and Microsoft Quantum Lab, Copenhagen
+
+Title: **Zero-field Topological Superconductivity in Ferromagnetic Hybrid Nanowires**
+
+*Video in preparation*
