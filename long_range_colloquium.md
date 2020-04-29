@@ -58,6 +58,6 @@ Title: **Charge Transfer Excitations, Pair Density Waves, and Superconductivity 
 
 ### Charles Marcus, Center for Quantum Devices and Microsoft Quantum Lab, Copenhagen
 
-29 April 2020, 1:30 PM ET (19:30 CEST)
-
 Title: **Zero-field Topological Superconductivity in Ferromagnetic Hybrid Nanowires**
+
+*Video in preparation*
