@@ -12,7 +12,7 @@ Attendance is open to everyone, but please [register](#charles-marcus-center-for
 | April 15  | [Liang Fu](#liang-fu-mit) | Charge Transfer Excitations, Pair Density Waves, and Superconductivity in Moiré Materials |
 | April 29  | [Charles Marcus](#charles-marcus-center-for-quantum-devices-and-microsoft-quantum-lab-copenhagen) |  Zero-field Topological Superconductivity in Ferromagnetic Hybrid Nanowires  |
 |  May 13  | [Vidya Madhavan](#vidya-madhavan-department-of-physics-and-materials-research-laboratory-university-of-illinois-urbana-champaign) |  Microscopic evidence for a chiral superconducting order parameter in the heavy fermion superconductor $\textrm{UTe}_2$  |
-|  May 27  | Nicola Spaldin |  From Materials to Cosmology: Studying the early universe under the microscope  |
+|  May 27  | [Nicola Spaldin](#nicola-spaldin-eth-zürich) |  From Materials to Cosmology: Studying the early universe under the microscope  |
 |  June 10 | [Klaus Mølmer](#klaus-mølmer-aarhus-university) |  Quantum interactions with pulses of radiation  |
 |  June 24  | Ali Yazdani |  TBA  |
 
