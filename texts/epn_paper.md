@@ -19,6 +19,10 @@ As we started to organize ourselves, it became clear quickly that in order to ac
 
 #### We ran a couple of events, and saw that they work well.
 
+We created toolkits and developed strategies and guidelines to navigate these challenges. And we got to work to organize online events, starting with a beta test workshop in December 2019. We learned in real time about challenges of coordinating live questions, addressing technial glitches, and giving feedback to the audience and the speaker. More importantly, we were impressed by the quality of the event and the possiblity of createive ways of engagement in an online event. For example, "watching parties" with a number of people attending as a group was effective in producing local discussions that were then shared online. And one of our speakers guided the audience through the technical parts of their talk using live code.
+
+With this experience, we were ready to hit the ground and help organize our inaugural event when the APS March Meeting was cancelled in March 2020. We are now organizing the biweekly VSF Long Range Colloquium series. And we are excited to have our first conference application already. //need a bit more meat here// This experience shows, looked through fresh eyes, online conferences can work well to bring resesrchers together to commnuicate their work effectively.
+
 #### We are confident that we will see an explosive growdth of online events.
 
 #### Because of how easy it is, many are working towards this goal.
