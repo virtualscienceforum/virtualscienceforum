@@ -10,7 +10,8 @@ Your routine changed drastically over the course of the last couple of months du
 #### We decided to develop online conferences and established VSF.
 
 #### In thinking about online events we had to revisit many assumptions about conferences.
-> Some typical challenges (speaker audience interaction), coffee break anyone?
+
+As we started to organize ourselves, it became clear quickly that in order to achieve our goals, we needed to revisit our assumptions about online events. For example, the interactions between the speaker and the audience as well as among the aduence are quite different and much less spontaneous in an online event. The coffee break, such a natural part of in-person conferences, does not function effectively in an online event to spark discussions. Likewise, the length of an online event is constraint by very different factors, such as the spread of timezones and local commitments and distractions of the participants.
 
 #### We ran a couple of events, and saw that they work well.
 
