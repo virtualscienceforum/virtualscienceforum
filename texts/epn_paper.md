@@ -5,7 +5,11 @@
 Your routine changed drastically over the course of the last couple of months due to the lockdowns. You now mostly stay at home—hopefully safe and healthy. Your classes are now online, and probably you had to quickly figure out how run them at all. If you do experiments, your lab is either closed or operates at a much lower capacity. Your travel plans are cancelled. Still, despite that, you have likely attended a scientific presentation or even gave one yourself. The only difference is that it happened online.
 
 #### Online talks were gaining momentum already before, and for a good reason.
-> List some of those reasons
+Online events were gaining momentum even before the crisis hit.
+There are several advantages of virtual conferences over conventional, in-person gatherings.
+With the increasing concerns about greenhouse emissions, many prefer limiting long-distance travel.
+For those with limited mobility, either for family or health reasons, they are much easier to attend.
+Most of the expensive and time-consuming aspects of conference organisation, such as finding a venue, lodging and catering for the participants are gone, allowing faster turnaround in disseminating new results.
 
 #### We decided to develop online conferences and established VSF.
 
