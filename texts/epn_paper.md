@@ -23,7 +23,9 @@ We created toolkits and developed strategies and guidelines to navigate these ch
 
 With this experience, we were ready to hit the ground and help organize our inaugural event when the APS March Meeting was cancelled in March 2020. We are now organizing the biweekly VSF Long Range Colloquium series. And we are excited to have our first conference application already. //need a bit more meat here// This experience shows, looked through fresh eyes, online conferences can work well to bring resesrchers together to commnuicate their work effectively.
 
+
 #### We are confident that we will see an explosive growdth of online events.
+
 
 #### Because of how easy it is, many are working towards this goal.
 
