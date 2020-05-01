@@ -12,6 +12,10 @@ For those with limited mobility, either for family or health reasons, they are m
 Most of the expensive and time-consuming aspects of conference organisation, such as finding a venue, lodging and catering for the participants are gone, allowing faster turnaround in disseminating new results.
 
 #### We decided to develop online conferences and established VSF.
+These issues weighed on all of us, but few outlets existed to releive them. 
+After finding each other as like-minded individuals with an urge to make a difference, we started gathering in the late summer of 2019 to explore our options. 
+It quickly became clear that we had the capacity to establish a venue for virtual conferencing. 
+So, we committed ourselves to develop this idea into a real platform, which we now call the Virtual Science Forum.
 
 #### In thinking about online events we had to revisit many assumptions about conferences.
 
