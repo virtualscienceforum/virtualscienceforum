@@ -24,7 +24,9 @@ They are also more inclusive and reach a broader audience especially if the talk
 
 <!-- #### We decided to develop online conferences and established VSF. -->
 
-After finding each other as like-minded individuals with an urge to improve the present situation, we started gathering in the late summer of 2019 to explore our options. 
+The idea of organizing virtual conferences brought us together—a group of geographically and academically diverse physics researhers.
+We started exploring the opportunities and challenges of online conferences in late Summer 2019—well before the COVID pandemic.
+We decided to keep our organization open for anyone to join, and all of our documentation and notes public from the very beginning, with the thought that these should benefit anyone trying to work towards the same goal.
 It quickly became clear that we had the capacity to establish a venue for virtual conferencing. 
 So, we committed ourselves to develop this idea into a real platform, which we now call the Virtual Science Forum.
 
