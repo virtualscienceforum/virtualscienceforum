@@ -2,7 +2,8 @@
 
 <!-- #### COVID lockdown disrupted everyone's work, travel, and likely mean that you attended an online talk. -->
 
-Your routine changed drastically over the course of the last couple of months due to the lockdowns. You now mostly stay at home, hopefully safe and healthy.
+Your routine changed drastically over the course of the last couple of months due to the lockdowns following the novel coronavirus outbreak.
+You now mostly stay at home, hopefully safe and healthy.
 Your classes are now online, and probably you had to quickly figure out how run them at all.
 If you do experiments, your lab is either closed or operates at a much lower capacity.
 Your travel plans are cancelled. Still, despite that, you have likely attended a scientific presentation or even gave one yourself.
