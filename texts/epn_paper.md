@@ -37,6 +37,7 @@ Organization of different types of event has shown us that online conferences, w
 Our effort is not the first and now by far not the only one.
 On the contrary, we see online colloquia and seminars organized by probably a large fraction of all departments and research institutes.
 Virtual workshops and conferences follow suit, despite being rarer due to requiring more coordination and planning.
-We also expect appearance of more organizations like https://mathseminars.org/ that distribute announcements about different events, in order to help navigate the rapidly growing amount of online events.
+We also expect appearance of more organizations like https://researchseminars.org/ that distribute announcements about different events, in order to help navigate the rapidly growing amount of online events.
 
 #### You should definitely get involved in the online events, and we are here to help.
+
