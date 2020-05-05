@@ -36,8 +36,14 @@ Organization of different types of event has shown us that online conferences, w
 
 Our effort is not the first and now by far not the only one.
 On the contrary, we see online colloquia and seminars organized by probably a large fraction of all departments and research institutes.
-Virtual workshops and conferences follow suit, despite being rarer due to requiring more coordination and planning.
+Virtual workshops and conferences follow suit, although being rarer due to requiring more coordination and planning.
 We also expect appearance of more organizations like https://researchseminars.org/ that distribute announcements about different events, in order to help navigate the rapidly growing amount of online events.
 
 #### You should definitely get involved in the online events, and we are here to help.
 
+The domain of online conferencing is emerging *right now* because online events have no alternatives until the pandemic is over, lockdowns stop, and the travel is restored.
+Despite our hand being forced now, we hope that the research community will grow accustomed to this long overdue change and will value virtual conferences for the added value they bring.
+This is why we conclude with a call to action: give virtual conferences a shot!
+Start with attending the events you like: it has never been easier and you will likely find time even despite a crowded schedule.
+Or perhaps you have an idea of a good event to run?
+In that case, now is your chance: go for it, and know that we are here to help!
