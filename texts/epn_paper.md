@@ -13,14 +13,13 @@ With all these obstacles out of the way, virtual conferences can be organized mu
 They are much more inclusive and have a potential to reach a much broader audience.
 
 #### We decided to develop online conferences and established VSF.
-These issues weighed on all of us, but few outlets existed to relieve them. 
-After finding each other as like-minded individuals with an urge to make a difference, we started gathering in the late summer of 2019 to explore our options. 
+After finding each other as like-minded individuals with an urge to improve the present situation, we started gathering in the late summer of 2019 to explore our options. 
 It quickly became clear that we had the capacity to establish a venue for virtual conferencing. 
 So, we committed ourselves to develop this idea into a real platform, which we now call the Virtual Science Forum.
 
 #### In thinking about online events we had to revisit many assumptions about conferences.
 
-As we started to organize ourselves, it became clear quickly that in order to achieve our goals, we needed to revisit our assumptions about online events. For example, the interactions between the speaker and the audience as well as among the audience themselves in an online event are quite different and much less spontaneous. The coffee break, such a natural part of in-person conferences, does not function effectively in an online event to spark discussions. Likewise, the length of an online event is constraint by very different factors, such as the spread of timezones and local commitments and distractions of the participants.
+As we started to organize ourselves, it became clear quickly that in order to achieve our goals, we needed to revisit our assumptions about online events. For example, the interactions between the speaker and the audience as well as among the audience themselves in an online event are quite different and much less spontaneous. The coffee break, such a natural part of in-person conferences, does not function effectively in an online event to spark discussions. Likewise, the length of an online event is constrained by very different factors, such as the spread of timezones and local commitments and distractions of the participants.
 
 #### We ran a couple of events, and saw that they work well.
 
@@ -34,8 +33,8 @@ Organization of different types of event has shown us that online conferences, w
 
 #### Because of how easy it is, many are working towards this goal.
 
-Our effort is not the first and now by far not the only one.
-On the contrary, we see online colloquia and seminars organized by probably a large fraction of all departments and research institutes.
+Our effort towards online conferences is not the first and now by far not the only one.
+We see online colloquia and seminars organized by many science departments and research institutes.
 Virtual workshops and conferences follow suit, although being rarer due to requiring more coordination and planning.
 We also expect appearance of more organizations like https://researchseminars.org/ that distribute announcements about different events, in order to help navigate the rapidly growing amount of online events.
 
