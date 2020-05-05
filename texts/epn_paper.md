@@ -17,6 +17,10 @@ Finally, most of the expensive and time-consuming aspects of conference organisa
 With all these obstacles out of the way, virtual conferences can be organized much faster and respond to the latest developments.
 They are also more inclusive and reach a broader audience especially if the talks are recorded.
 
+![](planning_checklist.png)
+
+**Figure caption:** A conference organizer checklist.
+
 <!-- #### We decided to develop online conferences and established VSF. -->
 
 After finding each other as like-minded individuals with an urge to improve the present situation, we started gathering in the late summer of 2019 to explore our options. 
