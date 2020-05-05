@@ -26,14 +26,17 @@ As we started to organize ourselves, it became clear quickly that in order to ac
 
 We created toolkits and developed strategies and guidelines to navigate these challenges. And we got to work to organize online events, starting with a beta test workshop in December 2019. We learned in real time about challenges of coordinating live questions, addressing technical glitches, and giving feedback to the audience and the speaker. More importantly, however, we were impressed by the quality of the event and the possibility of creative ways of engagement in an online event. For example, "watching parties" with a number of people attending as a group was effective in producing local discussions that were then shared online. And one of our speakers guided the audience through the technical parts of their talk using live code.
 
-With this groundwork in place, we were ready to hit the ground running and help organize our [inaugural event](https://www.youtube.com/playlist?list=PLqJ4D_Db7W_p4VRe9MEwCkYyNUC8rEKkG) when the APS March Meeting was cancelled in March 2020 due to the pandemic. We are now organizing the biweekly [VSF Long Range Colloquium](https://www.youtube.com/playlist?list=PLqJ4D_Db7W_p5KNu8yDhoGyY36g75z3p2) series. We are also excited to have our first conference application already, and look forward to engaging more community initiatives to use our platform. Our experience shows that, with a fresh perspective, online conferences can work well to bring researchers together and communicate their work effectively.
-
+With this groundwork in place, we were ready to hit the ground running and organized an inaugural event when the APS March Meeting was cancelled in March 2020 due to the pandemic. We are now organizing the biweekly VSF Long Range Colloquium series. We are also excited to have our first conference application already, and look forward to engaging more community initiatives to use our platform. Our experience shows that, with a fresh perspective, online conferences can work well to bring researchers together and communicate their work effectively.
 
 #### We are confident that we will see an explosive growth of online events.
 
 Organization of different types of event has shown us that online conferences, workshops and colloquia provide stimulating environment for a worthwhile scientific event filled with interesting talks and fruitful discussion. Combined with the broad and easy accessibility, improved software options and overall emphasis on lowering the carbon emissions we can only expect further growth of online events. While the recent public health situation has pushed us toward creating new avenues to establish effective online communications, the advantages and engagement we are seeing go well beyond the crisis situations. Broad adoption of online events will lead to increased interconnectedness and accessibility of science in general.
 
-
 #### Because of how easy it is, many are working towards this goal.
+
+Our effort is not the first and now by far not the only one.
+On the contrary, we see online colloquia and seminars organized by probably a large fraction of all departments and research institutes.
+Virtual workshops and conferences follow suit, despite being rarer due to requiring more coordination and planning.
+We also expect appearance of more organizations like https://mathseminars.org/ that distribute announcements about different events, in order to help navigate the rapidly growing amount of online events.
 
 #### You should definitely get involved in the online events, and we are here to help.
