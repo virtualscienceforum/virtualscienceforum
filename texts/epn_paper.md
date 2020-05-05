@@ -7,7 +7,7 @@ You now mostly stay at home, hopefully safe and healthy.
 Your classes are now taught online, and you probably had to quickly figure out how to run them at all.
 If you do experiments, your lab is either closed or operates at a much lower capacity.
 Your travel plans are cancelled. Still, despite all this, you have likely attended a scientific presentation or even gave one yourself.
-The only difference is that it happened online.
+The only difference is that it happened online, perhaps as part of a virtual conference.
 
 <!-- #### Online talks were gaining momentum already before, and for a good reason. -->
 
