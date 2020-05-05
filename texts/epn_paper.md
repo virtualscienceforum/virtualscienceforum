@@ -24,37 +24,37 @@ They are also more inclusive and reach a broader audience especially if the talk
 
 <!-- #### We decided to develop online conferences and established VSF. -->
 
-The idea of organizing virtual conferences brought us together—a group of geographically and academically diverse physics researhers.
-We started exploring the opportunities and challenges of online conferences in late Summer 2019—well before the COVID pandemic.
+The idea of organizing virtual conferences brought us together—a group of geographically and academically diverse physics researchers.
+We started exploring the opportunities and challenges of online conferences in late Summer 2019—well before the COVID-19 pandemic.
 We decided to keep our organization open for anyone to join, and all of our documentation and notes were public from the very beginning, with the thought that these should benefit anyone trying to work towards the same goal.
 It quickly became clear that we had the capacity to establish a venue for virtual conferencing. 
-So, we committed ourselves to developing this idea into a real platform, which we now call the Virtual Science Forum.
+So, we committed ourselves to developing this idea into a real platform, which we now call the [Virtual Science Forum](https://virtualscienceforum.org).
 
 <!-- #### In thinking about online events we had to revisit many assumptions about conferences. -->
 
-As we started to organize ourselves, we realized right away that in order to achieve our goals, we needed to revisit our assumptions about online events.
+As we started to organize ourselves, we realized right away that in order to achieve our goals, we needed to revisit our assumptions about conferences.
 For example, the interactions between the speaker and the audience as well as among the audience themselves in an online event are quite different and much less spontaneous.
 The coffee break, such a natural part of in-person conferences, does not function effectively in an online event to spark discussions.
-Likewise, the length of an online event is constrained by very different factors, such as the spread of timezones and local commitments and distractions of the participants.
+Likewise, the length of an online event is constrained by very different factors, such as the spread of timezones, local commitments and distractions of the participants.
 
 <!-- #### We ran a couple of events, and saw that they work well. -->
 
 We created toolkits and developed strategies and guidelines to navigate these challenges.
 And we got to work to organize online events, starting with a beta test workshop in December 2019.
 We learned in real time about challenges of coordinating live questions, addressing technical glitches, and giving feedback to the audience and the speaker.
-More importantly, however, we were impressed by the quality of the event and the possibility of creative ways of engagement in an online event.
-For example, "watching parties" with a number of people attending as a group was effective in producing local discussions that were then shared online. And one of our speakers guided the audience through the technical parts of their talk using live code.
+More importantly, however, we were impressed by the quality of the event and the possibility of creative ways of engagement in an online setting.
+For example, "watching parties" with a number of participants attending as a group was effective in producing local discussions that were then shared online. And one of our speakers guided the audience through the technical parts of their talk using live code.
 
-With this groundwork in place, we were ready to hit the ground running and organized an inaugural event when the APS March Meeting was cancelled in March 2020 due to the pandemic.
+With this foundation in place, we were ready to hit the ground running and organized an inaugural event when the APS March Meeting was cancelled in March 2020 due to the pandemic.
 We are now organizing the biweekly VSF Long Range Colloquium series.
-We are also excited to have our first conference application already, and look forward to engaging more community initiatives to use our platform.
+We are also excited to have our first conference application already, and look forward to engaging more community initiatives with our platform.
 Our experience shows that, with a fresh perspective, online conferences can work well to bring researchers together and communicate their work effectively.
 
 <!-- #### We are confident that we will see an explosive growth of online events. -->
 
-Organizing different types of events has shown us that online conferences, workshops and colloquia provide stimulating environments for a worthwhile scientific event filled with interesting talks and fruitful discussions.
+Our experience with organizing different types of events, such as online conferences and colloquia, has shown that they provide stimulating environments filled with interesting talks and fruitful discussions.
 Adding their broad and easy accessibility, improved software options and overall emphasis on lowering carbon emissions, we can only expect further growth of online events.
-While the recent public health situation has pushed us toward creating new avenues to establish effective online communications, the advantages and engagement we are seeing go well beyond the crisis situations.
+While the recent public health situation has pushed us toward creating new avenues to establish effective online communications, the advantages and engagement we are seeing go well beyond the crisis situation.
 Broad adoption of online events will lead to increased interconnectedness and accessibility of science in general.
 
 <!-- #### Because of how easy it is, many are working towards this goal. -->
@@ -62,7 +62,7 @@ Broad adoption of online events will lead to increased interconnectedness and ac
 Our effort towards online conferences is not the first and now by far not the only one.
 Online colloquia and seminars are organized by many science departments and research institutes.
 Virtual workshops and conferences are also on the rise, although at a lower rate due to requiring more coordination and planning.
-We also expect to see more organizations like https://researchseminars.org/ that distribute announcements about different events, in order to help navigate the rapidly growing volume of online events.
+We also expect to see more organizations like [researchseminars.org](https://researchseminars.org) that distribute announcements in order to help navigate the rapidly growing volume of online events.
 
 <!-- #### You should definitely get involved in the online events, and we are here to help. -->
 
