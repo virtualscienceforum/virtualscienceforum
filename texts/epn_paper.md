@@ -8,9 +8,9 @@ Your routine changed drastically over the course of the last couple of months du
 Virtual conferences were gaining momentum even before the coronavirus crisis due to multiple advantages over traditional in-person gatherings.
 With the increasing concerns about greenhouse emissions, many prefer to limit their long-distance travel.
 To some community members with limited mobility, either for family, health, or budget reasons, traditional conferences are off limits altogether.
-Finally, most of the expensive and time-consuming aspects of conference organisation, such as finding a venue, lodging and catering for the participants are gone, allowing faster turnaround in disseminating new results.
+Finally, most of the expensive and time-consuming aspects of conference organisation, such as finding a venue, lodging and catering for the participants are gone entirely.
 With all these obstacles out of the way, virtual conferences can be organized much faster and respond to the latest developments.
-They are much more inclusive and have a potential to reach a much broader audience.
+They are also more inclusive and reach a broader audience especially if the talks are recorded.
 
 #### We decided to develop online conferences and established VSF.
 After finding each other as like-minded individuals with an urge to improve the present situation, we started gathering in the late summer of 2019 to explore our options. 
