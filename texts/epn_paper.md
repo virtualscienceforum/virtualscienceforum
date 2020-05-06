@@ -42,7 +42,8 @@ We created toolkits and developed strategies and guidelines to navigate these ch
 Once we felt sufficiently confident, we ran an trial workshop with our direct colleagues as both speakers and the audience.
 We learned in real time about challenges of coordinating live questions, addressing technical glitches, and giving feedback to the audience and the speaker.
 More importantly, however, we were impressed by the quality of the event and the possibility of creative ways of engagement in an online setting.
-For example, "watching parties" with a number of participants attending as a group was effective in producing local discussions that were then shared online. And one of our speakers guided the audience through the technical parts of their talk using live code.
+Some of our attendees planned their own "watching parties" with a number of participants viewing as a group that pre-discussed their questions and afterwards shared them with the speaker.
+Overall we received overwhelmingly positive feedback from all participants.
 
 With this experience, we were ready to hit the ground running and managed to organize a virtual session within only a few days after the APS March Meeting was cancelled.
 We are now organizing the biweekly VSF Long Range Colloquium series.
