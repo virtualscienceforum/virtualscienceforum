@@ -35,7 +35,7 @@ Once we started brainstorming online events, we realized, that despite those are
 For example, the interactions between the speaker and the audience as well as among the audience themselves in an online event are quite different and much less spontaneous. 
 As a speaker, for example, gauging the audience's reaction is much harder due to the lack of visual and audio contact -- most participants will have their audio muted and their video turned off. 
 This in turn makes setting the atmosphere more difficult, not knowing whether potential jokes were a success or not.
-To alleviate some of these challenges and to act as a catalyst between the audience and the speaker, one or multiple moderators are designated to keep an eye out for questions and relay those to the speaker.
+To alleviate some of these challenges and to act as a catalyst between the audience and the speaker, one or multiple moderators are designated to keep an eye out for questions and comments and relay those to the speaker.
 The coffee break, such a natural part of in-person conferences, does not function effectively in an online event to spark discussions.
 Likewise, the length of an online event is constrained by very different factors, such as the spread of timezones, local commitments and distractions of the participants.
 
