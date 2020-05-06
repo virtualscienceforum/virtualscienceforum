@@ -31,7 +31,9 @@ After several discussions we committed to developing a community platform for on
 
 <!-- #### In thinking about online events we had to revisit many assumptions about conferences. -->
 
-Once we started brainstorming online events, we realized that some of our typical assumptions about conferences do not hold in a virtual format.
+Once we started brainstorming how to organize online events, we realized that a lot of usual assumptions about scientific meetings do not apply anymore.
+Already the sizes of the events are very different: while a typical workshop will have anywhere between 50 and 100 participants, an online conference session can easily attract more than 500 attendees.
+The duration of an online event is limited to a few hours because it needs to fit into the daily routines of participants spread across multiple hour zones, as opposed to the median duration of a conference being a full working week.
 For example, the interactions between the speaker and the audience as well as among the audience themselves are quite different and much less spontaneous. 
 As a speaker, the audience's reactions are more difficult to gauge due to the lack of visual and audio contact -- most participants will have their audio muted and their video turned off. 
 This in turn makes setting the atmosphere more difficult, not knowing whether potential jokes were a success or not.
