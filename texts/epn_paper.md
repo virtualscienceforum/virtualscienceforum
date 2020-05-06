@@ -62,7 +62,7 @@ Broad adoption of online events will lead to increased interconnectedness and ac
 
 <!-- #### Because of how easy it is, many are working towards this goal. -->
 
-Our effort towards online conferences is not the first and now by far not the only one.
+Our effort towards online conferences was not the first and is certainly no longer one of few.
 Online colloquia and seminars are organized by many science departments and research institutes.
 Virtual workshops and conferences are also on the rise, although at a lower rate due to requiring more coordination and planning.
 We also expect to see more organizations like [researchseminars.org](https://researchseminars.org) that distribute announcements in order to help navigate the rapidly growing volume of online events.
