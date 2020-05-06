@@ -40,8 +40,8 @@ Likewise, the length of an online event is constrained by very different factors
 
 We created toolkits and developed strategies and guidelines to navigate these challenges.
 Once we felt sufficiently confident, we ran an trial workshop with our direct colleagues as both speakers and the audience.
-We learned in real time about challenges of coordinating live questions, addressing technical glitches, and giving feedback to the audience and the speaker.
-More importantly, however, we were impressed by the quality of the event and the possibility of creative ways of engagement in an online setting.
+We used this test run to try out different formats of accommodating interaction between the audience and the speaker, check out unexpected technical problems, and collect the impressions from a broader group of colleagues.
+More importantly, however, we observed that videoconferencing has now matured to accommodate high quality live talks, where every viewer gets the front row experience.
 Some of our attendees planned their own "watching parties" with a number of participants viewing as a group that pre-discussed their questions and afterwards shared them with the speaker.
 Overall we received overwhelmingly positive feedback from all participants.
 
