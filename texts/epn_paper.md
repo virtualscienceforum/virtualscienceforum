@@ -45,7 +45,7 @@ We learned in real time about challenges of coordinating live questions, address
 More importantly, however, we were impressed by the quality of the event and the possibility of creative ways of engagement in an online setting.
 For example, "watching parties" with a number of participants attending as a group was effective in producing local discussions that were then shared online. And one of our speakers guided the audience through the technical parts of their talk using live code.
 
-With this foundation in place, we were ready to hit the ground running and organized an inaugural event when the APS March Meeting was cancelled in March 2020 due to the pandemic.
+With this experience, we were ready to hit the ground running and managed to organize a virtual session within only a few days after the APS March Meeting was cancelled.
 We are now organizing the biweekly VSF Long Range Colloquium series.
 We also actively welcome community initiatives for organizing virtual conferences using our platform, and are excited to already have the first of such conference applications in progress.
 Our experience shows that, with a fresh perspective, online conferences can work well to bring researchers together and communicate their work effectively.
