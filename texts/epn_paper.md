@@ -69,7 +69,7 @@ We also expect to see more organizations like [researchseminars.org](https://res
 
 <!-- #### You should definitely get involved in the online events, and we are here to help. -->
 
-The domain of online conferencing is emerging *right now* because there are no alternatives until the pandemic is over, lockdowns are lifted, and travel is restored.
+Online conferencing is emerging right now because there are no alternatives until the pandemic is over, lockdowns are lifted, and travel is restored.
 While our hands are forced now, we hope that the research community will grow accustomed to this long overdue change and will see the value of virtual conferences in their own right.
 This is why we conclude with a call to action: give virtual conferences a shot!
 Start with attending the events you like: it has never been easier.
