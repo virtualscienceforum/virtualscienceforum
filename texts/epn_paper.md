@@ -55,7 +55,8 @@ Our experience shows that, with a fresh perspective, online conferences can work
 
 <!-- #### We are confident that we will see an explosive growth of online events. -->
 
-Adding their broad and easy accessibility, improved software options and overall emphasis on lowering carbon emissions, we can only expect further growth of online events.
+With more and more people getting used to online meetings and seminars -- and with online conferencing software continually improving -- we expect and hope that online events keep growing. 
+Not because of our platform; but because they allow for broad, easy accessibility and because of their potential contribution to reducing carbon emission.
 While the recent public health situation has pushed us toward creating new avenues to establish effective online communications, the advantages and engagement we are seeing go well beyond the crisis situation.
 Broad adoption of online events will lead to increased interconnectedness and accessibility of science in general.
 
