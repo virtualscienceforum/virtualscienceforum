@@ -57,11 +57,6 @@ Our experience with organizing online conferences and colloquia has shown that t
 
 With more and more people getting used to online meetings and seminars -- and with online conferencing software continually improving -- we expect and hope that online events keep growing. 
 Not because of our platform; but because they allow for broad, easy accessibility and because of their potential contribution to reducing carbon emission.
-While the recent public health situation has pushed us toward creating new avenues to establish effective online communications, the advantages and engagement we are seeing go well beyond the crisis situation.
-Broad adoption of online events will lead to increased interconnectedness and accessibility of science in general.
-
-<!-- #### Because of how easy it is, many are working towards this goal. -->
-
 Our effort towards online conferences was not the first and is certainly no longer one of few.
 Online colloquia and seminars are organized by many science departments and research institutes.
 Virtual workshops and conferences are also on the rise, although at a lower rate due to requiring more coordination and planning.
