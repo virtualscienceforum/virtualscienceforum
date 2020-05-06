@@ -55,7 +55,6 @@ Our experience shows that, with a fresh perspective, online conferences can work
 
 <!-- #### We are confident that we will see an explosive growth of online events. -->
 
-Our experience with organizing different types of events, such as online conferences and colloquia, has shown that they provide stimulating environments filled with interesting talks and fruitful discussions.
 Adding their broad and easy accessibility, improved software options and overall emphasis on lowering carbon emissions, we can only expect further growth of online events.
 While the recent public health situation has pushed us toward creating new avenues to establish effective online communications, the advantages and engagement we are seeing go well beyond the crisis situation.
 Broad adoption of online events will lead to increased interconnectedness and accessibility of science in general.
