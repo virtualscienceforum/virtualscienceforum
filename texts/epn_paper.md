@@ -31,7 +31,7 @@ After several discussions we committed to developing a community platform for on
 
 <!-- #### In thinking about online events we had to revisit many assumptions about conferences. -->
 
-As we started to organize ourselves, we realized right away that in order to achieve our goals, we needed to revisit our assumptions about conferences.
+Once we started brainstorming online events, we realized, that despite those are similar to regular scientific meetings, a lot of our assumptions about conferences do not hold anymore.
 For example, the interactions between the speaker and the audience as well as among the audience themselves in an online event are quite different and much less spontaneous.
 The coffee break, such a natural part of in-person conferences, does not function effectively in an online event to spark discussions.
 Likewise, the length of an online event is constrained by very different factors, such as the spread of timezones, local commitments and distractions of the participants.
