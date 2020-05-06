@@ -27,7 +27,6 @@ They are also more inclusive and reach a broader audience especially if the talk
 The idea of organizing virtual conferences brought us together—a group of geographically and academically diverse physics researchers.
 We started exploring the opportunities and challenges of online conferences in late Summer 2019, well before the COVID-19 pandemic.
 We decided to keep our organization open for anyone to join, and all of our documentation and notes were public from the very beginning, with the thought that these should benefit anyone trying to work towards the same goal.
-It quickly became clear that we had the capacity to establish a venue for virtual conferencing. 
 After several discussions we committed to developing a community platform for online conferences, which we now call the [Virtual Science Forum](https://virtualscienceforum.org).
 
 <!-- #### In thinking about online events we had to revisit many assumptions about conferences. -->
