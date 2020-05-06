@@ -15,7 +15,7 @@ Virtual conferences were gaining momentum even before the coronavirus crisis due
 With the increasing concerns about greenhouse emissions, many prefer to limit their long-distance travel.
 For some community members with limited mobility, either for family, health, or budget reasons, traditional conferences are off limits altogether.
 Finally, most of the expensive and time-consuming aspects of conference organisation, such as finding a venue, lodging and catering for the participants are gone entirely.
-With all these obstacles out of the way, virtual conferences can be organized much faster and respond to the latest developments.
+With planning and logistics out of the way, virtual conferences can be organized much faster and respond to the latest developments.
 They are also more inclusive and reach a broader audience especially if the talks are recorded.
 
 ![](planning_checklist.png)
