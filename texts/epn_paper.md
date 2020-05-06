@@ -1,4 +1,4 @@
-# Let's talk online
+# Let's take this discussion online
 
 <!-- #### COVID lockdown disrupted everyone's work, travel, and likely mean that you attended an online talk. -->
 
