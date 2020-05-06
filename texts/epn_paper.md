@@ -39,7 +39,7 @@ Likewise, the length of an online event is constrained by very different factors
 <!-- #### We ran a couple of events, and saw that they work well. -->
 
 We created toolkits and developed strategies and guidelines to navigate these challenges.
-And we got to work to organize online events, starting with a beta test workshop in December 2019.
+Once we felt sufficiently confident, we ran an trial workshop with our direct colleagues as both speakers and the audience.
 We learned in real time about challenges of coordinating live questions, addressing technical glitches, and giving feedback to the audience and the speaker.
 More importantly, however, we were impressed by the quality of the event and the possibility of creative ways of engagement in an online setting.
 For example, "watching parties" with a number of participants attending as a group was effective in producing local discussions that were then shared online. And one of our speakers guided the audience through the technical parts of their talk using live code.
