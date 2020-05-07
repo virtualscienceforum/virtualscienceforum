@@ -9,6 +9,13 @@
 - Evert van Nieuwenburg (University of Copenhagen)
 - Babak Seradjeh (Indiana University)
 - Daniel Varjas (Delft University of Technology)
+
+## Introduction
+
+With the lockdowns caused by the COVID-19 pandemic researchers turn to online conferencing. While posing new challenges, this format also brings multiple advantages. We argue that virtual conferences will become a common way of scientific communication, and invite the community members to join the action.
+
+---
+
 <!-- #### COVID lockdown disrupted everyone's work, travel, and likely mean that you attended an online talk. -->
 
 Your routine has changed drastically over the course of the last couple of months due to the lockdowns following the novel coronavirus outbreak.
