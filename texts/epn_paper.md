@@ -69,7 +69,7 @@ Our experience with organizing online conferences and colloquia has shown that t
 
 <!-- #### We are confident that we will see an explosive growth of online events. -->
 
-With more and more people getting used to online meetings and seminars—and with online conferencing software continually improving—we expect that online events become commonplace. 
+With more and more people getting used to online meetings and seminars—and with online conferencing software continually improving—we expect that online scientific events will become commonplace. 
 Our effort towards online conferences was not the first and is certainly no longer one of few.
 Online colloquia and seminars are now organized by many science departments and research institutes.
 Virtual workshops and conferences are also on the rise.
