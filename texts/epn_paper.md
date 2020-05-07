@@ -47,7 +47,7 @@ The interactions during the session are also very different: the speaker cannot 
 Because mediating the interaction between the audience and the speaker becomes much more important, and because of the larger audience size, the moderators play a more important role in ensuring that everything goes smoothly.
 Finally, offline conferences allow ample time for informal discussion between the talks and during coffee breaks: this valuable aspect of scientific meetings needs to be accommodated separately.
 
-> A typical workshop will have anywhere between 50 and 100 participants, an online conference session can easily attract 500 attendees.
+> **A typical workshop will have anywhere between 50 and 100 participants, an online conference session can easily attract 500 attendees.**
 
 <!-- #### We ran a couple of events, and saw that they work well. -->
 
@@ -70,7 +70,7 @@ Emerging organizations like [researchseminars.org](https://researchseminars.org)
 
 <!-- #### You should definitely get involved in the online events, and we are here to help. -->
 
-> We conclude with a call to action: give virtual conferences a shot!
+> **We conclude with a call to action: give virtual conferences a shot!**
 
 Online conferencing is emerging right now because there are no alternatives until the pandemic is over, lockdowns are lifted, and travel is restored.
 While our hand is currently forced, we hope that the research community will grow accustomed to this long overdue change and will see the value of virtual conferences in their own right.
