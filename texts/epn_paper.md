@@ -52,8 +52,7 @@ Our experience with organizing online conferences and colloquia has shown that t
 
 <!-- #### We are confident that we will see an explosive growth of online events. -->
 
-With more and more people getting used to online meetings and seminars—and with online conferencing software continually improving—we expect and hope that online events become commonplace. 
-Not because of our platform; but because they allow for broad, easy accessibility and because of their potential contribution to reducing carbon emission.
+With more and more people getting used to online meetings and seminars—and with online conferencing software continually improving—we expect that online events become commonplace. 
 Our effort towards online conferences was not the first and is certainly no longer one of few.
 Online colloquia and seminars are now organized by many science departments and research institutes.
 Virtual workshops and conferences are also on the rise.
@@ -62,7 +61,7 @@ We also expect to see more organizations like [researchseminars.org](https://res
 <!-- #### You should definitely get involved in the online events, and we are here to help. -->
 
 Online conferencing is emerging right now because there are no alternatives until the pandemic is over, lockdowns are lifted, and travel is restored.
-While our hands are currently forced, we hope that the research community will grow accustomed to this long overdue change and will see the value of virtual conferences in their own right.
+While our hand is currently forced, we hope that the research community will grow accustomed to this long overdue change and will see the value of virtual conferences in their own right.
 This is why we conclude with a call to action: give virtual conferences a shot!
 Start with attending the events you like: it has never been easier.
 Or perhaps you have an idea for a good event to run?
