@@ -55,7 +55,7 @@ With more and more people getting used to online meetings and seminars—and wit
 Our effort towards online conferences was not the first and is certainly no longer one of few.
 Online colloquia and seminars are now organized by many science departments and research institutes.
 Virtual workshops and conferences are also on the rise.
-We also expect to see more organizations like [researchseminars.org](https://researchseminars.org) that distribute announcements in order to help navigate the rapidly growing volume of online events.
+Emerging organizations like [researchseminars.org](https://researchseminars.org) aggregate the information and distribute announcements in order to help navigate the rapidly growing volume of online events.
 
 <!-- #### You should definitely get involved in the online events, and we are here to help. -->
 
