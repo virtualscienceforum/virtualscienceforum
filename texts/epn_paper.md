@@ -36,7 +36,7 @@ Already the sizes of the events are very different: while a typical workshop wil
 The duration of an online event is limited to a few hours because it needs to fit into the daily routines of participants spread across multiple hour zones, as opposed to the median duration of a conference being a full working week.
 The interactions during the session are also very different: the speaker cannot see the audience and therefore gets very little immediate feedback due to being unable to gauge the audience's reactions.
 Because mediating the interaction between the audience and the speaker becomes much more important, and because the audience size becomes larger, the moderators start playing a more important role in ensuring that everything goes smoothly.
-Finally, offline conferences allow ample time for informal discussion between the talks and during coffee breaks: this valuable aspect of scientific meetings needs to be accommodated separately in the online setting.
+Finally, offline conferences allow ample time for informal discussion between the talks and during coffee breaks: this valuable aspect of scientific meetings needs to be accommodated separately.
 
 <!-- #### We ran a couple of events, and saw that they work well. -->
 
