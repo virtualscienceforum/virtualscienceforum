@@ -59,7 +59,7 @@ Finally, offline conferences allow ample time for informal discussion between th
 <!-- #### We ran a couple of events, and saw that they work well. -->
 
 To help the community members orient themselves in a new setting, we prepared basic guidelines for all online event participants: organizers, moderators, speakers, and audience members.
-Once we felt sufficiently confident, we ran an trial workshop with our direct colleagues as both speakers and the audience.
+Once we felt sufficiently confident, we ran a trial workshop with our direct colleagues as both speakers and the audience.
 We used this test run to try out different formats of interaction between the audience and the speaker, check out unexpected technical problems, and collect the impressions from a broader group of colleagues.
 More importantly, however, we observed that videoconferencing has now matured to accommodate high quality live talks, where every viewer gets the front row experience.
 With this experience we were ready to hit the ground running and managed to organize a virtual session only a few days after the cancellation of the APS March Meeting.
