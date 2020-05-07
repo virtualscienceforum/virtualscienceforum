@@ -50,7 +50,7 @@ After several discussions we committed to developing a community platform for on
 Once we started brainstorming how to organize online events, we realized that a lot of usual assumptions about scientific meetings do not apply anymore.
 Already the sizes of the events are very different: while a typical workshop will have anywhere between 50 and 100 participants, an online conference session can easily attract 500 attendees.
 The duration of an online event is limited to a few hours because it needs to fit into the daily routines of participants spread across multiple hour zones, as opposed to the median duration of a conference being a full working week.
-The interactions during the session are also very different: the speaker cannot see the audience and therefore gets very little immediate feedback due to being unable to gauge the audience's reactions.
+The interactions during the session are also very different: the speaker cannot see the audience and has no way of receiving immediate feedback.
 Because mediating the interaction between the audience and the speaker becomes much more important, and because of the larger audience size, the moderators play a more important role in ensuring that everything goes smoothly.
 Finally, offline conferences allow ample time for informal discussion between the talks and during coffee breaks: this valuable aspect of scientific meetings needs to be accommodated separately.
 
@@ -61,10 +61,10 @@ Finally, offline conferences allow ample time for informal discussion between th
 To help the community members orient themselves in a new setting, we prepared basic guidelines for all online event participants: organizers, moderators, speakers, and audience members.
 Once we felt sufficiently confident, we ran a trial workshop with our direct colleagues as both speakers and the audience.
 We used this test run to try out different formats of interaction between the audience and the speaker, resolve unexpected technical problems, and collect the impressions from a broader group of colleagues.
-More importantly, however, we observed that videoconferencing has now matured to accommodate high quality live talks, where every viewer gets the front row experience.
+To our delight, we found that videoconferencing has now matured to accommodate high quality live talks, where every viewer gets the front row experience.
 With this experience we were ready to hit the ground running. In fact, the cancellation of the APS March Meeting became a catalyst for our first virtual session, which we organized in just a few days.
 Now we are continuing to work in a steady pace: we improve the platform and organize a [biweekly colloquium series](https://virtualscienceforum.org/#/long_range_colloquium).
-We also actively invite community initiatives for organizing virtual conferences using our platform, and we are excited to already have the first of such conference applications in progress.
+We also actively invite community initiatives to [organize virtual conferences on our platform](https://virtualscienceforum.org/#/announcement), and we are excited to already have the first of such conference applications in progress.
 Our experience with organizing online conferences and colloquia has shown that they provide a stimulating environment and foster fruitful discussions.
 
 <!-- #### We are confident that we will see an explosive growth of online events. -->
@@ -72,7 +72,6 @@ Our experience with organizing online conferences and colloquia has shown that t
 With more and more people getting used to online meetings and seminars—and with online conferencing software continually improving—we expect that online scientific events will become commonplace. 
 Our effort towards online conferences was not the first and is certainly no longer one of few.
 Such events are now organized by many science departments and research institutes.
-Virtual workshops and conferences are also on the rise.
 Emerging organizations like [researchseminars.org](https://researchseminars.org) aggregate the information and distribute announcements in order to help navigate the rapidly growing volume of online events.
 
 <!-- #### You should definitely get involved in the online events, and we are here to help. -->
