@@ -46,7 +46,7 @@ We used this test run to try out different formats of interaction between the au
 More importantly, however, we observed that videoconferencing has now matured to accommodate high quality live talks, where every viewer gets the front row experience.
 With this experience we were ready to hit the ground running and managed to organize a virtual session only a few days after the cancellation of the APS March Meeting.
 Now we are continuing to work in a steady pace: we improve the platform and organize a biweekly colloquium series.
-We also actively welcome community initiatives for organizing virtual conferences using our platform, and we are excited to already have the first of such conference applications in progress.
+We also actively invite community initiatives for organizing virtual conferences using our platform, and we are excited to already have the first of such conference applications in progress.
 Our experience with organizing online conferences and colloquia has shown that they provide a stimulating environment and foster fruitful discussions.
 
 <!-- #### We are confident that we will see an explosive growth of online events. -->
