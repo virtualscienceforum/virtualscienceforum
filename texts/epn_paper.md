@@ -1,5 +1,14 @@
 # Let's take this discussion online
 
+## Authors (in alphabetical order)
+
+- Anton Akhmerov (Delft University of Technology)
+- Xavier Bonet-Monroig (Leiden University)
+- Valla Fatemi (Yale University)
+- Eliska Greplova (ETH Zürich)
+- Evert van Nieuwenburg (University of Copenhagen)
+- Babak Seradjeh (Indiana University)
+- Daniel Varjas (Delft University of Technology)
 <!-- #### COVID lockdown disrupted everyone's work, travel, and likely mean that you attended an online talk. -->
 
 Your routine has changed drastically over the course of the last couple of months due to the lockdowns following the novel coronavirus outbreak.
