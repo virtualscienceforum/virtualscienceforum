@@ -12,7 +12,7 @@
 
 ## Introduction
 
-With the lockdowns caused by the COVID-19 pandemic researchers turn to online conferencing. While posing new challenges, this format also brings multiple advantages. We argue that virtual conferences will become a common way of scientific communication, and invite the community members to join the action.
+With the lockdowns caused by the COVID-19 pandemic researchers turn to online conferencing. While posing new challenges, this format also brings multiple advantages. We argue that virtual conferences will become part of our regular scientific communication and invite the community members to join the action.
 
 ---
 
