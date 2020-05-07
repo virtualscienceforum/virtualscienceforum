@@ -44,7 +44,6 @@ To help the community members orient themselves in a new setting, we prepared ba
 Once we felt sufficiently confident, we ran an trial workshop with our direct colleagues as both speakers and the audience.
 We used this test run to try out different formats of interaction between the audience and the speaker, check out unexpected technical problems, and collect the impressions from a broader group of colleagues.
 More importantly, however, we observed that videoconferencing has now matured to accommodate high quality live talks, where every viewer gets the front row experience.
-Some of our attendees planned their own "watching parties" with a number of participants viewing as a group that pre-discussed their questions and afterwards shared them with the speaker.
 With this experience we were ready to hit the ground running and managed to organize a virtual session only a few days after the cancellation of the APS March Meeting.
 Now we are continuing to work in a steady pace: we improve the platform and organize a biweekly colloquium series.
 We also actively welcome community initiatives for organizing virtual conferences using our platform, and we are excited to already have the first of such conference applications in progress.
