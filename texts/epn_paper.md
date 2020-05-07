@@ -32,11 +32,13 @@ After several discussions we committed to developing a community platform for on
 <!-- #### In thinking about online events we had to revisit many assumptions about conferences. -->
 
 Once we started brainstorming how to organize online events, we realized that a lot of usual assumptions about scientific meetings do not apply anymore.
-Already the sizes of the events are very different: while a typical workshop will have anywhere between 50 and 100 participants, an online conference session can easily attract more than 500 attendees.
+Already the sizes of the events are very different: while a typical workshop will have anywhere between 50 and 100 participants, an online conference session can easily attract 500 attendees.
 The duration of an online event is limited to a few hours because it needs to fit into the daily routines of participants spread across multiple hour zones, as opposed to the median duration of a conference being a full working week.
 The interactions during the session are also very different: the speaker cannot see the audience and therefore gets very little immediate feedback due to being unable to gauge the audience's reactions.
 Because mediating the interaction between the audience and the speaker becomes much more important, and because of the larger audience size, the moderators play a more important role in ensuring that everything goes smoothly.
 Finally, offline conferences allow ample time for informal discussion between the talks and during coffee breaks: this valuable aspect of scientific meetings needs to be accommodated separately.
+
+> A typical workshop will have anywhere between 50 and 100 participants, an online conference session can easily attract 500 attendees.
 
 <!-- #### We ran a couple of events, and saw that they work well. -->
 
@@ -58,6 +60,8 @@ Virtual workshops and conferences are also on the rise.
 Emerging organizations like [researchseminars.org](https://researchseminars.org) aggregate the information and distribute announcements in order to help navigate the rapidly growing volume of online events.
 
 <!-- #### You should definitely get involved in the online events, and we are here to help. -->
+
+> We conclude with a call to action: give virtual conferences a shot!
 
 Online conferencing is emerging right now because there are no alternatives until the pandemic is over, lockdowns are lifted, and travel is restored.
 While our hand is currently forced, we hope that the research community will grow accustomed to this long overdue change and will see the value of virtual conferences in their own right.
