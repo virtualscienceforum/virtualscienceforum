@@ -84,4 +84,4 @@ While our hand is currently forced, we hope that the research community will gro
 This is why we conclude with a call to action: give virtual conferences a shot!
 Start with attending the events you like: it has never been easier.
 Or perhaps you have an idea for a good event to run?
-In that case, now is your chance: go for it, and know that we are here to help.
+Now is your chance—go for it, and know that we are here to help.
