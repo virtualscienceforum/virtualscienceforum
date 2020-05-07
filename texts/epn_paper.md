@@ -50,7 +50,7 @@ After several discussions we committed to developing a community platform for on
 
 Once we started brainstorming how to organize online events, we realized that a lot of usual assumptions about scientific meetings do not apply anymore.
 Already the sizes of the events are very different: while a typical workshop will have anywhere between 50 and 100 participants, an online conference session can easily attract 500 attendees.
-The duration of an online event is limited to a few hours because it needs to fit into the daily routines of participants spread across multiple hour zones, as opposed to the median duration of a conference being a full working week.
+On the other hand, the median duration of a traditional conference is a full working week, while the duration of an online event is limited to a few hours because it needs to fit into the daily routines of participants spread across multiple hour zones.
 The interactions during the session are also very different: the speaker cannot see the audience and has no way of receiving immediate feedback.
 Because mediating the interaction between the audience and the speaker becomes much more important, and because of the larger audience size, the moderators play a more important role in ensuring that everything goes smoothly.
 Finally, offline conferences allow ample time for informal discussion between the talks and during coffee breaks: this valuable aspect of scientific meetings needs to be accommodated separately.
