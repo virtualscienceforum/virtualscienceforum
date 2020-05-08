@@ -10,6 +10,8 @@
 - Babak Seradjeh (Indiana University)
 - Daniel Varjas (Delft University of Technology)
 
+> Virtual Science Forum is an open, collaborative and volunteer-run effort to accommodate organization of online conferences. Originally initiated by physicist from different backgrounds and locations aiming to provide a service to the research community.
+
 ## Introduction
 
 With the lockdowns caused by the COVID-19 pandemic researchers turn to online conferencing. While posing new challenges, this format also brings multiple advantages. We argue that virtual conferences will become part of our regular scientific communication and invite the community members to join the action.
