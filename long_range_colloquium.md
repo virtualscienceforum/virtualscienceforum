@@ -26,7 +26,13 @@ Date: 13 May 2020
 
 Spin-triplet superconductivity is a condensate of electron pairs with spin-1 and an odd-parity wavefunction. A particularly interesting manifestation of triplet pairing is a chiral p-wave state which is topologically non-trivial and a natural platform for realizing Majorana edge modes. Triplet pairing is however rare in solid state systems. The best-known example of chiral spin-triplet paring is the superfluid 3He-A phase and over the last few decades, there has been an intensive search for potential spin-triplet superconductors in solid-state systems. Since pairing is most naturally mediated by ferromagnetic spin fluctuations, uranium based heavy fermion systems containing f-electron elements that can harbor both strong correlations and magnetism are considered ideal candidate spin-triplet superconductors. In this work I will present scanning tunneling microscopy (STM) data on the newly discovered heavy fermion superconductor, $\textrm{UTe}_2$ with a $T_{\textrm{SC}}$ of 1.6K. I will show signatures of coexisting Kondo effect and superconductivity which show competing spatial modulations within one unit-cell.  STM spectroscopy at step edges show signatures of chiral in-gap states, predicted to exist at the boundaries of a topological superconductor. Combined with existing data indicating triplet pairing, the presence of chiral edge states suggests that UTe2 is a strong candidate material for chiral-triplet topological superconductivity.
 
-<iframe src="https://iu.zoom.us/meeting/register/tJYtdeGqqDwjHd0jLB_K5sBbPVl7MMLqb-wP" width="700" height="910" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden" scrolling=no>Loading…</iframe>
+<div class="meeting_registration">
+<iframe src="https://iu.zoom.us/meeting/register/tJYtdeGqqDwjHd0jLB_K5sBbPVl7MMLqb-wP" scrolling="no">Loading...</iframe>
+</div>
+<div class="meeting_link">
+<a href="https://iu.zoom.us/meeting/register/tJYtdeGqqDwjHd0jLB_K5sBbPVl7MMLqb-wP">Register</a>
+</div>
+
 
 ### Nicola Spaldin, ETH Zürich
 
