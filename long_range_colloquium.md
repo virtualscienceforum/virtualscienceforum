@@ -3,7 +3,7 @@
 We provide a venue for seminars about latest developments in condensed matter physics and quantum information.
 
 The colloquium runs every other Wednesday at 1:30 PM ET (19:30 CEST), starting April 15.
-Attendance is open to everyone, but please [register](#vidya-madhavan-department-of-physics-and-materials-research-laboratory-university-of-illinois-urbana-champaign) to attend!
+Attendance is open to everyone, but please [register](#nicola-spaldin-eth-zürich) to attend!
 
 ## Program
 
@@ -17,16 +17,6 @@ Attendance is open to everyone, but please [register](#vidya-madhavan-department
 |  June 24  | Ali Yazdani |  TBA  |
 
 ## Upcoming talks
-
-### Vidya Madhavan, Department of Physics and Materials Research Laboratory, University of Illinois Urbana-Champaign
-
-Date: 13 May 2020
-
-### Microscopic evidence for a chiral superconducting order parameter in the heavy fermion superconductor $\text{UTe}_2$
-
-Spin-triplet superconductivity is a condensate of electron pairs with spin-1 and an odd-parity wavefunction. A particularly interesting manifestation of triplet pairing is a chiral p-wave state which is topologically non-trivial and a natural platform for realizing Majorana edge modes. Triplet pairing is however rare in solid state systems. The best-known example of chiral spin-triplet paring is the superfluid 3He-A phase and over the last few decades, there has been an intensive search for potential spin-triplet superconductors in solid-state systems. Since pairing is most naturally mediated by ferromagnetic spin fluctuations, uranium based heavy fermion systems containing f-electron elements that can harbor both strong correlations and magnetism are considered ideal candidate spin-triplet superconductors. In this work I will present scanning tunneling microscopy (STM) data on the newly discovered heavy fermion superconductor, $\textrm{UTe}_2$ with a $T_{\textrm{SC}}$ of 1.6K. I will show signatures of coexisting Kondo effect and superconductivity which show competing spatial modulations within one unit-cell.  STM spectroscopy at step edges show signatures of chiral in-gap states, predicted to exist at the boundaries of a topological superconductor. Combined with existing data indicating triplet pairing, the presence of chiral edge states suggests that UTe2 is a strong candidate material for chiral-triplet topological superconductivity.
-
-<iframe src="https://iu.zoom.us/meeting/register/tJYtdeGqqDwjHd0jLB_K5sBbPVl7MMLqb-wP" width="700" height="910" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden" scrolling=no>Loading…</iframe>
 
 ### Nicola Spaldin, ETH Zürich
 
@@ -63,3 +53,9 @@ Title: **Charge Transfer Excitations, Pair Density Waves, and Superconductivity 
 Title: **Zero-field Topological Superconductivity in Ferromagnetic Hybrid Nanowires**
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/X5i3_E9ZRiw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Vidya Madhavan, Department of Physics and Materials Research Laboratory, University of Illinois Urbana-Champaign
+
+Title: **Microscopic evidence for a chiral superconducting order parameter in the heavy fermion superconductor $\text{UTe}_2$**
+
+*Video is being prepared.*
