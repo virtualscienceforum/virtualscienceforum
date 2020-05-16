@@ -12,6 +12,7 @@ Finally, because the talk will be recorded and posted online, there are some con
 * Optimally, the room should be well lit and have no distracting background noise.
 * If you can arrange two screens, so that you use one for your presentation, and the other to view the audience, it may help get some visual feedback.
 * The sound quality makes a difference: try to find a good external microphone.
+* To avoid sound and image latency stop any unnecessary running programs on your device.
 
 ## Timeline of preparation
 ### One week before your seminar
@@ -30,7 +31,7 @@ You will be provided with a link to a testing area on our virtual conferencing p
 ## The day of your seminar
 Join the meeting at least 10 minutes before the start of your talk. Make sure you are undisturbed in a well-lit and quiet room. Try to avoid strong background light sources.
 
-Make sure to turn off any programs that would result in pop-up notifications during your talk. This can include email software, any chat programs (Slack, Google chat, gitter, etc), VOIP software (Skype, etc), or other ones as well like Dropbox.
+Make sure to turn off any programs that would result in pop-up notifications or sound and screen latencies during your talk. This can include email software, any chat programs (Slack, Google chat, gitter, etc), VOIP software (Skype, etc), or other ones as well like Dropbox.
 
 When it is time for your talk the moderator will introduce you and the topic of your presentation. Then they proceed to unmute you and highlight your screen, so that your feed will be in the main window of all participants. This is the time to share your screen and begin your talk!
 
@@ -41,6 +42,8 @@ During your seminar, you will be the only person whose microphone will be contin
 It is difficult, but possible, to interact with the audience in most ways, such as polling the audience with a question. The Zoom platform allows audience members who are familiar with it to respond by displaying affirmative/negative symbols, but this takes more time than in a non-virtual talk and is less easy to gauge proportion of the audience giving one answer or another. So, it is inefficient, but if you feel that it is an important component then this sort of thing can be done. It would be helpful to let the moderator know in advance so that they can briefly remind the audience of the ways they can communicate to respond to such questions from the speaker.
 
 Similarly, it is hard to obtain global non-verbal feedback from the audience, such as facial expressions, so be prepared to present without this. This also goes the other way: The audience cannot see your body language and hand gestures. Make sure you speak slowly and clearly so that the audience has time to process the content of your presentation.
+
+In order to partially close the gap between audience and speaker, the moderators, as well as some of the attendees can be assigned to provide direct feedback during the talk.
 
 ### What is easier to do in a virtual conference
 Because you are sitting at your computer, it is easier to use multiple software platforms as part of your presentation. You can easily bring up a Jupyter/Mathematica notebook in order to present your science in a more dynamic way or show how to use a software tool that you developed. Make sure to emphasize visual aspects of your code/software rather than dense code snippets.
