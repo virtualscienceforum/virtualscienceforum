@@ -1,3 +1,11 @@
+---
+name: Presentation checklist
+about: Checklist of tasks to run a single presentation
+title: "Checklist for {session title} on {date}"
+labels: 
+assignees: ""
+---
+
 - [ ] registration open (-2 weeks)
 - [ ] page updated (-2 weeks)
 - [ ] email announcement to all who signed up for updates (-2 weeks)
