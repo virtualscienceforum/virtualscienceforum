@@ -52,24 +52,22 @@ Once we approved your application and reserved your time slot, you and your co-o
 
 You should aim to secure your speakers at least one month prior to your event.
 
-### Finalizing and announcing: 4 weeks before the session
+### Finalizing and announcing: at least 4 weeks before the session
 
 Once your program is complete, we will prepare a page for your session on the VSF website and a registration form for the participants. Now you can start advertising your session.
 
-We will announce the session to anyone signed up and publically through our twitter account, but since you have community connections, you hold the advertising job. Use your resources. For example you can consider:
+We will announce the session to anyone signed up to our mailing list and publically through our Twitter account, but since you have connections in your specific community, the most effective advertising will come from you. Use your resources. For example you can consider:
 
 - Announcing the session to your colleagues via email
-- Mentioning it during your travel
 - Posting about it on social media
 
-This aspect is not different from the traditional conferences: mailing lists, professional contacts, flyers, social media etc. We of course ask you to be considerate and avoid spamming your colleagues.
+We of course ask you to be considerate and avoid spamming your colleagues.
 
-### Final preparations: 1 week before the session
+### Final preparation: 1 week before the session
 
-In the virtual conference setting moderators play a vital role. Find moderators for your event. The moderator's role is demanding, and we recommend finding more than one person to fill it. The moderators should also be familiar with the sesion topic.
+In the virtual conference setting, moderators play a vital role. Find moderators for your event. The moderator's role is demanding, and we recommend finding more than one person to fill it. For example, you might want to have one person in charge of introducing the speakers and moderate the question, and a second one checking who want to asks questions and making sure everything is running smoothly. 
 
-Set up an appointment with the speakers and the moderators to introduce them to the platform. It is likely that a common slot for all might be hard to find and individual appointments might become necessary.
-If your session is over-subscribed, we will ask you to filter the applicants list that you want to allow participating in the session.
+Set up an appointment with the speakers and the moderators to introduce them to the platform. 
 
 ### During the session
 
@@ -79,10 +77,10 @@ Give a brief opening and closing speech. In the opening speech, introduce the se
 
 ### After the session
 
-Review the event page with the published recordings of the talks. If you like, add any concluding remarks to the page content.
+Review the event page adding the recordings of the talks. If you like, add any concluding remarks to the page content.
 
 VSF is a newly developed platform, and we welcome your feedback and overall evaluation of your experience. Please write a short summary with your thoughts and suggestions: what worked well, what didn’t, and what would you like to improve.
 
 ## Conclusion
 
-That’s all it takes. It should all fit within about a working day if you have a good idea. Let us know if you have any questions, and we’re looking forward to hosting your session!
+That’s all it takes. Let us know if you have any questions, and we’re looking forward to hosting your session!
