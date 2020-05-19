@@ -19,4 +19,4 @@
 
 * Hostile, disruptive, or disrespectful behaviour is monitored by the moderators.
 * The moderators will remove participants violating professional conduct.
-* Please report misconduct during the talk via a private chat to the moderator, and otherwise by email to conduct@virtualscienceforum.org (currently monitored by Anton Akhmerov).
+* Please report misconduct during the talk via a private chat to the moderator, and otherwise by email to conduct@virtualscienceforum.org (currently monitored by Anton Akhmerov and Giulia Pacchioni).
