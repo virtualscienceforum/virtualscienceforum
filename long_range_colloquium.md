@@ -18,15 +18,6 @@ Attendance is open to everyone, but please [register](#nicola-spaldin-eth-züric
 
 ## Upcoming talks
 
-### Nicola Spaldin, ETH Zürich
-
-27 May 2020, 1:30 PM ET (19:30 CEST)
-
-#### From Materials to Cosmology: Studying the early universe under the microscope
-
-Uncovering the behavior of the early universe just after the Big Bang is an intriguing fundamental activity that is extraordinarily difficult because of insurmountable issues associated with replaying the Big Bang in the laboratory.  One route to the answer—which lies at the intersection between cosmology and materials science—is to use laboratory materials to test the laws proposed for the formation of defects such as cosmic strings in the early universe. Here I will show that a popular multiferroic material, hexagonal yttrium manganite—with its coexisting magnetic, ferroelectric and structural phase transitions—generates the crystallographic equivalent of cosmic strings. I will describe how straightforward solution of the Schroedinger equation for yttrium manganite allows the important features of its behavior to be identified and quantified, and present experimental results of what seem to be the first unambiguous demonstration of the expected cosmological scaling laws in a real material. I will end with a plea for help with imaging the multiferroic "cosmic strings", and show some recent data suggesting that things might be less unambiguous than they seem.
-
-<iframe src="https://iu.zoom.us/meeting/register/tJIpcumtqTopG9eOU7klVhgabkyDYg3NHts6" width="700" height="910" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden" scrolling=no>Loading…</iframe>
 
 ### Klaus Mølmer, Aarhus University
 
@@ -59,3 +50,9 @@ Title: **Zero-field Topological Superconductivity in Ferromagnetic Hybrid Nanowi
 Title: **Microscopic evidence for a chiral superconducting order parameter in the heavy fermion superconductor $\text{UTe}_2$**
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xB8ZpfpkFq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Nicola Spaldin, ETH Zürich
+
+Title: **From Materials to Cosmology: Studying the early universe under the microscope**
+
+Recording coming soon!
