@@ -49,10 +49,9 @@ Title: **Zero-field Topological Superconductivity in Ferromagnetic Hybrid Nanowi
 
 Title: **Microscopic evidence for a chiral superconducting order parameter in the heavy fermion superconductor $\text{UTe}_2$**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xB8ZpfpkFq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Nicola Spaldin, ETH Zürich
 
 Title: **From Materials to Cosmology: Studying the early universe under the microscope**
 
-Recording coming soon!
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1T4XLCIUO5s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
