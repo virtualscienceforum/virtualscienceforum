@@ -1,32 +1,24 @@
 # Attendee Guide
 
-As an attendee, of course your job is the easiest. However, with this new conferencing format, certain things, like asking questions, are now different. Below we provide guidelines regarding your attendance and technical instructions on how to interact.
+## Rules
 
-## Guidelines
-
-* Be polite and respectful.
-* Hostile, disruptive, or disrespectful behaviour will be monitored by the moderator
-* Continuous misbehaviour will lead to a termination of your participation in the session upon the decision of the moderator(s).
-* Try to stay for the complete event.
+* Follow the moderator instructions.
 * Use your real name when logging in.
-* Check your internet connection and microphone sound quality in advance.
-* Coordinate with colleagues to watch jointly.
-* Consider keeping the camera running as a courtesy to the speaker.
-* Use the chat to contact the moderators if you have an important technical remarks.
+* Be professional, polite and respectful.
+* Open the participants pane and click the "raise hand" button at the participants pane if you want to ask a question. The moderator will announce and unmute you.
+* Use private chat to contact the moderators if necessary.
 
-## Asking Questions
+![Raise hand button](media/raise_hand.svg)
 
-### How to ask
+## Recommendations
 
-You cannot unmute your microphone on your own. Zoom has a “raise hand” feature which you should use to alert the moderator about a question:
+* Try to stay for the complete event.
+* Please check your internet connection and microphone sound quality in advance if you want to ask questions.
+* Please set up a profile photo as a courtesy to the speaker and other participants.
+* Coordinate with colleagues to watch jointly if possible.
 
-1. Open the participants pane (we recommend doing this at the beginning of the talk).
-2. Click the “raise your hand” button. Your name, now with a raised hand symbol, will go to the top of the participants list, which the moderator will be monitoring.
-3. The moderator will alert the speaker, announce your name, and unmute your microphone.
-4. Ask your question!
-5. When the interaction ends, the moderator will mute your microphone and “lower your hand”.
+## Conduct
 
-### When to ask
-
-Short talks: after the talk ends.
-Long talks: ask your questions at any time.
+* Hostile, disruptive, or disrespectful behaviour is monitored by the moderators.
+* The moderators will remove participants violating professional conduct.
+* Please report misconduct during the talk via a private chat to the moderator, and otherwise by email to conduct@virtualscienceforum.org (currently monitored by Anton Akhmerov and Giulia Pacchioni).
