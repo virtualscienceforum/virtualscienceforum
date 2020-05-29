@@ -11,7 +11,8 @@ Virtual conferences
 - Transform how researchers interact
 
 [Join in](#welcome)
-[Long Range colloquium](/long_range_colloquium.md)
+[Long Range colloquium](long_range_colloquium.md)
+[Scanning probe microscopy workshop](SPM_workshop.md)
 
 <!-- background image -->
 
