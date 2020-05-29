@@ -5,14 +5,16 @@
 * Follow the moderator instructions.
 * Use your real name when logging in.
 * Be professional, polite and respectful.
-* Click the "raise hand" button at the participants pane if you want to ask a question. The moderator will announce and unmute you.
+* Open the participants pane and click the "raise hand" button at the participants pane if you want to ask a question. The moderator will announce and unmute you.
 * Use private chat to contact the moderators if necessary.
+
+![Raise hand button](media/raise_hand.svg)
 
 ## Recommendations
 
 * Try to stay for the complete event.
 * Please check your internet connection and microphone sound quality in advance if you want to ask questions.
-* Consider keeping the camera running as a courtesy to the speaker.
+* Please set up a profile photo as a courtesy to the speaker and other participants.
 * Coordinate with colleagues to watch jointly if possible.
 
 ## Conduct
