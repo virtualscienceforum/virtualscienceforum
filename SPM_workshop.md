@@ -25,7 +25,7 @@ https://zoom.us/meeting/register/tJ0kd-qvrD0oG9Jn0FjDqD_QxErRHNADpwt5
 > *Nils Krane, Gaël Reecht, Christian Lotze, Katharina Franke*  
 > Adsorption of organic molecules on metal surfaces typically leads to strong hybridization of the frontier molecular orbitals with the substrate electronic bands. This results in broad energy levels reflecting the ultrashort lifetime of excited molecular states in tunneling experiments. A monolayer of MoS2 is direct-bandgap semiconductor. Here, we show that single-layer MoS$_2$ on Au(111) acts as an efficient decoupling layer for organic molecules. The decoupling efficiency is superior to frequently employed ionic layers such as NaCl, or to graphene. Molecular resonances within the semiconducting band gap of MoS2 exhibit widths of only a few meV. This exquisite energy resolution allows to study vibrational excitations within the individual molecules. Details in the set of vibronic resonances on thienothiophene-based molecules allow for their rotamer identification. The spatial intensity distribution along the molecule further reveals that the simple Franck-Condon picture is insufficient for a complete understanding of the excitation mechanism.
         
-10:40   **Jasha Repp**, University of Regensburg (Germany)
+10:40   **Jascha Repp**, University of Regensburg (Germany)
 
 11:25 - 11:45 Break
 
@@ -39,13 +39,13 @@ Format
 - The poster session will be divided in two 40-min parts to ensure all presenters will also have the opportunity to look at posters
 
 Guidelines for poster preparation
-- Keep your poster simple, so people can look at it easily on their screen. Use a horizontal template (set max file size).
-- Make a short video (1 min) to present the your poster. 
+- Keep your poster simple, so people can look at it easily on their screen. Use a horizontal format (5MB max size).
+- Make a short video (1 min) to present the your poster (recommended). 
 - Create your Zoom link. Don't share it on social media to avoid zoombombing: the organizers will send make the links available to all participants.
 
 # Poster abstract submission
 
-Available soon!
+https://docs.google.com/forms/d/e/1FAIpQLSfjRUtu3_msRcsnLX00Nl8puS826iEQiTnto_gpPXIniwJv6Q/viewform
 
 ## Organizers
 
