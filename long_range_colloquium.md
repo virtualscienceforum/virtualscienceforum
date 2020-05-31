@@ -27,6 +27,10 @@ Attendance is open to everyone, but please [register](#nicola-spaldin-eth-züric
 
 How does a quantum system interact with a travelling pulse of quantum radiation, prepared for example in a number state or a coherent state of light? While crucial for multiple effects in quantum optics and for the entire concept of flying and stationary qubits, quantum optics textbooks do not provide a formal description of this foundational and elementary interaction process.  In this lecture, I shall introduce a new (and simple) master equation that describes the joint quantum state of travelling pulses of quantized radiation and local quantum systems. Applications of the theory will be presented for recent experiments with qubits and non-linear resonators interacting with pulses of optical, microwave and acoustic radiation.
 
+<iframe width="560" height="315" src="https://zoom.us/meeting/register/tJ0ocemspz8pHNxIEIVIe-qJ-dVx7L_VyTmV" frameborder="0" ></iframe>
+
+ 
+
 ### Ali Yazdani, Princeton University
 
 Date: 24 June 2020
