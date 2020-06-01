@@ -5,7 +5,7 @@
 
 [Workshop website](https://sites.google.com/view/virtualspm)
 
-Virtual SMP is a free online workshop on recent advances in scanning probe techniques, in particular low-temperature UHV scanning tunneling microscopy and atomic force microscopy.
+Virtual SPM is a free online workshop on recent advances in scanning probe techniques, in particular low-temperature UHV scanning tunneling microscopy and atomic force microscopy.
 
 With three invited talks, discussion time and a live poster session to provide further opportunity to share ideas and results, we hope this event will bring the community together to discuss the latest advances and keep sharing results despite the current lack of in-person conferences.
 
