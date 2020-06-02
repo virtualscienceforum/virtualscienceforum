@@ -9,6 +9,7 @@
 * Don't forget to disable annotations by other participants.
 * Make sure to turn off any programs that would result in pop-up or sound notifications during your talk. This can include email software, any chat programs (Slack, Google chat, gitter, etc), VOIP software (Skype, etc), or other ones as well like Dropbox.
 * Also turn off any unncessary backgound programs (such as browser with many open tabs), as this can affect the quality of your video stream.
+* Disable smooth inter-slide transitions and slow animations in the presentation. Because of low frame rate, they work poorly.
 
 ## Audience questions
 
