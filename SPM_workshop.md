@@ -28,13 +28,10 @@ https://zoom.us/meeting/register/tJ0kd-qvrD0oG9Jn0FjDqD_QxErRHNADpwt5
 10:40   **Jascha Repp**, University of Regensburg (Germany)
 > **Tunneling microscopy on insulators provides access to out-of-equilibrium charge states**  
 > *Laerte L. Patera, Fabian Queck, Philipp Scheuerer, Jascha Repp*  
-> Scanning Tunneling Microscopy (STM) is a powerful tool for the investigation of individual molecules, being able to probe their orbitals with sub-molecular resolution. However, the requirement of a conductive substrate strongly limits the accessible electronic transitions. Conversely, atomic force microscopy (AFM) can be extended to insulating substrates, providing structural and electrostatic information. However, electronic states are generally not accessible by AFM. Here we exploit the single-electron sensitivity of AFM [1] in detecting electrostatic forces to establish a novel mode in scanning probe, in which an alternating current instead of a direct current probes the sample. Only a single electron per AFM-cantilever oscillation cycle tunnels between tip and investigated structure back and forth, enabling operation in absence of any conductance of the underlying substrate but still capable of imaging electronic states with Angstrom resolution. Our results unveil the effects of electron-transfer and polaron formation on the single-orbital scale [2].
-
->References:
-
->[1] J. Klein, C. C. Williams, Appl. Phys. Lett. 79, 1828 (2001);
-
->[2] L. L. Patera et al., Nature 566, 245 (2019).
+> Scanning Tunneling Microscopy (STM) is a powerful tool for the investigation of individual molecules, being able to probe their orbitals with sub-molecular resolution. However, the requirement of a conductive substrate strongly limits the accessible electronic transitions. Conversely, atomic force microscopy (AFM) can be extended to insulating substrates, providing structural and electrostatic information. However, electronic states are generally not accessible by AFM. Here we exploit the single-electron sensitivity of AFM [1] in detecting electrostatic forces to establish a novel mode in scanning probe, in which an alternating current instead of a direct current probes the sample. Only a single electron per AFM-cantilever oscillation cycle tunnels between tip and investigated structure back and forth, enabling operation in absence of any conductance of the underlying substrate but still capable of imaging electronic states with Angstrom resolution. Our results unveil the effects of electron-transfer and polaron formation on the single-orbital scale [2].  
+References:  
+[1] J. Klein, C. C. Williams, Appl. Phys. Lett. 79, 1828 (2001);   
+[2] L. L. Patera et al., Nature 566, 245 (2019).
 
 11:25 - 11:45 Break
 
