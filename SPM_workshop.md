@@ -48,7 +48,7 @@ References:
 
 Format
 - Each poster presenter will have their own Zoom link leading to the discussion room for their poster
-- Poster presenters are encouraged to send a 1-min video briefly explaining the content of their poster. Both the video and the poster will be available outside of the discussion room for attendees to see, so that the Zoom conversation can be focused on questions
+- Poster presenters are encouraged to send a 1-min video briefly explaining the content of their poster. The videos will be available outside of the discussion rooms for attendees to see, so that the Zoom conversation can be focused on questions
 - The poster session will be divided in two 40-min parts to ensure all presenters will also have the opportunity to look at posters
 
 Guidelines for poster preparation
