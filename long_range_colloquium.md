@@ -13,14 +13,14 @@ Attendance is open to everyone, but please [register](#klaus-mølmer-aarhus-univ
 | April 29  | [Charles Marcus](#charles-marcus-center-for-quantum-devices-and-microsoft-quantum-lab-copenhagen) |  Zero-field Topological Superconductivity in Ferromagnetic Hybrid Nanowires  |
 |  May 13  | [Vidya Madhavan](#vidya-madhavan-department-of-physics-and-materials-research-laboratory-university-of-illinois-urbana-champaign) |  Microscopic evidence for a chiral superconducting order parameter in the heavy fermion superconductor $\textrm{UTe}_2$  |
 |  May 27  | [Nicola Spaldin](#nicola-spaldin-eth-zürich) |  From Materials to Cosmology: Studying the early universe under the microscope  |
-|  June 10 | [Klaus Mølmer](#klaus-mølmer-aarhus-university) |  Quantum interactions with pulses of radiation  |
+|  June 17 | [Klaus Mølmer](#klaus-mølmer-aarhus-university) |  Quantum interactions with pulses of radiation  |
 |  June 24  | Ali Yazdani |  TBA  |
 
 ## Upcoming talks
 
 ### Klaus Mølmer, Aarhus University
 
-10 June 2020, 1:30 PM ET (19:30 CEST)
+17 June 2020, 1:30 PM ET (19:30 CEST)
 
 > #### Quantum interactions with pulses of radiation
 >
