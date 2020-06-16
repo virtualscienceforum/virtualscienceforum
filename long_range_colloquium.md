@@ -3,7 +3,7 @@
 We provide a venue for seminars about latest developments in condensed matter physics and quantum information.
 
 The colloquium runs every other Wednesday at 1:30 PM ET (19:30 CEST), starting April 15.
-Attendance is open to everyone, but please [register](#klaus-mølmer-aarhus-university) to attend!
+Attendance is open to everyone, but please [register](#ali-yazdani-princeton-university) to attend!
 
 ## Program
 
@@ -42,6 +42,7 @@ Attendance is open to everyone, but please [register](#klaus-mølmer-aarhus-univ
 >[1] Y. Xie. et al. Nature 572, 101–105 (2019).  
 >[2] D. Wong, et al. Nature 582, pages198–202(2020).
 
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJMpdeyvrj4vHdKSWTmizeYTAhauWup5Gppr" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 ## Talk recordings
 
