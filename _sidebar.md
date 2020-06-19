@@ -1,7 +1,6 @@
 * [Home](/)
 * Current and planned events
     * [Long Range Colloquium](long_range_colloquium.md)
-    * [Scanning probe microscopy workshop](SPM_workshop.md)
 * [Call for organizers](announcement.md)
 * [Organizer Guide](organizerguide.md)
 * [Speaker Guide](speakerguide.md)
@@ -9,4 +8,6 @@
 * [Attendee Guide](attendeeguide.md)
 * [Contact us](contact.md)
 * [Contributors](whoweare.md)
-* [Inaugural session](inauguralsession.md)
+* Past events
+   * [Scanning probe microscopy workshop](SPM_workshop.md)
+   * [Inaugural session](inauguralsession.md)
