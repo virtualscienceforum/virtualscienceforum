@@ -12,7 +12,6 @@ Virtual conferences
 
 [Join in](#welcome)
 [Long Range colloquium](long_range_colloquium.md)
-[Scanning probe microscopy workshop](SPM_workshop.md)
 
 <!-- background image -->
 
