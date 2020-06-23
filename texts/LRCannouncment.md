@@ -6,8 +6,7 @@ this effort by joining our group, organizing a session, or suggest speakers, ple
 where you can find information and resources about how to do so. All of our content is available on 
 Github and on our YouTube channel. Also, our next colloquium on **** is going to be by **** of ****.  
 I have shared links to these pages in the chat. I'd also like to thank the institutional support making 
-it possible for us to continue this work, in particular by Delft University of Technology and 
-Indiana University - Bloomington.
+it possible for us to continue this work, in particular the Kavli Institute of Nanoscience Delft.
 
 A note on Q&A: please use the "raise hand" option in the participant panel, which you can find at the 
 bottom of your screens. I will be moderating the participants panel and will let the speaker know that 
