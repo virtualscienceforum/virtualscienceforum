@@ -68,8 +68,6 @@ Title: **From Materials to Cosmology: Studying the early universe under the micr
 
 17 June 2020, 1:30 PM ET (19:30 CEST)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/R53dwiZX3O8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Title: **Quantum interactions with pulses of radiation**
 
-*Recording in preparation*
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/R53dwiZX3O8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
