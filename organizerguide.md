@@ -8,7 +8,12 @@ Here is a short summary of all the steps you will need to take
 - Build a team of organizers
 - Decide on a recent and exciting topic
 - Write a brief description of the event
-- Decide on the scale/format of the event: length; number of talks; whether to have only invited talks or also contributed talks; whether to have a poster session...
+- Decide on the scale/format of the event. Some things to consider: 
+  - length of the event
+  - number of talks
+  - whether to have only invited talks or also contributed talks
+  - whether to have a poster session
+  - whether to have meeting with speakers (especially useful to students and junior scientists)
 - Make a list of possible speakers to approach
 - Decide on a date (should be at least 2 months in the future, so that you can find the speakers and announce the event properly)
 - Submit an application to us
@@ -49,7 +54,7 @@ Finally, submit this information to the VSF. At this stage we aim to accept all 
 
 ### Reaching out to speakers: at least 6 weeks before the session
 
-Once we approved your application and reserved your time slot, you and your co-organizers can start contacting the speakers. The length of your seminar shouldn't exceed 3 hours, so once you decide the length and format of the talks, adjust the number of speakers accordingly.
+Once we approve your application and reserved your time slot, you and your co-organizers can start contacting the speakers. The length of your seminar shouldn't exceed 3 hours, so once you decide the length and format of the talks, adjust the number of speakers accordingly.
 
 You should aim to secure your speakers at least one month prior to your event.
 
@@ -57,7 +62,7 @@ You should aim to secure your speakers at least one month prior to your event.
 
 Once your program is complete, we will prepare a page for your session on the VSF website and a registration form for the participants. Now you can start advertising your session.
 
-We will announce the session to anyone signed up to our mailing list and publically through our Twitter account, but since you have connections in your specific community, the most effective advertising will come from you. Use your resources. For example you can consider:
+We will announce the session to anyone signed up to our mailing list and publicly through our Twitter account, but since you have connections in your specific community, the most effective advertising will come from you. Use your resources. For example you can consider:
 
 - Announcing the session to your colleagues via email
 - Posting about it on social media
@@ -66,7 +71,7 @@ We of course ask you to be considerate and avoid spamming your colleagues.
 
 ### Final preparation: 1 week before the session
 
-In the virtual conference setting, moderators play a vital role. Find moderators for your event. The moderator's role is demanding, and we recommend finding more than one person to fill it. For example, you might want to have one person in charge of introducing the speakers and moderate the question, and a second one checking who want to asks questions and making sure everything is running smoothly. 
+In the virtual conference setting, moderators play a vital role. Find moderators for your event. The moderator's role is demanding, and we recommend finding more than one person to fill it. For example, you might want to have one person in charge of introducing the speakers and moderate the question, and a second one checking who want to asks questions and making sure everything is running smoothly. See our [Moderator Guide](https://virtualscienceforum.org/#/moderatorguide) for more detailed information.
 
 Set up an appointment with the speakers and the moderators to introduce them to the platform. 
 
