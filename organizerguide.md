@@ -27,10 +27,10 @@ Here is a short summary of all the steps you will need to take
 
 #### Basic facts
 
-- We support sessions of up to 3 hours in a single day (longer sessions have problems with retention).
+- We support events of up to 3 hours in a single day (longer events have problems with retention).
 - One timeslot can suit only two timezones: America/Europe, Europe/Asia or Asia/America. You can use [this website](https://www.timeanddate.com/worldclock/meeting.html) to find the timeslot that best suits your needs. 
 - Both conventional conference talks of up to one hour (including questions), and 10-15 minute talks work well.
-- We require that all the videos are recorded and published on the website after the session.
+- We require that all the videos are recorded and published on the website after the event.
 
 #### Application form
 
@@ -42,46 +42,46 @@ Apply via a github issue [here](https://github.com/virtualscienceforum/virtualsc
 
 Build an organizer team of 2--4 people. Since you will be inviting the speakers and the audience, your team should have good connections in the community. It is also a good idea to find organizers from more than one research group/university.
 
-Decide on the topic of the session. We strongly recommend to focus on recent developments: these make it easier to attract an audience, and you benefit from a shorter waiting period until the conference.
+Decide on the topic of the event. We strongly recommend to focus on recent developments: these make it easier to attract an audience, and you benefit from a shorter waiting period until the conference.
 
 Choose a name for your event. Write a brief explanation of what the topic is, and why it is important. This will eventually go on the event's webpage, so try and make it clean and attractive. If possible, prepare an image to go along with the description.
 
-Make a list of prospective speakers that you plan to approach. 
+Make a list of prospective speakers that you plan to approach. Make sure you have a good gender, geographical and seniority balance in your speaker list!
 
 Choose a date and time slot for your event. Try to avoid conflicts with conferences on related topics, major holidays, etc.
 
 Finally, submit this information to the VSF. At this stage we aim to accept all applications after basic review (unless the demand is overwhelming).
 
-### Reaching out to speakers: at least 6 weeks before the session
+### Reaching out to speakers: at least 6 weeks before the event
 
-Once we approve your application and reserved your time slot, you and your co-organizers can start contacting the speakers. The length of your seminar shouldn't exceed 3 hours, so once you decide the length and format of the talks, adjust the number of speakers accordingly.
+Once we approve your application and reserved your time slot, you and your co-organizers can start contacting the speakers. The length of your event shouldn't exceed 3 hours, so once you decide the length and format of the talks, adjust the number of speakers accordingly.
 
 You should aim to secure your speakers at least one month prior to your event.
 
-### Finalizing and announcing: at least 4 weeks before the session
+### Finalizing and announcing: at least 4 weeks before the event
 
-Once your program is complete, we will prepare a page for your session on the VSF website and a registration form for the participants. Now you can start advertising your session.
+Once your program is complete, we will prepare a page for your event on the VSF website and a registration form for the participants. Now you can start advertising your event.
 
-We will announce the session to anyone signed up to our mailing list and publicly through our Twitter account, but since you have connections in your specific community, the most effective advertising will come from you. Use your resources. For example you can consider:
+We will announce the event to anyone signed up to our mailing list and publicly through our Twitter account, but since you have connections in your specific community, the most effective advertising will come from you. Use your resources. For example you can consider:
 
-- Announcing the session to your colleagues via email
+- Announcing the event to your colleagues via email
 - Posting about it on social media
 
 We of course ask you to be considerate and avoid spamming your colleagues.
 
-### Final preparation: 1 week before the session
+### Final preparation: 1 week before the event
 
 In the virtual conference setting, moderators play a vital role. Find moderators for your event. The moderator's role is demanding, and we recommend finding more than one person to fill it. For example, you might want to have one person in charge of introducing the speakers and moderate the question, and a second one checking who want to asks questions and making sure everything is running smoothly. See our [Moderator Guide](https://virtualscienceforum.org/#/moderatorguide) for more detailed information.
 
 Set up an appointment with the speakers and the moderators to introduce them to the platform. 
 
-### During the session
+### During the event
 
-Make final technical checks shortly before the session starts. By this time you, the moderators, and the speakers should know how the platform works (it’s easy, but requires some preparation).
+Make final technical checks shortly before the event starts. By this time you, the moderators, and the speakers should know how the platform works (it’s easy, but requires some preparation).
 
-Give a brief opening and closing speech. In the opening speech, introduce the session, and remind participants of the code of conduct.
+Give a brief opening and closing speech. In the opening speech, introduce the event, and remind participants of the code of conduct.
 
-### After the session
+### After the event
 
 Review the event page adding the recordings of the talks. If you like, add any concluding remarks to the page content.
 
@@ -89,4 +89,4 @@ VSF is a newly developed platform, and we welcome your feedback and overall eval
 
 ## Conclusion
 
-That’s all it takes. Let us know if you have any questions, and we’re looking forward to hosting your session!
+That’s all it takes. Let us know if you have any questions, and we’re looking forward to hosting your event!
