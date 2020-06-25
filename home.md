@@ -1,12 +1,11 @@
 ## Welcome
 
-Virtual Science Forum is a volunteer-run open platform aiming to accommodate organization of online conferences.
-We provide support and hosting of virtual conference sessions.
-Additionally we develop best practices and provide detailed guidelines for all community members.
+Virtual Science Forum is a [volunteer-run](whoweare.md) open platform aiming to accommodate organization of online conferences.
+We provide host and support virtual academic events.
+Additionally we develop best practices and provide recommendations for all community members.
 
-## Where we stand
+## What we do
 
-We ran the first public virtual session focusing on machine learning in quantum physics and quantum computation, check the videos [here](inauguralsession.md).
+We are now hosting the [Long Range Colloquium](long_range_colloquium.md). We also hosted virtual sessions on [quantum information and machine learning](inauguralsession.md) and a workshop on [Scanning Probe Microscopy](SPM_workshop.md).
 
-We are now improving the materials, and in parallel we accept applications for further virtual conferences.
-Check out the [organizer guide](organizerguide.md) to see what it takes.
+We offer beginning to end support for organizing an academic event of your own, check out the [organizer guide](organizerguide.md) to see what it takes.
