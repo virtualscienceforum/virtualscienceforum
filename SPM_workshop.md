@@ -7,11 +7,7 @@
 
 Virtual SPM is a free online workshop on recent advances in scanning probe techniques, in particular low-temperature UHV scanning tunneling microscopy and atomic force microscopy.
 
-With three invited talks, discussion time and a live poster session to provide further opportunity to share ideas and results, we hope this event will bring the community together to discuss the latest advances and keep sharing results despite the current lack of in-person conferences.
-
-# Registration 
-
-https://zoom.us/meeting/register/tJ0kd-qvrD0oG9Jn0FjDqD_QxErRHNADpwt5
+With three invited talks, discussion time and a live poster session to provide further opportunity to share ideas and results, he event has been a great opportunity to  discuss the latest advances and keep sharing results despite the current lack of in-person conferences. We thank the 250 attendees and 28 poster presenters, and our 3 wonderful speakers for making this meeting a success!
 
 ## Program
 
@@ -56,9 +52,7 @@ Guidelines for poster preparation
 - Make a short video (1 min) to present the your poster (recommended). 
 - Create your Zoom link. Don't share it on social media to avoid zoombombing: the organizers will send make the links available to all participants.
 
-# Poster abstract submission
-
-https://docs.google.com/forms/d/e/1FAIpQLSfjRUtu3_msRcsnLX00Nl8puS826iEQiTnto_gpPXIniwJv6Q/viewform
+Poster abstracts can be viewed [here](https://sites.google.com/view/virtualspm/program/posters?authuser=0).
 
 ## Organizers
 
