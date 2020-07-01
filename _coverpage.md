@@ -6,9 +6,9 @@
 
 We are a group of volunteers that organize, host, and accommodate virtual scientific conferences.
 
-We are grateful to the Kavli Institute of Nanoscience Delft for financial support.
+We are grateful to the [Kavli Institute of Nanoscience Delft](http://kavli.tudelft.nl/) for financial support.
 
-[![](media/kavli_logo.jpg ':size=200')](http://kavli.tudelft.nl/)
+![](media/kavli_logo.jpg ':size=200')
 
 [Join in](#welcome)
 [Long Range colloquium](long_range_colloquium.md)
