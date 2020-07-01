@@ -1,11 +1,11 @@
 ## Welcome
 
 Virtual Science Forum is a [volunteer-run](whoweare.md) open platform aiming to accommodate organization of online conferences.
-We provide host and support virtual academic events.
+We organize, host, and support virtual academic events.
 Additionally we develop best practices and provide recommendations for all community members.
 
 ## What we do
 
 We are now hosting the [Long Range Colloquium](long_range_colloquium.md). We also hosted virtual sessions on [quantum information and machine learning](inauguralsession.md) and a workshop on [Scanning Probe Microscopy](SPM_workshop.md).
 
-We offer beginning to end support for organizing an academic event of your own, check out the [organizer guide](organizerguide.md) to see what it takes.
+We offer beginning-to-end support for organizing an academic event of your own, check out the [organizer guide](organizerguide.md) to see what it takes.
