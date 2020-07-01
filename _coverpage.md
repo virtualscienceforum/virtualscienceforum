@@ -4,11 +4,11 @@
 
 > A platform for scientific conferences going fully digital
 
-Virtual conferences
+We are a group of volunteers that organize, host, and accommodate virtual scientific conferences.
 
-- Are fast and easy to organize
-- Are not constrained by budget or travel limitations
-- Transform how researchers interact
+We are grateful to the Kavli Institute of Nanoscience Delft for financial support.
+
+[![](media/kavli_logo.jpg ':size=200')](http://kavli.tudelft.nl/)
 
 [Join in](#welcome)
 [Long Range colloquium](long_range_colloquium.md)
