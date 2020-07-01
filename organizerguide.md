@@ -27,7 +27,7 @@ Here is a short summary of all the steps you will need to take
 
 #### Basic facts
 
-- We support events of up to 3 hours in a single day (longer events have problems with retention).
+- We find that the best format is an event of up to 3 hours in a single day. However, for conferences or schools there is also the option of having a few talks per day over several days (but make sure not to make the program too heavy!).
 - One timeslot can suit only two timezones: America/Europe, Europe/Asia or Asia/America. You can use [this website](https://www.timeanddate.com/worldclock/meeting.html) to find the timeslot that best suits your needs. 
 - Both conventional conference talks of up to one hour (including questions), and 10-15 minute talks work well.
 - We require that all the videos are recorded and published on the website after the event.
