@@ -18,17 +18,17 @@ Below we provide more detailed information on certain aspects of the moderator r
 
 At the beginning of the seminar: 
 
-* Ensure that everyone is muted and cannot unmute themselves by clicking "mute all participants" and unchecking "participants may unmute themselves" checkbox.
-* Announce that the talk is recorded and start the recording.
-* Deliver the opening remarks. Introduce VSF and the speaker.
-* Turn on spotlight of the speaker’s webcam stream,
-* unmute the speaker and invite them to begin their seminar.
+* Ensure that everyone is muted and cannot unmute themselves by clicking "mute all participants" and unchecking "participants may unmute themselves" checkbox
+* Announce that the talk is recorded and start the recording
+* Deliver the opening remarks. Introduce VSF and the speaker
+* Turn on spotlight of the speaker’s webcam stream
+* unmute the speaker and invite them to begin their seminar
 
 At the end of the seminar: 
 
 * thank the speaker 
 * initiate the post-talk question/answer period
-* stop highlighting speaker's screen-share.
+* stop highlighting speaker's screen-share
 
 NB: a virtual conference cannot have applause after the seminar ends! However, Zoom does have a clapping hands image that audience members may put up next to their name in the participants list. 
 
