@@ -64,4 +64,3 @@ In the event of misconduct by any participant in video, audio, or text chat, mod
 
 * Warn involved participant(s) of their behaviour and the possible consequences.
 * Remove repeat offenders from the session.
-* Overlook chat interactions where the same rules apply.
