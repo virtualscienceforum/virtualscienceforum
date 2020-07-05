@@ -47,7 +47,7 @@ Mediating questions:
 * Let speaker and audience know that there is a question, and signal the asker by stating their name and unmuting their microphone.
 * Leave the attendee unmuted while interacting with the speaker.
 * Mute the attendee when finished, and “lower their hand”.
-* In the event of a prolonged discussion, you may get the talk back on track by suggesting that the conversation continue separately after the seminar.
+* In the event of a prolonged discussion get the talk back on track and suggest a private discussion after the seminar.
 
 
 ### Technical issues
