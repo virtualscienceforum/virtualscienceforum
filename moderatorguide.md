@@ -60,7 +60,7 @@ Moderators should report on any such issues (and fixes) to the organizers or the
 
 ### Misconduct
 
-In the event of misconduct from any participant moderators need to take the following actions:
+In the event of misconduct by any participant in video, audio, or text chat, moderators need to take the following actions (in order):
 
 * Warn involved participant(s) of their behaviour and the possible consequences.
 * Remove repeat offenders from the session.
