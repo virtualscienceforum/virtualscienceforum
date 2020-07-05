@@ -3,7 +3,7 @@
 ## Your tasks
  
 
-* open the program by introducing the event, organizers and the (first) speaker,
+* open the program by introducing the event, organizers and the (first) speaker
 * remind the audience of the event format and explain how and when to ask questions
 * monitor the participant list for raised hands and enable those attendees to ask questions,
 * handle any technical issues with the execution of the virtual conference,
