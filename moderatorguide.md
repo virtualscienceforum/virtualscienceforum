@@ -30,7 +30,7 @@ At the end of the seminar:
 * initiate the post-talk question/answer period
 * stop highlighting speaker's screen-share
 
-NB: a virtual conference cannot have applause after the seminar ends! However, Zoom does have a clapping hands image that audience members may put up next to their name in the participants list. 
+NB: a virtual conference cannot have applause after the seminar ends! However, you may invite the audience to use for example the Zoom "applaud" emote.
 
 
 ### Question guidelines
