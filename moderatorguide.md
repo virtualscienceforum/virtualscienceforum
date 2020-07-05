@@ -43,7 +43,7 @@ Our suggested guidelines for when questions are allowed:
 
 Mediating questions:
 
-* Monitor the participants list to observe attendees signaling for questions (“Raise hand option”).
+* Monitor the participants list to observe attendees signaling for questions (“Raise hand” Zoom emote).
 * Let speaker and audience know that there is a question, and signal the asker by stating their name and unmuting their microphone.
 * Leave the attendee unmuted while interacting with the speaker.
 * Mute the attendee when finished, and “lower their hand”.
