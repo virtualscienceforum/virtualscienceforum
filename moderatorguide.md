@@ -18,8 +18,10 @@ Below we provide more detailed information on certain aspects of the moderator r
 
 At the beginning of the seminar: 
 
-* highlight the speaker’s screen-share,
-* introduce the speaker (name, current institution, something about the talk or their current work),
+* Ensure that everyone is muted and cannot unmute themselves by clicking "mute all participants" and unchecking "participants may unmute themselves" checkbox.
+* Announce that the talk is recorded and start the recording.
+* Deliver the opening remarks. Introduce VSF and the speaker.
+* Turn on spotlight of the speaker’s webcam stream,
 * unmute the speaker and invite them to begin their seminar.
 
 At the end of the seminar: 
