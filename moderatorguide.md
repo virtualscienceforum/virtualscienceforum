@@ -37,8 +37,9 @@ NB: a virtual conference cannot have applause after the seminar ends! However, y
 
 Unless otherwise agreed by the organizers, the following guidelines apply:
 
-* Short talks: after the talk ends.
-* Long talks: questions may be asked at any time.
+Our suggested guidelines for when questions are allowed:
+* Short talks: after the talk ends
+* Long talks: questions may be asked at any time
 
 Mediating questions:
 
