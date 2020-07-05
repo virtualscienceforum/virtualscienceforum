@@ -8,7 +8,7 @@
 * monitor the participant list for raised hands and enable those attendees to ask questions
 * handle any technical issues with the execution of the virtual conference
 * monitor participant behavior in the chat for breaches of the code of conduct
-* give a closing remarks.
+* give a closing remarks
 
 Below we provide more detailed information on certain aspects of the moderator role. 
 
