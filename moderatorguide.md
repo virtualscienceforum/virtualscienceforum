@@ -18,10 +18,10 @@ Below we provide more detailed information on certain aspects of the moderator r
 
 At the beginning of the seminar: 
 
-* Ensure that everyone is muted and cannot unmute themselves by clicking "mute all participants" and unchecking "participants may unmute themselves" checkbox
-* Announce that the talk is recorded and start the recording
-* Deliver the opening remarks. Introduce VSF and the speaker
-* Turn on spotlight of the speaker’s webcam stream
+* ensure that everyone is muted and cannot unmute themselves by clicking "mute all participants" and unchecking "participants may unmute themselves" checkbox
+* announce that the talk is recorded and start the recording
+* deliver the opening remarks, introduce VSF and the speaker
+* turn on spotlight of the speaker’s webcam stream
 * unmute the speaker and invite them to begin their seminar
 
 At the end of the seminar: 
@@ -35,25 +35,23 @@ NB: a virtual conference cannot have applause after the seminar ends! However, y
 
 ### Question guidelines
 
-Unless otherwise agreed by the organizers, the following guidelines apply:
-
 Our suggested guidelines for when questions are allowed:
-* Short talks: after the talk ends
-* Long talks: questions may be asked at any time
+* short talks: after the talk ends
+* long talks: questions may be asked at any time
 
 Mediating questions:
 
-* Monitor the participants list to observe attendees signaling for questions (“Raise hand” Zoom emote).
-* Let speaker and audience know that there is a question, and signal the asker by stating their name and unmuting their microphone.
-* Leave the attendee unmuted while interacting with the speaker.
-* Mute the attendee when finished, and “lower their hand”.
-* In the event of a prolonged discussion get the talk back on track and suggest a private discussion after the seminar.
+* monitor the participants list to observe attendees signaling for questions (“Raise hand” Zoom emote)
+* let speaker and audience know that there is a question, and signal the asker by stating their name and unmuting their microphone
+* leave the attendee unmuted while interacting with the speaker
+* mute the attendee when finished, and “lower their hand”
+* in the event of a prolonged discussion get the talk back on track and suggest a private discussion after the seminar
 
 
 ### Technical issues
 
-* Speaker-side issues: where possible, try to have a second line of communication with the speakers in case an issue comes up on their end.
-* Audience-side issues: attendees are instructed to send chat messages directly to the moderator if technical issues arise on their end, and the moderator must make a judgement call as to whether some kind of action should be taken.
+* speaker-side issues: where possible, try to have a second line of communication with the speakers in case an issue comes up on their end
+* audience-side issues: attendees are instructed to send chat messages directly to the moderator if technical issues arise on their end, and the moderator must make a judgement call as to whether some kind of action should be taken
 
 Moderators should report on any such issues (and fixes) to the organizers or the VSF team, and also encourage such feedback from all participants.
 
@@ -62,5 +60,5 @@ Moderators should report on any such issues (and fixes) to the organizers or the
 
 In the event of misconduct by any participant in video, audio, or text chat, moderators need to take the following actions (in order):
 
-* Warn involved participant(s) of their behaviour and the possible consequences.
-* Remove repeat offenders from the session.
+* warn involved participant(s) of their behaviour and the possible consequences
+* remove repeat offenders from the session
