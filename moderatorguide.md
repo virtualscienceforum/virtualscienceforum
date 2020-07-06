@@ -10,7 +10,9 @@
 * monitor participant behavior, including in the chat, for breaches of the code of conduct
 * give a closing remarks
 
-Below we provide more detailed information on certain aspects of the moderator role. Note that the moderator role requires full concentration, lot of focus and continuous monitoring of multiple channels. In that sense, moderating an online event is significantly more demanding than the role of a chair in an offline conference.
+The moderator role requires full concentration and continuous monitoring of multiple channels. In that sense, moderating an online event is significantly more demanding than the role of a chair in an offline conference.
+
+Below we provide more detailed information on certain aspects of the moderator role, including instructions specific to the Zoom platform where applicable. 
 
 ## How to
 
