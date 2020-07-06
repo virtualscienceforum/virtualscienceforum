@@ -7,7 +7,7 @@
 * remind the audience of the event format and explain how and when to ask questions
 * monitor the participant list for raised hands and enable those attendees to ask questions
 * handle any technical issues 
-* monitor participant behavior in the chat for breaches of the code of conduct
+* monitor participant behavior, including in the chat, for breaches of the code of conduct
 * give a closing remarks
 
 Below we provide more detailed information on certain aspects of the moderator role. Note that the moderator role requires full concentration, lot of focus and continuous monitoring of multiple channels. In that sense, moderating an online event is significantly more demanding than the role of a chair in an offline conference.
