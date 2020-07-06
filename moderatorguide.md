@@ -20,7 +20,7 @@ Below we provide more detailed information on certain aspects of the moderator r
 
 At the beginning of the seminar: 
 
-* ensure that everyone is muted and cannot unmute themselves by clicking "mute all participants" and unchecking "participants may unmute themselves" checkbox
+* ensure that everyone is muted and cannot unmute themselves: checkmark the "mute all participants" checkbox and uncheck the "participants may unmute themselves" checkbox
 * remind the audience that the talk is recorded and start the recording
 * deliver the opening remarks, introduce VSF and the speaker
 * turn on spotlight of the speaker’s webcam stream
