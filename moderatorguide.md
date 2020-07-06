@@ -55,7 +55,7 @@ Mediating questions:
 * speaker-side issues: where possible, try to have a second line of communication with the speakers in case an issue comes up on their end
 * audience-side issues: attendees are instructed to send chat messages directly to the moderator if technical issues arise on their end, and the moderator must make a judgement call as to whether some kind of action should be taken
 
-Moderators should report on any such issues (and fixes) to the organizers or the VSF team, and also encourage such feedback from all participants.
+Moderators should report any technical issues (and fixes) to the organizers and the VSF team and also encourage such feedback from all participants.
 
 
 ### Misconduct
