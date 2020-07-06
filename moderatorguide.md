@@ -32,7 +32,7 @@ At the end of the seminar:
 * initiate the post-talk question/answer period
 * stop highlighting speaker's screen-share
 
-NB: a virtual conference cannot have applause after the seminar ends! However, you may invite the audience to use for example the Zoom "applaud" emote.
+NB: a virtual conference cannot have applause after the seminar ends! However, you may invite the audience to use alternatives such as the Zoom "applaud" emote.
 
 
 ### Question guidelines
