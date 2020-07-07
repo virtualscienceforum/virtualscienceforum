@@ -45,8 +45,8 @@ Mediating questions:
 
 * monitor the participants list to observe attendees signaling for questions (“raise hand” Zoom emote)
 * inform the speaker and audience of the question and signal the asker by stating their name and unmuting their microphone
-* leave the attendee unmuted while interacting with the speaker
-* mute the attendee when finished, and “lower their hand”
+* leave the asker unmuted while interacting with the speaker
+* mute the asker when finished and “lower their hand”
 * in the event of a prolonged discussion get the talk back on track and suggest a private discussion after the seminar
 
 
