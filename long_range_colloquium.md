@@ -49,8 +49,6 @@ Attendance is open to everyone, but please [register](#nurit-avraham-weizmann-in
 > [1] Nayak et. al., Sci. Adv., 5, eaax6996 (2019)
 > [2] Avraham et. al. Nature Materials 19, 610 (2020)
 
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJElfu-oqjssEt0iI4j2tS2yZ77DlkIaE_7d" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
-
 ## Talk recordings
 
 ### Liang Fu, MIT
