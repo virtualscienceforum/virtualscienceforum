@@ -16,7 +16,18 @@ Attendance is open to everyone, but please [register](#nurit-avraham-weizmann-in
 |  June 17 | [Klaus Mølmer](#klaus-mølmer-aarhus-university) |  Quantum interactions with pulses of radiation  |
 |  June 24  | [Ali Yazdani](#ali-yazdani-princeton-university) |  Strongly interacting electronic states of a moiré superlattice  |
 |  July 8  | [Nurit Avraham](#nurit-avraham-weizmann-institute) |  Multiple topological facets of Bismuth  |
-| August 5 | Titus Neupert | TBA |
+| July 22 | [Nathalie de Leon](#nathalie-de-leon-princeton-university) | TBA |
+| August 5 | [Titus Neupert](#titus-neupert-university-of-zürich) | TBA |
+
+## Upcoming talks
+
+### Nathalie de Leon, Princeton University
+
+22 July 2020, 1:30 PM ET (19:30 CEST)
+
+### Titus Neupert, University of Zürich
+
+5 August 2020, 1:30 PM ET (19:30 CEST)  
 
 ## Talk recordings
 
