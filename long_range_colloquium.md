@@ -20,7 +20,7 @@ Attendance is open to everyone, but please [register](#nurit-avraham-weizmann-in
 | August 5 | [Titus Neupert](#titus-neupert-university-of-zürich) | TBA |
 
 ## Upcoming talks
-
+ 
 <!-- Registration iframe for copypasting
 <iframe width="100%" height="940" src="<URL>" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 -->
@@ -35,6 +35,7 @@ Attendance is open to everyone, but please [register](#nurit-avraham-weizmann-in
 >
 > In fact, many platforms for quantum technologies are limited by noise and loss arising from uncontrolled defects at surfaces and interfaces, including superconducting qubits, trapped ions, and semiconductor quantum dots. Our approach for correlating surface spectroscopy techniques with single qubit measurements to realize directed improvements is generally applicable to many systems, and I will describe our recent efforts to tackle noise and microwave losses in superconducting qubits [(arXiv:2003.00024)](https://arxiv.org/abs/2003.00024). 
 
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJ0lceCtpzMtG9G-kIbhdH3cosODGjkhEPp-" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
 ### Titus Neupert, University of Zürich
