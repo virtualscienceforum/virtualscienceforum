@@ -3,7 +3,7 @@
 We provide a venue for seminars about latest developments in condensed matter physics and quantum information.
 
 The colloquium runs every other Wednesday at 1:30 PM ET (19:30 CEST), starting April 15.
-Attendance is open to everyone, but please [register](#nurit-avraham-weizmann-institute) to attend!
+Attendance is open to everyone, but please [register](#nathalie-de-leon-princeton-university) to attend!
 
 ## Program
 
@@ -16,14 +16,27 @@ Attendance is open to everyone, but please [register](#nurit-avraham-weizmann-in
 |  June 17 | [Klaus Mølmer](#klaus-mølmer-aarhus-university) |  Quantum interactions with pulses of radiation  |
 |  June 24  | [Ali Yazdani](#ali-yazdani-princeton-university) |  Strongly interacting electronic states of a moiré superlattice  |
 |  July 8  | [Nurit Avraham](#nurit-avraham-weizmann-institute) |  Multiple topological facets of Bismuth  |
-| July 22 | [Nathalie de Leon](#nathalie-de-leon-princeton-university) | TBA |
+| July 22 | [Nathalie P. de Leon](#nathalie-de-leon-princeton-university) | Correlating surface spectroscopy with qubit measurements to systematically eliminate sources of noise |
 | August 5 | [Titus Neupert](#titus-neupert-university-of-zürich) | TBA |
 
 ## Upcoming talks
+ 
+<!-- Registration iframe for copypasting
+<iframe width="100%" height="940" src="<URL>" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+-->
 
 ### Nathalie de Leon, Princeton University
 
 22 July 2020, 1:30 PM ET (19:30 CEST)
+
+> #### Correlating surface spectroscopy with qubit measurements to systematically eliminate sources of noise
+>
+> The nitrogen vacancy (NV) center in diamond exhibits spin-dependent fluorescence and long spin coherence times under ambient conditions, enabling applications in quantum information processing and sensing. NV centers near the surface can have strong interactions with external materials and spins, enabling new forms of nanoscale spectroscopy. However, NV spin coherence degrades within 100 nanometers of the surface, suggesting that diamond surfaces are plagued with ubiquitous defects. Prior work on characterizing near-surface noise has primarily relied on using NV centers themselves as probes; while this has the advantage of exquisite sensitivity, it provides only indirect information about the origin of the noise. I will describe our recent efforts to use X-ray and photoelectron spectroscopies, diffraction techniques, and morphology characterization to understand sources of noise at the diamond surface. By correlating this spectroscopic data with single spin measurements, we have been able to devise new surface processing and termination techniques to stabilize shallow NV centers within 5 nm of the surface with coherence times exceeding 100 μs [(PRX 9, 031052)](https://doi.org/10.1103/PhysRevX.9.031052). Specifically, we are able to demonstrate reversible and reproducible control over the top layer of atoms. These highly coherent, shallow NV centers will provide a platform for sensing and imaging down to the scale of single atoms.
+>
+> In fact, many platforms for quantum technologies are limited by noise and loss arising from uncontrolled defects at surfaces and interfaces, including superconducting qubits, trapped ions, and semiconductor quantum dots. Our approach for correlating surface spectroscopy techniques with single qubit measurements to realize directed improvements is generally applicable to many systems, and I will describe our recent efforts to tackle noise and microwave losses in superconducting qubits [(arXiv:2003.00024)](https://arxiv.org/abs/2003.00024). 
+
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJ0lceCtpzMtG9G-kIbhdH3cosODGjkhEPp-" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
 
 ### Titus Neupert, University of Zürich
 
