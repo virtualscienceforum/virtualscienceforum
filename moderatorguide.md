@@ -1,64 +1,66 @@
 # Moderator Guide
 
-## Summary
+## Your tasks
+ 
 
-Moderation of a virtual conference involves more responsibility than chairing an offline session.
-Speaker-audience interaction is important for the success of a talk, but in a virtual environment it becomes more complicated.
-The moderator takes on the following responsibilities: 
+* open the program by introducing the event, organizers and the (first) speaker
+* remind the audience of the event format and explain how and when to ask questions
+* monitor the participant list for raised hands and enable those attendees to ask questions
+* handle any technical issues 
+* monitor participant behavior, including in the chat, for breaches of the code of conduct
+* give a closing remarks
 
-* announce and introduce the conference,
-* remind the audience of the seminar format, when questions are allowed, and how to raise hands to ask questions,
-* initiate a seminar by highlighting the speaker’s screen-share, unmuting their microphone, and introducing them by announcing their name, 	institution, and talk title,
-* monitor the participant list for raised hands and enable those attendees to ask questions,
-* close a seminar by thanking the speaker for their talk, muting and un-highlighting the speaker, and making any transition announcements,
-* handle any technical issues with the execution of the virtual conference,
-* monitor participant behavior in the chat for breaches of the code of conduct.
+The moderator role requires full concentration and continuous monitoring of multiple channels. In that sense, moderating an online event is significantly more demanding than the role of a chair in an offline conference.
 
-Below we provide more detailed information on certain aspects of the moderator role. 
+Below we provide more detailed information on certain aspects of the moderator role, including instructions specific to the Zoom platform where applicable. 
 
 ## How to
 
-### Transition seminars
+### Opening and closing remarks
 
-A seminar is ready to start, highlight the speaker’s screen-share, introduce the speaker (name, current institution, something about the talk or their current work), and then unmute the speaker to allow them to begin their seminar.
+At the beginning of the seminar: 
 
-When a seminar has concluded, thank the speaker and then enter the post-talk question/answer period if there will be one (see guidelines on questions below).
-After this, mute their microphone, and stop highlighting their screen-share.
-If the seminar ended early then you may pause until it is time for the next one to start.
+* ensure that everyone is muted and cannot unmute themselves: checkmark the "mute all participants" checkbox and uncheck the "participants may unmute themselves" checkbox
+* remind the audience that the talk is recorded and start the recording
+* deliver the opening remarks, introduce VSF and the speaker, remind the audience about the Q/A format and to please report any technical issues to you
+* turn on spotlight of the speaker’s webcam stream
+* unmute the speaker and invite them to begin their seminar
 
-NB: a virtual conference cannot have applause after the seminar ends! However, Zoom does have a clapping hands image that audience members may put up next to their name in the participants list. 
+At the end of the seminar: 
+
+* thank the speaker 
+* initiate the post-talk question/answer period
+* turn off spotlighting speaker's webcam stream
+
+NB: a virtual conference cannot have applause after the seminar ends! However, you may invite the audience to use alternatives such as the Zoom "applaud" emote.
 
 
 ### Question guidelines
 
-Unless otherwise agreed by the organizers, the following guidelines apply:
+Our suggested guidelines for when questions are allowed:
+* short talks: after the talk ends
+* long talks: questions may be asked at any time
 
-* Short talks: after the talk ends.
-* Long talks: questions may be asked at any time.
+Mediating questions:
 
-In general, mediating questions works like this:
-
-* Monitor the participants list to observe attendees signaling for questions (“Raise hand option”).
-* Let speaker and audience know that there is a question, and signal the asker by stating their name and unmuting their microphone.
-* Leave the attendee unmuted while interacting with the speaker.
-* Mute the attendee when finished, and “lower their hand”.
-* In the event of a prolonged discussion, you may get the talk back on track by suggesting that the conversation continue separately after the seminar.
-
-
-### Deal with technical issues
-
-Just as in a non-virtual seminar, technical issues may crop up. Here, they can take the form of degraded/lost internet connection, computer failure, etc. Where possible, the moderator should do their best to resolve or manage technical issues that disrupt a seminar.
-
-* Speaker-side issues: where possible, try to have a second line of communication with the speakers in case an issue comes up on their end.
-* Audience-side issues: attendees are instructed to send chat messages directly to the moderator if technical issues arise on their end, and the moderator must make a judgement call as to whether some kind of action should be taken.
-
-Moderators should report on any such issues (and fixes) to the organizers or the VSF team, and also encourage such feedback from all participants.
+* monitor the participants list to observe attendees signaling for questions (“raise hand” Zoom emote)
+* inform the speaker and audience of the question and signal the asker by stating their name and unmuting their microphone
+* leave the asker unmuted while interacting with the speaker
+* mute the asker when finished and “lower their hand”
+* in the event of a prolonged discussion get the talk back on track and suggest a private discussion after the seminar
 
 
-### Deal with misconduct
+### Technical issues
 
-In the event of misconduct (defined by the code of conduct) from any participant moderators need to take the following actions:
+* speaker-side issues: where possible, try to have a second line of communication with the speakers in case an issue comes up on their end
+* audience-side issues: attendees are instructed to send chat messages directly to the moderator if technical issues arise on their end, and the moderator must make a judgement call as to whether some kind of action should be taken
 
-* Warn involved participant(s) of their behaviour and the possible consequences.
-* Remove repeat offenders from the session.
-* Overlook chat interactions where the same rules apply.
+Moderators should report any technical issues (and fixes) to the organizers and the VSF team and also encourage such feedback from all participants.
+
+
+### Misconduct
+
+In the event of misconduct by any participant in video, audio, or text chat, moderators need to take the following actions (in order):
+
+* warn involved participant(s) of their behaviour and the possible consequences
+* remove repeat offenders from the session
