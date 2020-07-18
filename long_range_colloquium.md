@@ -18,7 +18,7 @@ Attendance is open to everyone, but please [register](#nathalie-de-leon-princeto
 |  July 8  | [Nurit Avraham](#nurit-avraham-weizmann-institute) |  Multiple topological facets of Bismuth  |
 | July 22 | [Nathalie P. de Leon](#nathalie-de-leon-princeton-university) | Correlating surface spectroscopy with qubit measurements to systematically eliminate sources of noise |
 | August 5 | [Titus Neupert](#titus-neupert-university-of-zürich) | TBA |
-| August 19 | [Mohammad Hafezi](#mohammad-hafezi-university-of-maryland-and-JQI) | TBA |
+| August 19 | [Mohammad Hafezi](#mohammad-hafezi-university-of-maryland-and-jqi) | TBA |
 
 ## Upcoming talks
  
