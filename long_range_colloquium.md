@@ -36,6 +36,8 @@ Attendance is open to everyone, but please [register](#nathalie-de-leon-princeto
 >
 > In fact, many platforms for quantum technologies are limited by noise and loss arising from uncontrolled defects at surfaces and interfaces, including superconducting qubits, trapped ions, and semiconductor quantum dots. Our approach for correlating surface spectroscopy techniques with single qubit measurements to realize directed improvements is generally applicable to many systems, and I will describe our recent efforts to tackle noise and microwave losses in superconducting qubits [(arXiv:2003.00024)](https://arxiv.org/abs/2003.00024). 
 
+If the registration form below does not appear for you, please visit [this Zoom registration link](https://virtualscienceforum-org.zoom.us/meeting/register/tJ0lceCtpzMtG9G-kIbhdH3cosODGjkhEPp-).
+
 <iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJ0lceCtpzMtG9G-kIbhdH3cosODGjkhEPp-" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
