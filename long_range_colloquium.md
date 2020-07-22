@@ -26,24 +26,13 @@ Attendance is open to everyone, but please [register](#nathalie-de-leon-princeto
 <iframe width="100%" height="940" src="<URL>" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 -->
 
-### Nathalie de Leon, Princeton University
-
-22 July 2020, 1:30 PM ET (19:30 CEST)
-
-> #### Correlating surface spectroscopy with qubit measurements to systematically eliminate sources of noise
->
-> The nitrogen vacancy (NV) center in diamond exhibits spin-dependent fluorescence and long spin coherence times under ambient conditions, enabling applications in quantum information processing and sensing. NV centers near the surface can have strong interactions with external materials and spins, enabling new forms of nanoscale spectroscopy. However, NV spin coherence degrades within 100 nanometers of the surface, suggesting that diamond surfaces are plagued with ubiquitous defects. Prior work on characterizing near-surface noise has primarily relied on using NV centers themselves as probes; while this has the advantage of exquisite sensitivity, it provides only indirect information about the origin of the noise. I will describe our recent efforts to use X-ray and photoelectron spectroscopies, diffraction techniques, and morphology characterization to understand sources of noise at the diamond surface. By correlating this spectroscopic data with single spin measurements, we have been able to devise new surface processing and termination techniques to stabilize shallow NV centers within 5 nm of the surface with coherence times exceeding 100 μs [(PRX 9, 031052)](https://doi.org/10.1103/PhysRevX.9.031052). Specifically, we are able to demonstrate reversible and reproducible control over the top layer of atoms. These highly coherent, shallow NV centers will provide a platform for sensing and imaging down to the scale of single atoms.
->
-> In fact, many platforms for quantum technologies are limited by noise and loss arising from uncontrolled defects at surfaces and interfaces, including superconducting qubits, trapped ions, and semiconductor quantum dots. Our approach for correlating surface spectroscopy techniques with single qubit measurements to realize directed improvements is generally applicable to many systems, and I will describe our recent efforts to tackle noise and microwave losses in superconducting qubits [(arXiv:2003.00024)](https://arxiv.org/abs/2003.00024). 
-
-If the registration form below does not appear for you, please visit [this Zoom registration link](https://virtualscienceforum-org.zoom.us/meeting/register/tJ0lceCtpzMtG9G-kIbhdH3cosODGjkhEPp-).
-
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJ0lceCtpzMtG9G-kIbhdH3cosODGjkhEPp-" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
-
-
 ### Titus Neupert, University of Zürich
 
-5 August 2020, 1:30 PM ET (19:30 CEST)  
+5 August 2020, 1:30 PM ET (19:30 CEST)
+
+#### TBA
+
+If the registration form below does not appear for you, please visit [this Zoom registration link](https://virtualscienceforum-org.zoom.us/meeting/register/tJwpd-msrjgiG9ZguBf7AhMevN-RELpd6cqf).
 
 <iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJwpd-msrjgiG9ZguBf7AhMevN-RELpd6cqf" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
@@ -98,3 +87,11 @@ Title: **Strongly interacting electronic states of a moiré superlattice**
 Title: **Multiple topological facets of Bismuth**
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/V2VrOmHGXp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Nathalie de Leon, Princeton University
+
+22 July 2020, 1:30 PM ET (19:30 CEST)
+
+Title: **Correlating surface spectroscopy with qubit measurements to systematically eliminate sources of noise**
+
+Video in preparation.
