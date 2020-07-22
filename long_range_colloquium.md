@@ -45,6 +45,8 @@ If the registration form below does not appear for you, please visit [this Zoom 
 
 5 August 2020, 1:30 PM ET (19:30 CEST)  
 
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJwpd-msrjgiG9ZguBf7AhMevN-RELpd6cqf" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
 ### Mohammad Hafezi, University of Maryland and JQI
 
 19 August 2020, 1:30 PM ET (19:30 CEST)  
