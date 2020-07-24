@@ -94,4 +94,4 @@ Title: **Multiple topological facets of Bismuth**
 
 Title: **Correlating surface spectroscopy with qubit measurements to systematically eliminate sources of noise**
 
-Video in preparation.
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pPHzrv0mZ90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
