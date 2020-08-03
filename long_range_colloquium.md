@@ -18,7 +18,7 @@ Attendance is open to everyone, but please [register](#nathalie-de-leon-princeto
 |  July 8  | [Nurit Avraham](#nurit-avraham-weizmann-institute) |  Multiple topological facets of Bismuth  |
 | July 22 | [Nathalie P. de Leon](#nathalie-de-leon-princeton-university) | Correlating surface spectroscopy with qubit measurements to systematically eliminate sources of noise |
 | August 5 | [Titus Neupert](#titus-neupert-university-of-zürich) | Exceptional Topological Insulators |
-| August 19 | [Mohammad Hafezi](#mohammad-hafezi-university-of-maryland-and-jqi) | TBA |
+| August 19 | [Mohammad Hafezi](#mohammad-hafezi-university-of-maryland-and-jqi) | Quantum optics meets correlated electrons |
 
 ## Upcoming talks
  
@@ -44,7 +44,21 @@ If the registration form below does not appear for you, please visit [this Zoom 
 
 ### Mohammad Hafezi, University of Maryland and JQI
 
-19 August 2020, 1:30 PM ET (19:30 CEST)  
+19 August 2020, 1:30 PM ET (19:30 CEST)
+> ### Quantum optics meets correlated electrons
+> 
+> One of the key challenges in the development of quantum technologies is the control of light-matter interaction at the quantum level where individual excitations matter. During the past couple of decades, there has been tremendous progress in controlling individual photons and other excitations such as spin, excitonic, phononic in solid-state systems. Such efforts have been motivated to develop quantum technologies such as quantum memories, quantum transducers, quantum networks, and quantum sensing. While these efforts have been mainly focused on control and manipulation of individual excitations (i.e., single-particle physics), both desired and undesired many-body effects have become important. Therefore,  it is intriguing to explore whether these quantum optical control techniques could pave a radically new avenue to prepare, manipulate, and detect non-local and correlated electronic states, such as topological ones.
+>
+> We present several examples of such ideas: (1) Optically driven fractional quantum Hall states: While in Floquet band engineering, the focus is on the control of the single-particle Hamiltonian, here the optical drive can effectively engineer the interaction terms, which could lead to the preparation of model Hamiltonians and exotic topological states. (2) Enhancing superconductivity with an optical drive: we propose a new approach for the enhancement of superconductivity by the targeted destruction of the competing charge/bond density waves (BDW) order. By investigating the optical coupling of gapless, collective fluctuations of the BDWs, we argue that the resonant excitation of these modes can melt the underlying BDW order parameter. We propose an experimental setup to implement such an optical coupling using 2D plasmon-polariton hybrid systems. (3) We also discuss how the coupling of an empty cavity can enhance the superconducting transition temperature, in a quantum analogy to the Eliasberg effect. In the end, we discuss how by driving a semi-conductor and creating a population inversion, one could achieve s-wave and p-wave superconducting pairing.
+>
+> References:
+> * Fractional Quantum Hall States:
+>   * Physical Review Letters, 119, 247403 (2017)
+>   * Physical Review B, 98, 155124 (2018)
+>   * arXiv:2005.13569 (2020)
+> * Superconductivity:
+>   * Phys. Rev. Lett., 122 , 167002 (2019)
+>   * Phys. Rev. B, 101, 224506 (2020)
 
 ## Talk recordings
 
