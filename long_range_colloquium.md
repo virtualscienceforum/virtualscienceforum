@@ -60,6 +60,10 @@ If the registration form below does not appear for you, please visit [this Zoom 
 >   * Phys. Rev. Lett., 122 , 167002 (2019)
 >   * Phys. Rev. B, 101, 224506 (2020)
 
+If the registration form below does not appear for you, please visit [this Zoom registration link](https://virtualscienceforum-org.zoom.us/meeting/register/tJwkduqhqT0tE9L3oOv8TYqJfIrWNaqtcBzh).
+
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJwkduqhqT0tE9L3oOv8TYqJfIrWNaqtcBzh" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
 ## Talk recordings
 
 ### Liang Fu, MIT
