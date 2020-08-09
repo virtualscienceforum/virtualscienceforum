@@ -38,9 +38,6 @@ Attendance is open to everyone, but please [register](#nathalie-de-leon-princeto
 > 
 > In this colloquium, I will introduce the exceptional topological insulator (ETI), a three-dimensional non-Hermitian topological state of matter that features exotic non-Hermitian surface states which can only exist within the three-dimensional topological bulk embedding. I will show how this phase can evolve from a Weyl semimetal or Hermitian three-dimensional topological insulator close to criticality when quasiparticles acquire a finite lifetime. The ETI does not require any symmetry to be stabilized. It is characterized by a bulk energy point gap, and exhibits robust surface states that cover the bulk gap as a single sheet of complex eigenvalues or with a single surface exceptional point. The ETI can be induced in genuine solid-state and metamaterial systems, thereby setting a paradigm for non-Hermitian topological matter.
 
-If the registration form below does not appear for you, please visit [this Zoom registration link](https://virtualscienceforum-org.zoom.us/meeting/register/tJwpd-msrjgiG9ZguBf7AhMevN-RELpd6cqf).
-
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJwpd-msrjgiG9ZguBf7AhMevN-RELpd6cqf" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 ### Mohammad Hafezi, University of Maryland and JQI
 
