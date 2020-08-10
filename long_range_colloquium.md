@@ -2,8 +2,8 @@
 
 We provide a venue for seminars about latest developments in condensed matter physics and quantum information.
 
-The colloquium runs every other Wednesday at 1:30 PM ET (19:30 CEST), starting April 15.
-Attendance is open to everyone, but please [register](#nathalie-de-leon-princeton-university) to attend!
+The colloquium runs every other Wednesday at 1:30 PM ET (19:30 CEST).
+Attendance is open to everyone, but please [register](#mohammad-hafezi-university-of-maryland-and-jqi) to attend!
 
 ## Program
 
@@ -25,19 +25,6 @@ Attendance is open to everyone, but please [register](#nathalie-de-leon-princeto
 <!-- Registration iframe for copypasting
 <iframe width="100%" height="940" src="<URL>" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 -->
-
-### Titus Neupert, University of Zürich
-
-5 August 2020, 1:30 PM ET (19:30 CEST)
-
-> #### Exceptional Topological Insulators
->
-> Since their discovery, three-dimensional topological insulators have become the focal point for research on topological quantum matter. Their key feature are conducting surface states resembling a single species of gapless Dirac electrons. Transcending the realm of quantum matter, the topological insulator phase has since been realized in many different settings including metamaterials, such as photonic and phononic crystals.
->
-> Most of such metamaterial platforms are accidentally or tunably lossy, such that their effective Hamiltonian description involves non-Hermitian terms due to the lack of energy conservation. The same holds for interacting electronic quantum systems in which quasiparticles attain a finite lifetime, for instance. Starting from the initial classification of topological matter based on Hermitian Hamiltonians, the study of systems with non-negligible loss and gain calls for an extension to non-Hermitian topological matter.
-> 
-> In this colloquium, I will introduce the exceptional topological insulator (ETI), a three-dimensional non-Hermitian topological state of matter that features exotic non-Hermitian surface states which can only exist within the three-dimensional topological bulk embedding. I will show how this phase can evolve from a Weyl semimetal or Hermitian three-dimensional topological insulator close to criticality when quasiparticles acquire a finite lifetime. The ETI does not require any symmetry to be stabilized. It is characterized by a bulk energy point gap, and exhibits robust surface states that cover the bulk gap as a single sheet of complex eigenvalues or with a single surface exceptional point. The ETI can be induced in genuine solid-state and metamaterial systems, thereby setting a paradigm for non-Hermitian topological matter.
-
 
 ### Mohammad Hafezi, University of Maryland and JQI
 
@@ -116,3 +103,9 @@ Title: **Multiple topological facets of Bismuth**
 Title: **Correlating surface spectroscopy with qubit measurements to systematically eliminate sources of noise**
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pPHzrv0mZ90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Titus Neupert, University of Zürich
+
+Title: **Exceptional Topological Insulators**
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7E-X8BV88VA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
