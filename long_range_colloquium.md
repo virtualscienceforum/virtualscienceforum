@@ -20,33 +20,13 @@ Attendance is open to everyone, but please [register](#mohammad-hafezi-universit
 | August 5 | [Titus Neupert](#titus-neupert-university-of-zürich) | Exceptional Topological Insulators |
 | August 19 | [Mohammad Hafezi](#mohammad-hafezi-university-of-maryland-and-jqi) | Quantum optics meets correlated electrons |
 
-## Upcoming talks
+<!--## Upcoming talks -->
  
 <!-- Registration iframe for copypasting
+If the registration form below does not appear for you, please visit [this Zoom registration link](<URL>).
+
 <iframe width="100%" height="940" src="<URL>" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 -->
-
-### Mohammad Hafezi, University of Maryland and JQI
-
-19 August 2020, 1:30 PM ET (19:30 CEST)
-> ### Quantum optics meets correlated electrons
-> 
-> One of the key challenges in the development of quantum technologies is the control of light-matter interaction at the quantum level where individual excitations matter. During the past couple of decades, there has been tremendous progress in controlling individual photons and other excitations such as spin, excitonic, phononic in solid-state systems. Such efforts have been motivated to develop quantum technologies such as quantum memories, quantum transducers, quantum networks, and quantum sensing. While these efforts have been mainly focused on control and manipulation of individual excitations (i.e., single-particle physics), both desired and undesired many-body effects have become important. Therefore,  it is intriguing to explore whether these quantum optical control techniques could pave a radically new avenue to prepare, manipulate, and detect non-local and correlated electronic states, such as topological ones.
->
-> We present several examples of such ideas: (1) Optically driven fractional quantum Hall states: While in Floquet band engineering, the focus is on the control of the single-particle Hamiltonian, here the optical drive can effectively engineer the interaction terms, which could lead to the preparation of model Hamiltonians and exotic topological states. (2) Enhancing superconductivity with an optical drive: we propose a new approach for the enhancement of superconductivity by the targeted destruction of the competing charge/bond density waves (BDW) order. By investigating the optical coupling of gapless, collective fluctuations of the BDWs, we argue that the resonant excitation of these modes can melt the underlying BDW order parameter. We propose an experimental setup to implement such an optical coupling using 2D plasmon-polariton hybrid systems. (3) We also discuss how the coupling of an empty cavity can enhance the superconducting transition temperature, in a quantum analogy to the Eliasberg effect. In the end, we discuss how by driving a semi-conductor and creating a population inversion, one could achieve s-wave and p-wave superconducting pairing.
->
-> References:
-> * Fractional Quantum Hall States:
->   * Physical Review Letters, 119, 247403 (2017)
->   * Physical Review B, 98, 155124 (2018)
->   * arXiv:2005.13569 (2020)
-> * Superconductivity:
->   * Phys. Rev. Lett., 122 , 167002 (2019)
->   * Phys. Rev. B, 101, 224506 (2020)
-
-If the registration form below does not appear for you, please visit [this Zoom registration link](https://virtualscienceforum-org.zoom.us/meeting/register/tJwkduqhqT0tE9L3oOv8TYqJfIrWNaqtcBzh).
-
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJwkduqhqT0tE9L3oOv8TYqJfIrWNaqtcBzh" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 ## Talk recordings
 
@@ -109,3 +89,9 @@ Title: **Correlating surface spectroscopy with qubit measurements to systematica
 Title: **Exceptional Topological Insulators**
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7E-X8BV88VA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Mohammad Hafezi, University of Maryland and JQI
+
+Title: **Quantum optics meets correlated electrons**
+
+*Video in preparation*
