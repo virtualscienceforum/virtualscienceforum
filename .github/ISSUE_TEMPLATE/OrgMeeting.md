@@ -1,3 +1,11 @@
+---
+name: Organizational Meeting
+about: Template for weekly organizational meetings
+title: "VSF Organizational Meeting {date} 7pm CEST / 1pm EST"
+labels: 
+assignees: ""
+---
+
 Zoom link:  https://virtualscienceforum-org.zoom.us/j/97339120210
 
 Hackmd link for meeting minutes: [Provide link to a HackMD note]
