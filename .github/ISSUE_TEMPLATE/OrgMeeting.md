@@ -13,3 +13,9 @@ Hackmd link for meeting minutes: [Provide link to a HackMD note]
 Proposed agenda:
 
 [Proivde a list of items. Be sure to include - Next chair? ]
+
+Checklist:
+- [ ] Start recording on Zoom
+- [ ] Copy paste meeting notes to Wiki, title "YYYY-MM-DD Org Meeting"
+- [ ] Post Zoom recording to [YouTube channel](https://www.youtube.com/channel/UCvQEx4iW7u_x3jX742kUZLw)
+- [ ] Close this issue
