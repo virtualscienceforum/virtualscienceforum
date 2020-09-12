@@ -48,8 +48,8 @@ The conference begins with a pedagogical introduction to fractional statistics a
 
 ## Organizers
 
-[Maissam Barkeshli](https://umdphysics.umd.edu/people/faculty/current/item/718-maissam.html#biography), University of Maryland (USA)
-[Valla Fatemi](https://scholar.google.com/citations?hl=en&user=2FyVH8gAAAAJ), Yale University (USA)
+[Maissam Barkeshli](https://umdphysics.umd.edu/people/faculty/current/item/718-maissam.html#biography), University of Maryland (USA) <br />
+[Valla Fatemi](https://scholar.google.com/citations?hl=en&user=2FyVH8gAAAAJ), Yale University (USA) <br />
 [Babak Seradjeh](https://babaks.pages.iu.edu/), Indiana University at Bloomington (USA)
 
 **Contact:** anyons2020@virtualscienceforum.org
