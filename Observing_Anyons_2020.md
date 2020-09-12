@@ -36,6 +36,8 @@ The conference begins with a pedagogical introduction to fractional statistics a
 11:30   Break
 
 11:35   Panel Discussion
+> Moderator: [Steven H. Simon](https://www-thphys.physics.ox.ac.uk/people/SteveSimon/), University of Oxford (UK) <br />
+>
 > [Gwendal Feve](http://www.lpa.ens.fr/?-Quantum-optics-with-electrons-&lang=en), École normale supérieure (France) <br />
 > [Bertrand Halperin](https://www.physics.harvard.edu/people/facpages/halperin), Harvard University (USA) <br />
 > [Moty Heiblum](https://www.weizmann.ac.il/condmat/heiblum/), Weizmann Institute of Science (Israel) <br />
@@ -43,7 +45,6 @@ The conference begins with a pedagogical introduction to fractional statistics a
 > [James Nakamura](https://manfragroup.org/james-nakamura/), Purdue University (USA) <br />
 > [Bernd Rosenow](https://home.uni-leipzig.de/rosenow/Bernd_Rosenow/Welcome.html), University of Leipzig (Germany) <br />
 > [Smitha Vishveshwara](https://physics.illinois.edu/people/directory/profile/smivish), University of Illinois at Urbana-Champaign (USA) <br />
-> Moderator: [Steven H. Simon](https://www-thphys.physics.ox.ac.uk/people/SteveSimon/), University of Oxford (UK)
 
 12:25 Concluding Remarks
 
