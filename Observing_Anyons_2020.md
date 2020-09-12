@@ -29,7 +29,7 @@ The conference begins with a pedagogical introduction to fractional statistics a
 > **Fractional statistics in anyon collisions** <br />
 > H. Bartolomei *et al*, [Science **368**, 173 (2020)](https://doi.org/10.1126/science.aaz5601); Preprint [arXiv:2006.13157](https://arxiv.org/abs/2006.13157)
 
-10:50 [**Michael J. Manfra**](https://manfragroup.org/), Bill and Dee O’Brian Chair Professor of Physics and Astronomy, Purdue University (USA)  
+10:50 [**Michael J. Manfra**](https://manfragroup.org/), Purdue University (USA)  
 > **Direct observation of anyonic braiding statistics** <br />
 > J. Nakamura, S. Liang, G. C. Gardner & M. J. Manfra, [Nature Physics **16**, 931 (2020)](https://doi.org/10.1038/s41567-020-1019-1); Preprint [arXiv:2006.14115](https://arxiv.org/abs/2006.14115)
 
