@@ -1,19 +1,21 @@
+<!--
 <div style="text-align:center;">
   <p style="font-family:baskerville,times new roman; font-size: x-large;">Observing Anyons 2020</p>
   <p style="font-family:arial thin,arial,times new roman; font-size: large;">mini-conference</p>
   <p style="font-weight:bold;">October 5, 2020 9:30am&ndash;12:30pm EDT</p>
-  <p style="font-weight:normal;"><a href="https://everytimezone.com/s/4ab0cea5">view in your time zone</a></p>
-
+  <p style="font-weight:normal;">(<a href="https://everytimezone.com/s/4ab0cea5">view in your time zone</a>)</p>
 </div>
-
+-->
+![Logo: Braiding](/media/Anyons-scheme_trans.png)
+# Observing Anyons 2020
+## A mini-conference
+**October 5, 2020 9:30am&ndash;12:30pm EDT** ([view in your time zone](https://everytimezone.com/s/4ab0cea5)) <br />
+**[Register](#register)**
+<hr />
 
 Observing Ayons 2020 is a mini-confernece that convenes experts to present and discuss the latest advances on observing anyons in nature. 
 The focus of the conference is on two experimental efforts in 2020 reporting the first observation of fractional statistics in fractional quantum Hall devices.
 The conference begins with a pedagogical introduction to fractional statistics and quantum Hall systems, followed by presentations by representatives from each experimental group, and concludes with a panel discussion to discuss the details and future implications of these findings.
-
-Contact: anyons2020@virtualscienceforum.org
-
-Register
 
 ## Program
 (All times EDT)
@@ -49,3 +51,10 @@ Register
 [Maissam Barkeshli](https://umdphysics.umd.edu/people/faculty/current/item/718-maissam.html#biography), University of Maryland (USA)
 [Valla Fatemi](https://scholar.google.com/citations?hl=en&user=2FyVH8gAAAAJ), Yale University (USA)
 [Babak Seradjeh](https://babaks.pages.iu.edu/), Indiana University at Bloomington (USA)
+
+**Contact:** anyons2020@virtualscienceforum.org
+
+## Register
+**[On Zoom](https://virtualscienceforum-org.zoom.us/meeting/register/tJIpd--qrzIqHNZ55BuksI37QtCVhG4yq67a)**
+
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJIpd--qrzIqHNZ55BuksI37QtCVhG4yq67a" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
