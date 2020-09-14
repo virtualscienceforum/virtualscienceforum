@@ -34,10 +34,24 @@
   function submitMailingListSignupForm(event) {
     event.preventDefault();
 
+    // Get a handle on the errordiv element..
+    var errordiv = document.getElementById("errordiv")
+    // ..and hide it by default
+    errordiv.style.display = "none";
+
+    // Get a handle on the errormessage element
+    var errormsg = document.getElementById("errormsg")
+    // ..and empty it by default
+    errormsg.textContent = ""
+
     // The user needs to select at least one list to sign up for
     if( document.querySelectorAll('input[name=signup-checkbox]:checked').length <= 0 )
     {
-      alert("Please select at least one mailing list");
+      // Changing content and color of content
+      errormsg.textContent = "Please select at least one mailing list";
+      errormsg.style.color = "white";
+      errordiv.style.backgroundColor = "#F44336";
+      errordiv.style.display = "block";
       return false;
     }
 
@@ -45,7 +59,11 @@
     xhr.open("POST", "https://vsf-worker.virtualscienceforum.workers.dev");
 
     xhr.onload = function(event){
-        alert("Success, server responded with: " + event.target.response); // raw response
+        if(event.target.status == 200 ) {
+          errordiv.style.backgroundColor = "#4CAF50";
+        }
+        errordiv.style.display = "block";
+        errormsg.textContent = event.target.response;
     };
 
     // Convert the form into a FormData object that we will send to
