@@ -8,7 +8,7 @@
 -->
 ![Logo: Braiding](/media/Anyons-scheme_trans.png)
 # Observing Anyons 2020
-<u>A mini-conference</u>< br/>
+<u>A mini-conference</u><br />
 **October 5, 2020 9:30am&ndash;12:30pm EDT** ([view in your time zone](https://everytimezone.com/s/4ab0cea5)) <br />
 **[Register](#register)**
 <hr />
@@ -38,7 +38,7 @@ The conference begins with a pedagogical introduction to fractional statistics a
 11:35   Panel Discussion
 > Moderator: [Steven H. Simon](https://www-thphys.physics.ox.ac.uk/people/SteveSimon/), University of Oxford (UK) <br />
 >
-> [Gwendal Feve](http://www.lpa.ens.fr/?-Quantum-optics-with-electrons-&lang=en), École normale supérieure (France) <br />
+> [Gwendal Fève](http://www.lpa.ens.fr/?-Quantum-optics-with-electrons-&lang=en), École normale supérieure (France) <br />
 > [Bertrand Halperin](https://www.physics.harvard.edu/people/facpages/halperin), Harvard University (USA) <br />
 > [Moty Heiblum](https://www.weizmann.ac.il/condmat/heiblum/), Weizmann Institute of Science (Israel) <br />
 > [Michael J. Manfra](https://manfragroup.org/), Purdue University (USA) <br />
