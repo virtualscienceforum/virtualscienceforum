@@ -67,8 +67,7 @@ button:hover {
   }
 }
 </style>
-
-<form action="https://vsf-worker.virtualscienceforum.workers.dev" method="post" onsubmit="function submit(event){}", style="border:1px solid #ccc">
+  <form id="mailingListForm" method="post" action="https://vsf-worker.virtualscienceforum.workers.dev" style="border:1px solid #ccc" onsubmit="submitMailingListSignupForm(event);">
   <div class="container">
     <h1>Sign Up</h1>
     <p>Please fill in this form and select the mailing lists you would like to join.</p>
@@ -84,7 +83,7 @@ button:hover {
         <li> <input type="checkbox" name="signup-speakerscorner"> <a href="#">Speaker's Corner</a> mailing list </li>
       </ul>
     </div>
-    <div id="recaptcha" class="g-recaptcha" data-sitekey="6Lf37MoZAAAAAF19QdljioXkLIw23w94QWpy9c5E"></div>
+    <div id="recaptcha" name="recaptcha" class="g-recaptcha" data-sitekey="6Lf37MoZAAAAAF19QdljioXkLIw23w94QWpy9c5E"></div>
     <div class="clearfix">
       <button type="submit" class="signupbtn">Sign Up</button>
     </div>

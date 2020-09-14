@@ -29,6 +29,23 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css">
   <script src="//cdn.jsdelivr.net/npm/docsify@4.10.2/lib/docsify.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+  <script>
+  function submitMailingListSignupForm(event) {
+    event.preventDefault();
+
+    var xhr = new XMLHttpRequest();
+    xhr.open("POST", "https://vsf-worker.virtualscienceforum.workers.dev");
+    xhr.onload = function(event){
+        alert("Success, server responded with: " + event.target.response); // raw response
+    };
+    // or onerror, onabort
+    formData = new FormData(document.forms["mailingListForm"]);
+    console.log(formData);
+    xhr.send(formData);
+
+    return false;
+  }
+  </script>
   <script src='https://www.google.com/recaptcha/api.js' async defer></script>
 </body>
 </html>
