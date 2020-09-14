@@ -8,7 +8,7 @@
 -->
 ![Logo: Braiding](/media/Anyons-scheme_trans.png)
 # Observing Anyons 2020
-<u>A mini-conference</u><br />
+**A mini-conference**<br />
 **October 5, 2020 9:30am&ndash;12:30pm EDT** ([view in your time zone](https://everytimezone.com/s/4ab0cea5)) <br />
 **[Register](#register)**
 <hr />
@@ -20,12 +20,11 @@ The conference begins with a pedagogical introduction to fractional statistics a
 ## Program
 (All times EDT)
 
-9:30    Welcome
+9:30    Welcome <br />
+9:35    [**Steven H. Simon**](https://www-thphys.physics.ox.ac.uk/people/SteveSimon/), University of Oxford (UK) <br />
+> **Introductory Seminar**
 
-9:35    [**Steven H. Simon**](https://www-thphys.physics.ox.ac.uk/people/SteveSimon/), University of Oxford (UK)
-> **Introductory Seminar**    
-
-10:10 [**Gwendal Fève**](http://www.lpa.ens.fr/?-Quantum-optics-with-electrons-&lang=en), École normale supérieure (France)
+10:10 [**Gwendal Fève**](http://www.lpa.ens.fr/?-Quantum-optics-with-electrons-&lang=en), École normale supérieure (France) <br />
 > **Fractional statistics in anyon collisions** <br />
 > H. Bartolomei *et al*, [Science **368**, 173 (2020)](https://doi.org/10.1126/science.aaz5601); Preprint [arXiv:2006.13157](https://arxiv.org/abs/2006.13157)
 
@@ -33,8 +32,7 @@ The conference begins with a pedagogical introduction to fractional statistics a
 > **Direct observation of anyonic braiding statistics** <br />
 > J. Nakamura, S. Liang, G. C. Gardner & M. J. Manfra, [Nature Physics **16**, 931 (2020)](https://doi.org/10.1038/s41567-020-1019-1); Preprint [arXiv:2006.14115](https://arxiv.org/abs/2006.14115)
 
-11:30   Break
-
+11:30   Break <br />
 11:35   Panel Discussion
 > Moderator: [Steven H. Simon](https://www-thphys.physics.ox.ac.uk/people/SteveSimon/), University of Oxford (UK) <br />
 >
