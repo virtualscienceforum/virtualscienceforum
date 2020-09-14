@@ -1,5 +1,3 @@
-<script src='https://www.google.com/recaptcha/api.js?render=explicit' async defer></script>
-
 <style>
 body {font-family: Arial, Helvetica, sans-serif;}
 * {box-sizing: border-box}
@@ -59,7 +57,6 @@ button:hover {
   display: table;
 }
 
-
 /* Change styles for cancel button and signup button on extra small screens */
 @media screen and (max-width: 300px) {
   .signupbtn {
@@ -79,8 +76,8 @@ button:hover {
     <div id="mailinglists">
       <label for="mailinglist"><b>Mailing lists</b></label>
       <ul id="mailinglist" style='list-style:none'>
-        <li> <input type="checkbox" name="signup-general" > General mailing list </li>
-        <li> <input type="checkbox" name="signup-speakerscorner"> <a href="#">Speaker's Corner</a> mailing list </li>
+        <li> <input type="checkbox" name="signup-checkbox" value="signup-general"> General mailing list </li>
+        <li> <input type="checkbox" name="signup-checkbox" value="signup-speakerscorner"> <a href="#">Speaker's Corner</a> mailing list </li>
       </ul>
     </div>
     <div id="recaptcha" name="recaptcha" class="g-recaptcha" data-sitekey="6Lf37MoZAAAAAF19QdljioXkLIw23w94QWpy9c5E"></div>

@@ -29,23 +29,36 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css">
   <script src="//cdn.jsdelivr.net/npm/docsify@4.10.2/lib/docsify.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+  <script src='https://www.google.com/recaptcha/api.js' async defer></script>
   <script>
   function submitMailingListSignupForm(event) {
     event.preventDefault();
 
+    // The user needs to select at least one list to sign up for
+    if( document.querySelectorAll('input[name=signup-checkbox]:checked').length <= 0 )
+    {
+      alert("Please select at least one mailing list");
+      return false;
+    }
+
     var xhr = new XMLHttpRequest();
     xhr.open("POST", "https://vsf-worker.virtualscienceforum.workers.dev");
+
     xhr.onload = function(event){
         alert("Success, server responded with: " + event.target.response); // raw response
     };
-    // or onerror, onabort
+
+    // Convert the form into a FormData object that we will send to
+    // the cloudflare worker
     formData = new FormData(document.forms["mailingListForm"]);
-    console.log(formData);
     xhr.send(formData);
 
+    // Clear the form after submission
+    document.forms["mailingListForm"].reset();
+
+    // Don't reload or process anything further
     return false;
   }
   </script>
-  <script src='https://www.google.com/recaptcha/api.js' async defer></script>
 </body>
 </html>
