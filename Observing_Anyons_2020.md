@@ -8,14 +8,14 @@
 -->
 ![Logo: Braiding](/media/Anyons-scheme_trans.png)
 # Observing Anyons 2020
-## A mini-conference
+<u>A mini-conference</u>< br/>
 **October 5, 2020 9:30am&ndash;12:30pm EDT** ([view in your time zone](https://everytimezone.com/s/4ab0cea5)) <br />
 **[Register](#register)**
 <hr />
 
 Observing Ayons 2020 is a mini-confernece that convenes experts to present and discuss the latest advances on observing anyons in nature. 
 The focus of the conference is on two experimental efforts in 2020 reporting the first observation of fractional statistics in fractional quantum Hall devices.
-The conference begins with a pedagogical introduction to fractional statistics and quantum Hall systems, followed by presentations by representatives from each experimental group, and concludes with a panel discussion to discuss the details and future implications of these findings.
+The conference begins with a pedagogical introduction to fractional statistics and quantum Hall systems, followed by presentations by representatives from each experimental group, and concludes with a panel discussion on theoretical and experimental details and future implications of these findings.
 
 ## Program
 (All times EDT)
@@ -43,7 +43,7 @@ The conference begins with a pedagogical introduction to fractional statistics a
 > [Moty Heiblum](https://www.weizmann.ac.il/condmat/heiblum/), Weizmann Institute of Science (Israel) <br />
 > [Michael J. Manfra](https://manfragroup.org/), Purdue University (USA) <br />
 > [James Nakamura](https://manfragroup.org/james-nakamura/), Purdue University (USA) <br />
-> [Bernd Rosenow](https://home.uni-leipzig.de/rosenow/Bernd_Rosenow/Welcome.html), University of Leipzig (Germany) <br />
+> [Bernd Rosenow](https://home.uni-leipzig.de/rosenow/Bernd_Rosenow/Welcome.html), Leipzig University (Germany) <br />
 > [Smitha Vishveshwara](https://physics.illinois.edu/people/directory/profile/smivish), University of Illinois at Urbana-Champaign (USA) <br />
 
 12:25 Concluding Remarks
