@@ -20,6 +20,7 @@ Attendance is open to everyone, but please [register](#michel-devoret-yale-unive
 | August 5 | [Titus Neupert](#titus-neupert-university-of-zürich) | Exceptional Topological Insulators |
 | August 19 | [Mohammad Hafezi](#mohammad-hafezi-university-of-maryland-and-jqi) | Quantum optics meets correlated electrons |
 |September 16 | [Michel Devoret](#michel-devoret-yale-university) | An error-corrected logical quantum bit encoded in grid states of a superconducting cavity |
+|September 30 | [Pedram Roushan](#pedram-roushan-google-ai) | TBA |
 
 <!--## Upcoming talks -->
  
@@ -40,6 +41,10 @@ If the registration form below does not appear for you, please visit [this Zoom 
 > [1] Campagne-Ibarcq et al., arXiv:1907.12487, Nature  584,  368–372 (2020).
 
 <iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJItcu6gpjwrHdM_ZhCUZJQSUFs4rprtwcTJ" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
+### Pedram Roushan, Google AI
+
+> #### TBA
 
 ## Talk recordings
 
