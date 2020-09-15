@@ -9,6 +9,7 @@
 * [Attendee Guide](attendeeguide.md)
 * [Contact us](contact.md)
 * [Contributors](whoweare.md)
+* [Privacy policy](privacy_policy.md)
 * Past events
    * [Scanning probe microscopy workshop](SPM_workshop.md)
    * [Inaugural session](inauguralsession.md)
