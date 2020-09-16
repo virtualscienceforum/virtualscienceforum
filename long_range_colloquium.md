@@ -20,7 +20,9 @@ Attendance is open to everyone, but please [register](#michel-devoret-yale-unive
 | August 5 | [Titus Neupert](#titus-neupert-university-of-zürich) | Exceptional Topological Insulators |
 | August 19 | [Mohammad Hafezi](#mohammad-hafezi-university-of-maryland-and-jqi) | Quantum optics meets correlated electrons |
 |September 16 | [Michel Devoret](#michel-devoret-yale-university) | An error-corrected logical quantum bit encoded in grid states of a superconducting cavity |
-|September 30 | [Pedram Roushan](#pedram-roushan-google-ai) | TBA |
+|September 30 | [Pedram Roushan](#pedram-roushan-google-quantum-ai) | Tuning quantum information scrambling in two-dimensional systems
+
+ |
 
 <!--## Upcoming talks -->
  
@@ -42,9 +44,13 @@ If the registration form below does not appear for you, please visit [this Zoom 
 
 <iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJItcu6gpjwrHdM_ZhCUZJQSUFs4rprtwcTJ" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
-### Pedram Roushan, Google AI
+### Pedram Roushan, Google Quantum AI
 
-> #### TBA
+> #### Tuning quantum information scrambling in two-dimensional systems
+>
+> The promise of quantum computers is that certain computational tasks might be executed exponentially faster on a quantum processor than on a classical processor.  In 2019, we reported the use of a processor with programmable superconducting qubits to create quantum states on 53 qubits, corresponding to a computational state space of dimension 253 (about 1016). Measurements from repeated experiments sample the resulting probability distribution, which we verify using classical simulations. Our Sycamore processor takes about 200 seconds to sample one instance of a quantum circuit a million times—our benchmarks indicate that the equivalent task for a classical supercomputer would take approximately 10,000 years. Established quantum supremacy, we now take a closer look at how quantum information scrambling takes place and computational complexity grows. We demonstrate that the complexity of quantum circuits is directly revealed through measurements of out-of-time-order correlators (OTOCs), which capture the spatial-temporal spread of local perturbations. We implement a variety of quantum circuits ranging from simple integrable circuits such as XY model in 1D to fully ergotic circuits such as 2D random circuits. Our protocol effectively separates scrambling from gate-error induced noise, allowing us to distinguish the complexity of these circuits. We image the dispersion of the scrambling wavefront as it changes from diffusive to ballistic propagation, resulting from changing the entangling gates. By tuning away from the Clifford gate set, we break integrability and dial-in ergodicity and distinguish these complexity classes from their fluctuation signatures. Our work establishes OTOC as a tool to visualize scrambling and diagnose complexity in time and size scales that are challenging to access classically.
+
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJUpceiuqzMjHNUlT6n96JYFbASfDBqMExu1" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 ## Talk recordings
 
