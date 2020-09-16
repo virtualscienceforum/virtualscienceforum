@@ -20,9 +20,7 @@ Attendance is open to everyone, but please [register](#michel-devoret-yale-unive
 | August 5 | [Titus Neupert](#titus-neupert-university-of-zürich) | Exceptional Topological Insulators |
 | August 19 | [Mohammad Hafezi](#mohammad-hafezi-university-of-maryland-and-jqi) | Quantum optics meets correlated electrons |
 |September 16 | [Michel Devoret](#michel-devoret-yale-university) | An error-corrected logical quantum bit encoded in grid states of a superconducting cavity |
-|September 30 | [Pedram Roushan](#pedram-roushan-google-quantum-ai) | Tuning quantum information scrambling in two-dimensional systems
-
- |
+|September 30 | [Pedram Roushan](#pedram-roushan-google-quantum-ai) | Tuning quantum information scrambling in two-dimensional systems |
 
 <!--## Upcoming talks -->
  
