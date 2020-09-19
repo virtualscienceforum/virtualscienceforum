@@ -109,7 +109,7 @@ button:hover {
     <div id="mailinglists">
       <label for="mailinglist"><b>Mailing lists</b></label>
       <ul id="mailinglist" style='list-style:none'>
-        <li> <input type="checkbox" name="signup-checkbox" value="signup-general"> General mailing list </li>
+        <li> <input type="checkbox" name="signup-checkbox" value="signup-general" checked> General mailing list </li>
         <li> <input type="checkbox" name="signup-checkbox" value="signup-speakerscorner"> <a href="#">Speaker's Corner</a> mailing list </li>
       </ul>
     </div>
@@ -119,3 +119,5 @@ button:hover {
     </div>
   </div>
 </form>
+
+<script src='https://www.google.com/recaptcha/api.js' async defer></script>
