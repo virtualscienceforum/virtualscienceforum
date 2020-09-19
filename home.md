@@ -16,3 +16,17 @@ We offer beginning-to-end support for organizing an academic event of your own, 
 * Virtual March Meeting sessions on [quantum information and machine learning](inauguralsession.md) on March 6, 2020 
 * Workshop on [Scanning Probe Microscopy](SPM_workshop.md) on June 18, 2020
 
+### Follow us
+
+Sign up for the event announcements [mailing list](mailinglist.md)
+
+<style>
+iframe.twitter-follow-button {
+    border: none;
+}
+</style>
+<a href="https://twitter.com/virtualsciforum?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-dnt="true" data-show-count="true">Follow @virtualsciforum</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<a class="github-button" href="https://github.com/virtualscienceforum/virtualscienceforum" data-size="large" data-show-count="true" aria-label="Star virtualscienceforum/virtualscienceforum on GitHub">Star</a>
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
