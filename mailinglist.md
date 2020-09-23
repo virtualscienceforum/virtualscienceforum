@@ -110,7 +110,7 @@ button:hover {
       <label for="mailinglist"><b>Mailing lists</b></label>
       <ul id="mailinglist" style='list-style:none'>
         <li> <input type="checkbox" name="signup-checkbox" value="signup-general" checked> General mailing list </li>
-        <li> <input type="checkbox" name="signup-checkbox" value="signup-speakerscorner"> <a href="#">Speaker's Corner</a> mailing list </li>
+        <li> <input type="checkbox" name="signup-checkbox" value="signup-speakerscorner"> <a href="#speakerscorner">Speaker's Corner</a> mailing list </li>
       </ul>
     </div>
     <div id="recaptcha" name="recaptcha" class="g-recaptcha" data-sitekey="6Lf37MoZAAAAAF19QdljioXkLIw23w94QWpy9c5E"></div>
