@@ -4,8 +4,8 @@ name: Speakers-Corner-Issue-Validation
 on:
   workflow-dispatch 
 #  issues:
-#    # Could add [edited], but that may result in re-triggering this same workflow since it will edit the issue
-#    types: [opened] 
+#    # The python validation script should not run on edited
+#    types: [opened] #, edited] 
 
 jobs:
   validate-issue:
@@ -14,7 +14,8 @@ jobs:
     # Set the type of machine to run on
     runs-on: ubuntu-latest
 
-    steps:
+  #contains(github.event.issue.labels.*.name, 'bug')
+    steps :
       # Checks out a copy of your repository on the ubuntu-latest machine
       - name: Checkout code
         uses: actions/checkout@v2
@@ -29,7 +30,8 @@ jobs:
       #  python -m pip install --upgrade pip
       #  pip install ...
 
-      # Run the validation script (validatespeakerscornerissue.py)
+      # Run the validation script only if this is a speaker's corner issue and if it was just opened (validatespeakerscornerissue.py)
       - name: Validate
+        #if: ${{ contains(github.event.issue.title, 'Speaker') && github.event.issue.types == 'opened' }}
         run: |
-          validatespeakerscornerissue
+          validatespeakerscornerissue ${{ github.event.issue.number }}
