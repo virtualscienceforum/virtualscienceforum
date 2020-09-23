@@ -9,27 +9,35 @@ assignees: ""
 
 ## Name
 
-<your full name>
+<!-- your full name -->
 
 ## Email
 
-<your contact email: we send the meeting passcode there>
+<!-- your institutional email. We use it to share the meeting passcode and the video recording link. -->
 
 ## Preprint ID
 
-<arxiv.org preprint ID>
+1234.12345
+
+<!-- arxiv.org preprint ID-->
 
 ## Title
 
-<The presentation title; leave blank if the same as of the preprint>
+<!-- The presentation title; leave blank if the same as of the preprint-->
 
 ## Abstract
 
-<The abstract; leave blank if the same as on arxiv>
+<!-- The abstract; leave blank if the same as on arxiv-->
 
 ## Time slot (at least 14 days ahead)
 
 YYYY-MM-DD HH-MM UTC
+
+<!-- Take care to provide the UTC time -->
+
+## Notes
+
+<!-- any additional remarks -->
 
 ## Confirmation
 
