@@ -26,7 +26,10 @@ The conference begins with a pedagogical introduction to fractional statistics a
 
 10:10 [**Gwendal Fève**](http://www.lpa.ens.fr/?-Quantum-optics-with-electrons-&lang=en), École normale supérieure (France) <br />
 > **Fractional statistics in anyon collisions** <br />
-> H. Bartolomei *et al*, [Science **368**, 173 (2020)](https://doi.org/10.1126/science.aaz5601); Preprint [arXiv:2006.13157](https://arxiv.org/abs/2006.13157)
+> Hugo Bartolomei, Manohar Kumar, Rémi Bisognin, Arthur Marguerite, Jean-Marc Berroir, Erwann Bocquillon, Bernard Plaçais, Antonella Cavanna, Quan Dong, Ulf Gennser, Yong Jin, Gwendal Fève <br />
+> [Science **368**, 173 (2020)](https://doi.org/10.1126/science.aaz5601); Preprint [arXiv:2006.13157](https://arxiv.org/abs/2006.13157)<br />
+> Two-dimensional systems can host exotic particles called anyons whose quantum statistics are neither bosonic nor fermionic. For example, the elementary excitations of the fractional quantum Hall effect at filling factor ν = 1/m (where m is an odd integer) have been predicted to obey Abelian fractional statistics, with a phase ϕ associated with the exchange of two particles equal to π/m. However, despite numerous experimental attempts, clear signatures of fractional statistics have remained elusive. We experimentally demonstrate Abelian fractional statistics at filling factor ν = ⅓ by measuring the current correlations resulting from the collision between anyons at a beamsplitter. By analyzing their dependence on the anyon current impinging on the splitter and comparing with recent theoretical models, we extract ϕ = π/3, in agreement with predictions.<br />
+
 
 10:50 [**Michael J. Manfra**](https://manfragroup.org/), Purdue University (USA)  
 > **Direct observation of anyonic braiding statistics** <br />
