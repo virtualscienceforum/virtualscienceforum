@@ -31,7 +31,7 @@ The conference begins with a pedagogical introduction to fractional statistics a
 > Two-dimensional systems can host exotic particles called anyons whose quantum statistics are neither bosonic nor fermionic. For example, the elementary excitations of the fractional quantum Hall effect at filling factor ν = 1/m (where m is an odd integer) have been predicted to obey Abelian fractional statistics, with a phase ϕ associated with the exchange of two particles equal to π/m. However, despite numerous experimental attempts, clear signatures of fractional statistics have remained elusive. We experimentally demonstrate Abelian fractional statistics at filling factor ν = ⅓ by measuring the current correlations resulting from the collision between anyons at a beamsplitter. By analyzing their dependence on the anyon current impinging on the splitter and comparing with recent theoretical models, we extract ϕ = π/3, in agreement with predictions.<br />
 
 
-10:50 [**Michael J. Manfra**](https://manfragroup.org/), Purdue University (USA)  
+10:50 [**James Nakamura**](https://manfragroup.org/james-nakamura/), Purdue University (USA)  
 > **Direct observation of anyonic braiding statistics** <br />
 > J. Nakamura, S. Liang, G. C. Gardner & M. J. Manfra, [Nature Physics **16**, 931 (2020)](https://doi.org/10.1038/s41567-020-1019-1); Preprint [arXiv:2006.14115](https://arxiv.org/abs/2006.14115)
 
@@ -43,7 +43,6 @@ The conference begins with a pedagogical introduction to fractional statistics a
 > [Bertrand Halperin](https://www.physics.harvard.edu/people/facpages/halperin), Harvard University (USA) <br />
 > [Moty Heiblum](https://www.weizmann.ac.il/condmat/heiblum/), Weizmann Institute of Science (Israel) <br />
 > [Michael J. Manfra](https://manfragroup.org/), Purdue University (USA) <br />
-> [James Nakamura](https://manfragroup.org/james-nakamura/), Purdue University (USA) <br />
 > [Bernd Rosenow](https://home.uni-leipzig.de/rosenow/Bernd_Rosenow/Welcome.html), Leipzig University (Germany) <br />
 > [Smitha Vishveshwara](https://physics.illinois.edu/people/directory/profile/smivish), University of Illinois at Urbana-Champaign (USA) <br />
 
@@ -58,6 +57,6 @@ The conference begins with a pedagogical introduction to fractional statistics a
 **Contact:** anyons2020@virtualscienceforum.org
 
 ## Register
-If you have any trouble with the registration panel below, please register directly **[on Zoom](https://virtualscienceforum-org.zoom.us/meeting/register/tJIpd--qrzIqHNZ55BuksI37QtCVhG4yq67a)**
+If this form is not showing correctly, please register **[On Zoom](https://virtualscienceforum-org.zoom.us/meeting/register/tJIpd--qrzIqHNZ55BuksI37QtCVhG4yq67a)**
 
 <iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJIpd--qrzIqHNZ55BuksI37QtCVhG4yq67a" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
