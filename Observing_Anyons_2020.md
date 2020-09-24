@@ -58,6 +58,6 @@ The conference begins with a pedagogical introduction to fractional statistics a
 **Contact:** anyons2020@virtualscienceforum.org
 
 ## Register
-**[On Zoom](https://virtualscienceforum-org.zoom.us/meeting/register/tJIpd--qrzIqHNZ55BuksI37QtCVhG4yq67a)**
+If you have any trouble with the registration panel below, please register directly **[on Zoom](https://virtualscienceforum-org.zoom.us/meeting/register/tJIpd--qrzIqHNZ55BuksI37QtCVhG4yq67a)**
 
 <iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJIpd--qrzIqHNZ55BuksI37QtCVhG4yq67a" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
