@@ -1,8 +1,8 @@
 name: Speakers-Corner-Issue-Validation
 
 # Manually for now, but will trigger on issue opening
-on:
-  workflow-dispatch 
+#on:
+#  workflow-dispatch 
 #  issues:
 #    # The python validation script should not run on edited
 #    types: [opened] #, edited] 
@@ -36,4 +36,5 @@ jobs:
         working-directory: ./bots
         run: validatespeakerscornerissue
         env:
+          GITHUB_TOKEN: ${{ secrets.VSF_BOT_TOKEN }}
           ISSUENUMBER: ${{ github.event.issue.number }}
