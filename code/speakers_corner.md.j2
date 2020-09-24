@@ -1,0 +1,59 @@
+{{ header }}
+
+## Schedule
+
+(all times in browser timezone)
+
+|   Date   |     Speaker    | Title |
+|:---------:|:--------------:|:-----:|
+{%- for talk in talks | sort(attribute="time") if talk.zoom_id and talk.time > now %}
+| <time datetime="{{ talk.time.isoformat() }}">{{ talk.time.strftime("%B %-d %h:%M %Z") }}</time> | {{ talk.speaker_name }} | [{{ talk.title }}](#{{ talk.title.replace(" ", "-") | lower }}) |
+{% endfor %}
+
+## Upcoming talks
+
+{% for talk in talks | sort(attribute="time") if talk.zoom_id and talk.time > now %}
+### {{ talk.title }}
+#### {{ talk.speaker_name }}, {{ talk.affiliation }}
+
+{% for line in talk.abstract.split("\n") %}
+> {{ line }}
+{% endfor %}
+
+> **Authors:** {{ talk.authors | join(", ") }}  
+> **Preprint:** [arXiv:{{ talk.arxiv }}](https://arxiv.org/abs/{{ talk.arxiv }})
+
+If the form below doesn't work, [register directly]({{ talk.registration_url }})
+
+<iframe width="100%" height="940" src="{{ talk.registration_url }}" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
+{% endfor %}
+
+## Recordings
+
+{% for talk in talks | sort(attribute="time") if talk.time < now %}
+
+### {{ talk.title }}
+#### {{ talk.speaker_name }}, {{ talk.affiliation }}
+
+<details><summary>abstract</summary>
+
+{{talk.abstract}}
+
+Authors: {{ talk.authors | join(", ") }}  
+Preprint: [arXiv:{{ talk.arxiv }}](https://arxiv.org/abs/{{ talk.arxiv }})
+</details>
+
+{% if talk.youtube_id %}
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{ talk.youtube_id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% else %}
+*Video in preparation*
+{% endif %}
+
+{% endfor %}
+
+<script>
+for (let time of document.getElementsByTagName("time")) {
+    time.innerText = dayjs(time.dateTime).local().format("MMMM d h:mm");
+};
+</script>

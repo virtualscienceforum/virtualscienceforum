@@ -3,6 +3,7 @@
     * [Long Range Colloquium](long_range_colloquium.md)
     * [Speakers' Corner](speakers-corner.md)
     * [Observing Anyons 2020](Observing_Anyons_2020.md)
+    * [Speaker's corner](speakers_corner.md)
 * [Call for organizers](announcement.md)
 * [Organizer Guide](organizerguide.md)
 * [Speaker Guide](speakerguide.md)
