@@ -10,29 +10,29 @@ g = Github(VSF_BOT_TOKEN)
 repo = g.get_repo("virtualscienceforum/virtualscienceforum")
 issue = repo.get_issue(number=ISSUENUMBER)
 
-def CheckDate(dateStr, timeStr):
-    scheduledDate = date.fromisoformat(dateStr)
+def check_date(date_str, time_str):
+    scheduled_date = date.fromisoformat(dateStr)
     if scheduled - datetime.now() < timedelta(days=14):
         return False, "Please schedule your talk at least two weeks into the future"
 
     return True, "Ok"
 
-def CheckArxiv(preprintID):
+def check_arxiv(preprint_ID):
     # 1) Check if preprint exists
-    arxivResult = arxiv.query(id_list=[preprintID])
+    arxiv_result = arxiv.query(id_list=[preprint_ID])
 
-    if not arxivResult:
+    if not arxiv_result:
         return False, {}
 
     # Extract the paper
     return True, dict(
-        title=arxivResult[0].title.replace('\n ', ''),
-        abstract=arxivResult[0].summary,
-        authors=arxivResult[0].authors,
+        title=arxiv_result[0].title.replace('\n ', ''),
+        abstract=arxiv_result[0].summary,
+        authors=arxiv_result[0].authors,
     )
 
-def UpdateIssue(currentBody, preprint):
-    b = currentBody
+def update_issue(current_body, preprint):
+    b = current_body
 
     # Extract the current title and abstract
     title = b.split("Title")[1].split()[0]
@@ -49,34 +49,31 @@ def UpdateIssue(currentBody, preprint):
         b = before + "Abstract\n\n" + preprint["abstract"] + after
 
     # Add the authors
-    currentNotes = b.split("Notes")[1].split()[0]
-    currentNotes = "Authors: " + ", ".join(preprint["authors"])
+    current_notes = b.split("Notes")[1].split()[0]
+    current_notes = "Authors: " + ", ".join(preprint["authors"])
     before, after = b.split("Notes")
-    b = before + "Notes\n\n" + currentNotes + after
-
-    with open("updatesissue.txt", "w") as f:
-        f.write(b)
+    b = before + "Notes\n\n" + current_notes + after
 
     issue.edit(body=b)
 
-def AddComments(comments):
-    commentBody = "I am sorry, I was unable to successfully process your data.\n"
-    commentBody += "Please amend the following issues: \n"
+def add_comments(comments):
+    comment_body = "I am sorry, I was unable to successfully process your data.\n"
+    comment_body += "Please amend the following issues: \n"
 
     for c in range(len(comments)-1):
-        commentBody += "* " + comments[c] + "\n"
-    commentBody += "* " + comments[-1]
+        comment_body += "* " + comments[c] + "\n"
+    comment_body += "* " + comments[-1]
 
-    issue.create_comment(commentBody)
+    issue.create_comment(comment_body)
 
-def AddTeamChecklist():
-    checklistBody = "Your submission looks good! \n"
-    checklistBody += "A member of our team will now verify that: \n"
-    checklistBody += "[ ] There are no scheduling conflicts"
-    checklistBody += "[ ] Everything is in order"
-    issue.create_comment(checklistBody)
+def add_team_checklist():
+    checklist_body = "Your submission looks good! \n"
+    checklist_body += "A member of our team will now verify that: \n"
+    checklist_body += "[ ] There are no scheduling conflicts"
+    checklist_body += "[ ] Everything is in order"
+    issue.create_comment(checklist_body)
 
-def ParseIssue():
+def parse_issue():
     b = issue.body
 
     #with open("exampleissue.txt", "r") as f:
@@ -86,32 +83,32 @@ def ParseIssue():
     date = b.split("Time slot (at least 14 days ahead)")[1].split()
     day = date[0]
     time = date[1]
-    dateValid, dateMsg = CheckDate(day, time)
+    date_valid, date_msg = check_date(day, time)
 
     # Grab title, abstract and authors, edit the description
-    arXivID = b.split("Preprint ID")[1].split()[0]
-    arXivValid, preprint = CheckArxiv(arXivID)
+    arxiv_ID = b.split("Preprint ID")[1].split()[0]
+    arxiv_valid, preprint = check_arxiv(arxiv_ID)
 
     # If we have a valid preprint, we can amend the issue if required
-    if( arXivValid ):
-        UpdateIssue(b, preprint)
+    if( arxiv_valid ):
+        update_issue(b, preprint)
 
     comments = []
-    if not dateValid:
+    if not date_valid:
         comments.append(dateMsg)
-    if not arXivValid:
+    if not arxiv_valid:
         comments.append("Your arXiv preprint ID could not be found.")
 
     # If there were any problems, comment and return
     if( len(comments) != 0 ):
-        AddComments(comments)
+        add_comments(comments)
         return
     else:
         # Add a checklist for team member to confirm if not already there
-        AddTeamChecklist()
+        add_team_checklist()
 
         # Check for Zoom link in corresponding YAML
-        # AddUserChecklist
+        # add_user_checklist
 
 if __name__ == "__main__":
-    ParseIssue()
+    parse_issue()
