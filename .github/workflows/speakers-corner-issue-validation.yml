@@ -1,38 +1,36 @@
 name: Speakers-Corner-Issue-Validation
 
 # Manually for now, but will trigger on issue opening
-#on:
-#  workflow-dispatch 
-#  issues:
-#    # The python validation script should not run on edited
-#    types: [opened] #, edited] 
+on:
+  issues:
+    types: [opened, edited] 
 
 jobs:
   validate-issue:
     # Name the Job
     name: Validate the new issue
+    # Only run if application and not edited by vsf-bot
+    if: ${{ contains(github.event.issue.labels.*.name, 'application') && github.event.issue.actor != "vsf-bot" }}
     # Set the type of machine to run on
     runs-on: ubuntu-latest
-
-  #contains(github.event.issue.labels.*.name, 'bug')
+    
     steps :
       # Checks out a copy of your repository on the ubuntu-latest machine
       - name: Checkout code
         uses: actions/checkout@v2
         
       - name: Set up Python 3.7
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.7
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.7
         
       - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install PyGithub
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
       # Run the validation script only if this is a speaker's corner issue and if it was just opened (validatespeakerscornerissue.py)
       - name: Validate
-        #if: ${{ contains(github.event.issue.title, 'Speaker') && github.event.issue.types == 'opened' }}
         working-directory: ./bots
         run: validatespeakerscornerissue
         env:
