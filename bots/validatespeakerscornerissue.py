@@ -12,7 +12,7 @@ issue = repo.get_issue(number=ISSUENUMBER)
 
 def CheckDate(dateStr, timeStr):
     scheduledDate = date.fromisoformat(dateStr)
-    if( (scheduledDate - date.today()).days < 14 ):
+    if scheduled - datetime.now() < timedelta(days=14):
         return False, "Please schedule your talk at least two weeks into the future"
 
     return True, "Ok"
