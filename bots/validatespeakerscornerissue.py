@@ -1,62 +1,66 @@
 import os
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta
+from dateutil.parser import parse
+from dateutil.utils import today
 from github import Github
+import re
 import arxiv
+
+test_mode = True
 
 VSF_BOT_TOKEN = os.getenv("VSF_BOT_TOKEN")
 ISSUENUMBER = os.getenv("ISSUENUMBER")
 
-g = Github(VSF_BOT_TOKEN)
-repo = g.get_repo("virtualscienceforum/virtualscienceforum")
-issue = repo.get_issue(number=ISSUENUMBER)
+TEAM_CHECKLIST = "[ ] There are no scheduling conflicts \n" \
+                 "[ ] Everything is generally in order \n"
 
-def check_date(date_str, time_str):
-    scheduled_date = date.fromisoformat(dateStr)
-    if scheduled - datetime.now() < timedelta(days=14):
-        return False, "Please schedule your talk at least two weeks into the future"
+def check_date(timeslot):
+
+    scheduled_date = parse(timeslot[:-4])
+    print("Scheduled date")
+    print(scheduled_date)
+
+    #if scheduled_date - today() < timedelta(days=14):
+    #    return False, "Please schedule your talk at least two weeks into the future"
 
     return True, "Ok"
 
-def check_arxiv(preprint_ID):
+def check_arxiv(submission):
     # 1) Check if preprint exists
-    arxiv_result = arxiv.query(id_list=[preprint_ID])
+    arxiv_result = arxiv.query(id_list=[submission['preprint_ID']])
 
     if not arxiv_result:
-        return False, {}
+        return False, "Your arXiv preprint ID could not be found"
 
     # Extract the paper
-    return True, dict(
-        title=arxiv_result[0].title.replace('\n ', ''),
-        abstract=arxiv_result[0].summary,
-        authors=arxiv_result[0].authors,
-    )
+    if( submission.get("title", "") == ""):
+        submission["title"] = arxiv_result[0].title.replace('\n ', '')
+    if( submission.get("abstract", "") == ""):
+        submission["abstract"] = arxiv_result[0].summary
+    submission["authors"] = arxiv_result[0].authors
 
-def update_issue(current_body, preprint):
-    b = current_body
+    return True, "arxiv ok"
 
-    # Extract the current title and abstract
-    title = b.split("Title")[1].split()[0]
-    abstract = b.split("Abstract")[1].split()[0]
+def update_issue_body(issue_body, submission):
+    b = issue_body
 
-    # If the title has been left empty, update it
-    if (title == "<!--"):
-        before, after = b.split("Title")
-        b = before + "Title\n\n" + preprint["title"] + after
+    # Update the title
+    before, after = b.split("Title")
+    b = before + "Title\n\n" + submission["title"] + after
 
-    # If the abstract has been left empty, update it
-    if (abstract == "<!--"):
-        before, after = b.split("Abstract")
-        b = before + "Abstract\n\n" + preprint["abstract"] + after
+    # Update the abstract
+    before, after = b.split("Abstract")
+    b = before + "Abstract\n\n" + submission["abstract"] + after
 
     # Add the authors
     current_notes = b.split("Notes")[1].split()[0]
-    current_notes = "Authors: " + ", ".join(preprint["authors"])
+    current_notes = "Authors: " + ", ".join(submission.get("authors", "Uknown"))
     before, after = b.split("Notes")
     b = before + "Notes\n\n" + current_notes + after
 
-    issue.edit(body=b)
+    return b
 
-def add_comments(comments):
+def format_issue_comments(comments):
     comment_body = "I am sorry, I was unable to successfully process your data.\n"
     comment_body += "Please amend the following issues: \n"
 
@@ -64,51 +68,84 @@ def add_comments(comments):
         comment_body += "* " + comments[c] + "\n"
     comment_body += "* " + comments[-1]
 
-    issue.create_comment(comment_body)
+    return comment_body
 
-def add_team_checklist():
+def format_team_checklist(TEAM_CHECKLIST):
     checklist_body = "Your submission looks good! \n"
     checklist_body += "A member of our team will now verify that: \n"
-    checklist_body += "[ ] There are no scheduling conflicts"
-    checklist_body += "[ ] Everything is in order"
-    issue.create_comment(checklist_body)
+    checklist_body += TEAM_CHECKLIST
+    return checklist_body
 
-def parse_issue():
-    b = issue.body
+def parse_issue(issue_body):
+    b = str(issue_body)
 
-    #with open("exampleissue.txt", "r") as f:
-    #   b = f.read()
+    # Replace all <!-- * --> lines
+    b = re.sub(r'<!--.*?-->', '', b)
+    b = re.split(r'\n## (.*)\n', b)
 
-    # Validate the date: must be sufficiently far into the future
-    date = b.split("Time slot (at least 14 days ahead)")[1].split()
-    day = date[0]
-    time = date[1]
-    date_valid, date_msg = check_date(day, time)
+    submission = dict(
+        name = b[2].lstrip('\n').rstrip('\n'),
+        email = b[4].lstrip('\n').rstrip('\n'),
+        preprint_ID = b[6].lstrip('\n').rstrip('\n\n'),
+        title = b[8].lstrip('\n').rstrip('\n'),
+        abstract = b[10].lstrip('\n').rstrip('\n'),
+        timeslot = b[12].lstrip('\n').rstrip('\n'),
+        notes = b[14].lstrip('\n').rstrip('\n'),
+    )
 
-    # Grab title, abstract and authors, edit the description
-    arxiv_ID = b.split("Preprint ID")[1].split()[0]
-    arxiv_valid, preprint = check_arxiv(arxiv_ID)
+    return submission
+
+def validate_issue(issue_body):
+    # Create a copy of the body
+    submission = parse_issue(issue_body)
+    date_valid, date_msg = check_date(submission['timeslot'])
+    arxiv_valid, arxiv_msg = check_arxiv(submission)
 
     # If we have a valid preprint, we can amend the issue if required
-    if( arxiv_valid ):
-        update_issue(b, preprint)
+    new_body = update_issue_body(issue_body, submission)
 
     comments = []
     if not date_valid:
-        comments.append(dateMsg)
+        comments.append(date_msg)
     if not arxiv_valid:
         comments.append("Your arXiv preprint ID could not be found.")
 
-    # If there were any problems, comment and return
-    if( len(comments) != 0 ):
-        add_comments(comments)
-        return
-    else:
-        # Add a checklist for team member to confirm if not already there
-        add_team_checklist()
-
-        # Check for Zoom link in corresponding YAML
-        # add_user_checklist
+    return comments, new_body
 
 if __name__ == "__main__":
-    parse_issue()
+    g = Github(VSF_BOT_TOKEN)
+    repo = g.get_repo("virtualscienceforum/virtualscienceforum")
+    issue = repo.get_issue(number=ISSUENUMBER)
+
+    #with open("exampleissue.txt", "r") as f:
+    #        body = f.read()
+
+    comments, new_body = validate_issue(body)
+
+    if( (new_body != issue.body) and not test_mode):
+        issue.edit(body=new_body)
+
+    # If there were any problems, comment and return
+    if( len(comments) != 0 ):
+        issue_comments = format_issue_comments(comments)
+
+        if test_mode:
+            print("--- Issue Comments ---")
+            print(issue_comments)
+        else:
+            issue.create_comment(issue_comments)
+
+    else:
+        # Add a checklist for team member to confirm if not already there
+        checklist = format_team_checklist(TEAM_CHECKLIST)
+
+        if test_mode:
+            print("--- Team Checklist ---")
+            print(checklist)
+            print("--- New Body ---")
+            print(new_body)
+        else:
+            issue.create_comment(checklist)
+
+        # Check for Zoom link in corresponding YAML
+        # AddUserChecklist
