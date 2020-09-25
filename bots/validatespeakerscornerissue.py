@@ -21,16 +21,15 @@ def CheckArxiv(preprintID):
     # 1) Check if preprint exists
     arxivResult = arxiv.query(id_list=[preprintID])
 
-    preprint = {}
-    if( len(arxivResult) == 0 ):
-        return False, preprint
+    if not arxivResult:
+        return False, {}
 
     # Extract the paper
-    preprint["title"] = arxivResult[0].title.replace('\n ', '')
-    preprint["abstract"] = arxivResult[0].summary
-    preprint["authors"] = arxivResult[0].authors
-
-    return True, preprint
+    return True, dict(
+        title=arxivResult[0].title.replace('\n ', ''),
+        abstract=arxivResult[0].summary,
+        authors=arxivResult[0].authors,
+    )
 
 def UpdateIssue(currentBody, preprint):
     b = currentBody
