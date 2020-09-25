@@ -22,7 +22,8 @@ The conference begins with a pedagogical introduction to fractional statistics a
 
 9:30    Welcome <br />
 9:35    [**Steven H. Simon**](https://www-thphys.physics.ox.ac.uk/people/SteveSimon/), University of Oxford (UK) <br />
-> **Introductory Seminar**
+> **Introductory Seminar** <br />
+> Title and Abstract TBD 
 
 10:10 [**Gwendal Fève**](http://www.lpa.ens.fr/?-Quantum-optics-with-electrons-&lang=en), École normale supérieure (France) <br />
 > **Fractional statistics in anyon collisions** <br />
