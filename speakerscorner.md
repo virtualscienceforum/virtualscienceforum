@@ -1,6 +1,6 @@
 # Speaker's Corner
 
-Named after the renowned corner of Hyde Park in London, the Speaker's Corner seminars are meant to provide a platform
+Named after the renowned corner of Hyde Park in London, the Speaker's Corner seminars are a platform
 for everyone who would like to share their research.
 
 ## Give a talk
