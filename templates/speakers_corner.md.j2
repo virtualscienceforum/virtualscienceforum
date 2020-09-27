@@ -1,8 +1,9 @@
+{% import "base.md.j2" as base %}
 {{ header }}
 
 ## Schedule
 
-(all times in browser timezone)
+Al times are shown in <span id="timezone">UTC</span> timezone.
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
@@ -52,8 +53,4 @@ Preprint: [arXiv:{{ talk.arxiv }}](https://arxiv.org/abs/{{ talk.arxiv }})
 
 {% endfor %}
 
-<script>
-for (let time of document.getElementsByTagName("time")) {
-    time.innerText = dayjs(time.dateTime).local().format("MMMM d h:mm");
-};
-</script>
+{{ base.render_time() }}
