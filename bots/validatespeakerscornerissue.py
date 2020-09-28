@@ -1,151 +1,178 @@
 import os
-from datetime import date, datetime, timedelta
-from dateutil.parser import parse
-from dateutil.utils import today
-from github import Github
 import re
+from copy import deepcopy
+from pathlib import Path
+from datetime import date, datetime, timedelta
+import logging
+
+from dateutil.parser import parse, ParserError
+from github import Github
+from ruamel_yaml import YAML
 import arxiv
+import jinja2
+import pytz
 
-test_mode = True
 
-VSF_BOT_TOKEN = os.getenv("VSF_BOT_TOKEN")
-ISSUENUMBER = os.getenv("ISSUENUMBER")
+yaml = YAML()
 
-TEAM_CHECKLIST = "[ ] There are no scheduling conflicts \n" \
-                 "[ ] Everything is generally in order \n"
+TEAM_CHECKLIST = jinja2.Template("""Your submission looks good!
+
+{{ edits }}
+
+As the next step, a team member will check that:
+
+- [ ] Everything is generally in order
+- [ ] There are no scheduling conflicts
+- [ ] The author's email is institutional or otherwise known
+
+Once everything looks good, respond here and add the "approved" label.
+""")
+
+RESPONSE_TEMPLATE = jinja2.Template(
+"""Hi! I checked your application, I found the following issues:
+
+{% for failed in fails %}
+- {{ failed }}
+{% endfor %}
+"""
+)
+
+ISSUE_TEMPLATE = jinja2.Template(
+    Path("../templates/speakers_corner_application.md.j2").read_text()
+)
+
+with open("speakers_corner_questions.yml") as f:
+    questions = yaml.load(f)
+
+
+def check_name(name):
+    if not name.strip():
+        return "Please provide your name"
+
 
 def check_date(timeslot):
 
-    scheduled_date = parse(timeslot[:-4])
-    print("Scheduled date")
-    print(scheduled_date)
+    try:
+        scheduled_date = parse(timeslot)
+    except ParserError:
+        return "I couldn't parse the date, please use YYYY-MM-DD HH:MM UTC."
 
-    #if scheduled_date - today() < timedelta(days=14):
-    #    return False, "Please schedule your talk at least two weeks into the future"
+    logging.debug(f"{scheduled_date=}")
 
-    return True, "Ok"
+    if scheduled_date - datetime.now(tz=pytz.UTC) < timedelta(days=14):
+        return "Please schedule your talk at least two weeks into the future."
 
-def check_arxiv(submission):
-    # 1) Check if preprint exists
-    arxiv_result = arxiv.query(id_list=[submission['preprint_ID']])
 
-    if not arxiv_result:
-        return False, "Your arXiv preprint ID could not be found"
+def check_arxiv(preprint):
+    if not arxiv.query(id_list=[preprint]):
+        return "Your arXiv preprint ID could not be found"
 
-    # Extract the paper
-    if( submission.get("title", "") == ""):
-        submission["title"] = arxiv_result[0].title.replace('\n ', '')
-    if( submission.get("abstract", "") == ""):
-        submission["abstract"] = arxiv_result[0].summary
-    submission["authors"] = arxiv_result[0].authors
 
-    return True, "arxiv ok"
+def check_confirmation(confirmation):
+    if confirmation != questions["confirmation"].text:
+        return "You have to confirm that you accept all rules"
 
-def update_issue_body(issue_body, submission):
-    b = issue_body
 
-    # Update the title
-    before, after = b.split("Title")
-    b = before + "Title\n\n" + submission["title"] + after
+def update_from_arxiv(submission):
+    arxiv_result = arxiv.query(id_list=[submission['preprint_ID']])[0]
+    updated_entries = []
+    if not submission["title"]:
+        submission["title"] = arxiv_result.title.strip()
+        updated_entries.append("title")
+    if not submission["abstract"]:
+        submission["abstract"] = arxiv_result.summary
+        updated_entries.append("abstract")
+    if not submission["authors"]:
+        submission["authors"] = ', '.join(arxiv_result.authors)
+        updated_entries.append("authors")
 
-    # Update the abstract
-    before, after = b.split("Abstract")
-    b = before + "Abstract\n\n" + submission["abstract"] + after
+    if updated_entries:
+        return "I updated " + ", ".join(updated_entries)
 
-    # Add the authors
-    current_notes = b.split("Notes")[1].split()[0]
-    current_notes = "Authors: " + ", ".join(submission.get("authors", "Uknown"))
-    before, after = b.split("Notes")
-    b = before + "Notes\n\n" + current_notes + after
-
-    return b
-
-def format_issue_comments(comments):
-    comment_body = "I am sorry, I was unable to successfully process your data.\n"
-    comment_body += "Please amend the following issues: \n"
-
-    for c in range(len(comments)-1):
-        comment_body += "* " + comments[c] + "\n"
-    comment_body += "* " + comments[-1]
-
-    return comment_body
-
-def format_team_checklist(TEAM_CHECKLIST):
-    checklist_body = "Your submission looks good! \n"
-    checklist_body += "A member of our team will now verify that: \n"
-    checklist_body += TEAM_CHECKLIST
-    return checklist_body
 
 def parse_issue(issue_body):
-    b = str(issue_body)
+    # Remove html comments.
+    issue_body = re.sub(r'<!--.*?-->', '', issue_body)
 
-    # Replace all <!-- * --> lines
-    b = re.sub(r'<!--.*?-->', '', b)
-    b = re.split(r'\n## (.*)\n', b)
+    # Skip the first part because it is befor the first question
+    parts = re.split(r'^## (.*?)$', issue_body, flags=re.MULTILINE)[1:]
 
-    submission = dict(
-        name = b[2].lstrip('\n').rstrip('\n'),
-        email = b[4].lstrip('\n').rstrip('\n'),
-        preprint_ID = b[6].lstrip('\n').rstrip('\n\n'),
-        title = b[8].lstrip('\n').rstrip('\n'),
-        abstract = b[10].lstrip('\n').rstrip('\n'),
-        timeslot = b[12].lstrip('\n').rstrip('\n'),
-        notes = b[14].lstrip('\n').rstrip('\n'),
-    )
+    # We're using zip(iter, iter) idiom,
+    # see "grouper" at https://docs.python.org/3/library/itertools.html
+    parts = iter(parts)
+    answers = {title.strip(): answer.strip() for title, answer in zip(parts, parts)}
+    question_titles = set(question["title"] for question in questions.values())
+
+    if missing := (question_titles - set(answers)):
+        raise ValueError(
+            f"Missing questions{'s' * (len(missing) > 1)}"
+            + ", ".join(missing)
+        )
+    if extra := (set(answers) - question_titles):
+        raise ValueError(
+            f"Extra section{'s' * (len(extra) > 1)}"
+            + ", ".join(extra)
+        )
+
+    submission = {
+        next(
+            question
+            for question, data in questions.items()
+            if data["name"] == title
+        ): answer
+        for title, answer in answers.values()
+    }
 
     return submission
 
+
 def validate_issue(issue_body):
-    # Create a copy of the body
-    submission = parse_issue(issue_body)
-    date_valid, date_msg = check_date(submission['timeslot'])
-    arxiv_valid, arxiv_msg = check_arxiv(submission)
+    try:
+        submission = parse_issue(issue_body)
+    except ValueError as e:
+        return issue_body, e.args[0]
 
-    # If we have a valid preprint, we can amend the issue if required
-    new_body = update_issue_body(issue_body, submission)
+    failed_checks = [
+        message
+        for check, value in
+        zip(
+            (check_name, check_arxiv, check_confirmation, check_date),
+            ("name", "preprint", "confirmation", "time")
+        )
+        if (message := check(submission[value])) is not None
+    ]
 
-    comments = []
-    if not date_valid:
-        comments.append(date_msg)
-    if not arxiv_valid:
-        comments.append("Your arXiv preprint ID could not be found.")
+    if failed_checks:
+        return issue_body, RESPONSE_TEMPLATE.render(failed=failed)
 
-    return comments, new_body
+    updates = update_from_arxiv(submission)
+
+    answers = deepcopy(questions)
+
+    for question, data in answers.items():
+        data['text'] = submission[question]
+
+    return (
+        ISSUE_TEMPLATE.render(questions=questions),
+        TEAM_CHECKLIST.render(updates)
+    )
+
+
+def render_application_template():
+    Path("../.github/ISSUE_TEMPLATE/speakers_corner_application.md").write_text(
+        ISSUE_TEMPLATE.render(questions=questions, issue_template=True)
+    )
+
 
 if __name__ == "__main__":
-    g = Github(VSF_BOT_TOKEN)
+    issue_number = os.getenv("ISSUE_NUMBER")
+    g = Github(os.getenv("VSF_BOT_TOKEN"))
     repo = g.get_repo("virtualscienceforum/virtualscienceforum")
-    issue = repo.get_issue(number=ISSUENUMBER)
+    issue = repo.get_issue(number=issue_number)
 
-    #with open("exampleissue.txt", "r") as f:
-    #        body = f.read()
+    new_body, response = validate_issue(issue.body)
 
-    comments, new_body = validate_issue(body)
-
-    if( (new_body != issue.body) and not test_mode):
+    if new_body != issue.body:
         issue.edit(body=new_body)
 
-    # If there were any problems, comment and return
-    if( len(comments) != 0 ):
-        issue_comments = format_issue_comments(comments)
-
-        if test_mode:
-            print("--- Issue Comments ---")
-            print(issue_comments)
-        else:
-            issue.create_comment(issue_comments)
-
-    else:
-        # Add a checklist for team member to confirm if not already there
-        checklist = format_team_checklist(TEAM_CHECKLIST)
-
-        if test_mode:
-            print("--- Team Checklist ---")
-            print(checklist)
-            print("--- New Body ---")
-            print(new_body)
-        else:
-            issue.create_comment(checklist)
-
-        # Check for Zoom link in corresponding YAML
-        # AddUserChecklist
+    issue.create_comment(response)

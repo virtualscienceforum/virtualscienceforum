@@ -1,0 +1,19 @@
+{%- if issue_template -%}
+---
+name: Speaker's corner talk application
+about: Self-organized talks based on recent preprints
+labels: application
+assignees: ""
+---
+{%- endif %}
+
+<!-- please provide your information below. Do not remove or change the formatting -->
+
+{% for question in questions.values() -%}
+## {{ question.name }}
+{% if question.text %}
+{{ question.text }}
+{% endif %}{% if question.comment %}
+<!-- {{ question.comment }} -->
+{% endif %}
+{% endfor %}

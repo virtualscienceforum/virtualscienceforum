@@ -9,9 +9,13 @@ assignees: ""
 
 ## Name
 
+First Last
+
 <!-- your full name -->
 
 ## Email
+
+researcher@university.edu
 
 <!-- your institutional email. We use it to share the meeting passcode and the video recording link. -->
 
@@ -19,25 +23,29 @@ assignees: ""
 
 1234.12345
 
-<!-- arxiv.org preprint ID-->
+<!-- arxiv.org preprint ID -->
 
 ## Title
 
-<!-- The presentation title; leave blank if the same as of the preprint-->
+<!-- The presentation title; leave blank if the same as of the preprint -->
 
 ## Abstract
 
-<!-- The abstract; leave blank if the same as on arxiv-->
+<!-- The abstract; leave blank if the same as on arxiv -->
 
-## Time slot (at least 14 days ahead)
+## Authors
+
+<!-- Author list; fetched automatically from arXiv -->
+
+## Time slot
 
 YYYY-MM-DD HH-MM UTC
 
-<!-- Take care to provide the UTC time -->
+<!-- At least two weeks ahead take care to provide the UTC time -->
 
 ## Notes
 
-<!-- any additional remarks -->
+<!-- Any additional remarks -->
 
 ## Confirmation
 
@@ -46,3 +54,7 @@ I declare that:
 - The other coauthors agree to the presentation
 - I permit VSF to perform and publish the recording (following my approval)
 - I will follow the VSF code of conduct and the rules of the Speaker's corner seminar
+
+
+<!-- all are required -->
+
