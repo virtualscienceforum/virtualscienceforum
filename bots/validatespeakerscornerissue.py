@@ -25,7 +25,7 @@ As the next step, a team member will check that:
 - [ ] There are no scheduling conflicts
 - [ ] The author's email is institutional or otherwise known
 
-Once everything looks good, respond here and add the "approved" label.
+They will respond here and once everything looks good add the "approved" label.
 """)
 
 RESPONSE_TEMPLATE = jinja2.Template(
