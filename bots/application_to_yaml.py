@@ -19,7 +19,7 @@ def add_talk(gh, issue_number):
 
     try:
         talks_data = repo.get_contents(TALKS_FILE, ref="master")
-        talks = yaml.load(StringIO(talks_data.decoded_content().decode()))
+        talks = yaml.load(StringIO(talks_data.decoded_content.decode()))
     except github.UnknownObjectException:
         talks_data = None
         talks = []
