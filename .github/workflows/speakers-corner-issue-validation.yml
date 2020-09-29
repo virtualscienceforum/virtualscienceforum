@@ -35,6 +35,6 @@ jobs:
         working-directory: ./bots
         run: echo $ACTOR; python3 validatespeakerscornerissue.py
         env:
-          ACTOR: ${{ github.event.issue.actor.login }}
+          ACTOR: ${{ github.event.issue.actor }}
           VSF_BOT_TOKEN: ${{ secrets.VSF_BOT_TOKEN }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
