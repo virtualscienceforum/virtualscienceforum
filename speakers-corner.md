@@ -1,4 +1,4 @@
-# Speaker's Corner
+# Speakers' Corner
 
 Named after the renowned corner of Hyde Park in London, the Speaker's Corner seminars are a platform
 for everyone who would like to share their research. Do you have a new pre-print and want to create an accompanying video lecture or just a cool result you would like to share with the community? Speaker's corner allows you to create, advertise and share your talk via Virtual Science Forum platform.
