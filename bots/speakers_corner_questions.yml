@@ -1,7 +1,11 @@
 name:
   name: "Name" 
   text: "First Last"
-  comment: "your full name" 
+  comment: "your full name"
+affiliation:
+  name: "Affiliation"
+  text: ""
+  comment: "Your current affiliation"
 email:
   name: "Email" 
   text: "researcher@university.edu" 

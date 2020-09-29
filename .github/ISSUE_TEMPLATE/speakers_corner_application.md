@@ -13,6 +13,10 @@ First Last
 
 <!-- your full name -->
 
+## Affiliation
+
+<!-- Your current affiliation -->
+
 ## Email
 
 researcher@university.edu
