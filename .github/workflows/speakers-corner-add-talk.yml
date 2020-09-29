@@ -1,0 +1,38 @@
+name: Add a new speaker's corner talk
+
+on:
+  issues:
+    types: labeled
+
+jobs:
+  validate-issue:
+    # Name the Job
+    name: Validate the applications issue
+    # Only run if application and not edited by vsf-bot
+    if: ${{ contains(github.event.issue.labels.*.name, 'application') &&  contains(github.event.issue.labels.*.name, 'approved') }}
+    # Set the type of machine to run on
+    runs-on: ubuntu-latest
+    
+    steps :
+      # Checks out a copy of your repository on the ubuntu-latest machine
+      - name: Checkout code
+        uses: actions/checkout@v2
+        
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+        
+      - name: Install dependencies
+        
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f bots/validation_bot_requirements.txt ]; then pip install -r bots/validation_bot_requirements.txt; fi
+
+      # Run the validation script only if this is a speaker's corner issue and if it was just opened (validatespeakerscornerissue.py)
+      - name: Validate
+        working-directory: ./bots
+        run: python3 application_to-yaml.py
+        env:
+          VSF_BOT_TOKEN: ${{ secrets.VSF_BOT_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
