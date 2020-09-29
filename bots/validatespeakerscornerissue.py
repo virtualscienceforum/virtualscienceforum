@@ -7,7 +7,7 @@ import logging
 
 from dateutil.parser import parse, ParserError
 from github import Github
-from ruamel_yaml import YAML
+from ruamel.yaml import YAML
 import arxiv
 import jinja2
 import pytz
