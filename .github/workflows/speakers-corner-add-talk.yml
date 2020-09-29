@@ -6,10 +6,9 @@ on:
 
 jobs:
   validate-issue:
-    # Name the Job
     name: Add a SC talk to the listing
-    # Only run if application and not edited by vsf-bot
-    if: ${{ contains(github.event.issue.labels.*.name, 'application') &&  contains(github.event.issue.labels.*.name, 'approved') }}
+    # Only run if approved application
+    if: ${{ contains(github.event.issue.labels.*.name, 'application') && contains(github.event.issue.labels.*.name, 'approved') }}
     # Set the type of machine to run on
     runs-on: ubuntu-latest
     
