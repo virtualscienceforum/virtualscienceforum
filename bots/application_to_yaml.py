@@ -38,8 +38,10 @@ def add_talk(gh, issue_number):
         submission['time'] = parse(submission['time'])
     except ParserError:
         issue.create_comment("Could not determine the talk date")
+        return
 
     submission.pop('notes')
+    submission.pop('confirmation')
 
     talks.append(dict(
         workflow_issue=issue_number,
@@ -64,6 +66,7 @@ def add_talk(gh, issue_number):
             serialized.getvalue(),
             branch='master'
         )
+    issue.create_comment("I added the talk to the schedule.")
 
 if __name__ == "__main__":
     issue_number = int(os.getenv("ISSUE_NUMBER"))
