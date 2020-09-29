@@ -33,7 +33,8 @@ jobs:
       # Run the validation script only if this is a speaker's corner issue and if it was just opened (validatespeakerscornerissue.py)
       - name: Validate
         working-directory: ./bots
-        run: python3 validatespeakerscornerissue.py
+        run: echo $ACTOR; python3 validatespeakerscornerissue.py
         env:
+          ACTOR: ${{ github.event.issue.actor.login }}
           VSF_BOT_TOKEN: ${{ secrets.VSF_BOT_TOKEN }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
