@@ -16,9 +16,9 @@ import pytz
 yaml = YAML()
 
 TEAM_CHECKLIST = jinja2.Template("""Your submission looks good!
-
+{% if edits %}
 {{ edits }}
-
+{% endif %}
 As the next step, a team member will check that:
 
 - [ ] Everything is generally in order
