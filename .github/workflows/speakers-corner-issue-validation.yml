@@ -35,5 +35,5 @@ jobs:
         working-directory: ./bots
         run: python3 validatespeakerscornerissue.py
         env:
-          GITHUB_TOKEN: ${{ secrets.VSF_BOT_TOKEN }}
+          VSF_BOT_TOKEN: ${{ secrets.VSF_BOT_TOKEN }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
