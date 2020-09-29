@@ -1,6 +1,7 @@
 * [Home](/)
 * Current and planned events
     * [Long Range Colloquium](long_range_colloquium.md)
+    * [Speaker's Corner](speakerscorner.md)
     * [Observing Anyons 2020](Observing_Anyons_2020.md)
 * [Call for organizers](announcement.md)
 * [Organizer Guide](organizerguide.md)
