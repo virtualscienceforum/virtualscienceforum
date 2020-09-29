@@ -30,7 +30,7 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f bots/validation_bot_requirements.txt ]; then pip install -r bots/validation_bot_requirements.txt; fi
 
-      # Run the validation script only if this is a speaker's corner issue and if it was just opened (validatespeakerscornerissue.py)
+      # Run the validation script only if this is a Speakers' corner issue and if it was just opened (validatespeakerscornerissue.py)
       - name: Validate
         working-directory: ./bots
         run: python3 validatespeakerscornerissue.py

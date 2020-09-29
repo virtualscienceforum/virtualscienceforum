@@ -1,5 +1,5 @@
 ---
-name: Speaker's corner talk application
+name: Speakers' corner talk application
 about: Self-organized talks based on recent preprints
 labels: application
 assignees: ""
@@ -57,7 +57,7 @@ I declare that:
 
 - The other coauthors agree to the presentation
 - I permit VSF to perform and publish the recording (following my approval)
-- I will follow the VSF code of conduct and the rules of the Speaker's corner seminar
+- I will follow the VSF code of conduct and the rules of the Speakers' corner seminar
 
 
 <!-- all are required -->
