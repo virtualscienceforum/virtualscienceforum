@@ -31,11 +31,10 @@ Once everything looks good, respond here and add the "approved" label.
 RESPONSE_TEMPLATE = jinja2.Template(
 """Hi! I checked your application, I found the following issues:
 
-{% for failed in fails %}
-- {{ failed }}
+{% for fail in failed %}
+- {{ fail }}
 {% endfor %}
-"""
-)
+""")
 
 ISSUE_TEMPLATE = jinja2.Template(
     Path("../templates/speakers_corner_application.md.j2").read_text()
@@ -69,12 +68,14 @@ def check_arxiv(preprint):
 
 
 def check_confirmation(confirmation):
-    if confirmation != questions["confirmation"].text:
+    if confirmation.replace("\r", "") != questions["confirmation"]["text"].strip():
+        print(confirmation.strip())
+        print(questions["confirmation"]["text"].strip())
         return "You have to confirm that you accept all rules"
 
 
 def update_from_arxiv(submission):
-    arxiv_result = arxiv.query(id_list=[submission['preprint_ID']])[0]
+    arxiv_result = arxiv.query(id_list=[submission['preprint']])[0]
     updated_entries = []
     if not submission["title"]:
         submission["title"] = arxiv_result.title.strip()
@@ -120,7 +121,7 @@ def parse_issue(issue_body):
             for question, data in questions.items()
             if data["name"] == title
         ): answer
-        for title, answer in answers.values()
+        for title, answer in answers.items()
     }
 
     return submission
@@ -130,7 +131,10 @@ def validate_issue(issue_body):
     try:
         submission = parse_issue(issue_body)
     except ValueError as e:
-        return issue_body, e.args[0]
+        msg = e.args[0]
+        if "Missing questions" in msg or "Extra sections" in msg:
+            return issue_body, msg
+        raise e
 
     failed_checks = [
         message
@@ -143,7 +147,7 @@ def validate_issue(issue_body):
     ]
 
     if failed_checks:
-        return issue_body, RESPONSE_TEMPLATE.render(failed=failed)
+        return issue_body, RESPONSE_TEMPLATE.render(failed=failed_checks)
 
     updates = update_from_arxiv(submission)
 
@@ -154,7 +158,7 @@ def validate_issue(issue_body):
 
     return (
         ISSUE_TEMPLATE.render(questions=questions),
-        TEAM_CHECKLIST.render(updates)
+        TEAM_CHECKLIST.render(edits=updates)
     )
 
 
