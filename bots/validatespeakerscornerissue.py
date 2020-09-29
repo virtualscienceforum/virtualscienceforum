@@ -157,7 +157,7 @@ def validate_issue(issue_body):
         data['text'] = submission[question]
 
     return (
-        ISSUE_TEMPLATE.render(questions=questions),
+        ISSUE_TEMPLATE.render(questions=answers),
         TEAM_CHECKLIST.render(edits=updates)
     )
 
