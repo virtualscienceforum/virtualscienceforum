@@ -106,12 +106,12 @@ def parse_issue(issue_body):
 
     if missing := (question_titles - set(answers)):
         raise ValueError(
-            f"Missing questions{'s' * (len(missing) > 1)}"
+            f"Missing questions{'s' * (len(missing) > 1)}: "
             + ", ".join(missing)
         )
     if extra := (set(answers) - question_titles):
         raise ValueError(
-            f"Extra section{'s' * (len(extra) > 1)}"
+            f"Extra section{'s' * (len(extra) > 1)}: "
             + ", ".join(extra)
         )
 
@@ -133,7 +133,7 @@ def validate_issue(issue_body):
     except ValueError as e:
         msg = e.args[0]
         if "Missing questions" in msg or "Extra sections" in msg:
-            return issue_body, msg
+            return issue_body, f"Sorry, couldn't parse issue;\n\n{msg}"
         raise e
 
     failed_checks = [
