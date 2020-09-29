@@ -1,0 +1,21 @@
+- workflow_issue: 173
+  speaker_name: First Last
+  speaker_affiliation: University
+  event_type: speakers_corner
+  email: researcher@university.edu
+  preprint: '2008.13758'
+  title: Weyl Josephson Circuits
+  abstract: "We introduce Weyl Josephson circuits: small Josephson junction circuits\
+    \ that\nsimulate Weyl band structures. We first formulate a general approach to\
+    \ design\ncircuits that are analogous to Bloch Hamiltonians of a desired dimensionality\n\
+    and symmetry class. We then construct and analyze a six-junction device that\n\
+    produces a 3D Weyl Hamiltonian with broken inversion symmetry and in which\ntopological\
+    \ phase transitions can be triggered \\emph{in situ}. We argue that\ncurrently\
+    \ available superconducting circuit technology allows experiments that\nprobe\
+    \ topological properties inaccessible in condensed matter systems."
+  authors: Valla Fatemi, Anton R. Akhmerov, Landry Bretheau
+  time: 2020-10-28 11:00:00+00:00
+  confirmation: "I declare that:\r\n\r\n- The other coauthors agree to the presentation\r\
+    \n- I permit VSF to perform and publish the recording (following my approval)\r\
+    \n- I will follow the VSF code of conduct and the rules of the Speaker's corner\
+    \ seminar"
