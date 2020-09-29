@@ -13,8 +13,8 @@ import validatespeakerscornerissue
 yaml = YAML()
 TALKS_FILE = "speakers_corner_talks.yml"
 
-def add_talk(github, issue_number):
-    repo = github.get_repo("virtualscienceforum/virtualscienceforum")
+def add_talk(gh, issue_number):
+    repo = gh.get_repo("virtualscienceforum/virtualscienceforum")
     issue = repo.get_issue(number=issue_number)
 
     try:
@@ -67,5 +67,5 @@ def add_talk(github, issue_number):
 
 if __name__ == "__main__":
     issue_number = int(os.getenv("ISSUE_NUMBER"))
-    github = github.Github(os.getenv("VSF_BOT_TOKEN"))
-    add_talk(github, issue_number)
+    gh = github.Github(os.getenv("VSF_BOT_TOKEN"))
+    add_talk(gh, issue_number)
