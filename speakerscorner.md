@@ -10,8 +10,8 @@ containing all of the upcoming talks. That way, more potential participants will
 
 ## How it works
 
-1. Pick the topic of your talk, date and time (must be at least two weeks in the future), and make sure all your co-authors know about your presentation.
-2. Fill in the [Registration Form](https://github.com/virtualscienceforum/virtualscienceforum/issues/new?template=speakers_corner_application.md) (here you can add the arXiv number of your preprint!) 
+1. Pick the topic of your talk, date and time (must be at least two weeks in the future), and make sure all your co-authors know about your presentation and agree.
+2. Fill in the [Registration Form](https://github.com/virtualscienceforum/virtualscienceforum/issues/new?template=speakers_corner_application.md)
 3. VSF:
 
   - checks availability of your time slot and confirm the date
@@ -20,6 +20,4 @@ containing all of the upcoming talks. That way, more potential participants will
 
 4. Make sure to advertise your talk and invite participants to register on VSF website
 5. You are welcome to moderate your talk yourself as well as invite a colleague to be your moderator
-6. VSF records your talk, forwards it to you afterwards and then publishes it in the dedicated YouTube channel
-
-
+6. VSF records your talk, forwards it to you afterwards and then publishes it in out dedicated [YouTube channel](https://www.youtube.com/channel/UCvQEx4iW7u_x3jX742kUZLw)
