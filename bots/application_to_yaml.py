@@ -48,8 +48,22 @@ def add_talk(github, issue_number):
         event_type="speakers_corner",
         **submission,
     ))
+    serialized = StringIO()
+    yaml.dump(talks, serialized)
 
-    repo.
+    if talks_data is not None:
+        repo.update_file(
+            TALKS_FILE, f"Add a talk from #{issue_number}",
+            serialized.getvalue(),
+            sha=talks_data.sha,
+            branch='master'
+        )
+    else:
+        repo.create_file(
+            TALKS_FILE, f"Add a talk from #{issue_number}",
+            serialized.getvalue(),
+            branch='master'
+        )
 
 if __name__ == "__main__":
     issue_number = int(os.getenv("ISSUE_NUMBER"))
