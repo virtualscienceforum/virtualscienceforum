@@ -39,7 +39,7 @@ researcher@university.edu
 
 ## Time slot
 
-YYYY-MM-DD HH-MM UTC
+YYYY-MM-DD HH:MM UTC
 
 <!-- At least two weeks ahead take care to provide the UTC time -->
 
