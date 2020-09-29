@@ -7,7 +7,7 @@ on:
 jobs:
   validate-issue:
     # Name the Job
-    name: Validate the applications issue
+    name: Add a SC talk to the listing
     # Only run if application and not edited by vsf-bot
     if: ${{ contains(github.event.issue.labels.*.name, 'application') &&  contains(github.event.issue.labels.*.name, 'approved') }}
     # Set the type of machine to run on
@@ -30,7 +30,7 @@ jobs:
           if [ -f bots/validation_bot_requirements.txt ]; then pip install -r bots/validation_bot_requirements.txt; fi
 
       # Run the validation script only if this is a speaker's corner issue and if it was just opened (validatespeakerscornerissue.py)
-      - name: Validate
+      - name: Add data
         working-directory: ./bots
         run: python3 application_to_yaml.py
         env:
