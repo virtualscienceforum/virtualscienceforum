@@ -15,3 +15,25 @@
     \ topological properties inaccessible in condensed matter systems."
   authors: Valla Fatemi, Anton R. Akhmerov, Landry Bretheau
   time: 2020-10-28 11:00:00+00:00
+- workflow_issue: 174
+  speaker_name: First Last
+  speaker_affiliation: ''
+  event_type: speakers_corner
+  email: researcher@university.edu
+  preprint: '1909.09649'
+  title: Hybrid kernel polynomial method
+  abstract: "The kernel polynomial method allows to sample overall spectral properties\
+    \ of\na quantum system, while sparse diagonalization provides accurate information\n\
+    about a few important states. We present a method combining these two\napproaches\
+    \ without loss of performance or accuracy. We apply this hybrid kernel\npolynomial\
+    \ method to improve the computation of thermodynamic quantities and\nthe construction\
+    \ of perturbative effective models, in a regime where neither of\nthe methods\
+    \ is sufficient on its own. To achieve this we develop a perturbative\nkernel\
+    \ polynomial method to compute arbitrary order series expansions of\nexpectation\
+    \ values. We demonstrate the efficiency of our approach on three\nexamples: the\
+    \ calculation of supercurrent and inductance in a Josephson\njunction, the interaction\
+    \ of spin qubits defined in a two dimensional electron\ngas, and the calculation\
+    \ of the effective band structure in a realistic model\nof a semiconductor nanowire."
+  authors: Muhammad Irfan, Sathish R. Kuppuswamy, Daniel Varjas, Pablo M. Perez-Piskunow,
+    Rafal Skolasinski, Michael Wimmer, Anton R. Akhmerov
+  time: 2020-10-27 16:00:00+00:00
