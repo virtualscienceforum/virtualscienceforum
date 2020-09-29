@@ -165,7 +165,7 @@ def render_application_template():
 
 
 if __name__ == "__main__":
-    issue_number = os.getenv("ISSUE_NUMBER")
+    issue_number = int(os.getenv("ISSUE_NUMBER"))
     g = Github(os.getenv("VSF_BOT_TOKEN"))
     repo = g.get_repo("virtualscienceforum/virtualscienceforum")
     issue = repo.get_issue(number=issue_number)
