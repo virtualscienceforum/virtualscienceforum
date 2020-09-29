@@ -34,6 +34,8 @@ RESPONSE_TEMPLATE = jinja2.Template(
 {% for fail in failed %}
 - {{ fail }}
 {% endfor %}
+
+Please fix that by editing the issue description.
 """)
 
 ISSUE_TEMPLATE = jinja2.Template(
