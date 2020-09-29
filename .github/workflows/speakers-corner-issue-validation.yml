@@ -10,7 +10,7 @@ jobs:
     # Name the Job
     name: Validate the applications issue
     # Only run if application and not edited by vsf-bot
-    if: ${{ contains(github.event.issue.labels.*.name, 'application') && (github.event.issue.actor.name != 'vsf-bot') }}
+    if: ${{ contains(github.event.issue.labels.*.name, 'application') && (github.event.issue.actor.login != 'vsf-bot') }}
     # Set the type of machine to run on
     runs-on: ubuntu-latest
     
