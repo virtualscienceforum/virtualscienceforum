@@ -23,3 +23,23 @@
     finite-bias effects are the source of conductance asymmetries."
   authors: André Melo, Chun-Xiao Liu, Piotr Rożek, Tómas Örn Rosdahl, Michael Wimmer
   time: 2020-11-20 15:00:00+00:00
+- workflow_issue: 175
+  speaker_name: Joshuah T. Heath
+  speaker_affiliation: Boston College
+  event_type: speakers_corner
+  email: heathjo@bc.edu
+  preprint: '2001.08230'
+  title: Landau Quasiparticles in Weak Power-Law Liquids
+  abstract: "The failure of Landau-Fermi liquid theory is often considered a telltale\
+    \ sign\nof universal, scale-invariant behavior in the emergent field theory of\n\
+    interacting fermions. Nevertheless, there exist borderline cases where weak\n\
+    scale invariance coupled with particle-hole asymmetry can coexist with the\nLandau\
+    \ quasiparticle paradigm. In this letter, I show explicitly that a\nLandau-Fermi\
+    \ liquid can exist for weak power-law scaling of the retarded\nGreen's function.\
+    \ Such an exotic variant of the traditional Fermi liquid,\nalthough exhibiting\
+    \ a finite quasiparticle weight and large quasiparticle\nlifetime, is shown to\
+    \ always be incompatible with Luttinger's theorem for any\nnon-trivial scaling.\
+    \ This result yields evidence for a Fermi liquid-like ground\nstate in the high-field,\
+    \ underdoped pseudogap phase of the high-temperature\ncuprate superconductors."
+  authors: Joshuah T. Heath
+  time: 2020-11-17 15:00:00+00:00
