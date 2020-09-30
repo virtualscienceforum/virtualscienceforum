@@ -1,0 +1,25 @@
+- workflow_issue: 176
+  speaker_name: André Melo
+  speaker_affiliation: Kavli Institute of Nanoscience, Delft University of Technology
+  event_type: speakers_corner
+  email: am@andremelo.org
+  preprint: '2008.01734'
+  title: "Conductance asymmetries in mesoscopic superconducting devices due to\n \
+    \ finite bias"
+  abstract: "Tunneling conductance spectroscopy in normal metal-superconductor junctions\n\
+    is an important tool for probing Andreev bound states in mesoscopic\nsuperconducting\
+    \ devices, such as Majorana nanowires. In an ideal\nsuperconducting device, the\
+    \ subgap conductance obeys specific symmetry\nrelations, due to particle-hole\
+    \ symmetry and unitarity of the scattering\nmatrix. However, experimental data\
+    \ often exhibits deviations from these\nsymmetries or even their explicit breakdown.\
+    \ In this work, we identify a\nmechanism that leads to conductance asymmetries\
+    \ without quasiparticle\npoisoning. In particular, we investigate the effects\
+    \ of finite bias and include\nthe voltage dependence in the tunnel barrier transparency,\
+    \ finding significant\nconductance asymmetries for realistic device parameters.\
+    \ It is important to\nidentify the physical origin of conductance asymmetries:\
+    \ in contrast to other\npossible mechanisms such as quasiparticle poisoning, finite-bias\
+    \ effects are\nnot detrimental to the performance of a topological qubit. To that\
+    \ end we\nidentify features that can be used to experimentally determine whether\n\
+    finite-bias effects are the source of conductance asymmetries."
+  authors: André Melo, Chun-Xiao Liu, Piotr Rożek, Tómas Örn Rosdahl, Michael Wimmer
+  time: 2020-11-20 15:00:00+00:00
