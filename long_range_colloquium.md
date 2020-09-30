@@ -20,7 +20,7 @@ Attendance is open to everyone, but please [register](#pedram-roushan-google-qua
 | August 5 | [Titus Neupert](#titus-neupert-university-of-zürich) | Exceptional Topological Insulators |
 | August 19 | [Mohammad Hafezi](#mohammad-hafezi-university-of-maryland-and-jqi) | Quantum optics meets correlated electrons |
 |September 16 | [Michel Devoret](#michel-devoret-yale-university) | An error-corrected logical quantum bit encoded in grid states of a superconducting cavity |
-|September 30 | [Pedram Roushan](#pedram-roushan-google-quantum-ai) | Tuning quantum information scrambling in two-dimensional systems |
+|September 30 | [Pedram Roushan](#pedram-roushan-google-ai-quantum) | Tuning quantum information scrambling in two-dimensional systems |
 |October 14 | [Brian Skinner](#brian-skinner-ohio-state-university) | Measurement-induced Phase Transitions in the Dynamics of Quantum Entanglement|
 
 <!--## Upcoming talks -->
@@ -117,7 +117,7 @@ Title: **An error-corrected logical quantum bit encoded in grid states of a supe
 
 *Video in preparation*
 
-### Pedram Roushan, Google Quantum AI
+### Pedram Roushan, Google AI Quantum
 
 Title: **Tuning quantum information scrambling in two-dimensional systems**
 
