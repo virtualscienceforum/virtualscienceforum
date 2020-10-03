@@ -47,6 +47,8 @@ with open("speakers_corner_questions.yml") as f:
 
 
 def cleanup(text: str) -> str:
+    """Remove extraneous whitespace from a string"""
+    # TODO: remove when https://github.com/lukasschwab/arxiv.py/issues/48 is fixed
     return re.sub(r"[\n ]+", " ", text).strip()
 
 def check_name(name):
