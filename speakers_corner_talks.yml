@@ -4,22 +4,22 @@
   event_type: speakers_corner
   email: am@andremelo.org
   preprint: '2008.01734'
-  title: "Conductance asymmetries in mesoscopic superconducting devices due to\n \
+  title: "Conductance asymmetries in mesoscopic superconducting devices due to\
     \ finite bias"
-  abstract: "Tunneling conductance spectroscopy in normal metal-superconductor junctions\n\
-    is an important tool for probing Andreev bound states in mesoscopic\nsuperconducting\
-    \ devices, such as Majorana nanowires. In an ideal\nsuperconducting device, the\
-    \ subgap conductance obeys specific symmetry\nrelations, due to particle-hole\
-    \ symmetry and unitarity of the scattering\nmatrix. However, experimental data\
-    \ often exhibits deviations from these\nsymmetries or even their explicit breakdown.\
-    \ In this work, we identify a\nmechanism that leads to conductance asymmetries\
-    \ without quasiparticle\npoisoning. In particular, we investigate the effects\
-    \ of finite bias and include\nthe voltage dependence in the tunnel barrier transparency,\
-    \ finding significant\nconductance asymmetries for realistic device parameters.\
-    \ It is important to\nidentify the physical origin of conductance asymmetries:\
-    \ in contrast to other\npossible mechanisms such as quasiparticle poisoning, finite-bias\
-    \ effects are\nnot detrimental to the performance of a topological qubit. To that\
-    \ end we\nidentify features that can be used to experimentally determine whether\n\
+  abstract: "Tunneling conductance spectroscopy in normal metal-superconductor junctions \
+    is an important tool for probing Andreev bound states in mesoscopic superconducting\
+    \ devices, such as Majorana nanowires. In an ideal superconducting device, the\
+    \ subgap conductance obeys specific symmetry relations, due to particle-hole\
+    \ symmetry and unitarity of the scattering matrix. However, experimental data\
+    \ often exhibits deviations from these symmetries or even their explicit breakdown.\
+    \ In this work, we identify a mechanism that leads to conductance asymmetries\
+    \ without quasiparticle poisoning. In particular, we investigate the effects\
+    \ of finite bias and include the voltage dependence in the tunnel barrier transparency,\
+    \ finding significant conductance asymmetries for realistic device parameters.\
+    \ It is important to identify the physical origin of conductance asymmetries:\
+    \ in contrast to other possible mechanisms such as quasiparticle poisoning, finite-bias\
+    \ effects are not detrimental to the performance of a topological qubit. To that\
+    \ end we identify features that can be used to experimentally determine whether \
     finite-bias effects are the source of conductance asymmetries."
   authors: André Melo, Chun-Xiao Liu, Piotr Rożek, Tómas Örn Rosdahl, Michael Wimmer
   time: 2020-11-20 15:00:00+00:00
@@ -31,15 +31,15 @@
   preprint: '2001.08230'
   title: Landau Quasiparticles in Weak Power-Law Liquids
   abstract: "The failure of Landau-Fermi liquid theory is often considered a telltale\
-    \ sign\nof universal, scale-invariant behavior in the emergent field theory of\n\
-    interacting fermions. Nevertheless, there exist borderline cases where weak\n\
-    scale invariance coupled with particle-hole asymmetry can coexist with the\nLandau\
-    \ quasiparticle paradigm. In this letter, I show explicitly that a\nLandau-Fermi\
-    \ liquid can exist for weak power-law scaling of the retarded\nGreen's function.\
-    \ Such an exotic variant of the traditional Fermi liquid,\nalthough exhibiting\
-    \ a finite quasiparticle weight and large quasiparticle\nlifetime, is shown to\
-    \ always be incompatible with Luttinger's theorem for any\nnon-trivial scaling.\
-    \ This result yields evidence for a Fermi liquid-like ground\nstate in the high-field,\
-    \ underdoped pseudogap phase of the high-temperature\ncuprate superconductors."
+    \ sign of universal, scale-invariant behavior in the emergent field theory of \
+    interacting fermions. Nevertheless, there exist borderline cases where weak \
+    scale invariance coupled with particle-hole asymmetry can coexist with the Landau\
+    \ quasiparticle paradigm. In this letter, I show explicitly that a Landau-Fermi\
+    \ liquid can exist for weak power-law scaling of the retarded Green's function.\
+    \ Such an exotic variant of the traditional Fermi liquid, although exhibiting\
+    \ a finite quasiparticle weight and large quasiparticle lifetime, is shown to\
+    \ always be incompatible with Luttinger's theorem for any non-trivial scaling.\
+    \ This result yields evidence for a Fermi liquid-like ground state in the high-field,\
+    \ underdoped pseudogap phase of the high-temperature cuprate superconductors."
   authors: Joshuah T. Heath
   time: 2020-11-17 15:00:00+00:00
