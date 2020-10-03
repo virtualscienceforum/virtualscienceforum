@@ -63,6 +63,6 @@ Al times are shown in <span id="timezone">UTC</span> timezone.
 <script>
 document.getElementById("timezone").innerText = Intl.DateTimeFormat().resolvedOptions().timeZone
 for (let time of document.getElementsByTagName("time")) {
-    time.innerText = dayjs(time.dateTime).local().format("MMMM d h:mm");
+    time.innerText = dayjs(time.dateTime).local().format("MMMM d H:mm");
 };
 </script>
