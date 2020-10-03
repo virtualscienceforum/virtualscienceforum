@@ -2,8 +2,9 @@ name: Speakers-Corner-Issue-Validation
 
 # Manually for now, but will trigger on issue opening
 on:
-  issues:
-    types: [opened, edited]
+  push:
+    branches:
+      - master
 
 jobs:
   build-and-deploy:
