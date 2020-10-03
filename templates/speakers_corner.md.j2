@@ -7,27 +7,28 @@ Al times are shown in <span id="timezone">UTC</span> timezone.
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-{%- for talk in talks | sort(attribute="time") if talk.zoom_id and talk.time > now %}
+{%- for talk in talks | sort(attribute="time") if talk.time > now %}
 | <time datetime="{{ talk.time.isoformat() }}">{{ talk.time.strftime("%B %-d %h:%M %Z") }}</time> | {{ talk.speaker_name }} | [{{ talk.title }}](#{{ talk.title.replace(" ", "-") | lower }}) |
-{% endfor %}
+{%- endfor %}
 
 ## Upcoming talks
 
-{% for talk in talks | sort(attribute="time") if talk.zoom_id and talk.time > now %}
+{% for talk in talks | sort(attribute="time") if talk.time > now %}
 ### {{ talk.title }}
-#### {{ talk.speaker_name }}, {{ talk.affiliation }}
+#### {{ talk.speaker_name }} ({{ talk.speaker_affiliation }})
 
-{% for line in talk.abstract.split("\n") %}
+{% for line in talk.abstract.split("\n") -%}
 > {{ line }}
-{% endfor %}
+{%- endfor %}
+>
+> **Authors:** {{ talk.authors }}  
+> **Preprint:** [arXiv:{{ talk.preprint }}](https://arxiv.org/abs/{{ talk.preprint }})
 
-> **Authors:** {{ talk.authors | join(", ") }}  
-> **Preprint:** [arXiv:{{ talk.arxiv }}](https://arxiv.org/abs/{{ talk.arxiv }})
-
+{% if talk.registration_url %}
 If the form below doesn't work, [register directly]({{ talk.registration_url }})
 
 <iframe width="100%" height="940" src="{{ talk.registration_url }}" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
-
+{% endif %}
 {% endfor %}
 
 ## Recordings
