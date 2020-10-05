@@ -2,7 +2,6 @@
 * Current and planned events
     * [Long Range Colloquium](long_range_colloquium.md)
     * [Speakers' Corner](speakers-corner.md)
-    * [Observing Anyons 2020](Observing_Anyons_2020.md)
 * [Call for organizers](announcement.md)
 * [Organizer Guide](organizerguide.md)
 * [Speaker Guide](speakerguide.md)
@@ -12,5 +11,6 @@
 * [Contributors](whoweare.md)
 * [Privacy policy](privacy_policy.md)
 * Past events
+   * [Observing Anyons 2020](Observing_Anyons_2020.md)
    * [Scanning probe microscopy workshop](SPM_workshop.md)
    * [Inaugural session](inauguralsession.md)
