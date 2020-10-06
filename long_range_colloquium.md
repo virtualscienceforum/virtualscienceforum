@@ -23,6 +23,7 @@ Attendance is open to everyone, but please [register](#pedram-roushan-google-qua
 |September 30 | [Pedram Roushan](#pedram-roushan-google-ai-quantum) | Tuning quantum information scrambling in two-dimensional systems |
 |October 14 | [Brian Skinner](#brian-skinner-ohio-state-university) | Measurement-induced Phase Transitions in the Dynamics of Quantum Entanglement|
 |October 28 | [Natalia Ares](#natalia-ares-oxford-university) | TBA |
+|December 9 | [Deji Akinwande]() | TBA |
 
 <!--## Upcoming talks -->
  
