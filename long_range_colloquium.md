@@ -22,6 +22,7 @@ Attendance is open to everyone, but please [register](#pedram-roushan-google-qua
 |September 16 | [Michel Devoret](#michel-devoret-yale-university) | An error-corrected logical quantum bit encoded in grid states of a superconducting cavity |
 |September 30 | [Pedram Roushan](#pedram-roushan-google-ai-quantum) | Tuning quantum information scrambling in two-dimensional systems |
 |October 14 | [Brian Skinner](#brian-skinner-ohio-state-university) | Measurement-induced Phase Transitions in the Dynamics of Quantum Entanglement|
+|October 28 | [Natalia Ares](#natalia-ares-oxford-university) | TBA |
 
 <!--## Upcoming talks -->
  
