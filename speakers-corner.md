@@ -28,10 +28,22 @@ Al times are shown in <span id="timezone">UTC</span> timezone.
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
+| <time datetime="2020-11-10T18:00:00+00:00">November 10 Nov:00 UTC</time> | Hamed Vakili | [Using skyrmionic racetracks for unconventional computing](#using-skyrmionic-racetracks-for-unconventional-computing) |
 | <time datetime="2020-11-17T15:00:00+00:00">November 17 Nov:00 UTC</time> | Joshuah T. Heath | [Landau Quasiparticles in Weak Power-Law Liquids](#landau-quasiparticles-in-weak-power-law-liquids) |
 | <time datetime="2020-11-20T15:00:00+00:00">November 20 Nov:00 UTC</time> | André Melo | [Conductance asymmetries in mesoscopic superconducting devices due to finite bias](#conductance-asymmetries-in-mesoscopic-superconducting-devices-due-to-finite-bias) |
 
 ## Upcoming talks
+
+
+### Using skyrmionic racetracks for unconventional computing
+#### Hamed Vakili (Dept. of Physics
+University of Virginia)
+
+> Skyrmions are topological excitations in thin magnetic films with broken spatial symmetry, and can be driven at high speeds along magnetic racetracks using modest currents in heavy metal underlayers. However, they suffer strong Magnus forces arising from their vorticity. Eliminating these Magnus forces requires precise tuning of parameters that are hard to execute during fabrication. We show how Heusler ferrimagnetic racetracks can achieve high speeds and low damping. Instead of eliminating Magnus forces, we show how designing a spatially varying magnetic parameter, such as a graded PtxW1-x alloy, creates a moving skyrmion that keeps evolving into a growing hybrid between Bloch and Neel until it reaches an automatic compensation line where it self-converges into a racetrack. We can further tune the compensation line using a combination of static and gate-controlled dynamic magnetic anisotropy. Finally, we describe how the position of skyrmions along racetracks can be used as a native memory for temporal race logic that can be used for solving large graph theoretical problems.
+>
+> **Authors:** Hamed Vakili, Mohammad Nazmus Sakib, Samiran Ganguly, Mircea Stan, Matthew W. Daniels, Advait Madhavan, Mark D. Stiles, Avik W. Ghosh  
+> **Preprint:** [arXiv:2005.10704](https://arxiv.org/abs/2005.10704)
+
 
 
 ### Landau Quasiparticles in Weak Power-Law Liquids

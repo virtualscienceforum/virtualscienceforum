@@ -4,23 +4,23 @@
   event_type: speakers_corner
   email: am@andremelo.org
   preprint: '2008.01734'
-  title: "Conductance asymmetries in mesoscopic superconducting devices due to\
-    \ finite bias"
-  abstract: "Tunneling conductance spectroscopy in normal metal-superconductor junctions \
-    is an important tool for probing Andreev bound states in mesoscopic superconducting\
-    \ devices, such as Majorana nanowires. In an ideal superconducting device, the\
-    \ subgap conductance obeys specific symmetry relations, due to particle-hole\
-    \ symmetry and unitarity of the scattering matrix. However, experimental data\
-    \ often exhibits deviations from these symmetries or even their explicit breakdown.\
-    \ In this work, we identify a mechanism that leads to conductance asymmetries\
-    \ without quasiparticle poisoning. In particular, we investigate the effects\
-    \ of finite bias and include the voltage dependence in the tunnel barrier transparency,\
-    \ finding significant conductance asymmetries for realistic device parameters.\
-    \ It is important to identify the physical origin of conductance asymmetries:\
-    \ in contrast to other possible mechanisms such as quasiparticle poisoning, finite-bias\
-    \ effects are not detrimental to the performance of a topological qubit. To that\
-    \ end we identify features that can be used to experimentally determine whether \
-    finite-bias effects are the source of conductance asymmetries."
+  title: Conductance asymmetries in mesoscopic superconducting devices due to finite
+    bias
+  abstract: 'Tunneling conductance spectroscopy in normal metal-superconductor junctions
+    is an important tool for probing Andreev bound states in mesoscopic superconducting
+    devices, such as Majorana nanowires. In an ideal superconducting device, the subgap
+    conductance obeys specific symmetry relations, due to particle-hole symmetry and
+    unitarity of the scattering matrix. However, experimental data often exhibits
+    deviations from these symmetries or even their explicit breakdown. In this work,
+    we identify a mechanism that leads to conductance asymmetries without quasiparticle
+    poisoning. In particular, we investigate the effects of finite bias and include
+    the voltage dependence in the tunnel barrier transparency, finding significant
+    conductance asymmetries for realistic device parameters. It is important to identify
+    the physical origin of conductance asymmetries: in contrast to other possible
+    mechanisms such as quasiparticle poisoning, finite-bias effects are not detrimental
+    to the performance of a topological qubit. To that end we identify features that
+    can be used to experimentally determine whether finite-bias effects are the source
+    of conductance asymmetries.'
   authors: André Melo, Chun-Xiao Liu, Piotr Rożek, Tómas Örn Rosdahl, Michael Wimmer
   time: 2020-11-20 15:00:00+00:00
 - workflow_issue: 175
@@ -30,16 +30,40 @@
   email: heathjo@bc.edu
   preprint: '2001.08230'
   title: Landau Quasiparticles in Weak Power-Law Liquids
-  abstract: "The failure of Landau-Fermi liquid theory is often considered a telltale\
-    \ sign of universal, scale-invariant behavior in the emergent field theory of \
-    interacting fermions. Nevertheless, there exist borderline cases where weak \
-    scale invariance coupled with particle-hole asymmetry can coexist with the Landau\
-    \ quasiparticle paradigm. In this letter, I show explicitly that a Landau-Fermi\
-    \ liquid can exist for weak power-law scaling of the retarded Green's function.\
-    \ Such an exotic variant of the traditional Fermi liquid, although exhibiting\
-    \ a finite quasiparticle weight and large quasiparticle lifetime, is shown to\
-    \ always be incompatible with Luttinger's theorem for any non-trivial scaling.\
-    \ This result yields evidence for a Fermi liquid-like ground state in the high-field,\
-    \ underdoped pseudogap phase of the high-temperature cuprate superconductors."
+  abstract: The failure of Landau-Fermi liquid theory is often considered a telltale
+    sign of universal, scale-invariant behavior in the emergent field theory of interacting
+    fermions. Nevertheless, there exist borderline cases where weak scale invariance
+    coupled with particle-hole asymmetry can coexist with the Landau quasiparticle
+    paradigm. In this letter, I show explicitly that a Landau-Fermi liquid can exist
+    for weak power-law scaling of the retarded Green's function. Such an exotic variant
+    of the traditional Fermi liquid, although exhibiting a finite quasiparticle weight
+    and large quasiparticle lifetime, is shown to always be incompatible with Luttinger's
+    theorem for any non-trivial scaling. This result yields evidence for a Fermi liquid-like
+    ground state in the high-field, underdoped pseudogap phase of the high-temperature
+    cuprate superconductors.
   authors: Joshuah T. Heath
   time: 2020-11-17 15:00:00+00:00
+- workflow_issue: 182
+  speaker_name: Hamed Vakili
+  speaker_affiliation: "Dept. of Physics\r\nUniversity of Virginia"
+  event_type: speakers_corner
+  email: hv8rf@virginia.edu
+  preprint: '2005.10704'
+  title: Using skyrmionic racetracks for unconventional computing
+  abstract: Skyrmions are topological excitations in thin magnetic films with broken
+    spatial symmetry, and can be driven at high speeds along magnetic racetracks using
+    modest currents in heavy metal underlayers. However, they suffer strong Magnus
+    forces arising from their vorticity. Eliminating these Magnus forces requires
+    precise tuning of parameters that are hard to execute during fabrication. We show
+    how Heusler ferrimagnetic racetracks can achieve high speeds and low damping.
+    Instead of eliminating Magnus forces, we show how designing a spatially varying
+    magnetic parameter, such as a graded PtxW1-x alloy, creates a moving skyrmion
+    that keeps evolving into a growing hybrid between Bloch and Neel until it reaches
+    an automatic compensation line where it self-converges into a racetrack. We can
+    further tune the compensation line using a combination of static and gate-controlled
+    dynamic magnetic anisotropy. Finally, we describe how the position of skyrmions
+    along racetracks can be used as a native memory for temporal race logic that can
+    be used for solving large graph theoretical problems.
+  authors: Hamed Vakili, Mohammad Nazmus Sakib, Samiran Ganguly, Mircea Stan, Matthew
+    W. Daniels, Advait Madhavan, Mark D. Stiles, Avik W. Ghosh
+  time: 2020-11-10 18:00:00+00:00
