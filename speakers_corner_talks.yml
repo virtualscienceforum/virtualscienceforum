@@ -1,8 +1,8 @@
-- workflow_issue: 176
+- workflow_issue: 0.176
   speaker_name: André Melo
   speaker_affiliation: Kavli Institute of Nanoscience, Delft University of Technology
   event_type: speakers_corner
-  email: am@andremelo.org
+  email: vsftest@antonakhmerov.org
   preprint: '2008.01734'
   title: Conductance asymmetries in mesoscopic superconducting devices due to finite
     bias
@@ -23,11 +23,11 @@
     of conductance asymmetries.'
   authors: André Melo, Chun-Xiao Liu, Piotr Rożek, Tómas Örn Rosdahl, Michael Wimmer
   time: 2020-11-20 15:00:00+00:00
-- workflow_issue: 175
+- workflow_issue: 0.175
   speaker_name: Joshuah T. Heath
   speaker_affiliation: Boston College
   event_type: speakers_corner
-  email: heathjo@bc.edu
+  email: evert.v.nieuwenburg+vsftest@gmail.com
   preprint: '2001.08230'
   title: Landau Quasiparticles in Weak Power-Law Liquids
   abstract: The failure of Landau-Fermi liquid theory is often considered a telltale
@@ -43,27 +43,3 @@
     cuprate superconductors.
   authors: Joshuah T. Heath
   time: 2020-11-17 15:00:00+00:00
-- workflow_issue: 182
-  speaker_name: Hamed Vakili
-  speaker_affiliation: "Dept. of Physics\r\nUniversity of Virginia"
-  event_type: speakers_corner
-  email: hv8rf@virginia.edu
-  preprint: '2005.10704'
-  title: Using skyrmionic racetracks for unconventional computing
-  abstract: Skyrmions are topological excitations in thin magnetic films with broken
-    spatial symmetry, and can be driven at high speeds along magnetic racetracks using
-    modest currents in heavy metal underlayers. However, they suffer strong Magnus
-    forces arising from their vorticity. Eliminating these Magnus forces requires
-    precise tuning of parameters that are hard to execute during fabrication. We show
-    how Heusler ferrimagnetic racetracks can achieve high speeds and low damping.
-    Instead of eliminating Magnus forces, we show how designing a spatially varying
-    magnetic parameter, such as a graded PtxW1-x alloy, creates a moving skyrmion
-    that keeps evolving into a growing hybrid between Bloch and Neel until it reaches
-    an automatic compensation line where it self-converges into a racetrack. We can
-    further tune the compensation line using a combination of static and gate-controlled
-    dynamic magnetic anisotropy. Finally, we describe how the position of skyrmions
-    along racetracks can be used as a native memory for temporal race logic that can
-    be used for solving large graph theoretical problems.
-  authors: Hamed Vakili, Mohammad Nazmus Sakib, Samiran Ganguly, Mircea Stan, Matthew
-    W. Daniels, Advait Madhavan, Mark D. Stiles, Avik W. Ghosh
-  time: 2020-11-10 18:00:00+00:00
