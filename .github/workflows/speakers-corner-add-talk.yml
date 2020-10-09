@@ -39,7 +39,5 @@ jobs:
       - name: Schedule Zoom Talk
         uses: peter-evans/repository-dispatch@v1
         with:
-          token: ${{ secrets.VSF_BOT_TOKEN }}
           repository: virtualscienceforum/automation
           event-type: schedule-zoom-talk
-          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
