@@ -10,7 +10,8 @@
 # Observing Anyons 2020
 **A mini-conference**<br />
 **October 5, 2020 9:30am&ndash;12:30pm EDT** ([view in your time zone](https://everytimezone.com/s/4ab0cea5)) <br />
-**[Register](#register)**
+
+**Recording Now Online** : [click here](https://youtu.be/0dAEnjlrDQ8)
 <hr />
 
 Observing Ayons 2020 is a mini-confernece that convenes experts to present and discuss the latest advances on observing anyons in nature. 
@@ -21,12 +22,15 @@ The conference begins with a pedagogical introduction to fractional statistics a
 (All times EDT)
 
 9:30    Welcome <br />
+
 9:35    [**Steven H. Simon**](https://www-thphys.physics.ox.ac.uk/people/SteveSimon/), University of Oxford (UK) <br />
 > **Leading up to the the Recent Measurement of Fractional Statistics** <br />
+> [Recording on Youtube](https://youtu.be/0dAEnjlrDQ8?t=174) <br />
 > The idea of anyons, particles in two dimensions which are neither bosons nor fermions, was introduced in 1977.   By the mid 1980s the community believed that the excitations of fractional quantum Hall systems should be anyons.   Forty years later, for the first time, two experiments appear to finally give strong demonstrations of this fact.   I will review some of the key  developments over the years that have led up to these exciting experiments.
 
 10:10 [**Gwendal Fève**](http://www.lpa.ens.fr/?-Quantum-optics-with-electrons-&lang=en), École normale supérieure (France) <br />
 > **Fractional statistics in anyon collisions** <br />
+> [Recording on Youtube](https://youtu.be/l-SKvhvNWB0) <br />
 > Hugo Bartolomei, Manohar Kumar, Rémi Bisognin, Arthur Marguerite, Jean-Marc Berroir, Erwann Bocquillon, Bernard Plaçais, Antonella Cavanna, Quan Dong, Ulf Gennser, Yong Jin, Gwendal Fève <br />
 > [Science **368**, 173 (2020)](https://doi.org/10.1126/science.aaz5601); Preprint [arXiv:2006.13157](https://arxiv.org/abs/2006.13157)<br />
 > Two-dimensional systems can host exotic particles called anyons whose quantum statistics are neither bosonic nor fermionic. For example, the elementary excitations of the fractional quantum Hall effect at filling factor $\nu=1/m$ (where $m$ is an odd integer) have been predicted to obey Abelian fractional statistics, with a phase $\phi$ associated with the exchange of two particles equal to $\pi/m$. However, despite numerous experimental attempts, clear signatures of fractional statistics have remained elusive. We experimentally demonstrate Abelian fractional statistics at filling factor ν = ⅓ by measuring the current correlations resulting from the collision between anyons at a beamsplitter. By analyzing their dependence on the anyon current impinging on the splitter and comparing with recent theoretical models, we extract $\phi=\pi/3$, in agreement with predictions.
@@ -34,11 +38,13 @@ The conference begins with a pedagogical introduction to fractional statistics a
 
 10:50 [**James Nakamura**](https://manfragroup.org/james-nakamura/), Purdue University (USA)  
 > **Direct observation of anyonic braiding statistics** <br />
+> [Recording on Youtube](https://youtu.be/p9KqqFDBNR4) <br />
 > J. Nakamura, S. Liang, G. C. Gardner & M. J. Manfra, [Nature Physics **16**, 931 (2020)](https://doi.org/10.1038/s41567-020-1019-1); Preprint [arXiv:2006.14115](https://arxiv.org/abs/2006.14115)
 > Anyons are quasiparticles that, unlike fermions and bosons, show fractional statistics when two of them are exchanged. Here, we report the experimental observation of anyonic braiding statistics for the $\nu=1/3$ fractional quantum Hall state by using an electronic Fabry–Perot interferometer. Strong Aharonov–Bohm interference of the edge mode is punctuated by discrete phase slips that indicate an anyonic phase $\theta_\text{anyon}=2\pi/3$. Our results are consistent with a recent theory that describes an interferometer operated in a regime in which device charging energy is small compared to the energy of formation of charged quasiparticles, which indicates that we have observed anyonic braiding.
 
 11:30   Break <br />
 11:35   Panel Discussion
+> [Recording on Youtube](https://youtu.be/NLXtDG5a0bs) <br />
 > Moderator: [Steven H. Simon](https://www-thphys.physics.ox.ac.uk/people/SteveSimon/), University of Oxford (UK) <br />
 >
 > [Gwendal Fève](http://www.lpa.ens.fr/?-Quantum-optics-with-electrons-&lang=en), École normale supérieure (France) <br />
@@ -57,8 +63,3 @@ The conference begins with a pedagogical introduction to fractional statistics a
 [Babak Seradjeh](https://babaks.pages.iu.edu/), Indiana University at Bloomington (USA)
 
 **Contact:** anyons2020@virtualscienceforum.org
-
-## Register
-If the form below is not showing correctly, please register **[on Zoom](https://virtualscienceforum-org.zoom.us/meeting/register/tJIpd--qrzIqHNZ55BuksI37QtCVhG4yq67a)**
-
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJIpd--qrzIqHNZ55BuksI37QtCVhG4yq67a" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
