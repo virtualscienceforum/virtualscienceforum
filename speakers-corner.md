@@ -86,6 +86,6 @@ University of Virginia)
 <script>
 document.getElementById("timezone").innerText = Intl.DateTimeFormat().resolvedOptions().timeZone
 for (let time of document.getElementsByTagName("time")) {
-    time.innerText = dayjs(time.dateTime).local().format("MMMM d H:mm");
+    time.innerText = dayjs(time.dateTime).local().format("MMMM D H:mm");
 };
 </script>
