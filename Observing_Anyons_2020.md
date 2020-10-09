@@ -11,7 +11,7 @@
 **A mini-conference**<br />
 **October 5, 2020 9:30am&ndash;12:30pm EDT** ([view in your time zone](https://everytimezone.com/s/4ab0cea5)) <br />
 
-**Recording Now Online** : [click here](https://youtu.be/0dAEnjlrDQ8)
+**Recording Now Online** : [click here](https://www.youtube.com/playlist?list=PLqJ4D_Db7W_qtwTbN1dSAccyffU3xVz2R)
 <hr />
 
 Observing Ayons 2020 is a mini-confernece that convenes experts to present and discuss the latest advances on observing anyons in nature. 
