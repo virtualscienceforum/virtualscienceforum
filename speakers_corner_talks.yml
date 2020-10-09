@@ -67,3 +67,29 @@
   authors: Hamed Vakili, Mohammad Nazmus Sakib, Samiran Ganguly, Mircea Stan, Matthew
     W. Daniels, Advait Madhavan, Mark D. Stiles, Avik W. Ghosh
   time: 2020-11-10 18:00:00+00:00
+- workflow_issue: 188
+  speaker_name: Antonio Manesco
+  speaker_affiliation: University of São Paulo
+  event_type: speakers_corner
+  email: antoniolrm@usp.br
+  preprint: '2003.05163'
+  title: Correlations in the elastic Landau level of spontaneously buckled graphene
+  abstract: Electronic correlations stemming from nearly flat bands in van der Waals
+    materials have demonstrated to be a powerful playground to engineer artificial
+    quantum matter, including superconductors, correlated insulators and topological
+    matter. This phenomenology has been experimentally observed in a variety of twisted
+    van der Waals materials, such as graphene and dichalcogenide multilayers. Here
+    we show that spontaneously buckled graphene can yield a correlated state, emerging
+    from an elastic pseudo Landau level. Our results build on top of recent experimental
+    findings reporting that, when placed on top of hBN or NbSe$_2$ substrates, wrinkled
+    graphene sheets relax forming a periodic, long-range buckling pattern. The low-energy
+    physics can be accurately described by electrons in the presence of a pseudo-axial
+    gauge field, leading to the formation of sublattice-polarized Landau levels. Moreover,
+    we verify that the high density of states at the zeroth Landau level leads to
+    the formation of a periodically modulated ferrimagnetic groundstate, which can
+    be controlled by the application of external electric fields. Our results indicate
+    that periodically strained graphene is a versatile platform to explore emergent
+    electronic states arising from correlated elastic Landau levels.
+  authors: Antonio L. R. Manesco, Jose L. Lado, Eduardo V. S. Ribeiro, Gabrielle Weber,
+    Durval Rodrigues Jr
+  time: 2020-11-09 15:00:00+00:00

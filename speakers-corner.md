@@ -28,11 +28,22 @@ Al times are shown in <span id="timezone">UTC</span> timezone.
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
+| <time datetime="2020-11-09T15:00:00+00:00">November 9 Nov:00 UTC</time> | Antonio Manesco | [Correlations in the elastic Landau level of spontaneously buckled graphene](#correlations-in-the-elastic-landau-level-of-spontaneously-buckled-graphene) |
 | <time datetime="2020-11-10T18:00:00+00:00">November 10 Nov:00 UTC</time> | Hamed Vakili | [Using skyrmionic racetracks for unconventional computing](#using-skyrmionic-racetracks-for-unconventional-computing) |
 | <time datetime="2020-11-17T15:00:00+00:00">November 17 Nov:00 UTC</time> | Joshuah T. Heath | [Landau Quasiparticles in Weak Power-Law Liquids](#landau-quasiparticles-in-weak-power-law-liquids) |
 | <time datetime="2020-11-20T15:00:00+00:00">November 20 Nov:00 UTC</time> | André Melo | [Conductance asymmetries in mesoscopic superconducting devices due to finite bias](#conductance-asymmetries-in-mesoscopic-superconducting-devices-due-to-finite-bias) |
 
 ## Upcoming talks
+
+
+### Correlations in the elastic Landau level of spontaneously buckled graphene
+#### Antonio Manesco (University of São Paulo)
+
+> Electronic correlations stemming from nearly flat bands in van der Waals materials have demonstrated to be a powerful playground to engineer artificial quantum matter, including superconductors, correlated insulators and topological matter. This phenomenology has been experimentally observed in a variety of twisted van der Waals materials, such as graphene and dichalcogenide multilayers. Here we show that spontaneously buckled graphene can yield a correlated state, emerging from an elastic pseudo Landau level. Our results build on top of recent experimental findings reporting that, when placed on top of hBN or NbSe$_2$ substrates, wrinkled graphene sheets relax forming a periodic, long-range buckling pattern. The low-energy physics can be accurately described by electrons in the presence of a pseudo-axial gauge field, leading to the formation of sublattice-polarized Landau levels. Moreover, we verify that the high density of states at the zeroth Landau level leads to the formation of a periodically modulated ferrimagnetic groundstate, which can be controlled by the application of external electric fields. Our results indicate that periodically strained graphene is a versatile platform to explore emergent electronic states arising from correlated elastic Landau levels.
+>
+> **Authors:** Antonio L. R. Manesco, Jose L. Lado, Eduardo V. S. Ribeiro, Gabrielle Weber, Durval Rodrigues Jr  
+> **Preprint:** [arXiv:2003.05163](https://arxiv.org/abs/2003.05163)
+
 
 
 ### Using skyrmionic racetracks for unconventional computing
