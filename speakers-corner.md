@@ -24,7 +24,7 @@ containing all of the upcoming talks. That way, more potential participants will
 
 ## Schedule
 
-Al times are shown in <span id="timezone">UTC</span> timezone.
+All times are shown in <span id="timezone">UTC</span> timezone.
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
