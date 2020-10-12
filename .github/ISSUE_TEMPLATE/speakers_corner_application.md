@@ -31,7 +31,7 @@ researcher@university.edu
 
 ## Title
 
-<!-- The presentation title; leave blank if the same as of the preprint -->
+<!-- The presentation title; leave blank if the same as of the preprint. Please reproduce title in the submission header. -->
 
 ## Abstract
 
