@@ -49,7 +49,7 @@ with open("speakers_corner_questions.yml") as f:
 def cleanup(text: str) -> str:
     """Remove extraneous whitespace from a string"""
     # TODO: remove when https://github.com/lukasschwab/arxiv.py/issues/48 is fixed
-    return re.sub(r"[\n ]+", " ", text).strip()
+    return re.sub(r"[\r\n ]+", " ", text).strip()
 
 def check_name(name):
     if not name.strip():
@@ -109,6 +109,8 @@ def parse_issue(issue_body):
     # see "grouper" at https://docs.python.org/3/library/itertools.html
     parts = iter(parts)
     answers = {title.strip(): answer.strip() for title, answer in zip(parts, parts)}
+    if "Affiliation" in answers:
+        answers["Affiliation"] = cleanup(answers["Affiliation"])
     question_titles = set(question["name"] for question in questions.values())
 
     if missing := (question_titles - set(answers)):
