@@ -117,10 +117,10 @@ Title: **Quantum optics meets correlated electrons**
 
 Title: **An error-corrected logical quantum bit encoded in grid states of a superconducting cavity**
 
-*Video in preparation*
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/aPzuOgJ80nk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Pedram Roushan, Google AI Quantum
 
 Title: **Tuning quantum information scrambling in two-dimensional systems**
 
-*Video in preparation*
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3ltjo3Spxbk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
