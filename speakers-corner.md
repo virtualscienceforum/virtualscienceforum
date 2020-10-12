@@ -31,6 +31,7 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 | <time datetime="2020-11-09T15:00:00+00:00">November 9 15:00 UTC</time> | Antonio Manesco | [Correlations in the elastic Landau level of spontaneously buckled graphene](#correlations-in-the-elastic-landau-level-of-spontaneously-buckled-graphene) |
 | <time datetime="2020-11-10T18:00:00+00:00">November 10 18:00 UTC</time> | Hamed Vakili | [Using skyrmionic racetracks for unconventional computing](#using-skyrmionic-racetracks-for-unconventional-computing) |
 | <time datetime="2020-11-17T15:00:00+00:00">November 17 15:00 UTC</time> | Joshuah T. Heath | [Landau Quasiparticles in Weak Power-Law Liquids](#landau-quasiparticles-in-weak-power-law-liquids) |
+| <time datetime="2020-11-17T17:00:00+00:00">November 17 17:00 UTC</time> | Valla Fatemi | [Topological Band Structures in the Offset-Parameter-Dependence of Small Josephson Circuits](#topological-band-structures-in-the-offset-parameter-dependence-of-small-josephson-circuits) |
 | <time datetime="2020-11-20T15:00:00+00:00">November 20 15:00 UTC</time> | André Melo | [Conductance asymmetries in mesoscopic superconducting devices due to finite bias](#conductance-asymmetries-in-mesoscopic-superconducting-devices-due-to-finite-bias) |
 
 ## Upcoming talks
@@ -64,6 +65,16 @@ University of Virginia)
 >
 > **Authors:** Joshuah T. Heath  
 > **Preprint:** [arXiv:2001.08230](https://arxiv.org/abs/2001.08230)
+
+
+
+### Topological Band Structures in the Offset-Parameter-Dependence of Small Josephson Circuits
+#### Valla Fatemi (Yale University)
+
+> We introduce Weyl Josephson circuits: small Josephson junction circuits that simulate Weyl band structures. We first formulate a general approach to design circuits that are analogous to Bloch Hamiltonians of a desired dimensionality and symmetry class. We then construct and analyze a six-junction device that produces a 3D Weyl Hamiltonian with broken inversion symmetry and in which topological phase transitions can be triggered \emph{in situ}. We argue that currently available superconducting circuit technology allows experiments that probe topological properties inaccessible in condensed matter systems.
+>
+> **Authors:** Valla Fatemi, Anton R. Akhmerov, Landry Bretheau  
+> **Preprint:** [arXiv:2008.13758](https://arxiv.org/abs/2008.13758)
 
 
 

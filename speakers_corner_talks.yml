@@ -93,3 +93,21 @@
   authors: Antonio L. R. Manesco, Jose L. Lado, Eduardo V. S. Ribeiro, Gabrielle Weber,
     Durval Rodrigues Jr
   time: 2020-11-09 15:00:00+00:00
+- workflow_issue: 193
+  speaker_name: Valla Fatemi
+  speaker_affiliation: Yale University
+  event_type: speakers_corner
+  email: valla.fatemi@yale.edu
+  preprint: '2008.13758'
+  title: Topological Band Structures in the Offset-Parameter-Dependence of Small Josephson
+    Circuits
+  abstract: 'We introduce Weyl Josephson circuits: small Josephson junction circuits
+    that simulate Weyl band structures. We first formulate a general approach to design
+    circuits that are analogous to Bloch Hamiltonians of a desired dimensionality
+    and symmetry class. We then construct and analyze a six-junction device that produces
+    a 3D Weyl Hamiltonian with broken inversion symmetry and in which topological
+    phase transitions can be triggered \emph{in situ}. We argue that currently available
+    superconducting circuit technology allows experiments that probe topological properties
+    inaccessible in condensed matter systems.'
+  authors: Valla Fatemi, Anton R. Akhmerov, Landry Bretheau
+  time: 2020-11-17 17:00:00+00:00
