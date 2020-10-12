@@ -18,4 +18,4 @@ containing all of the upcoming talks. That way, more potential participants will
   - announces your talk in the VSF Speakers' Corner mailing list and on this website
 4. Make sure to advertise your talk and invite participants to register for the talk
 5. You are welcome to moderate your talk yourself as well as invite a colleague to be your moderator
-6. VSF records your talk, forwards it to you afterwards and then publishes it in out dedicated [YouTube channel](https://www.youtube.com/channel/UCvQEx4iW7u_x3jX742kUZLw)
+6. VSF records your talk, forwards it to you for approval, and publishes it in the [YouTube channel](https://www.youtube.com/channel/UCvQEx4iW7u_x3jX742kUZLw)
