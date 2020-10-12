@@ -1,5 +1,6 @@
 ---
 name: Speakers' corner talk application
+title: "Speakers' corner talk application"
 about: Self-organized talks based on recent preprints
 labels: application
 assignees: ""
