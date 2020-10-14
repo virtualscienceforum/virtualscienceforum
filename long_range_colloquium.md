@@ -23,7 +23,7 @@ Attendance is open to everyone, but please [register](#pedram-roushan-google-qua
 |September 30 | [Pedram Roushan](#pedram-roushan-google-ai-quantum) | Tuning quantum information scrambling in two-dimensional systems |
 |October 14 | [Brian Skinner](#brian-skinner-ohio-state-university) | Measurement-induced Phase Transitions in the Dynamics of Quantum Entanglement|
 |October 28 | [Natalia Ares](#natalia-ares-oxford-university) | TBA |
-|December 9 | [Deji Akinwande]() | TBA |
+|December 9 | [Deji Akinwande](#deji-akinwande-university-of-texas-at-austin) | TBA |
 
 <!--## Upcoming talks -->
  
@@ -35,15 +35,13 @@ If the registration form below does not appear for you, please visit [this Zoom 
 
 ## Upcoming Colloquia
 
-### Brian Skinner, Ohio State University
+### Natalia Ares, Oxford University
 
-> #### Measurement-induced Phase Transitions in the Dynamics of Quantum Entanglement
->
-> When a quantum system evolves under unitary dynamics, as produced by either a Hamiltonian or by a sequence of quantum gates, its various component parts tend to become more entangled with each other. Making measurements, on the other hand, tends to reduce this entanglement by collapsing some of the system's degrees of freedom. In this talk we explore what happens to the entanglement when a quantum many-body system undergoes both unitary evolution and sporadic measurements. We show that the competition between these two effects leads to a new kind of dynamical phase transition, such that when the measurement rate is lower than a critical value the dynamics is "entangling", while a higher-than-critical measurement rate leads to a "disentangling" phase. We study this transition both in one-dimensional spin chains and in "all-to-all" coupled systems, for which unitary operators can directly couple any two degrees of freedom. In both cases the qualitative features of the transition can be understood by mapping to a problem of classical percolation, and in the all-to-all case some features of the transition can be understood exactly.
+Title and Abstract TBD. 
 
-If the registration form below does not work for you, please register directly [via Zoom](https://virtualscienceforum-org.zoom.us/meeting/register/tJ0pdeuqrj8oE9PMeB2h_pK827RNX_Z-g2ap)
+### Deji Akinwande, University of Texas at Austin
 
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJ0pdeuqrj8oE9PMeB2h_pK827RNX_Z-g2ap" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+Title and Abstract TBD. 
 
 ## Talk recordings
 
@@ -124,3 +122,14 @@ Title: **An error-corrected logical quantum bit encoded in grid states of a supe
 Title: **Tuning quantum information scrambling in two-dimensional systems**
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3ltjo3Spxbk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### Brian Skinner, Ohio State University
+
+> Title: **Measurement-induced Phase Transitions in the Dynamics of Quantum Entanglement**
+>
+> When a quantum system evolves under unitary dynamics, as produced by either a Hamiltonian or by a sequence of quantum gates, its various component parts tend to become more entangled with each other. Making measurements, on the other hand, tends to reduce this entanglement by collapsing some of the system's degrees of freedom. In this talk we explore what happens to the entanglement when a quantum many-body system undergoes both unitary evolution and sporadic measurements. We show that the competition between these two effects leads to a new kind of dynamical phase transition, such that when the measurement rate is lower than a critical value the dynamics is "entangling", while a higher-than-critical measurement rate leads to a "disentangling" phase. We study this transition both in one-dimensional spin chains and in "all-to-all" coupled systems, for which unitary operators can directly couple any two degrees of freedom. In both cases the qualitative features of the transition can be understood by mapping to a problem of classical percolation, and in the all-to-all case some features of the transition can be understood exactly.
+>
+> Recording coming soon!
+
+
