@@ -126,10 +126,9 @@ Title: **Tuning quantum information scrambling in two-dimensional systems**
 
 ### Brian Skinner, Ohio State University
 
-> Title: **Measurement-induced Phase Transitions in the Dynamics of Quantum Entanglement**
->
-> When a quantum system evolves under unitary dynamics, as produced by either a Hamiltonian or by a sequence of quantum gates, its various component parts tend to become more entangled with each other. Making measurements, on the other hand, tends to reduce this entanglement by collapsing some of the system's degrees of freedom. In this talk we explore what happens to the entanglement when a quantum many-body system undergoes both unitary evolution and sporadic measurements. We show that the competition between these two effects leads to a new kind of dynamical phase transition, such that when the measurement rate is lower than a critical value the dynamics is "entangling", while a higher-than-critical measurement rate leads to a "disentangling" phase. We study this transition both in one-dimensional spin chains and in "all-to-all" coupled systems, for which unitary operators can directly couple any two degrees of freedom. In both cases the qualitative features of the transition can be understood by mapping to a problem of classical percolation, and in the all-to-all case some features of the transition can be understood exactly.
->
-> Recording coming soon!
+Title: **Measurement-induced Phase Transitions in the Dynamics of Quantum Entanglement**
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9P1iBFLPIZk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
