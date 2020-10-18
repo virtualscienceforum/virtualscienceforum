@@ -44,6 +44,17 @@ As in Go, where a player must carefully balance short and long-term goals and de
 We have also developed an algorithm that measures bias triangles, important features for qubit operation, and gives them a score. The device parameters are then updated to optimise this score in real-time. The algorithm, using a disentangling variational auto-encoder, proves capable of fine-tuning several device parameters at once. Finally, I will show you an algorithm that can tune a ‘virgin’ double quantum dot device to operation conditions in real time faster than human experts and without the need of specifying a device architecture.
 These approaches are widely applicable, opening the way to a completely automatic and efficient route to quantum device measurement and tuning, and thus taking a crucial step towards the scalability of quantum circuits.
 
+If the registration form below does not appear for you, please visit [this Zoom registration link](<https://virtualscienceforum-org.zoom.us/meeting/register/tJ0kc-ivrTwrHNYiDhBJ0OGQ-DJUH5qpRfQl>).
+
+<iframe width="100%" height="940" src="<https://virtualscienceforum-org.zoom.us/meeting/register/tJ0kc-ivrTwrHNYiDhBJ0OGQ-DJUH5qpRfQl>" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+-->
+
+
+
+
+
+
+
 ### Deji Akinwande, University of Texas at Austin
 
 Title and Abstract TBD. 
