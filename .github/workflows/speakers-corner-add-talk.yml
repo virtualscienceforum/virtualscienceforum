@@ -35,3 +35,10 @@ jobs:
         env:
           VSF_BOT_TOKEN: ${{ secrets.VSF_BOT_TOKEN }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
+          
+      - name: Schedule Zoom Talk
+        uses: peter-evans/repository-dispatch@v1
+        with:
+          token: ${{ secrets.VSF_BOT_TOKEN }}
+          repository: virtualscienceforum/automation
+          event-type: schedule-zoom-talk
