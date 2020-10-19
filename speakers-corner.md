@@ -46,6 +46,10 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 > **Preprint:** [arXiv:2003.05163](https://arxiv.org/abs/2003.05163)
 
 
+If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJUrcOyrpz4uHtWrSZ1Gkd9MpOdc4EutAfUQ)
+
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJUrcOyrpz4uHtWrSZ1Gkd9MpOdc4EutAfUQ" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
 
 ### Using skyrmionic racetracks for unconventional computing
 #### Hamed Vakili (Dept. of Physics University of Virginia)
@@ -55,6 +59,10 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 > **Authors:** Hamed Vakili, Mohammad Nazmus Sakib, Samiran Ganguly, Mircea Stan, Matthew W. Daniels, Advait Madhavan, Mark D. Stiles, Avik W. Ghosh  
 > **Preprint:** [arXiv:2005.10704](https://arxiv.org/abs/2005.10704)
 
+
+If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJwtdu2hqz8vH923on-zTrpt5rUMHkwJBIU5)
+
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJwtdu2hqz8vH923on-zTrpt5rUMHkwJBIU5" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
 ### Landau Quasiparticles in Weak Power-Law Liquids
@@ -66,6 +74,10 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 > **Preprint:** [arXiv:2001.08230](https://arxiv.org/abs/2001.08230)
 
 
+If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJEtde6qqzoiEtbaa3LrcRlqtnK5Wsll2HxU)
+
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJEtde6qqzoiEtbaa3LrcRlqtnK5Wsll2HxU" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
 
 ### Topological Band Structures in the Offset-Parameter-Dependence of Small Josephson Circuits
 #### Valla Fatemi (Yale University)
@@ -76,6 +88,10 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 > **Preprint:** [arXiv:2008.13758](https://arxiv.org/abs/2008.13758)
 
 
+If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJ0ld-itpjIsH9JnFOxOuQJrc92huqoHJG0W)
+
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJ0ld-itpjIsH9JnFOxOuQJrc92huqoHJG0W" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
 
 ### Conductance asymmetries in mesoscopic superconducting devices due to finite bias
 #### André Melo (Kavli Institute of Nanoscience, Delft University of Technology)
@@ -85,6 +101,10 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 > **Authors:** André Melo, Chun-Xiao Liu, Piotr Rożek, Tómas Örn Rosdahl, Michael Wimmer  
 > **Preprint:** [arXiv:2008.01734](https://arxiv.org/abs/2008.01734)
 
+
+If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJ0ld-iprD0tEtVlQejUKRQ4BKnpnI59oznF)
+
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJ0ld-iprD0tEtVlQejUKRQ4BKnpnI59oznF" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
 

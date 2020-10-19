@@ -23,6 +23,8 @@
     of conductance asymmetries.'
   authors: André Melo, Chun-Xiao Liu, Piotr Rożek, Tómas Örn Rosdahl, Michael Wimmer
   time: 2020-11-20 15:00:00+00:00
+  zoom_meeting_id: 99801126781
+  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJ0ld-iprD0tEtVlQejUKRQ4BKnpnI59oznF
 - workflow_issue: 175
   speaker_name: Joshuah T. Heath
   speaker_affiliation: Boston College
@@ -43,9 +45,11 @@
     cuprate superconductors.
   authors: Joshuah T. Heath
   time: 2020-11-17 15:00:00+00:00
+  zoom_meeting_id: 95027251882
+  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJEtde6qqzoiEtbaa3LrcRlqtnK5Wsll2HxU
 - workflow_issue: 182
   speaker_name: Hamed Vakili
-  speaker_affiliation: "Dept. of Physics University of Virginia"
+  speaker_affiliation: Dept. of Physics University of Virginia
   event_type: speakers_corner
   email: hv8rf@virginia.edu
   preprint: '2005.10704'
@@ -67,6 +71,8 @@
   authors: Hamed Vakili, Mohammad Nazmus Sakib, Samiran Ganguly, Mircea Stan, Matthew
     W. Daniels, Advait Madhavan, Mark D. Stiles, Avik W. Ghosh
   time: 2020-11-10 18:00:00+00:00
+  zoom_meeting_id: 98014954559
+  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJwtdu2hqz8vH923on-zTrpt5rUMHkwJBIU5
 - workflow_issue: 188
   speaker_name: Antonio Manesco
   speaker_affiliation: University of São Paulo
@@ -93,6 +99,8 @@
   authors: Antonio L. R. Manesco, Jose L. Lado, Eduardo V. S. Ribeiro, Gabrielle Weber,
     Durval Rodrigues Jr
   time: 2020-11-09 15:00:00+00:00
+  zoom_meeting_id: 91675395441
+  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJUrcOyrpz4uHtWrSZ1Gkd9MpOdc4EutAfUQ
 - workflow_issue: 193
   speaker_name: Valla Fatemi
   speaker_affiliation: Yale University
@@ -111,3 +119,5 @@
     inaccessible in condensed matter systems.'
   authors: Valla Fatemi, Anton R. Akhmerov, Landry Bretheau
   time: 2020-11-17 17:00:00+00:00
+  zoom_meeting_id: 99801589656
+  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJ0ld-itpjIsH9JnFOxOuQJrc92huqoHJG0W
