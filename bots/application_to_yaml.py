@@ -25,7 +25,7 @@ def add_talk(gh, issue_number):
         talks_data = None
         talks = []
 
-    if any(talk.get('issue_number') == issue_number for talk in talks):
+    if any(talk.get('workflow_issue') == issue_number for talk in talks):
         issue.create_comment("Not adding a talk; already in the list.")
         return
 
