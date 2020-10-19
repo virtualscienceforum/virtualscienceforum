@@ -1,4 +1,4 @@
-I've added your talk to the schedule :tada:!
+We've added your talk to the schedule :tada:!
 
 Below please find a checklist for your presentation.  
 Please read it carefully and confirm that everything is clear.  
