@@ -68,7 +68,7 @@ def add_talk(gh, issue_number):
             branch='master'
         )
     # Respond with instructions
-    issue.add_comment(Path("../templates/talk_registered.md").read_text())
+    issue.create_comment(Path("../templates/talk_registered.md").read_text())
 
 if __name__ == "__main__":
     issue_number = int(os.getenv("ISSUE_NUMBER"))
