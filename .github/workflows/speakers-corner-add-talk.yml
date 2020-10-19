@@ -42,4 +42,3 @@ jobs:
           token: ${{ secrets.VSF_BOT_TOKEN }}
           repository: virtualscienceforum/automation
           event-type: schedule-zoom-talk
-          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
