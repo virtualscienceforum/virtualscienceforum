@@ -37,12 +37,12 @@ If the registration form below does not appear for you, please visit [this Zoom 
 
 ### Natalia Ares, Oxford University
 
-Title: **Measuring and tuning quantum devices faster than human experts**
-
-Machine learning has been the enabler of well-known breakthroughs in computer science, such as the victory of Alpha Go over a Go world champion and superhuman face recognition. I will show you how we can direct this great potential to the characterisation and tuning of quantum devices in real time.
-As in Go, where a player must carefully balance short and long-term goals and devise actions accordingly, we have demonstrated a deep reinforcement learning algorithm that devises efficient policies to find desired measurement features. Our algorithm divides the parameter space of a semiconductor quantum device in blocks, and finds target measurement features by performing a minimum number of block measurements. In this way, we reduce the long characterisation times required due to device variability.
-We have also developed an algorithm that measures bias triangles, important features for qubit operation, and gives them a score. The device parameters are then updated to optimise this score in real-time. The algorithm, using a disentangling variational auto-encoder, proves capable of fine-tuning several device parameters at once. Finally, I will show you an algorithm that can tune a ‘virgin’ double quantum dot device to operation conditions in real time faster than human experts and without the need of specifying a device architecture.
-These approaches are widely applicable, opening the way to a completely automatic and efficient route to quantum device measurement and tuning, and thus taking a crucial step towards the scalability of quantum circuits.
+> #### Measuring and tuning quantum devices faster than human experts
+>
+> Machine learning has been the enabler of well-known breakthroughs in computer science, such as the victory of Alpha Go over a Go world champion and superhuman face recognition. I will show you how we can direct this great potential to the characterisation and tuning of quantum devices in real time.
+> As in Go, where a player must carefully balance short and long-term goals and devise actions accordingly, we have demonstrated a deep reinforcement learning algorithm that devises efficient policies to find desired measurement features. Our algorithm divides the parameter space of a semiconductor quantum device in blocks, and finds target measurement features by performing a minimum number of block measurements. In this way, we reduce the long characterisation times required due to device variability.
+> We have also developed an algorithm that measures bias triangles, important features for qubit operation, and gives them a score. The device parameters are then updated to optimise this score in real-time. The algorithm, using a disentangling variational auto-encoder, proves capable of fine-tuning several device parameters at once. Finally, I will show you an algorithm that can tune a ‘virgin’ double quantum dot device to operation conditions in real time faster than human experts and without the need of specifying a device architecture.
+> These approaches are widely applicable, opening the way to a completely automatic and efficient route to quantum device measurement and tuning, and thus taking a crucial step towards the scalability of quantum circuits.
 
 If the registration form below does not appear for you, please visit [this Zoom registration link](<https://virtualscienceforum-org.zoom.us/meeting/register/tJ0kc-ivrTwrHNYiDhBJ0OGQ-DJUH5qpRfQl>).
 
