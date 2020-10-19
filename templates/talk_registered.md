@@ -18,7 +18,7 @@ Good luck with your talk!
 - Join using the personal link we sent.
 - Claim meeting host by using the host key that is in your email.
 - Start your presentation.
-- Start the cloud recording by pressing the "record" button. **Important: don't use the "record to my computer* option.**
+- Start the cloud recording by pressing the "record" button. 
 - Aim for a 40 minute presentation followed by 15 minutes discussion.
     - If there is another Speakers' Corner talk right after your talk, your meeting will be shut down after 55 minutes.
     - If there isn't, you are free to use your time for up to 2 hours.
