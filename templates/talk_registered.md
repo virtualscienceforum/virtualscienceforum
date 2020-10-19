@@ -7,7 +7,7 @@ Good luck with your talk!
 ## Before your meeting
 
 - We will send you an email containing the meeting key and your join URL in a moment.
-  **Confirm that you received the meeting key and URL by responding to this email.**
+  **Confirm that you received the meeting key and URL by responding in this issue.**
 - Install a Zoom client (this is required for registration-only meetings).
 - Test your setup on your own, check that your sound, video, and slide-sharing work.
 - Announce the meeting to your colleagues: you know best who may be interested.
