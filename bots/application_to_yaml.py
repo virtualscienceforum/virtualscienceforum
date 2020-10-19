@@ -7,6 +7,7 @@ from io import StringIO
 from dateutil.parser import parse, ParserError
 import github
 from ruamel.yaml import YAML
+import jinja2
 
 import validatespeakerscornerissue
 
@@ -66,7 +67,8 @@ def add_talk(gh, issue_number):
             serialized.getvalue(),
             branch='master'
         )
-    issue.create_comment("I added the talk to the schedule.")
+    # Respond with instructions
+    issue.add_comment(Path("../templates/talk_registered.md").read_text())
 
 if __name__ == "__main__":
     issue_number = int(os.getenv("ISSUE_NUMBER"))
