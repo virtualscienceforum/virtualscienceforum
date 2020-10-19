@@ -2,7 +2,7 @@ name: Add a new Speakers' corner talk
 
 on:
   issues:
-    types: labeled
+    types: [labeled]
 
 jobs:
   validate-issue:
