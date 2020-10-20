@@ -8,6 +8,7 @@ assignees: ""
 
 - [ ] registration open (-2 weeks)
 - [ ] page updated (-2 weeks)
+- [ ] update the [researchseminars.org](https://researchseminars.org/seminar/VSFLRC) listing (need to get link or ask Babak)
 - [ ] Check if the speaker wants to join earlier for an informal chat
   - [ ] Check if they do
 - [ ] email announcement to all who signed up for updates (-2 weeks)
