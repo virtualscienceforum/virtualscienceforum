@@ -55,6 +55,9 @@ If the registration form below does not appear for you, please visit [this Zoom 
 >
 > We present recent analytical and numerical results on the chiral model of twisted bilayer graphene and introduce a new platform for twistronic devices on the surface of a topological insulator. In the first part of the talk, we study the flat band wavefunctions of chiral twisted bilayer graphene at higher magic angles. We show that at higher magic angles, the wavefunctions exhibit an increasing number of zeros, resembling quantum Hall wavefunctions at higher Landau levels. Zeros of the same chirality cluster near the center of the moire unit cell, causing an enhanced phase winding and circulating current. The wavefunctions at higher magic angles have signatures in scanning tunneling microscopy and orbital magnetization experiments. In the second half of the talk, we investigate the fate of the surface Dirac cone of a three-dimensional topological insulator subject to a superlattice potential. Using a combination of diagrammatic perturbation theory, lattice model simulations, and ab initio calculations, we report a dramatic renormalization of the surface Dirac cone velocity and the formation of gapless satellite Dirac cones. The latter can produce very flat bands that may be a fruitful place to searching for interaction-driven physics.
 
+If the registration form below does not appear for you, please visit [this Zoom registration link](https://virtualscienceforum-org.zoom.us/meeting/register/tJ0pceiqrz4rGt21512GBfg5I_ADBL254Foq).
+
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJ0pceiqrz4rGt21512GBfg5I_ADBL254Foq" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>  
 
 ### Deji Akinwande, University of Texas at Austin
 
