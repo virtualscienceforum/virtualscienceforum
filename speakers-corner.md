@@ -33,6 +33,7 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 | <time datetime="2020-11-17T15:00:00+00:00">November 17 15:00 UTC</time> | Joshuah T. Heath | [Landau Quasiparticles in Weak Power-Law Liquids](#landau-quasiparticles-in-weak-power-law-liquids) |
 | <time datetime="2020-11-17T17:00:00+00:00">November 17 17:00 UTC</time> | Valla Fatemi | [Topological Band Structures in the Offset-Parameter-Dependence of Small Josephson Circuits](#topological-band-structures-in-the-offset-parameter-dependence-of-small-josephson-circuits) |
 | <time datetime="2020-11-20T15:00:00+00:00">November 20 15:00 UTC</time> | André Melo | [Conductance asymmetries in mesoscopic superconducting devices due to finite bias](#conductance-asymmetries-in-mesoscopic-superconducting-devices-due-to-finite-bias) |
+| <time datetime="2020-11-24T16:00:00+00:00">November 24 16:00 UTC</time> | Julien Barrier | [Long-range ballistic transport of Brown-Zak fermions in graphene superlattices](#long-range-ballistic-transport-of-brown-zak-fermions-in-graphene-superlattices) |
 
 ## Upcoming talks
 
@@ -105,6 +106,16 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJ0ld-iprD0tEtVlQejUKRQ4BKnpnI59oznF)
 
 <iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJ0ld-iprD0tEtVlQejUKRQ4BKnpnI59oznF" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
+
+### Long-range ballistic transport of Brown-Zak fermions in graphene superlattices
+#### Julien Barrier (The University of Manchester, U.K.)
+
+> In quantizing magnetic fields, graphene superlattices exhibit a complex fractal spectrum often referred to as the Hofstadter butterfly. It can be viewed as a collection of Landau levels that arise from quantization of Brown-Zak minibands recurring at rational ($p/q$) fractions of the magnetic flux quantum per superlattice unit cell. Here we show that, in graphene-on-boron-nitride superlattices, Brown-Zak fermions can exhibit mobilities above 10$^6$ cm$^2$V$^{-1}$s$^{-1}$ and the mean free path exceeding several micrometers. The exceptional quality of our devices allows us to show that Brown-Zak minibands are $4q$ times degenerate and all the degeneracies (spin, valley and mini-valley) can be lifted by exchange interactions below 1K. We also found negative bend resistance at $1/q$ fractions for electrical probes placed as far as several micrometers apart. The latter observation highlights the fact that Brown-Zak fermions are Bloch quasiparticles propagating in high fields along straight trajectories, just like electrons in zero field.
+>
+> **Authors:** Julien Barrier, Piranavan Kumaravadivel, Roshan Krishna-Kumar, L. A. Ponomarenko, Na Xin, Matthew Holwill, Ciaran Mullan, Minsoo Kim, R. V. Gorbachev, M. D. Thompson, J. R. Prance, T. Taniguchi, K. Watanabe, I. V. Grigorieva, K. S. Novoselov, A. Mishchenko, V. I. Fal'ko, A. K. Geim, A. I. Berdyugin  
+> **Preprint:** [arXiv:2006.15040](https://arxiv.org/abs/2006.15040)
+
 
 
 
