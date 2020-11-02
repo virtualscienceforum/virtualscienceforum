@@ -121,3 +121,28 @@
   time: 2020-11-17 17:00:00+00:00
   zoom_meeting_id: 99801589656
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJ0ld-itpjIsH9JnFOxOuQJrc92huqoHJG0W
+- workflow_issue: 213
+  speaker_name: Julien Barrier
+  speaker_affiliation: The University of Manchester, U.K.
+  event_type: speakers_corner
+  email: julien.barrier@manchester.ac.uk
+  preprint: '2006.15040'
+  title: Long-range ballistic transport of Brown-Zak fermions in graphene superlattices
+  abstract: In quantizing magnetic fields, graphene superlattices exhibit a complex
+    fractal spectrum often referred to as the Hofstadter butterfly. It can be viewed
+    as a collection of Landau levels that arise from quantization of Brown-Zak minibands
+    recurring at rational ($p/q$) fractions of the magnetic flux quantum per superlattice
+    unit cell. Here we show that, in graphene-on-boron-nitride superlattices, Brown-Zak
+    fermions can exhibit mobilities above 10$^6$ cm$^2$V$^{-1}$s$^{-1}$ and the mean
+    free path exceeding several micrometers. The exceptional quality of our devices
+    allows us to show that Brown-Zak minibands are $4q$ times degenerate and all the
+    degeneracies (spin, valley and mini-valley) can be lifted by exchange interactions
+    below 1K. We also found negative bend resistance at $1/q$ fractions for electrical
+    probes placed as far as several micrometers apart. The latter observation highlights
+    the fact that Brown-Zak fermions are Bloch quasiparticles propagating in high
+    fields along straight trajectories, just like electrons in zero field.
+  authors: Julien Barrier, Piranavan Kumaravadivel, Roshan Krishna-Kumar, L. A. Ponomarenko,
+    Na Xin, Matthew Holwill, Ciaran Mullan, Minsoo Kim, R. V. Gorbachev, M. D. Thompson,
+    J. R. Prance, T. Taniguchi, K. Watanabe, I. V. Grigorieva, K. S. Novoselov, A.
+    Mishchenko, V. I. Fal'ko, A. K. Geim, A. I. Berdyugin
+  time: 2020-11-24 16:00:00+00:00
