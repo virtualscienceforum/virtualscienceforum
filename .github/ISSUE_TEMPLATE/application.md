@@ -2,7 +2,7 @@
 name: Session application
 about: Proposal for running a VSF session
 title: "Please specify the session title"
-labels: application
+labels: session
 assignees: ""
 ---
 
