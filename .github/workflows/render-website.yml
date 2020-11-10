@@ -1,10 +1,11 @@
 name: Speakers-Corner-Issue-Validation
 
-# Manually for now, but will trigger on issue opening
 on:
   push:
     branches:
       - master
+  schedule:
+    - cron: '12 3 * * *'  # Rerender nightly
 
 jobs:
   build-and-deploy:
