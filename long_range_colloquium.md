@@ -48,9 +48,9 @@ If the registration form below does not appear for you, please visit [this Zoom 
 
 ### Deji Akinwande, University of Texas at Austin
 
-#### 2D materials: From atoms to applications
-
-This talk will present our latest research adventures on 2D nanomaterials towards greater scientific understanding and advanced engineering applications. In particular, the talk will highlight our work on flexible electronics, zero-power devices, monolayer memory (atomristors), non-volatile RF switches, and wearable tattoo sensors. Non-volatile memory devices based on 2D materials represent an application of defects and are a rapidly advancing field with rich physics that can be attributed to sulfur vacancies or metal diffusion. Atomistic modeling and atomic-resolution imaging are contemporary tools used to elucidate the memory phenomena in these systems. Likewise, from a practical point of view, electronic tattoos based on graphene have ushered a new material platform that has highly desirable practical attributes including optical transparency, mechanical imperceptibility, and is the thinnest conductive electrode sensor that can be integrated on skin for physiological measurements. 
+> #### 2D materials: From atoms to applications
+>
+> This talk will present our latest research adventures on 2D nanomaterials towards greater scientific understanding and advanced engineering applications. In particular, the talk will highlight our work on flexible electronics, zero-power devices, monolayer memory (atomristors), non-volatile RF switches, and wearable tattoo sensors. Non-volatile memory devices based on 2D materials represent an application of defects and are a rapidly advancing field with rich physics that can be attributed to sulfur vacancies or metal diffusion. Atomistic modeling and atomic-resolution imaging are contemporary tools used to elucidate the memory phenomena in these systems. Likewise, from a practical point of view, electronic tattoos based on graphene have ushered a new material platform that has highly desirable practical attributes including optical transparency, mechanical imperceptibility, and is the thinnest conductive electrode sensor that can be integrated on skin for physiological measurements. 
 
 ## Talk recordings
 
