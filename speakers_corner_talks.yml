@@ -148,3 +148,27 @@
   time: 2020-11-24 16:00:00+00:00
   zoom_meeting_id: 98097009470
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJwtfu6orjIuHdSQ2DDL5NQiW_qLdFvnf7y7
+- workflow_issue: 222
+  speaker_name: Dalla Torre Emanuele
+  speaker_affiliation: Bar-Ilan University
+  event_type: speakers_corner
+  email: emanuele.dalla-torre@biu.ac.il
+  preprint: '2005.07207'
+  title: Statistical Floquet prethermalization from kicked rotors to the Bose-Hubbard
+    model
+  abstract: The manipulation of many-body systems often involves time-dependent forces
+    that cause unwanted heating. One strategy to suppress heating is to use time-periodic
+    (Floquet) forces at large frequencies. In particular, for quantum spin systems
+    with bounded spectra, it was shown rigorously that the heating rate is exponentially
+    small in the driving frequency. Recently, the exponential suppression of heating
+    has also been observed in an experiment with ultracold atoms, realizing a periodically
+    driven Bose-Hubbard model. This model has an unbounded spectrum and, hence, is
+    beyond the reach of previous theoretical approaches. Here, we develop a semiclassical
+    description of Floquet prethermal states and link the suppressed heating rate
+    to the low probability of finding many particles on a single site. We derive an
+    analytic expression for the exponential suppression of heating valid at strong
+    interactions and large temperatures, which matches the exact numerical solution
+    of the model. Our approach demonstrates the relevance of statistical arguments
+    to Floquet perthermalization of interacting many-body quantum systems.
+  authors: Emanuele G. Dalla Torre
+  time: 2020-12-08 10:00:00+00:00

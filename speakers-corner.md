@@ -32,6 +32,7 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 | <time datetime="2020-11-17T17:00:00+00:00">November 17 17:00 UTC</time> | Valla Fatemi | [Topological Band Structures in the Offset-Parameter-Dependence of Small Josephson Circuits](#topological-band-structures-in-the-offset-parameter-dependence-of-small-josephson-circuits) |
 | <time datetime="2020-11-20T15:00:00+00:00">November 20 15:00 UTC</time> | André Melo | [Conductance asymmetries in mesoscopic superconducting devices due to finite bias](#conductance-asymmetries-in-mesoscopic-superconducting-devices-due-to-finite-bias) |
 | <time datetime="2020-11-24T16:00:00+00:00">November 24 16:00 UTC</time> | Julien Barrier | [Long-range ballistic transport of Brown-Zak fermions in graphene superlattices](#long-range-ballistic-transport-of-brown-zak-fermions-in-graphene-superlattices) |
+| <time datetime="2020-12-08T10:00:00+00:00">December 8 10:00 UTC</time> | Dalla Torre Emanuele | [Statistical Floquet prethermalization from kicked rotors to the Bose-Hubbard model](#statistical-floquet-prethermalization-from-kicked-rotors-to-the-bose-hubbard-model) |
 
 ## Upcoming talks
 
@@ -90,6 +91,16 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJwtfu6orjIuHdSQ2DDL5NQiW_qLdFvnf7y7)
 
 <iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJwtfu6orjIuHdSQ2DDL5NQiW_qLdFvnf7y7" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
+
+### Statistical Floquet prethermalization from kicked rotors to the Bose-Hubbard model
+#### Dalla Torre Emanuele (Bar-Ilan University)
+
+> The manipulation of many-body systems often involves time-dependent forces that cause unwanted heating. One strategy to suppress heating is to use time-periodic (Floquet) forces at large frequencies. In particular, for quantum spin systems with bounded spectra, it was shown rigorously that the heating rate is exponentially small in the driving frequency. Recently, the exponential suppression of heating has also been observed in an experiment with ultracold atoms, realizing a periodically driven Bose-Hubbard model. This model has an unbounded spectrum and, hence, is beyond the reach of previous theoretical approaches. Here, we develop a semiclassical description of Floquet prethermal states and link the suppressed heating rate to the low probability of finding many particles on a single site. We derive an analytic expression for the exponential suppression of heating valid at strong interactions and large temperatures, which matches the exact numerical solution of the model. Our approach demonstrates the relevance of statistical arguments to Floquet perthermalization of interacting many-body quantum systems.
+>
+> **Authors:** Emanuele G. Dalla Torre  
+> **Preprint:** [arXiv:2005.07207](https://arxiv.org/abs/2005.07207)
+
 
 
 
