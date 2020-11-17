@@ -28,41 +28,11 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-| <time datetime="2020-11-17T15:00:00+00:00">November 17 15:00 UTC</time> | Joshuah T. Heath | [Landau Quasiparticles in Weak Power-Law Liquids](#landau-quasiparticles-in-weak-power-law-liquids) |
-| <time datetime="2020-11-17T17:00:00+00:00">November 17 17:00 UTC</time> | Valla Fatemi | [Topological Band Structures in the Offset-Parameter-Dependence of Small Josephson Circuits](#topological-band-structures-in-the-offset-parameter-dependence-of-small-josephson-circuits) |
 | <time datetime="2020-11-20T15:00:00+00:00">November 20 15:00 UTC</time> | André Melo | [Conductance asymmetries in mesoscopic superconducting devices due to finite bias](#conductance-asymmetries-in-mesoscopic-superconducting-devices-due-to-finite-bias) |
 | <time datetime="2020-11-24T16:00:00+00:00">November 24 16:00 UTC</time> | Julien Barrier | [Long-range ballistic transport of Brown-Zak fermions in graphene superlattices](#long-range-ballistic-transport-of-brown-zak-fermions-in-graphene-superlattices) |
 | <time datetime="2020-12-08T10:00:00+00:00">December 8 10:00 UTC</time> | Dalla Torre Emanuele | [Statistical Floquet prethermalization from kicked rotors to the Bose-Hubbard model](#statistical-floquet-prethermalization-from-kicked-rotors-to-the-bose-hubbard-model) |
 
 ## Upcoming talks
-
-
-### Landau Quasiparticles in Weak Power-Law Liquids
-#### Joshuah T. Heath (Boston College)
-
-> The failure of Landau-Fermi liquid theory is often considered a telltale sign of universal, scale-invariant behavior in the emergent field theory of interacting fermions. Nevertheless, there exist borderline cases where weak scale invariance coupled with particle-hole asymmetry can coexist with the Landau quasiparticle paradigm. In this letter, I show explicitly that a Landau-Fermi liquid can exist for weak power-law scaling of the retarded Green's function. Such an exotic variant of the traditional Fermi liquid, although exhibiting a finite quasiparticle weight and large quasiparticle lifetime, is shown to always be incompatible with Luttinger's theorem for any non-trivial scaling. This result yields evidence for a Fermi liquid-like ground state in the high-field, underdoped pseudogap phase of the high-temperature cuprate superconductors.
->
-> **Authors:** Joshuah T. Heath  
-> **Preprint:** [arXiv:2001.08230](https://arxiv.org/abs/2001.08230)
-
-
-If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJEtde6qqzoiEtbaa3LrcRlqtnK5Wsll2HxU)
-
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJEtde6qqzoiEtbaa3LrcRlqtnK5Wsll2HxU" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
-
-
-### Topological Band Structures in the Offset-Parameter-Dependence of Small Josephson Circuits
-#### Valla Fatemi (Yale University)
-
-> We introduce Weyl Josephson circuits: small Josephson junction circuits that simulate Weyl band structures. We first formulate a general approach to design circuits that are analogous to Bloch Hamiltonians of a desired dimensionality and symmetry class. We then construct and analyze a six-junction device that produces a 3D Weyl Hamiltonian with broken inversion symmetry and in which topological phase transitions can be triggered *in situ*. We argue that currently available superconducting circuit technology allows experiments that probe topological properties inaccessible in condensed matter systems.
->
-> **Authors:** Valla Fatemi, Anton R. Akhmerov, Landry Bretheau  
-> **Preprint:** [arXiv:2008.13758](https://arxiv.org/abs/2008.13758)
-
-
-If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJ0ld-itpjIsH9JnFOxOuQJrc92huqoHJG0W)
-
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJ0ld-itpjIsH9JnFOxOuQJrc92huqoHJG0W" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
 ### Conductance asymmetries in mesoscopic superconducting devices due to finite bias
@@ -137,6 +107,40 @@ Preprint: [arXiv:](https://arxiv.org/abs/)
 Skyrmions are topological excitations in thin magnetic films with broken spatial symmetry, and can be driven at high speeds along magnetic racetracks using modest currents in heavy metal underlayers. However, they suffer strong Magnus forces arising from their vorticity. Eliminating these Magnus forces requires precise tuning of parameters that are hard to execute during fabrication. We show how Heusler ferrimagnetic racetracks can achieve high speeds and low damping. Instead of eliminating Magnus forces, we show how designing a spatially varying magnetic parameter, such as a graded PtxW1-x alloy, creates a moving skyrmion that keeps evolving into a growing hybrid between Bloch and Neel until it reaches an automatic compensation line where it self-converges into a racetrack. We can further tune the compensation line using a combination of static and gate-controlled dynamic magnetic anisotropy. Finally, we describe how the position of skyrmions along racetracks can be used as a native memory for temporal race logic that can be used for solving large graph theoretical problems.
 
 Authors: H, a, m, e, d,  , V, a, k, i, l, i, ,,  , M, o, h, a, m, m, a, d,  , N, a, z, m, u, s,  , S, a, k, i, b, ,,  , S, a, m, i, r, a, n,  , G, a, n, g, u, l, y, ,,  , M, i, r, c, e, a,  , S, t, a, n, ,,  , M, a, t, t, h, e, w,  , W, .,  , D, a, n, i, e, l, s, ,,  , A, d, v, a, i, t,  , M, a, d, h, a, v, a, n, ,,  , M, a, r, k,  , D, .,  , S, t, i, l, e, s, ,,  , A, v, i, k,  , W, .,  , G, h, o, s, h  
+Preprint: [arXiv:](https://arxiv.org/abs/)
+</details>
+
+
+*Video in preparation*
+
+
+
+
+### Landau Quasiparticles in Weak Power-Law Liquids
+#### Joshuah T. Heath, 
+
+<details><summary>abstract</summary>
+
+The failure of Landau-Fermi liquid theory is often considered a telltale sign of universal, scale-invariant behavior in the emergent field theory of interacting fermions. Nevertheless, there exist borderline cases where weak scale invariance coupled with particle-hole asymmetry can coexist with the Landau quasiparticle paradigm. In this letter, I show explicitly that a Landau-Fermi liquid can exist for weak power-law scaling of the retarded Green's function. Such an exotic variant of the traditional Fermi liquid, although exhibiting a finite quasiparticle weight and large quasiparticle lifetime, is shown to always be incompatible with Luttinger's theorem for any non-trivial scaling. This result yields evidence for a Fermi liquid-like ground state in the high-field, underdoped pseudogap phase of the high-temperature cuprate superconductors.
+
+Authors: J, o, s, h, u, a, h,  , T, .,  , H, e, a, t, h  
+Preprint: [arXiv:](https://arxiv.org/abs/)
+</details>
+
+
+*Video in preparation*
+
+
+
+
+### Topological Band Structures in the Offset-Parameter-Dependence of Small Josephson Circuits
+#### Valla Fatemi, 
+
+<details><summary>abstract</summary>
+
+We introduce Weyl Josephson circuits: small Josephson junction circuits that simulate Weyl band structures. We first formulate a general approach to design circuits that are analogous to Bloch Hamiltonians of a desired dimensionality and symmetry class. We then construct and analyze a six-junction device that produces a 3D Weyl Hamiltonian with broken inversion symmetry and in which topological phase transitions can be triggered *in situ*. We argue that currently available superconducting circuit technology allows experiments that probe topological properties inaccessible in condensed matter systems.
+
+Authors: V, a, l, l, a,  , F, a, t, e, m, i, ,,  , A, n, t, o, n,  , R, .,  , A, k, h, m, e, r, o, v, ,,  , L, a, n, d, r, y,  , B, r, e, t, h, e, a, u  
 Preprint: [arXiv:](https://arxiv.org/abs/)
 </details>
 
