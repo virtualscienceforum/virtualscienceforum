@@ -1,7 +1,7 @@
 We've added your talk to the schedule :tada:!
 
 Below please find a checklist for your presentation.  
-Please read it carefully and confirm that everything is clear.  
+Please read it carefully and confirm that everything is clear by adding a comment to this issue.  
 Good luck with your talk!
 
 ## Before your meeting
@@ -18,6 +18,7 @@ Good luck with your talk!
 - The meeting will be open for joining 5 minutes before the talk starts. Join at that time using the personal link we sent (don't be late!).
 - Claim meeting host by using the host key that is in your email.
 - Start the cloud recording by pressing the "record" button. 
+- Tell your audience how the questions will be organized. Can they ask questions during the talk or only at the end? How should they signal they have a question?
 - Start your presentation.
 - Aim for a 40 minute presentation followed by 15 minutes discussion.
     - If another Speakers' Corner talk is scheduled immediately after your talk, your meeting will be shut down at 55 minutes on the hour.
