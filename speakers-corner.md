@@ -16,8 +16,10 @@ containing all of the upcoming talks. That way, more potential participants will
 3. VSF:
   - checks availability of your time slot and confirm the date
   - creates the zoom meeting, opens the registration, and gives you the host key
-  - announces your talk in the VSF Speakers' Corner mailing list and on this website
-4. Make sure to advertise your talk and invite participants to register for the talk
+4. Advertising your talk:
+  - make sure to **advertise your talk at your institution** and **invite participants to register for the talk**
+  - tweet at @VirtualSciForum with the hashtag #VSFSpeakersCorner and we will retweet your talk info
+  - VSF announces your talk in the VSF Speakers' Corner mailing list and on this website
 5. You are welcome to moderate your talk yourself as well as invite a colleague to be your moderator
 6. VSF records your talk, forwards it to you for approval, and publishes it in the [YouTube channel](https://www.youtube.com/channel/UCvQEx4iW7u_x3jX742kUZLw)
 
