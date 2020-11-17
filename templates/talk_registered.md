@@ -10,7 +10,8 @@ Good luck with your talk!
   **Confirm that you received the meeting key and URL by responding in this issue.**
 - Install a [Zoom client](https://zoom.us/download). This is required for registration-only meetings.
 - Test your setup on your own: check that your sound, video, and slide-sharing work.
-- Announce the meeting to your colleagues: you know best who may be interested.
+- **Announce the meeting to your colleagues and invite them to register for the talk**.
+- We will include your talk in the VSF mailing list announcement. If you like you can also tweet at @VirtualSciForum with the hashtag #VSFSpeakersCorner and we will retweet information about your talk.
 
 ## During the meeting
 
