@@ -30,7 +30,7 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-| <time datetime="2020-11-20T15:00:00+00:00">November 20 15:00 UTC</time> | André Melo | [Conductance asymmetries in mesoscopic superconducting devices due to finite bias](#conductance-asymmetries-in-mesoscopic-superconducting-devices-due-to-finite-bias) |
+| <time datetime="2020-11-20T16:00:00+00:00">November 20 16:00 UTC</time> | André Melo | [Conductance asymmetries in mesoscopic superconducting devices due to finite bias](#conductance-asymmetries-in-mesoscopic-superconducting-devices-due-to-finite-bias) |
 | <time datetime="2020-11-24T16:00:00+00:00">November 24 16:00 UTC</time> | Julien Barrier | [Long-range ballistic transport of Brown-Zak fermions in graphene superlattices](#long-range-ballistic-transport-of-brown-zak-fermions-in-graphene-superlattices) |
 | <time datetime="2020-12-08T10:00:00+00:00">December 8 10:00 UTC</time> | Dalla Torre Emanuele | [Statistical Floquet prethermalization from kicked rotors to the Bose-Hubbard model](#statistical-floquet-prethermalization-from-kicked-rotors-to-the-bose-hubbard-model) |
 
