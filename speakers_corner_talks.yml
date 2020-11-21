@@ -223,3 +223,26 @@
   authors: Chun-Xiao Liu, Sergej Schuwalow, Yu Liu, Kostas Vilkelis, A. L. R. Manesco,
     P. Krogstrup, Michael Wimmer
   time: 2020-12-02 15:00:00+00:00
+- workflow_issue: 212
+  speaker_name: Bo Peng
+  speaker_affiliation: Cavendish Laboratory, University of Cambridge
+  event_type: speakers_corner
+  email: bp432@cam.ac.uk
+  preprint: 10.17863/CAM.57482
+  title: Topological phonons in oxide perovskites controlled by light
+  abstract: Perovskite oxides exhibit a rich variety of structural phases hosting
+    different physical phenomena that generate multiple technological applications.
+    We find that topological phonons – nodal rings, nodal lines, and Weyl points –
+    are ubiquitous in oxide perovskites in terms of structures (tetragonal, orthorhombic,
+    and rhombohedral), compounds (BaTiO3, PbTiO3, and SrTiO3), and external conditions
+    (photoexcitation, strain, and temperature). In particular, in the tetragonal phase
+    of these compounds all types of topological phonons can simultaneously emerge
+    when stabilized by photoexcitation, whereas the tetragonal phase stabilized by
+    thermal fluctuations only hosts a more limited set of topological phonon states.
+    In addition, we find that the photoexcited carrier concentration can be used to
+    tune the topological phonon states and induce topological transitions even without
+    associated structural phase changes. Overall, we propose oxide perovskites as
+    a versatile platform in which to study topological phonons and their manipulation
+    with light.
+  authors: Bo Peng, Yuchen Hu, Shuichi Murakami, Tiantian Zhang, Bartomeu Monserrat
+  time: 2020-12-02 16:00:00+00:00

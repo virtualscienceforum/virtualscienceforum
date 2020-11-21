@@ -32,6 +32,7 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 |:---------:|:--------------:|:-----:|
 | <time datetime="2020-11-24T16:00:00+00:00">November 24 16:00 UTC</time> | Julien Barrier | [Long-range ballistic transport of Brown-Zak fermions in graphene superlattices](#long-range-ballistic-transport-of-brown-zak-fermions-in-graphene-superlattices) |
 | <time datetime="2020-12-02T15:00:00+00:00">December 2 15:00 UTC</time> | Chun-Xiao Liu | [Electronic properties of InAs/EuS/Al hybrid nanowires](#electronic-properties-of-inas/eus/al-hybrid-nanowires) |
+| <time datetime="2020-12-02T16:00:00+00:00">December 2 16:00 UTC</time> | Bo Peng | [Topological phonons in oxide perovskites controlled by light](#topological-phonons-in-oxide-perovskites-controlled-by-light) |
 | <time datetime="2020-12-08T10:00:00+00:00">December 8 10:00 UTC</time> | Dalla Torre Emanuele | [Statistical Floquet prethermalization from kicked rotors to the Bose-Hubbard model](#statistical-floquet-prethermalization-from-kicked-rotors-to-the-bose-hubbard-model) |
 | <time datetime="2020-12-09T13:00:00+00:00">December 9 13:00 UTC</time> | Vasilii Vadimov | [Many-body Majorana-like zero modes without gauge symmetry breaking](#many-body-majorana-like-zero-modes-without-gauge-symmetry-breaking) |
 
@@ -59,6 +60,16 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 >
 > **Authors:** Chun-Xiao Liu, Sergej Schuwalow, Yu Liu, Kostas Vilkelis, A. L. R. Manesco, P. Krogstrup, Michael Wimmer  
 > **Preprint:** [arXiv:2011.06567](https://arxiv.org/abs/2011.06567)
+
+
+
+### Topological phonons in oxide perovskites controlled by light
+#### Bo Peng (Cavendish Laboratory, University of Cambridge)
+
+> Perovskite oxides exhibit a rich variety of structural phases hosting different physical phenomena that generate multiple technological applications. We find that topological phonons – nodal rings, nodal lines, and Weyl points – are ubiquitous in oxide perovskites in terms of structures (tetragonal, orthorhombic, and rhombohedral), compounds (BaTiO3, PbTiO3, and SrTiO3), and external conditions (photoexcitation, strain, and temperature). In particular, in the tetragonal phase of these compounds all types of topological phonons can simultaneously emerge when stabilized by photoexcitation, whereas the tetragonal phase stabilized by thermal fluctuations only hosts a more limited set of topological phonon states. In addition, we find that the photoexcited carrier concentration can be used to tune the topological phonon states and induce topological transitions even without associated structural phase changes. Overall, we propose oxide perovskites as a versatile platform in which to study topological phonons and their manipulation with light.
+>
+> **Authors:** Bo Peng, Yuchen Hu, Shuichi Murakami, Tiantian Zhang, Bartomeu Monserrat  
+
 
 
 
