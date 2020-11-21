@@ -2,7 +2,7 @@ name: Open an organizational meeting issue
 
 on:
   schedule:
-    - cron: 40 15 * * *
+    - cron: 43 * * * *
 
 jobs:
   org-issue:
