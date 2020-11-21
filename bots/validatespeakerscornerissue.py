@@ -95,9 +95,12 @@ def check_confirmation(confirmation):
 
 
 def update_from_arxiv(submission):
-    arxiv_result = arxiv.query(id_list=[submission['preprint']])[0]
+    arxiv_result = arxiv.query(id_list=[submission['preprint']])
     if not arxiv_result:
         return "Preprint is not on arXiv, should be checked manually."
+
+    arxiv_result = arxiv_result[0]
+
     updated_entries = []
     if not submission["title"]:
         submission["title"] = cleanup(arxiv_result.title)
