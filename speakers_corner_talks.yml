@@ -174,3 +174,28 @@
   time: 2020-12-08 10:00:00+00:00
   zoom_meeting_id: 95000279893
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJEtd-mqqTIiE9egO91L0I6fFj58PxUIbuUr
+- workflow_issue: 236
+  speaker_name: Vasilii Vadimov
+  speaker_affiliation: QCD Labs, Department of Applied Physics, Aalto University
+  event_type: speakers_corner
+  email: vasilii.1.vadimov@aalto.fi
+  preprint: '2011.06552'
+  title: Many-body Majorana-like zero modes without gauge symmetry breaking
+  abstract: Topological superconductors represent one of the key hosts of Majorana-based
+    topological quantum computing. Typical scenarios for one-dimensional topological
+    superconductivity assume a broken gauge symmetry associated to a superconducting
+    state. However, no interacting one-dimensional many-body system is known to spontaneously
+    break gauge symmetries. Here, we show that zero modes emerge in a many-body system
+    without gauge symmetry breaking and in the absence of superconducting order. In
+    particular, we demonstrate that Majorana zero modes of the symmetry-broken superconducting
+    state are continuously connected to these zero-mode excitations, demonstrating
+    that zero-bias anomalies may emerge in the absence of gauge symmetry breaking.
+    We demonstrate that these many-body zero modes share the robustness features of
+    the Majorana zero modes of symmetry-broken topological superconductors. We introduce
+    a bosonization formalism to analyze these excitations and show that a ground state
+    analogous to a topological superconducting state can be analytically found in
+    a certain limit. Our results demonstrate that robust Majorana-like zero modes
+    may appear in a many-body systems without gauge symmetry breaking, thus introducing
+    a family of protected excitations with no single-particle analogs.
+  authors: V. Vadimov, T. Hyart, J. L. Lado, M. Möttönen, T. Ala-Nissila
+  time: 2020-12-09 13:00:00+00:00

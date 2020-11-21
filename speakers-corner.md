@@ -32,6 +32,7 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 |:---------:|:--------------:|:-----:|
 | <time datetime="2020-11-24T16:00:00+00:00">November 24 16:00 UTC</time> | Julien Barrier | [Long-range ballistic transport of Brown-Zak fermions in graphene superlattices](#long-range-ballistic-transport-of-brown-zak-fermions-in-graphene-superlattices) |
 | <time datetime="2020-12-08T10:00:00+00:00">December 8 10:00 UTC</time> | Dalla Torre Emanuele | [Statistical Floquet prethermalization from kicked rotors to the Bose-Hubbard model](#statistical-floquet-prethermalization-from-kicked-rotors-to-the-bose-hubbard-model) |
+| <time datetime="2020-12-09T13:00:00+00:00">December 9 13:00 UTC</time> | Vasilii Vadimov | [Many-body Majorana-like zero modes without gauge symmetry breaking](#many-body-majorana-like-zero-modes-without-gauge-symmetry-breaking) |
 
 ## Upcoming talks
 
@@ -62,6 +63,16 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJEtd-mqqTIiE9egO91L0I6fFj58PxUIbuUr)
 
 <iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJEtd-mqqTIiE9egO91L0I6fFj58PxUIbuUr" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
+
+### Many-body Majorana-like zero modes without gauge symmetry breaking
+#### Vasilii Vadimov (QCD Labs, Department of Applied Physics, Aalto University)
+
+> Topological superconductors represent one of the key hosts of Majorana-based topological quantum computing. Typical scenarios for one-dimensional topological superconductivity assume a broken gauge symmetry associated to a superconducting state. However, no interacting one-dimensional many-body system is known to spontaneously break gauge symmetries. Here, we show that zero modes emerge in a many-body system without gauge symmetry breaking and in the absence of superconducting order. In particular, we demonstrate that Majorana zero modes of the symmetry-broken superconducting state are continuously connected to these zero-mode excitations, demonstrating that zero-bias anomalies may emerge in the absence of gauge symmetry breaking. We demonstrate that these many-body zero modes share the robustness features of the Majorana zero modes of symmetry-broken topological superconductors. We introduce a bosonization formalism to analyze these excitations and show that a ground state analogous to a topological superconducting state can be analytically found in a certain limit. Our results demonstrate that robust Majorana-like zero modes may appear in a many-body systems without gauge symmetry breaking, thus introducing a family of protected excitations with no single-particle analogs.
+>
+> **Authors:** V. Vadimov, T. Hyart, J. L. Lado, M. Möttönen, T. Ala-Nissila  
+> **Preprint:** [arXiv:2011.06552](https://arxiv.org/abs/2011.06552)
+
 
 
 
