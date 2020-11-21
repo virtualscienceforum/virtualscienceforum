@@ -137,7 +137,7 @@ Title: **Measurement-induced Phase Transitions in the Dynamics of Quantum Entang
 
 Title: **Measuring and tuning quantum devices faster than human experts**
 
-*Video in preparation*
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZW-7EkDq_ns" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Jennifer Cano, Stony Brook University
 
