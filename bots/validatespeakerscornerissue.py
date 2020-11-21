@@ -5,7 +5,7 @@ from pathlib import Path
 from datetime import date, datetime, timedelta
 import logging
 
-from dateutil.parser import parse, ParserError
+from dateutil.parser import parse, ParserError, relativedelta
 from github import Github
 from ruamel.yaml import YAML
 import arxiv
@@ -80,10 +80,10 @@ def check_date(timeslot):
 
     now = datetime.now(tz=pytz.UTC)
     if (
-        scheduled_time - now
-        < timedelta(days=13 - now.weekday())
+        now + relativedelta.relativedelta(weekday=relativedelta.SU(2))
+        < scheduled_time
     ):
-        return "The earliest you may schedule is the week after the next."
+        return "The earliest you may schedule is the week after next."
 
 
 def check_arxiv(preprint):
