@@ -18,12 +18,8 @@ def add_talk(gh, issue_number):
     repo = gh.get_repo("virtualscienceforum/virtualscienceforum")
     issue = repo.get_issue(number=issue_number)
 
-    try:
-        talks_data = repo.get_contents(TALKS_FILE, ref="master")
-        talks = yaml.load(StringIO(talks_data.decoded_content.decode()))
-    except github.UnknownObjectException:
-        talks_data = None
-        talks = []
+    talks_data = repo.get_contents(TALKS_FILE, ref="master")
+    talks = yaml.load(StringIO(talks_data.decoded_content.decode()))
 
     if any(talk.get('workflow_issue') == issue_number for talk in talks):
         issue.create_comment("Not adding a talk; already in the list.")

@@ -117,7 +117,7 @@ def update_from_arxiv(submission):
 
 def parse_issue(issue_body):
     # Remove html comments.
-    issue_body = re.sub(r'<!--.*?-->', '', issue_body)
+    issue_body = re.sub(r'<!--.*?-->', '', issue_body, flags=re.DOTALL)
 
     # Skip the first part because it is befor the first question
     parts = re.split(r'^## (.*?)$', issue_body, flags=re.MULTILINE)[1:]
