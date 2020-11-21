@@ -30,25 +30,10 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-| <time datetime="2020-11-20T16:00:00+00:00">November 20 16:00 UTC</time> | André Melo | [Conductance asymmetries in mesoscopic superconducting devices due to finite bias](#conductance-asymmetries-in-mesoscopic-superconducting-devices-due-to-finite-bias) |
 | <time datetime="2020-11-24T16:00:00+00:00">November 24 16:00 UTC</time> | Julien Barrier | [Long-range ballistic transport of Brown-Zak fermions in graphene superlattices](#long-range-ballistic-transport-of-brown-zak-fermions-in-graphene-superlattices) |
 | <time datetime="2020-12-08T10:00:00+00:00">December 8 10:00 UTC</time> | Dalla Torre Emanuele | [Statistical Floquet prethermalization from kicked rotors to the Bose-Hubbard model](#statistical-floquet-prethermalization-from-kicked-rotors-to-the-bose-hubbard-model) |
 
 ## Upcoming talks
-
-
-### Conductance asymmetries in mesoscopic superconducting devices due to finite bias
-#### André Melo (Kavli Institute of Nanoscience, Delft University of Technology)
-
-> Tunneling conductance spectroscopy in normal metal-superconductor junctions is an important tool for probing Andreev bound states in mesoscopic superconducting devices, such as Majorana nanowires. In an ideal superconducting device, the subgap conductance obeys specific symmetry relations, due to particle-hole symmetry and unitarity of the scattering matrix. However, experimental data often exhibits deviations from these symmetries or even their explicit breakdown. In this work, we identify a mechanism that leads to conductance asymmetries without quasiparticle poisoning. In particular, we investigate the effects of finite bias and include the voltage dependence in the tunnel barrier transparency, finding significant conductance asymmetries for realistic device parameters. It is important to identify the physical origin of conductance asymmetries: in contrast to other possible mechanisms such as quasiparticle poisoning, finite-bias effects are not detrimental to the performance of a topological qubit. To that end we identify features that can be used to experimentally determine whether finite-bias effects are the source of conductance asymmetries.
->
-> **Authors:** André Melo, Chun-Xiao Liu, Piotr Rożek, Tómas Örn Rosdahl, Michael Wimmer  
-> **Preprint:** [arXiv:2008.01734](https://arxiv.org/abs/2008.01734)
-
-
-If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJ0ld-iprD0tEtVlQejUKRQ4BKnpnI59oznF)
-
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJ0ld-iprD0tEtVlQejUKRQ4BKnpnI59oznF" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
 ### Long-range ballistic transport of Brown-Zak fermions in graphene superlattices
@@ -143,6 +128,23 @@ Preprint: [arXiv:](https://arxiv.org/abs/)
 We introduce Weyl Josephson circuits: small Josephson junction circuits that simulate Weyl band structures. We first formulate a general approach to design circuits that are analogous to Bloch Hamiltonians of a desired dimensionality and symmetry class. We then construct and analyze a six-junction device that produces a 3D Weyl Hamiltonian with broken inversion symmetry and in which topological phase transitions can be triggered *in situ*. We argue that currently available superconducting circuit technology allows experiments that probe topological properties inaccessible in condensed matter systems.
 
 Authors: V, a, l, l, a,  , F, a, t, e, m, i, ,,  , A, n, t, o, n,  , R, .,  , A, k, h, m, e, r, o, v, ,,  , L, a, n, d, r, y,  , B, r, e, t, h, e, a, u  
+Preprint: [arXiv:](https://arxiv.org/abs/)
+</details>
+
+
+*Video in preparation*
+
+
+
+
+### Conductance asymmetries in mesoscopic superconducting devices due to finite bias
+#### André Melo, 
+
+<details><summary>abstract</summary>
+
+Tunneling conductance spectroscopy in normal metal-superconductor junctions is an important tool for probing Andreev bound states in mesoscopic superconducting devices, such as Majorana nanowires. In an ideal superconducting device, the subgap conductance obeys specific symmetry relations, due to particle-hole symmetry and unitarity of the scattering matrix. However, experimental data often exhibits deviations from these symmetries or even their explicit breakdown. In this work, we identify a mechanism that leads to conductance asymmetries without quasiparticle poisoning. In particular, we investigate the effects of finite bias and include the voltage dependence in the tunnel barrier transparency, finding significant conductance asymmetries for realistic device parameters. It is important to identify the physical origin of conductance asymmetries: in contrast to other possible mechanisms such as quasiparticle poisoning, finite-bias effects are not detrimental to the performance of a topological qubit. To that end we identify features that can be used to experimentally determine whether finite-bias effects are the source of conductance asymmetries.
+
+Authors: A, n, d, r, é,  , M, e, l, o, ,,  , C, h, u, n, -, X, i, a, o,  , L, i, u, ,,  , P, i, o, t, r,  , R, o, ż, e, k, ,,  , T, ó, m, a, s,  , Ö, r, n,  , R, o, s, d, a, h, l, ,,  , M, i, c, h, a, e, l,  , W, i, m, m, e, r  
 Preprint: [arXiv:](https://arxiv.org/abs/)
 </details>
 
