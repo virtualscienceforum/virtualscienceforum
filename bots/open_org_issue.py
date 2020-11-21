@@ -34,7 +34,7 @@ if __name__ == "__main__":
         title=title,
         body=template.render(
             hackmd=new_hackmd_note(
-                f"# {title}\n\n## Present: \n\n* \n\n ## Next chair\n"
+                f"# {title}\n\n## Present: \n\n* \n\n## Next chair\n\nChair name\n"
             )
         )
     )
