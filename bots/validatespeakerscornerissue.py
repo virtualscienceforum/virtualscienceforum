@@ -86,11 +86,6 @@ def check_date(timeslot):
         return "The earliest you may schedule is the week after next."
 
 
-def check_arxiv(preprint):
-    if not arxiv.query(id_list=[preprint]):
-        return "Your arXiv preprint ID could not be found"
-
-
 def check_confirmation(confirmation):
     if confirmation.replace("\r", "") != questions["confirmation"]["text"].strip():
         print(confirmation.strip())
@@ -100,6 +95,8 @@ def check_confirmation(confirmation):
 
 def update_from_arxiv(submission):
     arxiv_result = arxiv.query(id_list=[submission['preprint']])[0]
+    if not arxiv_result:
+        return "Preprint is not on arXiv, should be checked manually."
     updated_entries = []
     if not submission["title"]:
         submission["title"] = cleanup(arxiv_result.title)
@@ -166,8 +163,8 @@ def validate_issue(issue_body):
         message
         for check, value in
         zip(
-            (check_name, check_arxiv, check_confirmation, check_date),
-            ("name", "preprint", "confirmation", "time")
+            (check_name, check_confirmation, check_date),
+            ("name", "confirmation", "time")
         )
         if (message := check(submission[value])) is not None
     ]
