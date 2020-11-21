@@ -31,6 +31,7 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
 | <time datetime="2020-11-24T16:00:00+00:00">November 24 16:00 UTC</time> | Julien Barrier | [Long-range ballistic transport of Brown-Zak fermions in graphene superlattices](#long-range-ballistic-transport-of-brown-zak-fermions-in-graphene-superlattices) |
+| <time datetime="2020-12-02T15:00:00+00:00">December 2 15:00 UTC</time> | Chun-Xiao Liu | [Electronic properties of InAs/EuS/Al hybrid nanowires](#electronic-properties-of-inas/eus/al-hybrid-nanowires) |
 | <time datetime="2020-12-08T10:00:00+00:00">December 8 10:00 UTC</time> | Dalla Torre Emanuele | [Statistical Floquet prethermalization from kicked rotors to the Bose-Hubbard model](#statistical-floquet-prethermalization-from-kicked-rotors-to-the-bose-hubbard-model) |
 | <time datetime="2020-12-09T13:00:00+00:00">December 9 13:00 UTC</time> | Vasilii Vadimov | [Many-body Majorana-like zero modes without gauge symmetry breaking](#many-body-majorana-like-zero-modes-without-gauge-symmetry-breaking) |
 
@@ -49,6 +50,16 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJwtfu6orjIuHdSQ2DDL5NQiW_qLdFvnf7y7)
 
 <iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJwtfu6orjIuHdSQ2DDL5NQiW_qLdFvnf7y7" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
+
+### Electronic properties of InAs/EuS/Al hybrid nanowires
+#### Chun-Xiao Liu (Delft University of Technology, the Netherlands)
+
+> We study the electronic properties of InAs/EuS/Al heterostructures as explored in a recent experiment [S. Vaitiekenas \emph{et al.}, Nat. Phys. (2020)], combining both spectroscopic results and microscopic device simulations. In particular, we use angle-resolved photoemission spectroscopy to investigate the band bending at the InAs/EuS interface. The resulting band offset value serves as an essential input to subsequent microscopic device simulations, allowing us to map the electronic wave function distribution. We conclude that the magnetic proximity effects at the Al/EuS as well as the InAs/EuS interfaces are both essential to achieve topological superconductivity at zero applied magnetic field. Mapping the topological phase diagram as a function of gate voltages and proximity-induced exchange couplings, we show that the ferromagnetic hybrid nanowire with overlapping Al and EuS layers can become a topological superconductor within realistic parameter regimes. Our work highlights the need for a combined experimental and theoretical effort for faithful device simulation.
+>
+> **Authors:** Chun-Xiao Liu, Sergej Schuwalow, Yu Liu, Kostas Vilkelis, A. L. R. Manesco, P. Krogstrup, Michael Wimmer  
+> **Preprint:** [arXiv:2011.06567](https://arxiv.org/abs/2011.06567)
+
 
 
 ### Statistical Floquet prethermalization from kicked rotors to the Bose-Hubbard model
