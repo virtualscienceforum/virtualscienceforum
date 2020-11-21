@@ -28,8 +28,10 @@ authors:
   comment: "Author list; fetched automatically from arXiv"
 time:
   name: "Time slot" 
-  text: "YYYY-MM-DD HH:MM UTC"
-  comment: "At least two weeks ahead take care to provide the UTC time" 
+  text: "YYYY-MM-DD HH:00 UTC"
+  comment: >
+    The week after next at the earliest; take care to provide the UTC time
+    (you can check e.g. here: https://www.timeanddate.com/worldclock/converter.html)
 notes:
   name: "Notes" 
   text: "" 

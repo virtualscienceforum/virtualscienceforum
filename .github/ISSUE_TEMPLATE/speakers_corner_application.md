@@ -1,6 +1,6 @@
 ---
-name: Speakers' Corner talk application
-title: "Speakers' Corner talk application"
+name: Speakers' corner talk application
+title: "Speakers' corner talk application"
 about: Self-organized talks based on recent preprints
 labels: application
 assignees: ""
@@ -44,9 +44,10 @@ researcher@university.edu
 
 ## Time slot
 
-YYYY-MM-DD HH:MM UTC
+YYYY-MM-DD HH:00 UTC
 
-<!-- At least two weeks ahead take care to provide the UTC time -->
+<!-- The week after next at the earliest; take care to provide the UTC time (you can check e.g. here: https://www.timeanddate.com/worldclock/converter.html)
+ -->
 
 ## Notes
 
