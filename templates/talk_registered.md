@@ -2,6 +2,7 @@ We've added your talk to the schedule :tada:!
 
 Below please find a checklist for your presentation.  
 Please read it carefully and confirm that everything is clear by adding a comment to this issue.  
+Also reply here if you have any questions or problems.
 Good luck with your talk!
 
 ## Before your meeting
