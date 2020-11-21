@@ -1,0 +1,8 @@
+requests==2.25
+python-dateutil==2.8
+PyGithub==1.53
+arxiv==0.5
+jinja2==2.11
+ruamel.yaml==0.16
+pytz==2020.1
+beautifulsoup4==4.9

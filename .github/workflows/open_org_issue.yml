@@ -1,0 +1,32 @@
+name: Open an organizational meeting issue
+
+on:
+  schedule:
+    - cron: 0 20 * * TUE
+  workflow_dispatch
+
+jobs:
+  org-issue:
+    name: Open organizational meeting issue
+    runs-on: ubuntu-latest
+
+    steps :
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+
+      - name: Install dependencies
+
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r bots/requirements.txt
+
+      - name: open the actual issue
+        working-directory: ./bots
+        run: python3 open_org_issue.py
+        env:
+          VSF_BOT_TOKEN: ${{ secrets.VSF_BOT_TOKEN }}
