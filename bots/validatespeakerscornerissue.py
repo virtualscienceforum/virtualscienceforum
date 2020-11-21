@@ -5,7 +5,8 @@ from pathlib import Path
 from datetime import date, datetime, timedelta
 import logging
 
-from dateutil.parser import parse, ParserError, relativedelta
+from dateutil.parser import parse, ParserError
+from dateutil import relativedelta
 from github import Github
 from ruamel.yaml import YAML
 import arxiv
