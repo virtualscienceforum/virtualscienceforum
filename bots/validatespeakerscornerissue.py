@@ -82,7 +82,7 @@ def check_date(timeslot):
     now = datetime.now(tz=pytz.UTC)
     if (
         now + relativedelta.relativedelta(weekday=relativedelta.SU(2))
-        < scheduled_time
+        > scheduled_time
     ):
         return "The earliest you may schedule is the week after next."
 
