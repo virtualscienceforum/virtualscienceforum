@@ -1,8 +1,7 @@
 name: Open an organizational meeting issue
 
 on:
-  schedule:
-    - cron: 43 * * * *
+  workflow_dispatch
 
 jobs:
   org-issue:
