@@ -55,7 +55,7 @@ def check_name(name):
         return "Please provide your name"
 
 
-def check_date(timeslot, other_dates):
+def check_date(timeslot):
 
     try:
         scheduled_time = parse(timeslot)
