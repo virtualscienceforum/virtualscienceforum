@@ -22,7 +22,6 @@ TEAM_CHECKLIST = jinja2.Template("""Your submission looks good!
 As the next step, a team member will check that:
 
 - [ ] Everything is generally in order
-- [ ] There are no scheduling conflicts
 - [ ] The author's email is institutional or otherwise known
 
 They will respond here and once everything looks good add the "approved" label.
@@ -56,17 +55,35 @@ def check_name(name):
         return "Please provide your name"
 
 
-def check_date(timeslot):
+def check_date(timeslot, other_dates):
 
     try:
-        scheduled_date = parse(timeslot)
+        scheduled_time = parse(timeslot)
     except ParserError:
-        return "I couldn't parse the date, please use YYYY-MM-DD HH:MM UTC."
+        return "I couldn't parse the date, please use YYYY-MM-DD HH:00 UTC."
 
-    logging.debug(f"{scheduled_date=}")
+    logging.debug(f"{scheduled_time=}")
 
-    if scheduled_date - datetime.now(tz=pytz.UTC) < timedelta(days=14):
-        return "Please schedule your talk at least two weeks into the future."
+    if scheduled_time.minute or scheduled_time.second:
+        return "We only schedule talks at the beginning of the hour."
+
+    with open(Path("../speakers_corner_talks.yml")) as f:
+        other_times = {
+            talk["time"].replace(tzinfo=pytz.UTC) for talk in yaml.load(f)
+        }
+
+    if scheduled_time in other_times:
+        return "I found a scheduling conflict, please use another time slot."
+
+    # Mailing list updates are on Sunday, we require at least 2 updates between now
+    # and the talk
+
+    now = datetime.now(tz=pytz.UTC)
+    if (
+        scheduled_time - now
+        < timedelta(days=13 - now.weekday())
+    ):
+        return "The earliest you may schedule is the week after the next."
 
 
 def check_arxiv(preprint):
