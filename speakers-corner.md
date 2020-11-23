@@ -35,7 +35,7 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 | <time datetime="2020-12-02T16:00:00+00:00">December 2 16:00 UTC</time> | Bo Peng | [Topological phonons in oxide perovskites controlled by light](#topological-phonons-in-oxide-perovskites-controlled-by-light) |
 | <time datetime="2020-12-08T10:00:00+00:00">December 8 10:00 UTC</time> | Dalla Torre Emanuele | [Statistical Floquet prethermalization from kicked rotors to the Bose-Hubbard model](#statistical-floquet-prethermalization-from-kicked-rotors-to-the-bose-hubbard-model) |
 | <time datetime="2020-12-09T13:00:00+00:00">December 9 13:00 UTC</time> | Vasilii Vadimov | [Many-body Majorana-like zero modes without gauge symmetry breaking](#many-body-majorana-like-zero-modes-without-gauge-symmetry-breaking) |
-| <time datetime="2020-12-10T14:00:00+00:00">December 10 14:00 UTC</time> | Antonio Manesco | [Strain-engineering the topological type-II Dirac semimetal NiTe$_2$](#strain-engineering-the-topological-type-ii-dirac-semimetal-nite$_2$) |
+| <time datetime="2020-12-10T14:00:00+00:00">December 10 14:00 UTC</time> | Antonio Manesco | [Strain-engineering the topological type-II Dirac semimetal NiTe2](#strain-engineering-the-topological-type-ii-dirac-semimetal-nite2) |
 
 ## Upcoming talks
 
@@ -98,7 +98,7 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 
 
 
-### Strain-engineering the topological type-II Dirac semimetal NiTe$_2$
+### Strain-engineering the topological type-II Dirac semimetal NiTe2
 #### Antonio Manesco (University of São Paulo)
 
 > In this work, the electronic and elastic properties of the type-II Dirac semimetal NiTe$_2$, in equilibrium and under strain, were systematically studied within the scope of density functional theory (DFT) and effective models. We have demonstrated that strain-engineering is an effective route for manipulating its electronic and topological properties. We have shown that compressive and tensile deformations control the Dirac node momentum and their energy relative to the Fermi level. Moreover, it is possible to lower or increase the overlap between the low-energy wave functions and suppress trivial bands, opening the way for superconductivity, Liftshtz transitions, and a hybrid type-I and type-II Dirac semimetallic phase. Furthermore, we provided a minimal effective model for the Dirac cone and derive the mentioned strain effects using lattice regularization, providing an inexpensive way for further theoretical investigations and easy comparison with experiments. We also proposed statically controlling the electronic-structure with the intercalation of alkali-element species into the van der Waals gap, resulting in a similar physical response to the one obtained by strain-engineering.
