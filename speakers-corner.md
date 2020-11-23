@@ -63,6 +63,10 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 > **Preprint:** [arXiv:2011.06567](https://arxiv.org/abs/2011.06567)
 
 
+If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJMqdOqorTIrG9AuQtufc5yp3p_s1k8kEPpx)
+
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJMqdOqorTIrG9AuQtufc5yp3p_s1k8kEPpx" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
 
 ### Topological phonons in oxide perovskites controlled by light
 #### Bo Peng (Cavendish Laboratory, University of Cambridge)
@@ -72,6 +76,10 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 > **Authors:** Bo Peng, Yuchen Hu, Shuichi Murakami, Tiantian Zhang, Bartomeu Monserrat  
 
 
+
+If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJMldO6oqTojEtPBMp3WsN7oDRRwswFIpHuz)
+
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJMldO6oqTojEtPBMp3WsN7oDRRwswFIpHuz" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
 ### Statistical Floquet prethermalization from kicked rotors to the Bose-Hubbard model
@@ -97,6 +105,10 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 > **Preprint:** [arXiv:2011.06552](https://arxiv.org/abs/2011.06552)
 
 
+If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJckdeiurTojHtNnmELf0AZ5E2ew5bpRI3bv)
+
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJckdeiurTojHtNnmELf0AZ5E2ew5bpRI3bv" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
 
 ### Strain-engineering the topological type-II Dirac semimetal NiTe2
 #### Antonio Manesco (University of São Paulo)
@@ -106,6 +118,10 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 > **Authors:** Pedro P. Ferreira, Antonio L. R. Manesco, Thiago T. Dorini, Lucas E. Correa, Gabrielle Weber, Antonio J. S. Machado, Luiz T. F. Eleno  
 > **Preprint:** [arXiv:2006.14071](https://arxiv.org/abs/2006.14071)
 
+
+If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJIpd-qupj4pGtQLO8s7mcds4XepejoT31oP)
+
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJIpd-qupj4pGtQLO8s7mcds4XepejoT31oP" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
 
