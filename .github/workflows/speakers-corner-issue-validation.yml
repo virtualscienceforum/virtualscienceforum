@@ -9,11 +9,8 @@ jobs:
   validate-issue:
     # Name the Job
     name: Validate the applications issue
-    # Only run if application and not edited by vsf-bot
-    if: >
-      ${{ contains(github.event.issue.labels.*.name, 'application')
-      && !contains(github.event.issue.labels.*.name, 'approved')
-      && github.event.sender.login != 'vsf-bot' }}
+    # Only run if unapproved application and not edited by vsf-bot
+    if: contains(github.event.issue.labels.*.name, 'application') && !contains(github.event.issue.labels.*.name, 'approved') && github.event.sender.login != 'vsf-bot'
     # Set the type of machine to run on
     runs-on: ubuntu-latest
     
@@ -33,7 +30,6 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f bots/requirements.txt ]; then pip install -r bots/requirements.txt; fi
 
-      # Run the validation script only if this is a Speakers' corner issue and if it was just opened (validatespeakerscornerissue.py)
       - name: Validate
         working-directory: ./bots
         run: python3 validatespeakerscornerissue.py
