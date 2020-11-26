@@ -13,6 +13,7 @@ We are grateful to the [Kavli Institute of Nanoscience Delft](http://kavli.tudel
 [Join in](#welcome)
 [Long Range Colloquium](long_range_colloquium.md)
 [Speakers' Corner](speakers-corner.md)
+[Quantum transport workshop](quantum-transport-workshop.md)
 
 <!-- background image -->
 
