@@ -2,7 +2,7 @@
 * Current and planned events
     * [Long Range Colloquium](long_range_colloquium.md)
     * [Speakers' Corner](speakers-corner.md)
-    * [Quantum transport workshpo](quantum-transport-workshop.md)
+    * [Quantum transport workshop](quantum-transport-workshop.md)
 * [Call for organizers](announcement.md)
 * [Organizer Guide](organizerguide.md)
 * [Speaker Guide](speakerguide.md)
