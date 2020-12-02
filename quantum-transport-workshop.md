@@ -12,6 +12,8 @@ We will conclude with an overview of advanced topics which will be left for late
 
 The participation is free, but the amount of places is limited, so please [register](#registration).
 
+We thank https://mybinder.org, a public service and a volunteer-run open-source project with cloud resources sponsored by Google Cloud, OVH, GESIS Notebooks and the Turing Institute for providing a computational environment for the workshop.
+
 ## Tentative schedule
 
 The workshop will take place December 17th, all times are CET.
