@@ -30,41 +30,12 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-| <time datetime="2020-12-02T15:00:00+00:00">December 2 15:00 UTC</time> | Chun-Xiao Liu | [Electronic properties of InAs/EuS/Al hybrid nanowires](#electronic-properties-of-inas/eus/al-hybrid-nanowires) |
-| <time datetime="2020-12-02T16:00:00+00:00">December 2 16:00 UTC</time> | Bo Peng | [Topological phonons in oxide perovskites controlled by light](#topological-phonons-in-oxide-perovskites-controlled-by-light) |
 | <time datetime="2020-12-08T10:00:00+00:00">December 8 10:00 UTC</time> | Dalla Torre Emanuele | [Statistical Floquet prethermalization from kicked rotors to the Bose-Hubbard model](#statistical-floquet-prethermalization-from-kicked-rotors-to-the-bose-hubbard-model) |
 | <time datetime="2020-12-09T13:00:00+00:00">December 9 13:00 UTC</time> | Vasilii Vadimov | [Many-body Majorana-like zero modes without gauge symmetry breaking](#many-body-majorana-like-zero-modes-without-gauge-symmetry-breaking) |
 | <time datetime="2020-12-10T14:00:00+00:00">December 10 14:00 UTC</time> | Antonio Manesco | [Strain-engineering the topological type-II Dirac semimetal NiTe2](#strain-engineering-the-topological-type-ii-dirac-semimetal-nite2) |
+| <time datetime="2020-12-15T15:00:00+00:00">December 15 15:00 UTC</time> | Chun-Xiao Liu | [Electronic properties of InAs/EuS/Al hybrid nanowires](#electronic-properties-of-inas/eus/al-hybrid-nanowires) |
 
 ## Upcoming talks
-
-
-### Electronic properties of InAs/EuS/Al hybrid nanowires
-#### Chun-Xiao Liu (Delft University of Technology, the Netherlands)
-
-> We study the electronic properties of InAs/EuS/Al heterostructures as explored in a recent experiment [S. Vaitiekenas \emph{et al.}, Nat. Phys. (2020)], combining both spectroscopic results and microscopic device simulations. In particular, we use angle-resolved photoemission spectroscopy to investigate the band bending at the InAs/EuS interface. The resulting band offset value serves as an essential input to subsequent microscopic device simulations, allowing us to map the electronic wave function distribution. We conclude that the magnetic proximity effects at the Al/EuS as well as the InAs/EuS interfaces are both essential to achieve topological superconductivity at zero applied magnetic field. Mapping the topological phase diagram as a function of gate voltages and proximity-induced exchange couplings, we show that the ferromagnetic hybrid nanowire with overlapping Al and EuS layers can become a topological superconductor within realistic parameter regimes. Our work highlights the need for a combined experimental and theoretical effort for faithful device simulation.
->
-> **Authors:** Chun-Xiao Liu, Sergej Schuwalow, Yu Liu, Kostas Vilkelis, A. L. R. Manesco, P. Krogstrup, Michael Wimmer  
-> **Preprint:** [arXiv:2011.06567](https://arxiv.org/abs/2011.06567)
-
-
-If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJMqdOqorTIrG9AuQtufc5yp3p_s1k8kEPpx)
-
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJMqdOqorTIrG9AuQtufc5yp3p_s1k8kEPpx" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
-
-
-### Topological phonons in oxide perovskites controlled by light
-#### Bo Peng (Cavendish Laboratory, University of Cambridge)
-
-> Perovskite oxides exhibit a rich variety of structural phases hosting different physical phenomena that generate multiple technological applications. We find that topological phonons – nodal rings, nodal lines, and Weyl points – are ubiquitous in oxide perovskites in terms of structures (tetragonal, orthorhombic, and rhombohedral), compounds (BaTiO3, PbTiO3, and SrTiO3), and external conditions (photoexcitation, strain, and temperature). In particular, in the tetragonal phase of these compounds all types of topological phonons can simultaneously emerge when stabilized by photoexcitation, whereas the tetragonal phase stabilized by thermal fluctuations only hosts a more limited set of topological phonon states. In addition, we find that the photoexcited carrier concentration can be used to tune the topological phonon states and induce topological transitions even without associated structural phase changes. Overall, we propose oxide perovskites as a versatile platform in which to study topological phonons and their manipulation with light.
->
-> **Authors:** Bo Peng, Yuchen Hu, Shuichi Murakami, Tiantian Zhang, Bartomeu Monserrat  
-
-
-
-If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJMldO6oqTojEtPBMp3WsN7oDRRwswFIpHuz)
-
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJMldO6oqTojEtPBMp3WsN7oDRRwswFIpHuz" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
 ### Statistical Floquet prethermalization from kicked rotors to the Bose-Hubbard model
@@ -107,6 +78,20 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJIpd-qupj4pGtQLO8s7mcds4XepejoT31oP)
 
 <iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJIpd-qupj4pGtQLO8s7mcds4XepejoT31oP" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
+
+### Electronic properties of InAs/EuS/Al hybrid nanowires
+#### Chun-Xiao Liu (Delft University of Technology, the Netherlands)
+
+> We study the electronic properties of InAs/EuS/Al heterostructures as explored in a recent experiment [S. Vaitiekenas \emph{et al.}, Nat. Phys. (2020)], combining both spectroscopic results and microscopic device simulations. In particular, we use angle-resolved photoemission spectroscopy to investigate the band bending at the InAs/EuS interface. The resulting band offset value serves as an essential input to subsequent microscopic device simulations, allowing us to map the electronic wave function distribution. We conclude that the magnetic proximity effects at the Al/EuS as well as the InAs/EuS interfaces are both essential to achieve topological superconductivity at zero applied magnetic field. Mapping the topological phase diagram as a function of gate voltages and proximity-induced exchange couplings, we show that the ferromagnetic hybrid nanowire with overlapping Al and EuS layers can become a topological superconductor within realistic parameter regimes. Our work highlights the need for a combined experimental and theoretical effort for faithful device simulation.
+>
+> **Authors:** Chun-Xiao Liu, Sergej Schuwalow, Yu Liu, Kostas Vilkelis, A. L. R. Manesco, P. Krogstrup, Michael Wimmer  
+> **Preprint:** [arXiv:2011.06567](https://arxiv.org/abs/2011.06567)
+
+
+If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJMqdOqorTIrG9AuQtufc5yp3p_s1k8kEPpx)
+
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJMqdOqorTIrG9AuQtufc5yp3p_s1k8kEPpx" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
 
@@ -207,6 +192,23 @@ Preprint: [arXiv:](https://arxiv.org/abs/)
 In quantizing magnetic fields, graphene superlattices exhibit a complex fractal spectrum often referred to as the Hofstadter butterfly. It can be viewed as a collection of Landau levels that arise from quantization of Brown-Zak minibands recurring at rational ($p/q$) fractions of the magnetic flux quantum per superlattice unit cell. Here we show that, in graphene-on-boron-nitride superlattices, Brown-Zak fermions can exhibit mobilities above 10$^6$ cm$^2$V$^{-1}$s$^{-1}$ and the mean free path exceeding several micrometers. The exceptional quality of our devices allows us to show that Brown-Zak minibands are $4q$ times degenerate and all the degeneracies (spin, valley and mini-valley) can be lifted by exchange interactions below 1K. We also found negative bend resistance at $1/q$ fractions for electrical probes placed as far as several micrometers apart. The latter observation highlights the fact that Brown-Zak fermions are Bloch quasiparticles propagating in high fields along straight trajectories, just like electrons in zero field.
 
 Authors: J, u, l, i, e, n,  , B, a, r, r, i, e, r, ,,  , P, i, r, a, n, a, v, a, n,  , K, u, m, a, r, a, v, a, d, i, v, e, l, ,,  , R, o, s, h, a, n,  , K, r, i, s, h, n, a, -, K, u, m, a, r, ,,  , L, .,  , A, .,  , P, o, n, o, m, a, r, e, n, k, o, ,,  , N, a,  , X, i, n, ,,  , M, a, t, t, h, e, w,  , H, o, l, w, i, l, l, ,,  , C, i, a, r, a, n,  , M, u, l, l, a, n, ,,  , M, i, n, s, o, o,  , K, i, m, ,,  , R, .,  , V, .,  , G, o, r, b, a, c, h, e, v, ,,  , M, .,  , D, .,  , T, h, o, m, p, s, o, n, ,,  , J, .,  , R, .,  , P, r, a, n, c, e, ,,  , T, .,  , T, a, n, i, g, u, c, h, i, ,,  , K, .,  , W, a, t, a, n, a, b, e, ,,  , I, .,  , V, .,  , G, r, i, g, o, r, i, e, v, a, ,,  , K, .,  , S, .,  , N, o, v, o, s, e, l, o, v, ,,  , A, .,  , M, i, s, h, c, h, e, n, k, o, ,,  , V, .,  , I, .,  , F, a, l, ', k, o, ,,  , A, .,  , K, .,  , G, e, i, m, ,,  , A, .,  , I, .,  , B, e, r, d, y, u, g, i, n  
+Preprint: [arXiv:](https://arxiv.org/abs/)
+</details>
+
+
+*Video in preparation*
+
+
+
+
+### Topological phonons in oxide perovskites controlled by light
+#### Bo Peng, 
+
+<details><summary>abstract</summary>
+
+Perovskite oxides exhibit a rich variety of structural phases hosting different physical phenomena that generate multiple technological applications. We find that topological phonons – nodal rings, nodal lines, and Weyl points – are ubiquitous in oxide perovskites in terms of structures (tetragonal, orthorhombic, and rhombohedral), compounds (BaTiO3, PbTiO3, and SrTiO3), and external conditions (photoexcitation, strain, and temperature). In particular, in the tetragonal phase of these compounds all types of topological phonons can simultaneously emerge when stabilized by photoexcitation, whereas the tetragonal phase stabilized by thermal fluctuations only hosts a more limited set of topological phonon states. In addition, we find that the photoexcited carrier concentration can be used to tune the topological phonon states and induce topological transitions even without associated structural phase changes. Overall, we propose oxide perovskites as a versatile platform in which to study topological phonons and their manipulation with light.
+
+Authors: B, o,  , P, e, n, g, ,,  , Y, u, c, h, e, n,  , H, u, ,,  , S, h, u, i, c, h, i,  , M, u, r, a, k, a, m, i, ,,  , T, i, a, n, t, i, a, n,  , Z, h, a, n, g, ,,  , B, a, r, t, o, m, e, u,  , M, o, n, s, e, r, r, a, t  
 Preprint: [arXiv:](https://arxiv.org/abs/)
 </details>
 
