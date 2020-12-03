@@ -1,0 +1,23 @@
+name: Add a new Speakers' corner talk
+
+on:
+  issues:
+    types: [labeled]
+
+jobs:
+  validate-issue:
+    name: Add a SC talk to the listing
+    # Only run if approved application
+    if: ${{ contains(github.event.issue.labels.*.name, 'email') && contains(github.event.issue.labels.*.name, 'approved') }}
+    # Set the type of machine to run on
+    runs-on: ubuntu-latest
+
+    steps :
+      # Checks out a copy of your repository on the ubuntu-latest machine
+      - name: Trigger email sending
+        uses: peter-evans/repository-dispatch@v1
+        with:
+          token: ${{ secrets.VSF_BOT_TOKEN }}
+          repository: virtualscienceforum/automation
+          event-type: email
+          client-payload: '{"issue": "${{ github.event.issue.number }}"}'
