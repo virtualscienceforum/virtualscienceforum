@@ -10,7 +10,4 @@ to: (choose one) vsf-announce / speakers_corner / <zoom meeting id>
 ---
 Dear %recipient_name%,
 
-<message text in markdown>
-
----
-You are receiving this email because ..., to unsubscribe use [this link](%mailing_list_unsubscribe_url%)
+<!-- message text in markdown -->
