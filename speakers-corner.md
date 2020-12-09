@@ -30,25 +30,10 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-| <time datetime="2020-12-09T13:00:00+00:00">December 9 13:00 UTC</time> | Vasilii Vadimov | [Many-body Majorana-like zero modes without gauge symmetry breaking](#many-body-majorana-like-zero-modes-without-gauge-symmetry-breaking) |
 | <time datetime="2020-12-10T14:00:00+00:00">December 10 14:00 UTC</time> | Antonio Manesco | [Strain-engineering the topological type-II Dirac semimetal NiTe2](#strain-engineering-the-topological-type-ii-dirac-semimetal-nite2) |
 | <time datetime="2020-12-15T15:00:00+00:00">December 15 15:00 UTC</time> | Chun-Xiao Liu | [Electronic properties of InAs/EuS/Al hybrid nanowires](#electronic-properties-of-inas/eus/al-hybrid-nanowires) |
 
 ## Upcoming talks
-
-
-### Many-body Majorana-like zero modes without gauge symmetry breaking
-#### Vasilii Vadimov (QCD Labs, Department of Applied Physics, Aalto University)
-
-> Topological superconductors represent one of the key hosts of Majorana-based topological quantum computing. Typical scenarios for one-dimensional topological superconductivity assume a broken gauge symmetry associated to a superconducting state. However, no interacting one-dimensional many-body system is known to spontaneously break gauge symmetries. Here, we show that zero modes emerge in a many-body system without gauge symmetry breaking and in the absence of superconducting order. In particular, we demonstrate that Majorana zero modes of the symmetry-broken superconducting state are continuously connected to these zero-mode excitations, demonstrating that zero-bias anomalies may emerge in the absence of gauge symmetry breaking. We demonstrate that these many-body zero modes share the robustness features of the Majorana zero modes of symmetry-broken topological superconductors. We introduce a bosonization formalism to analyze these excitations and show that a ground state analogous to a topological superconducting state can be analytically found in a certain limit. Our results demonstrate that robust Majorana-like zero modes may appear in a many-body systems without gauge symmetry breaking, thus introducing a family of protected excitations with no single-particle analogs.
->
-> **Authors:** V. Vadimov, T. Hyart, J. L. Lado, M. Möttönen, T. Ala-Nissila  
-> **Preprint:** [arXiv:2011.06552](https://arxiv.org/abs/2011.06552)
-
-
-If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJckdeiurTojHtNnmELf0AZ5E2ew5bpRI3bv)
-
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJckdeiurTojHtNnmELf0AZ5E2ew5bpRI3bv" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
 ### Strain-engineering the topological type-II Dirac semimetal NiTe2
@@ -211,6 +196,23 @@ Preprint: [arXiv:](https://arxiv.org/abs/)
 The manipulation of many-body systems often involves time-dependent forces that cause unwanted heating. One strategy to suppress heating is to use time-periodic (Floquet) forces at large frequencies. In particular, for quantum spin systems with bounded spectra, it was shown rigorously that the heating rate is exponentially small in the driving frequency. Recently, the exponential suppression of heating has also been observed in an experiment with ultracold atoms, realizing a periodically driven Bose-Hubbard model. This model has an unbounded spectrum and, hence, is beyond the reach of previous theoretical approaches. Here, we develop a semiclassical description of Floquet prethermal states and link the suppressed heating rate to the low probability of finding many particles on a single site. We derive an analytic expression for the exponential suppression of heating valid at strong interactions and large temperatures, which matches the exact numerical solution of the model. Our approach demonstrates the relevance of statistical arguments to Floquet perthermalization of interacting many-body quantum systems.
 
 Authors: E, m, a, n, u, e, l, e,  , G, .,  , D, a, l, l, a,  , T, o, r, r, e  
+Preprint: [arXiv:](https://arxiv.org/abs/)
+</details>
+
+
+*Video in preparation*
+
+
+
+
+### Many-body Majorana-like zero modes without gauge symmetry breaking
+#### Vasilii Vadimov, 
+
+<details><summary>abstract</summary>
+
+Topological superconductors represent one of the key hosts of Majorana-based topological quantum computing. Typical scenarios for one-dimensional topological superconductivity assume a broken gauge symmetry associated to a superconducting state. However, no interacting one-dimensional many-body system is known to spontaneously break gauge symmetries. Here, we show that zero modes emerge in a many-body system without gauge symmetry breaking and in the absence of superconducting order. In particular, we demonstrate that Majorana zero modes of the symmetry-broken superconducting state are continuously connected to these zero-mode excitations, demonstrating that zero-bias anomalies may emerge in the absence of gauge symmetry breaking. We demonstrate that these many-body zero modes share the robustness features of the Majorana zero modes of symmetry-broken topological superconductors. We introduce a bosonization formalism to analyze these excitations and show that a ground state analogous to a topological superconducting state can be analytically found in a certain limit. Our results demonstrate that robust Majorana-like zero modes may appear in a many-body systems without gauge symmetry breaking, thus introducing a family of protected excitations with no single-particle analogs.
+
+Authors: V, .,  , V, a, d, i, m, o, v, ,,  , T, .,  , H, y, a, r, t, ,,  , J, .,  , L, .,  , L, a, d, o, ,,  , M, .,  , M, ö, t, t, ö, n, e, n, ,,  , T, .,  , A, l, a, -, N, i, s, s, i, l, a  
 Preprint: [arXiv:](https://arxiv.org/abs/)
 </details>
 
