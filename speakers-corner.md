@@ -30,26 +30,11 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-| <time datetime="2020-12-08T10:00:00+00:00">December 8 10:00 UTC</time> | Dalla Torre Emanuele | [Statistical Floquet prethermalization from kicked rotors to the Bose-Hubbard model](#statistical-floquet-prethermalization-from-kicked-rotors-to-the-bose-hubbard-model) |
 | <time datetime="2020-12-09T13:00:00+00:00">December 9 13:00 UTC</time> | Vasilii Vadimov | [Many-body Majorana-like zero modes without gauge symmetry breaking](#many-body-majorana-like-zero-modes-without-gauge-symmetry-breaking) |
 | <time datetime="2020-12-10T14:00:00+00:00">December 10 14:00 UTC</time> | Antonio Manesco | [Strain-engineering the topological type-II Dirac semimetal NiTe2](#strain-engineering-the-topological-type-ii-dirac-semimetal-nite2) |
 | <time datetime="2020-12-15T15:00:00+00:00">December 15 15:00 UTC</time> | Chun-Xiao Liu | [Electronic properties of InAs/EuS/Al hybrid nanowires](#electronic-properties-of-inas/eus/al-hybrid-nanowires) |
 
 ## Upcoming talks
-
-
-### Statistical Floquet prethermalization from kicked rotors to the Bose-Hubbard model
-#### Dalla Torre Emanuele (Bar-Ilan University)
-
-> The manipulation of many-body systems often involves time-dependent forces that cause unwanted heating. One strategy to suppress heating is to use time-periodic (Floquet) forces at large frequencies. In particular, for quantum spin systems with bounded spectra, it was shown rigorously that the heating rate is exponentially small in the driving frequency. Recently, the exponential suppression of heating has also been observed in an experiment with ultracold atoms, realizing a periodically driven Bose-Hubbard model. This model has an unbounded spectrum and, hence, is beyond the reach of previous theoretical approaches. Here, we develop a semiclassical description of Floquet prethermal states and link the suppressed heating rate to the low probability of finding many particles on a single site. We derive an analytic expression for the exponential suppression of heating valid at strong interactions and large temperatures, which matches the exact numerical solution of the model. Our approach demonstrates the relevance of statistical arguments to Floquet perthermalization of interacting many-body quantum systems.
->
-> **Authors:** Emanuele G. Dalla Torre  
-> **Preprint:** [arXiv:2005.07207](https://arxiv.org/abs/2005.07207)
-
-
-If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJEtd-mqqTIiE9egO91L0I6fFj58PxUIbuUr)
-
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJEtd-mqqTIiE9egO91L0I6fFj58PxUIbuUr" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
 ### Many-body Majorana-like zero modes without gauge symmetry breaking
@@ -209,6 +194,23 @@ Preprint: [arXiv:](https://arxiv.org/abs/)
 Perovskite oxides exhibit a rich variety of structural phases hosting different physical phenomena that generate multiple technological applications. We find that topological phonons – nodal rings, nodal lines, and Weyl points – are ubiquitous in oxide perovskites in terms of structures (tetragonal, orthorhombic, and rhombohedral), compounds (BaTiO3, PbTiO3, and SrTiO3), and external conditions (photoexcitation, strain, and temperature). In particular, in the tetragonal phase of these compounds all types of topological phonons can simultaneously emerge when stabilized by photoexcitation, whereas the tetragonal phase stabilized by thermal fluctuations only hosts a more limited set of topological phonon states. In addition, we find that the photoexcited carrier concentration can be used to tune the topological phonon states and induce topological transitions even without associated structural phase changes. Overall, we propose oxide perovskites as a versatile platform in which to study topological phonons and their manipulation with light.
 
 Authors: B, o,  , P, e, n, g, ,,  , Y, u, c, h, e, n,  , H, u, ,,  , S, h, u, i, c, h, i,  , M, u, r, a, k, a, m, i, ,,  , T, i, a, n, t, i, a, n,  , Z, h, a, n, g, ,,  , B, a, r, t, o, m, e, u,  , M, o, n, s, e, r, r, a, t  
+Preprint: [arXiv:](https://arxiv.org/abs/)
+</details>
+
+
+*Video in preparation*
+
+
+
+
+### Statistical Floquet prethermalization from kicked rotors to the Bose-Hubbard model
+#### Dalla Torre Emanuele, 
+
+<details><summary>abstract</summary>
+
+The manipulation of many-body systems often involves time-dependent forces that cause unwanted heating. One strategy to suppress heating is to use time-periodic (Floquet) forces at large frequencies. In particular, for quantum spin systems with bounded spectra, it was shown rigorously that the heating rate is exponentially small in the driving frequency. Recently, the exponential suppression of heating has also been observed in an experiment with ultracold atoms, realizing a periodically driven Bose-Hubbard model. This model has an unbounded spectrum and, hence, is beyond the reach of previous theoretical approaches. Here, we develop a semiclassical description of Floquet prethermal states and link the suppressed heating rate to the low probability of finding many particles on a single site. We derive an analytic expression for the exponential suppression of heating valid at strong interactions and large temperatures, which matches the exact numerical solution of the model. Our approach demonstrates the relevance of statistical arguments to Floquet perthermalization of interacting many-body quantum systems.
+
+Authors: E, m, a, n, u, e, l, e,  , G, .,  , D, a, l, l, a,  , T, o, r, r, e  
 Preprint: [arXiv:](https://arxiv.org/abs/)
 </details>
 
