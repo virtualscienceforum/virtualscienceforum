@@ -30,24 +30,9 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-| <time datetime="2020-12-10T14:00:00+00:00">December 10 14:00 UTC</time> | Antonio Manesco | [Strain-engineering the topological type-II Dirac semimetal NiTe2](#strain-engineering-the-topological-type-ii-dirac-semimetal-nite2) |
 | <time datetime="2020-12-15T15:00:00+00:00">December 15 15:00 UTC</time> | Chun-Xiao Liu | [Electronic properties of InAs/EuS/Al hybrid nanowires](#electronic-properties-of-inas/eus/al-hybrid-nanowires) |
 
 ## Upcoming talks
-
-
-### Strain-engineering the topological type-II Dirac semimetal NiTe2
-#### Antonio Manesco (University of São Paulo)
-
-> In this work, the electronic and elastic properties of the type-II Dirac semimetal NiTe$_2$, in equilibrium and under strain, were systematically studied within the scope of density functional theory (DFT) and effective models. We have demonstrated that strain-engineering is an effective route for manipulating its electronic and topological properties. We have shown that compressive and tensile deformations control the Dirac node momentum and their energy relative to the Fermi level. Moreover, it is possible to lower or increase the overlap between the low-energy wave functions and suppress trivial bands, opening the way for superconductivity, Liftshtz transitions, and a hybrid type-I and type-II Dirac semimetallic phase. Furthermore, we provided a minimal effective model for the Dirac cone and derive the mentioned strain effects using lattice regularization, providing an inexpensive way for further theoretical investigations and easy comparison with experiments. We also proposed statically controlling the electronic-structure with the intercalation of alkali-element species into the van der Waals gap, resulting in a similar physical response to the one obtained by strain-engineering.
->
-> **Authors:** Pedro P. Ferreira, Antonio L. R. Manesco, Thiago T. Dorini, Lucas E. Correa, Gabrielle Weber, Antonio J. S. Machado, Luiz T. F. Eleno  
-> **Preprint:** [arXiv:2006.14071](https://arxiv.org/abs/2006.14071)
-
-
-If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJIpd-qupj4pGtQLO8s7mcds4XepejoT31oP)
-
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJIpd-qupj4pGtQLO8s7mcds4XepejoT31oP" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
 ### Electronic properties of InAs/EuS/Al hybrid nanowires
@@ -213,6 +198,23 @@ Preprint: [arXiv:](https://arxiv.org/abs/)
 Topological superconductors represent one of the key hosts of Majorana-based topological quantum computing. Typical scenarios for one-dimensional topological superconductivity assume a broken gauge symmetry associated to a superconducting state. However, no interacting one-dimensional many-body system is known to spontaneously break gauge symmetries. Here, we show that zero modes emerge in a many-body system without gauge symmetry breaking and in the absence of superconducting order. In particular, we demonstrate that Majorana zero modes of the symmetry-broken superconducting state are continuously connected to these zero-mode excitations, demonstrating that zero-bias anomalies may emerge in the absence of gauge symmetry breaking. We demonstrate that these many-body zero modes share the robustness features of the Majorana zero modes of symmetry-broken topological superconductors. We introduce a bosonization formalism to analyze these excitations and show that a ground state analogous to a topological superconducting state can be analytically found in a certain limit. Our results demonstrate that robust Majorana-like zero modes may appear in a many-body systems without gauge symmetry breaking, thus introducing a family of protected excitations with no single-particle analogs.
 
 Authors: V, .,  , V, a, d, i, m, o, v, ,,  , T, .,  , H, y, a, r, t, ,,  , J, .,  , L, .,  , L, a, d, o, ,,  , M, .,  , M, ö, t, t, ö, n, e, n, ,,  , T, .,  , A, l, a, -, N, i, s, s, i, l, a  
+Preprint: [arXiv:](https://arxiv.org/abs/)
+</details>
+
+
+*Video in preparation*
+
+
+
+
+### Strain-engineering the topological type-II Dirac semimetal NiTe2
+#### Antonio Manesco, 
+
+<details><summary>abstract</summary>
+
+In this work, the electronic and elastic properties of the type-II Dirac semimetal NiTe$_2$, in equilibrium and under strain, were systematically studied within the scope of density functional theory (DFT) and effective models. We have demonstrated that strain-engineering is an effective route for manipulating its electronic and topological properties. We have shown that compressive and tensile deformations control the Dirac node momentum and their energy relative to the Fermi level. Moreover, it is possible to lower or increase the overlap between the low-energy wave functions and suppress trivial bands, opening the way for superconductivity, Liftshtz transitions, and a hybrid type-I and type-II Dirac semimetallic phase. Furthermore, we provided a minimal effective model for the Dirac cone and derive the mentioned strain effects using lattice regularization, providing an inexpensive way for further theoretical investigations and easy comparison with experiments. We also proposed statically controlling the electronic-structure with the intercalation of alkali-element species into the van der Waals gap, resulting in a similar physical response to the one obtained by strain-engineering.
+
+Authors: P, e, d, r, o,  , P, .,  , F, e, r, r, e, i, r, a, ,,  , A, n, t, o, n, i, o,  , L, .,  , R, .,  , M, a, n, e, s, c, o, ,,  , T, h, i, a, g, o,  , T, .,  , D, o, r, i, n, i, ,,  , L, u, c, a, s,  , E, .,  , C, o, r, r, e, a, ,,  , G, a, b, r, i, e, l, l, e,  , W, e, b, e, r, ,,  , A, n, t, o, n, i, o,  , J, .,  , S, .,  , M, a, c, h, a, d, o, ,,  , L, u, i, z,  , T, .,  , F, .,  , E, l, e, n, o  
 Preprint: [arXiv:](https://arxiv.org/abs/)
 </details>
 
