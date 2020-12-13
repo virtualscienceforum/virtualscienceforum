@@ -17,13 +17,11 @@ Good luck with your talk!
 ## During the meeting
 
 - The meeting will be open for joining 5 minutes before the talk starts. Join at that time using the personal link we sent (don't be late!).
-- Claim meeting host by using the host key that is in your email.
+- **Claim meeting host by using the host key that is in your email.** (You won't be able to use screenshare otherwise)
 - The recording starts automatically as soon as you join. Don't stop it; you may pause it, but don't forget to unpause.
 - Tell your audience how the questions will be organized. Can they ask questions during the talk or only at the end? How should they signal they have a question?
 - Start your presentation.
-- Aim for a 40 minute presentation followed by 15 minutes discussion.
-    - If another Speakers' Corner talk is scheduled immediately after your talk, your meeting will be shut down at 55 minutes on the hour.
-    - If there isn't, you are free to use your time for up to 2 hours.
+- Aim for a 40 minute presentation followed by 15 minutes discussion. You may go over time, but your meeting will be stopped after one hour and a half.
 
 ## After the meeting
 
