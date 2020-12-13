@@ -73,8 +73,12 @@ def check_date(timeslot):
             talk["time"].replace(tzinfo=pytz.UTC) for talk in yaml.load(f)
         }
 
-    if scheduled_time in other_times:
-        return "I found a scheduling conflict, please use another time slot."
+    nearby = {scheduled_time + timedelta(hours=n) for n in (-1, 0, 1)}
+    if nearby & other_times:
+        return (
+            "I found another talk within one hour time"
+            " difference, please use another time slot."
+        )
 
     # Mailing list updates are on Sunday, we require at least 2 updates between now
     # and the talk
