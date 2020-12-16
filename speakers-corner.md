@@ -30,23 +30,8 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-| <time datetime="2020-12-15T15:00:00+00:00">December 15 15:00 UTC</time> | Chun-Xiao Liu | [Electronic properties of InAs/EuS/Al hybrid nanowires](#electronic-properties-of-inas/eus/al-hybrid-nanowires) |
 
 ## Upcoming talks
-
-
-### Electronic properties of InAs/EuS/Al hybrid nanowires
-#### Chun-Xiao Liu (Delft University of Technology, the Netherlands)
-
-> We study the electronic properties of InAs/EuS/Al heterostructures as explored in a recent experiment [S. Vaitiekenas \emph{et al.}, Nat. Phys. (2020)], combining both spectroscopic results and microscopic device simulations. In particular, we use angle-resolved photoemission spectroscopy to investigate the band bending at the InAs/EuS interface. The resulting band offset value serves as an essential input to subsequent microscopic device simulations, allowing us to map the electronic wave function distribution. We conclude that the magnetic proximity effects at the Al/EuS as well as the InAs/EuS interfaces are both essential to achieve topological superconductivity at zero applied magnetic field. Mapping the topological phase diagram as a function of gate voltages and proximity-induced exchange couplings, we show that the ferromagnetic hybrid nanowire with overlapping Al and EuS layers can become a topological superconductor within realistic parameter regimes. Our work highlights the need for a combined experimental and theoretical effort for faithful device simulation.
->
-> **Authors:** Chun-Xiao Liu, Sergej Schuwalow, Yu Liu, Kostas Vilkelis, A. L. R. Manesco, P. Krogstrup, Michael Wimmer  
-> **Preprint:** [arXiv:2011.06567](https://arxiv.org/abs/2011.06567)
-
-
-If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJMqdOqorTIrG9AuQtufc5yp3p_s1k8kEPpx)
-
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJMqdOqorTIrG9AuQtufc5yp3p_s1k8kEPpx" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
 
@@ -215,6 +200,23 @@ Preprint: [arXiv:](https://arxiv.org/abs/)
 In this work, the electronic and elastic properties of the type-II Dirac semimetal NiTe$_2$, in equilibrium and under strain, were systematically studied within the scope of density functional theory (DFT) and effective models. We have demonstrated that strain-engineering is an effective route for manipulating its electronic and topological properties. We have shown that compressive and tensile deformations control the Dirac node momentum and their energy relative to the Fermi level. Moreover, it is possible to lower or increase the overlap between the low-energy wave functions and suppress trivial bands, opening the way for superconductivity, Liftshtz transitions, and a hybrid type-I and type-II Dirac semimetallic phase. Furthermore, we provided a minimal effective model for the Dirac cone and derive the mentioned strain effects using lattice regularization, providing an inexpensive way for further theoretical investigations and easy comparison with experiments. We also proposed statically controlling the electronic-structure with the intercalation of alkali-element species into the van der Waals gap, resulting in a similar physical response to the one obtained by strain-engineering.
 
 Authors: P, e, d, r, o,  , P, .,  , F, e, r, r, e, i, r, a, ,,  , A, n, t, o, n, i, o,  , L, .,  , R, .,  , M, a, n, e, s, c, o, ,,  , T, h, i, a, g, o,  , T, .,  , D, o, r, i, n, i, ,,  , L, u, c, a, s,  , E, .,  , C, o, r, r, e, a, ,,  , G, a, b, r, i, e, l, l, e,  , W, e, b, e, r, ,,  , A, n, t, o, n, i, o,  , J, .,  , S, .,  , M, a, c, h, a, d, o, ,,  , L, u, i, z,  , T, .,  , F, .,  , E, l, e, n, o  
+Preprint: [arXiv:](https://arxiv.org/abs/)
+</details>
+
+
+*Video in preparation*
+
+
+
+
+### Electronic properties of InAs/EuS/Al hybrid nanowires
+#### Chun-Xiao Liu, 
+
+<details><summary>abstract</summary>
+
+We study the electronic properties of InAs/EuS/Al heterostructures as explored in a recent experiment [S. Vaitiekenas \emph{et al.}, Nat. Phys. (2020)], combining both spectroscopic results and microscopic device simulations. In particular, we use angle-resolved photoemission spectroscopy to investigate the band bending at the InAs/EuS interface. The resulting band offset value serves as an essential input to subsequent microscopic device simulations, allowing us to map the electronic wave function distribution. We conclude that the magnetic proximity effects at the Al/EuS as well as the InAs/EuS interfaces are both essential to achieve topological superconductivity at zero applied magnetic field. Mapping the topological phase diagram as a function of gate voltages and proximity-induced exchange couplings, we show that the ferromagnetic hybrid nanowire with overlapping Al and EuS layers can become a topological superconductor within realistic parameter regimes. Our work highlights the need for a combined experimental and theoretical effort for faithful device simulation.
+
+Authors: C, h, u, n, -, X, i, a, o,  , L, i, u, ,,  , S, e, r, g, e, j,  , S, c, h, u, w, a, l, o, w, ,,  , Y, u,  , L, i, u, ,,  , K, o, s, t, a, s,  , V, i, l, k, e, l, i, s, ,,  , A, .,  , L, .,  , R, .,  , M, a, n, e, s, c, o, ,,  , P, .,  , K, r, o, g, s, t, r, u, p, ,,  , M, i, c, h, a, e, l,  , W, i, m, m, e, r  
 Preprint: [arXiv:](https://arxiv.org/abs/)
 </details>
 
