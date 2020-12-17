@@ -1,4 +1,4 @@
-name: Speakers-Corner-Issue-Validation
+name: Deploy website
 
 on:
   push:
