@@ -14,6 +14,8 @@ The participation is free, but the amount of places is limited, so please [regis
 
 We thank https://mybinder.org, a public service and a volunteer-run open-source project with cloud resources sponsored by Google Cloud, OVH, GESIS Notebooks and the Turing Institute for providing a computational environment for the workshop.
 
+You can run the course notebooks interactively [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.kwant-project.org%2Fkwant%2Fminicourse.git/master?filepath=index.md) or download a [zip archive](https://gitlab.kwant-project.org/kwant/minicourse/builds/artifacts/master/raw/qt_workshop_notebooks.zip?job=prepare%20archive) with notebooks (you'll need Kwant and Jupyter to run them).
+
 ## Tentative schedule
 
 The workshop will take place December 17th, all times are CET.
