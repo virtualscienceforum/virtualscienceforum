@@ -39,22 +39,25 @@ The workshop will take place December 17th, all times are CET.
 
 ## Organizers, speakers, and instructors
 
-- Christoph Groth
-- Xavier Waintal
-- Michael Wimmer
-- Anton Akhmerov
-- Daniel Varjas
-- Thomas Kloss
-- Bas Nijholt
-- Pablo Piskunow
-- Isidora Araya Day
-- Eleni Chatzikyriakou
-- Branislav Nikolic
-- Genevieve Fleury
-- Adel Abbout
-- Adel Kara-Slimane
-- Ousmane Ly
-- Aurelien Manchon
+Christoph Groth
+Xavier Waintal
+Michael Wimmer
+Anton Akhmerov
+Thomas Kloss
+Dániel Varjas
+Bas Nijholt
+Pablo Piskunow
+Genevieve Fleury
+Abbout Adel
+Eleni Chatzikyriakou
+Adel Kara-Slimane
+Isidora Araya Day
+Branislav Nikolic
+Ousmane Ly
+Antonio Lucas Rigotti Manesco
+Michael Barth
+Jacob Fuchs
+Andreas Bereczuk
 
 ## Registration
 
