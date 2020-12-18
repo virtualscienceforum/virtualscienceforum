@@ -2,21 +2,15 @@
 
 ![Kwant workflow](media/kwant-workflow.svg)
 
-In this four-hour workshop we will introduce the basics of quantum transport simulations of mesoscopic devices using the Kwant software package.
+In this four-hour workshop we introduce the basics of quantum transport simulations of mesoscopic devices using the Kwant software package.
 Our entry-level workshop is aimed at active condensed matter physicists who have a basic knowledge of Python.
 We do not expect familiarity with Kwant or quantum transport simulations.
-
-The workshop will begin with a brief introduction of the essential theoretical background, followed by hands-on examples of quantum transport simulations.
-During the ensuing interactive sessions the participants will directly apply what they have learned and receive immediate feedback.
-We will conclude with an overview of advanced topics which will be left for later self-study.
-
-The participation is free, but the amount of places is limited, so please [register](#registration).
 
 We thank https://mybinder.org, a public service and a volunteer-run open-source project with cloud resources sponsored by Google Cloud, OVH, GESIS Notebooks and the Turing Institute for providing a computational environment for the workshop.
 
 You can run the course notebooks interactively [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.kwant-project.org%2Fkwant%2Fminicourse.git/master?filepath=index.md) or download a [zip archive](https://gitlab.kwant-project.org/kwant/minicourse/builds/artifacts/master/raw/qt_workshop_notebooks.zip?job=prepare%20archive) with notebooks (you'll need Kwant and Jupyter to run them).
 
-## Tentative schedule
+## Schedule
 
 The workshop will take place December 17th, all times are CET.
 
@@ -60,9 +54,3 @@ Antonio Lucas Rigotti Manesco
 Michael Barth  
 Jacob Fuchs  
 Andreas Bereczuk
-
-## Registration
-
-If the registration form below does not appear for you, please visit [this Zoom registration link](https://virtualscienceforum-org.zoom.us/meeting/register/tJYtc--vrTsrGNBZ-pzdmVTuMTk8VmPl4obw).
-
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJYtc--vrTsrGNBZ-pzdmVTuMTk8VmPl4obw" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
