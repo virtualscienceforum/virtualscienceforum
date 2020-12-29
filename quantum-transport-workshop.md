@@ -10,28 +10,33 @@ We thank https://mybinder.org, a public service and a volunteer-run open-source 
 
 You can run the course notebooks interactively [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.kwant-project.org%2Fkwant%2Fminicourse.git/master?filepath=index.md) or download a [zip archive](https://gitlab.kwant-project.org/kwant/minicourse/builds/artifacts/master/raw/qt_workshop_notebooks.zip?job=prepare%20archive) with notebooks (you'll need Kwant and Jupyter to run them).
 
-## Schedule
+## Workshop videos
 
-The workshop will take place December 17th, all times are CET.
+### Opening remarks
 
-- 15:00–15:45 Introduction to Kwant and quantum transport
-    - Tight binding Hamiltonian and band structure
-    - Scattering problem, scattering matrix, and conductance
-    - Solving a scattering problem in Kwant
-- 15:45–16:30 Hands-on session
-- 16:25–16:30 Break
-- 16:30–17:15 Advanced concepts
-    - Andreev reflection and superconductivity
-    - Spin transport and topological insulators
-    - Quantum Hall effect
-- 17:15–17:55 Hands-on session
-- 17:55–18:00 Break
-- 18:00–19:00 Advanced topics
-    - 18:00–18:15 Time-dependent transport with TKwant
-    - 18:15–18:30 Automated Symmetry analysis with QSymm
-    - 18:30–18:45 Kernel polynomial method
-    - 18:45–19:00 Parallel evaluation with Adaptive
-- 19:00–19:05 Wrapping up
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pekeiQbuJu8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Basic concepts
+
+Introduction to scattering theory and Kwant.
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BULVn-4B6eo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Advanced concepts
+
+Complex Hamiltonians, symmetries, Andreev reflection.
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fJVddzLcC3A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Time-dependent transport with TKwant
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/urqS4egZLQU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Automated Symmetry analysis with QSymm
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zkxPUb4F-J4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Kernel polynomial method
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KlnSw12NSfE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Parallel evaluation with Adaptive
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/U-oyD1zpHGw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Organizers, speakers, and instructors
 
