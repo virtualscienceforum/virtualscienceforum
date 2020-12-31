@@ -30,15 +30,13 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-| <time datetime="2021-01-21T17:00:00+00:00">January 21 17:00 UTC</time> | First Last 
-Abhishek Kumar | [Floquet Gauge Pump](#floquet-gauge-pump) |
+| <time datetime="2021-01-21T17:00:00+00:00">January 21 17:00 UTC</time> | Abhishek Kumar | [Floquet Gauge Pump](#floquet-gauge-pump) |
 
 ## Upcoming talks
 
 
 ### Floquet Gauge Pump
-#### First Last 
-Abhishek Kumar (Indiana University Bloomington)
+#### Abhishek Kumar (Indiana University Bloomington)
 
 > We introduce the concept of a Floquet gauge pump whereby a dynamically engineered Floquet Hamiltonian is employed to reveal the inherent degeneracy of the ground state in interacting systems. We demonstrate this concept in a one-dimensional XY model with periodically driven couplings and transverse field. In the high frequency limit, we obtain the Floquet Hamiltonian consisting of the static XY and dynamically generated Dzyaloshinsky-Moriya interaction (DMI) terms. The dynamically generated magnetization current depends on the phases of complex coupling terms, with the XY interaction as the real and DMI as the imaginary part. As these phases are cycled, it reveals the ground state degeneracies that distinguish the ordered and disordered phases. We discuss experimental requirements needed to realize the Floquet gauge pump in a synthetic quantum spin system of interacting trapped ions.
 >
