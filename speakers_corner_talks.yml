@@ -22,7 +22,7 @@
     can be used to experimentally determine whether finite-bias effects are the source
     of conductance asymmetries.'
   authors: André Melo, Chun-Xiao Liu, Piotr Rożek, Tómas Örn Rosdahl, Michael Wimmer
-  time: 2020-11-20 16:00:00
+  time: 2020-11-20 16:00:00+00:00
   zoom_meeting_id: 99801126781
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJ0ld-iprD0tEtVlQejUKRQ4BKnpnI59oznF
 - workflow_issue: 175
@@ -44,7 +44,7 @@
     ground state in the high-field, underdoped pseudogap phase of the high-temperature
     cuprate superconductors.
   authors: Joshuah T. Heath
-  time: 2020-11-17 15:00:00
+  time: 2020-11-17 15:00:00+00:00
   zoom_meeting_id: 95027251882
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJEtde6qqzoiEtbaa3LrcRlqtnK5Wsll2HxU
 - workflow_issue: 182
@@ -70,7 +70,7 @@
     be used for solving large graph theoretical problems.
   authors: Hamed Vakili, Mohammad Nazmus Sakib, Samiran Ganguly, Mircea Stan, Matthew
     W. Daniels, Advait Madhavan, Mark D. Stiles, Avik W. Ghosh
-  time: 2020-11-10 18:00:00
+  time: 2020-11-10 18:00:00+00:00
   zoom_meeting_id: 98014954559
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJwtdu2hqz8vH923on-zTrpt5rUMHkwJBIU5
 - workflow_issue: 188
@@ -98,7 +98,7 @@
     electronic states arising from correlated elastic Landau levels.
   authors: Antonio L. R. Manesco, Jose L. Lado, Eduardo V. S. Ribeiro, Gabrielle Weber,
     Durval Rodrigues Jr
-  time: 2020-11-09 15:00:00
+  time: 2020-11-09 15:00:00+00:00
   zoom_meeting_id: 91675395441
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJUrcOyrpz4uHtWrSZ1Gkd9MpOdc4EutAfUQ
 - workflow_issue: 193
@@ -118,7 +118,7 @@
     superconducting circuit technology allows experiments that probe topological properties
     inaccessible in condensed matter systems.'
   authors: Valla Fatemi, Anton R. Akhmerov, Landry Bretheau
-  time: 2020-11-17 17:00:00
+  time: 2020-11-17 17:00:00+00:00
   zoom_meeting_id: 99801589656
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJ0ld-itpjIsH9JnFOxOuQJrc92huqoHJG0W
 - workflow_issue: 213
@@ -145,7 +145,7 @@
     Na Xin, Matthew Holwill, Ciaran Mullan, Minsoo Kim, R. V. Gorbachev, M. D. Thompson,
     J. R. Prance, T. Taniguchi, K. Watanabe, I. V. Grigorieva, K. S. Novoselov, A.
     Mishchenko, V. I. Fal'ko, A. K. Geim, A. I. Berdyugin
-  time: 2020-11-24 16:00:00
+  time: 2020-11-24 16:00:00+00:00
   zoom_meeting_id: 98097009470
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJwtfu6orjIuHdSQ2DDL5NQiW_qLdFvnf7y7
 - workflow_issue: 222
@@ -171,7 +171,7 @@
     of the model. Our approach demonstrates the relevance of statistical arguments
     to Floquet perthermalization of interacting many-body quantum systems.
   authors: Emanuele G. Dalla Torre
-  time: 2020-12-08 10:00:00
+  time: 2020-12-08 10:00:00+00:00
   zoom_meeting_id: 95000279893
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJEtd-mqqTIiE9egO91L0I6fFj58PxUIbuUr
 - workflow_issue: 236
@@ -198,7 +198,7 @@
     may appear in a many-body systems without gauge symmetry breaking, thus introducing
     a family of protected excitations with no single-particle analogs.
   authors: V. Vadimov, T. Hyart, J. L. Lado, M. Möttönen, T. Ala-Nissila
-  time: 2020-12-09 13:00:00
+  time: 2020-12-09 13:00:00+00:00
   zoom_meeting_id: 93921631947
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJckdeiurTojHtNnmELf0AZ5E2ew5bpRI3bv
 - workflow_issue: 235
@@ -224,7 +224,7 @@
     faithful device simulation.
   authors: Chun-Xiao Liu, Sergej Schuwalow, Yu Liu, Kostas Vilkelis, A. L. R. Manesco,
     P. Krogstrup, Michael Wimmer
-  time: 2020-12-15 15:00:00
+  time: 2020-12-15 15:00:00+00:00
   zoom_meeting_id: 97733039114
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJMqdOqorTIrG9AuQtufc5yp3p_s1k8kEPpx
 - workflow_issue: 212
@@ -249,7 +249,7 @@
     a versatile platform in which to study topological phonons and their manipulation
     with light.
   authors: Bo Peng, Yuchen Hu, Shuichi Murakami, Tiantian Zhang, Bartomeu Monserrat
-  time: 2020-12-02 16:00:00
+  time: 2020-12-02 16:00:00+00:00
   zoom_meeting_id: 97837071987
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJMldO6oqTojEtPBMp3WsN7oDRRwswFIpHuz
 - workflow_issue: 240
@@ -276,7 +276,7 @@
     in a similar physical response to the one obtained by strain-engineering.
   authors: Pedro P. Ferreira, Antonio L. R. Manesco, Thiago T. Dorini, Lucas E. Correa,
     Gabrielle Weber, Antonio J. S. Machado, Luiz T. F. Eleno
-  time: 2020-12-10 14:00:00
+  time: 2020-12-10 14:00:00+00:00
   zoom_meeting_id: 96403685300
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJIpd-qupj4pGtQLO8s7mcds4XepejoT31oP
 - workflow_issue: 265
@@ -300,3 +300,5 @@
     ions.
   authors: Abhishek Kumar, Gerardo Ortiz, Philip Richerme, Babak Seradjeh
   time: 2021-01-21 17:00:00+00:00
+  zoom_meeting_id: 91228613146
+  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJUvdeGurzgrHtJE1_tew7WkudEEdBhNV7XB
