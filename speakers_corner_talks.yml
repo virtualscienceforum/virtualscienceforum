@@ -2,7 +2,6 @@
   speaker_name: André Melo
   speaker_affiliation: Kavli Institute of Nanoscience, Delft University of Technology
   event_type: speakers_corner
-  email: am@andremelo.org
   preprint: '2008.01734'
   title: Conductance asymmetries in mesoscopic superconducting devices due to finite
     bias
@@ -23,12 +22,11 @@
     of conductance asymmetries.'
   authors: André Melo, Chun-Xiao Liu, Piotr Rożek, Tómas Örn Rosdahl, Michael Wimmer
   time: 2020-11-20 16:00:00+00:00
-  youtube_id: '94mErfLKY9M'
+  youtube_id: 94mErfLKY9M
 - workflow_issue: 175
   speaker_name: Joshuah T. Heath
   speaker_affiliation: Boston College
   event_type: speakers_corner
-  email: heathjo@bc.edu
   preprint: '2001.08230'
   title: Landau Quasiparticles in Weak Power-Law Liquids
   abstract: The failure of Landau-Fermi liquid theory is often considered a telltale
@@ -44,12 +42,11 @@
     cuprate superconductors.
   authors: Joshuah T. Heath
   time: 2020-11-17 15:00:00+00:00
-  youtube_id: 'pbwPtm13SLw'
+  youtube_id: pbwPtm13SLw
 - workflow_issue: 182
   speaker_name: Hamed Vakili
   speaker_affiliation: Dept. of Physics University of Virginia
   event_type: speakers_corner
-  email: hv8rf@virginia.edu
   preprint: '2005.10704'
   title: Using skyrmionic racetracks for unconventional computing
   abstract: Skyrmions are topological excitations in thin magnetic films with broken
@@ -69,13 +66,11 @@
   authors: Hamed Vakili, Mohammad Nazmus Sakib, Samiran Ganguly, Mircea Stan, Matthew
     W. Daniels, Advait Madhavan, Mark D. Stiles, Avik W. Ghosh
   time: 2020-11-10 18:00:00+00:00
-  zoom_meeting_id: 98014954559
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJwtdu2hqz8vH923on-zTrpt5rUMHkwJBIU5
+  youtube_id: x4EgpTlYVjU
 - workflow_issue: 188
   speaker_name: Antonio Manesco
   speaker_affiliation: University of São Paulo
   event_type: speakers_corner
-  email: antoniolrm@usp.br
   preprint: '2003.05163'
   title: Correlations in the elastic Landau level of spontaneously buckled graphene
   abstract: Electronic correlations stemming from nearly flat bands in van der Waals
@@ -97,13 +92,11 @@
   authors: Antonio L. R. Manesco, Jose L. Lado, Eduardo V. S. Ribeiro, Gabrielle Weber,
     Durval Rodrigues Jr
   time: 2020-11-09 15:00:00+00:00
-  zoom_meeting_id: 91675395441
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJUrcOyrpz4uHtWrSZ1Gkd9MpOdc4EutAfUQ
+  youtube_id: xNxuybvuuHk
 - workflow_issue: 193
   speaker_name: Valla Fatemi
   speaker_affiliation: Yale University
   event_type: speakers_corner
-  email: valla.fatemi@yale.edu
   preprint: '2008.13758'
   title: Topological Band Structures in the Offset-Parameter-Dependence of Small Josephson
     Circuits
@@ -117,8 +110,7 @@
     inaccessible in condensed matter systems.'
   authors: Valla Fatemi, Anton R. Akhmerov, Landry Bretheau
   time: 2020-11-17 17:00:00+00:00
-  zoom_meeting_id: 99801589656
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJ0ld-itpjIsH9JnFOxOuQJrc92huqoHJG0W
+  youtube_id: qRTu3RsjQeI
 - workflow_issue: 213
   speaker_name: Julien Barrier
   speaker_affiliation: The University of Manchester, U.K.
@@ -278,7 +270,7 @@
   zoom_meeting_id: 96403685300
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJIpd-qupj4pGtQLO8s7mcds4XepejoT31oP
 - workflow_issue: 265
-  speaker_name: "Abhishek Kumar"
+  speaker_name: Abhishek Kumar
   speaker_affiliation: Indiana University Bloomington
   event_type: speakers_corner
   email: ak24@iu.edu
