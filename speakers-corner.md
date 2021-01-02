@@ -151,7 +151,7 @@ Preprint: [arXiv:](https://arxiv.org/abs/)
 </details>
 
 
-*Video in preparation*
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/em5sUFs3sdk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -168,7 +168,7 @@ Preprint: [arXiv:](https://arxiv.org/abs/)
 </details>
 
 
-*Video in preparation*
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3jGIotOY1XI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -185,7 +185,7 @@ Preprint: [arXiv:](https://arxiv.org/abs/)
 </details>
 
 
-*Video in preparation*
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zmGev1YYEmE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -202,7 +202,7 @@ Preprint: [arXiv:](https://arxiv.org/abs/)
 </details>
 
 
-*Video in preparation*
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VicqHwx09DY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -219,7 +219,7 @@ Preprint: [arXiv:](https://arxiv.org/abs/)
 </details>
 
 
-*Video in preparation*
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1ZCcnwqFZsM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

@@ -115,7 +115,6 @@
   speaker_name: Julien Barrier
   speaker_affiliation: The University of Manchester, U.K.
   event_type: speakers_corner
-  email: julien.barrier@manchester.ac.uk
   preprint: '2006.15040'
   title: Long-range ballistic transport of Brown-Zak fermions in graphene superlattices
   abstract: In quantizing magnetic fields, graphene superlattices exhibit a complex
@@ -136,13 +135,11 @@
     J. R. Prance, T. Taniguchi, K. Watanabe, I. V. Grigorieva, K. S. Novoselov, A.
     Mishchenko, V. I. Fal'ko, A. K. Geim, A. I. Berdyugin
   time: 2020-11-24 16:00:00+00:00
-  zoom_meeting_id: 98097009470
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJwtfu6orjIuHdSQ2DDL5NQiW_qLdFvnf7y7
+  youtube_id: em5sUFs3sdk
 - workflow_issue: 222
   speaker_name: Dalla Torre Emanuele
   speaker_affiliation: Bar-Ilan University
   event_type: speakers_corner
-  email: emanuele.dalla-torre@biu.ac.il
   preprint: '2005.07207'
   title: Statistical Floquet prethermalization from kicked rotors to the Bose-Hubbard
     model
@@ -162,13 +159,11 @@
     to Floquet perthermalization of interacting many-body quantum systems.
   authors: Emanuele G. Dalla Torre
   time: 2020-12-08 10:00:00+00:00
-  zoom_meeting_id: 95000279893
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJEtd-mqqTIiE9egO91L0I6fFj58PxUIbuUr
+  youtube_id: zmGev1YYEmE
 - workflow_issue: 236
   speaker_name: Vasilii Vadimov
   speaker_affiliation: QCD Labs, Department of Applied Physics, Aalto University
   event_type: speakers_corner
-  email: vasilii.1.vadimov@aalto.fi
   preprint: '2011.06552'
   title: Many-body Majorana-like zero modes without gauge symmetry breaking
   abstract: Topological superconductors represent one of the key hosts of Majorana-based
@@ -189,8 +184,7 @@
     a family of protected excitations with no single-particle analogs.
   authors: V. Vadimov, T. Hyart, J. L. Lado, M. Möttönen, T. Ala-Nissila
   time: 2020-12-09 13:00:00+00:00
-  zoom_meeting_id: 93921631947
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJckdeiurTojHtNnmELf0AZ5E2ew5bpRI3bv
+  youtube_id: VicqHwx09DY
 - workflow_issue: 235
   speaker_name: Chun-Xiao Liu
   speaker_affiliation: Delft University of Technology, the Netherlands
@@ -221,7 +215,6 @@
   speaker_name: Bo Peng
   speaker_affiliation: Cavendish Laboratory, University of Cambridge
   event_type: speakers_corner
-  email: bp432@cam.ac.uk
   preprint: 10.17863/CAM.57482
   title: Topological phonons in oxide perovskites controlled by light
   abstract: Perovskite oxides exhibit a rich variety of structural phases hosting
@@ -240,13 +233,11 @@
     with light.
   authors: Bo Peng, Yuchen Hu, Shuichi Murakami, Tiantian Zhang, Bartomeu Monserrat
   time: 2020-12-02 16:00:00+00:00
-  zoom_meeting_id: 97837071987
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJMldO6oqTojEtPBMp3WsN7oDRRwswFIpHuz
+  youtube_id: 3jGIotOY1XI
 - workflow_issue: 240
   speaker_name: Antonio Manesco
   speaker_affiliation: University of São Paulo
   event_type: speakers_corner
-  email: antoniolrm@usp.br
   preprint: '2006.14071'
   title: Strain-engineering the topological type-II Dirac semimetal NiTe2
   abstract: In this work, the electronic and elastic properties of the type-II Dirac
@@ -267,8 +258,7 @@
   authors: Pedro P. Ferreira, Antonio L. R. Manesco, Thiago T. Dorini, Lucas E. Correa,
     Gabrielle Weber, Antonio J. S. Machado, Luiz T. F. Eleno
   time: 2020-12-10 14:00:00+00:00
-  zoom_meeting_id: 96403685300
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJIpd-qupj4pGtQLO8s7mcds4XepejoT31oP
+  youtube_id: 1ZCcnwqFZsM
 - workflow_issue: 265
   speaker_name: Abhishek Kumar
   speaker_affiliation: Indiana University Bloomington
