@@ -6,26 +6,25 @@ on:
 
 jobs:
   validate-issue:
-    name: Add a SC talk to the listing
+    name: Publish the talk video
     # Only run if:
     # - Posted in the speakers' corner issue
     # - By the issue creator
     # - Matches the response pattern
-    if: >
-      ${{
-        contains(github.event.issue.labels.*.name, 'application') 
-        && contains(github.event.issue.labels.*.name, 'approved')
-        && github.event.sender.login == github.event.issue.creator
-        && contains(github.event.body, 'approve publication')
-      }}
+    if: |
+      contains(github.event.issue.labels.*.name, 'application') 
+      && contains(github.event.issue.labels.*.name, 'approved')
+      && github.event.sender.login == github.event.issue.creator
+      && contains(github.event.body, 'approve publication')
     # Set the type of machine to run on
     runs-on: ubuntu-latest
     
     steps :
 
-      - name: Schedule Zoom Talk
+      - name: Trigger automation repository
         uses: peter-evans/repository-dispatch@v1
         with:
           token: ${{ secrets.VSF_BOT_TOKEN }}
           repository: virtualscienceforum/automation
           event-type: publish-youtube-video
+          client-payload: ${{ github.event.issue.number }}
