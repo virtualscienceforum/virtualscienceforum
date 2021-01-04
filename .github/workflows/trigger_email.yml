@@ -1,4 +1,4 @@
-name: Add a new Speakers' corner talk
+name: Send email
 
 on:
   issues:
