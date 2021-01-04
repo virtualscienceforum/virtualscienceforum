@@ -27,4 +27,4 @@ jobs:
           token: ${{ secrets.VSF_BOT_TOKEN }}
           repository: virtualscienceforum/automation
           event-type: publish-youtube-video
-          client-payload: ${{ github.event.issue.number }}
+          client-payload: '{"issue": "${{ github.event.issue.number }}"}'
