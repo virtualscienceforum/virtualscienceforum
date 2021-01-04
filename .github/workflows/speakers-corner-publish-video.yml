@@ -15,7 +15,7 @@ jobs:
       contains(github.event.issue.labels.*.name, 'application') 
       && contains(github.event.issue.labels.*.name, 'approved')
       && github.event.sender.login == github.event.issue.creator
-      && contains(github.event.body, 'approve publication')
+      && contains(github.event.comment.body, 'approve publication')
     # Set the type of machine to run on
     runs-on: ubuntu-latest
     
