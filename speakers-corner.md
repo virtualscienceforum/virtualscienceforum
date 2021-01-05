@@ -31,6 +31,7 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
 | <time datetime="2021-01-21T17:00:00+00:00">January 21 17:00 UTC</time> | Abhishek Kumar | [Floquet Gauge Pump](#floquet-gauge-pump) |
+| <time datetime="2021-01-28T17:00:00+00:00">January 28 17:00 UTC</time> | Kostas Vilkelis | [Bloch-Lorentz magnetoresistance oscillations in delafossites](#bloch-lorentz-magnetoresistance-oscillations-in-delafossites) |
 
 ## Upcoming talks
 
@@ -47,6 +48,16 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJUvdeGurzgrHtJE1_tew7WkudEEdBhNV7XB)
 
 <iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJUvdeGurzgrHtJE1_tew7WkudEEdBhNV7XB" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
+
+### Bloch-Lorentz magnetoresistance oscillations in delafossites
+#### Kostas Vilkelis (Qutech, Delft University of Technology, Delft 2600 GA, The Netherlands)
+
+> Recent measurements of the out-of-plane magnetoresistance of delafossites (PdCoO$_2$ and PtCoO$_2$) observed oscillations which closely resemble the Aharanov-Bohm effect. We develop a semiclassical theory of these oscillations and show that they are a consequence of the quasi-2D dispersion of delafossites. We observe that the Lorentz force created by an in-plane magnetic field makes the out-of-plane motion of electrons oscillatory, similarly to Bloch oscillations. Analysis of the visibility of these Bloch-Lorentz oscillations reveals the mean-free path to be $l \approx 4.4 \mu m$ in comparison to the literature in-plane mean free path of $20 \mu m$. The mean-free path is reduced as a consequence of the out-of-plane relaxation and sample wall scattering. Our theory offers a way to design an experimental geometry that is better suited for probing the phenomenon and to investigate the out-of-plane dynamics of ballistic quasi-two-dimensional materials.
+>
+> **Authors:** Kostas Vilkelis, Lin Wang, Anton Akhmerov  
+> **Preprint:** [arXiv:2012.08552](https://arxiv.org/abs/2012.08552)
+
 
 
 
