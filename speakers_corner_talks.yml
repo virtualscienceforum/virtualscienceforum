@@ -284,8 +284,7 @@
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJUvdeGurzgrHtJE1_tew7WkudEEdBhNV7XB
 - workflow_issue: 272
   speaker_name: Kostas Vilkelis
-  speaker_affiliation: Qutech, Delft University of Technology, Delft 2600 GA, The
-    Netherlands
+  speaker_affiliation: Qutech, Delft University of Technology
   event_type: speakers_corner
   email: K.Vilkelis-1@tudelft.nl
   preprint: '2012.08552'
