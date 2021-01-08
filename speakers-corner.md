@@ -51,7 +51,7 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 
 
 ### Bloch-Lorentz magnetoresistance oscillations in delafossites
-#### Kostas Vilkelis (Qutech, Delft University of Technology, Delft 2600 GA, The Netherlands)
+#### Kostas Vilkelis (Qutech, Delft University of Technology)
 
 > Recent measurements of the out-of-plane magnetoresistance of delafossites (PdCoO$_2$ and PtCoO$_2$) observed oscillations which closely resemble the Aharanov-Bohm effect. We develop a semiclassical theory of these oscillations and show that they are a consequence of the quasi-2D dispersion of delafossites. We observe that the Lorentz force created by an in-plane magnetic field makes the out-of-plane motion of electrons oscillatory, similarly to Bloch oscillations. Analysis of the visibility of these Bloch-Lorentz oscillations reveals the mean-free path to be $l \approx 4.4 \mu m$ in comparison to the literature in-plane mean free path of $20 \mu m$. The mean-free path is reduced as a consequence of the out-of-plane relaxation and sample wall scattering. Our theory offers a way to design an experimental geometry that is better suited for probing the phenomenon and to investigate the out-of-plane dynamics of ballistic quasi-two-dimensional materials.
 >
