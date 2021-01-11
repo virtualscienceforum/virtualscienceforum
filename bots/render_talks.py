@@ -18,8 +18,8 @@ header = Path("../speakers-corner-header.md").read_text()
 
 for talk in talks:
     talk['time'] = talk['time'].replace(tzinfo=pytz.UTC)
-    if re.fullmatch(r"\d{4}\.\d{5}", talk["preprint"]) is None:
-        talk.pop("preprint")
+    if re.fullmatch(r"\d{4}\.\d{5}", talk.get("preprint", "")) is None:
+        talk.pop("preprint", "")
 
 Path('../speakers-corner.md').write_text(
     env.get_template('speakers_corner.md.j2').render(
