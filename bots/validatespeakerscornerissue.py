@@ -120,7 +120,7 @@ def update_from_arxiv(submission):
         return "I updated " + ", ".join(updated_entries)
 
 
-def parse_issue(issue_body):
+def parse_issue(issue_body, questions):
     # Remove html comments.
     issue_body = re.sub(r'<!--.*?-->', '', issue_body, flags=re.DOTALL)
 
@@ -160,7 +160,7 @@ def parse_issue(issue_body):
 
 def validate_issue(issue_body):
     try:
-        submission = parse_issue(issue_body)
+        submission = parse_issue(issue_body, questions)
     except ValueError as e:
         msg = e.args[0]
         if "Missing questions" in msg or "Extra sections" in msg:

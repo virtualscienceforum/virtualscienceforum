@@ -3,6 +3,7 @@ import re
 from copy import deepcopy
 from pathlib import Path
 from io import StringIO
+import datetime
 
 from dateutil.parser import parse, ParserError
 import github
@@ -19,7 +20,8 @@ def add_talk(gh, issue_number):
     repo = gh.get_repo("virtualscienceforum/virtualscienceforum")
     issue = repo.get_issue(number=issue_number)
 
-    event_type = next(
+    # Only one of the talk type labels must be present.
+    event_type, = (
         name for name in EVENT_TYPES
         if any(l.name == name for l in issue.labels)
     )
@@ -27,29 +29,48 @@ def add_talk(gh, issue_number):
     talks_data = repo.get_contents(TALKS_FILE, ref="master")
     talks = yaml.load(StringIO(talks_data.decoded_content.decode()))
 
-    if any(talk.get('workflow_issue') == issue_number for talk in talks):
-        issue.create_comment("Not adding a talk; already in the list.")
-        return
+    if event_type == "speakers_corner":
+        if any(talk.get('workflow_issue') == issue_number for talk in talks):
+            issue.create_comment("The talk is already scheduled, cannot update.")
+            return
 
-    try:
-        submission = validatespeakerscornerissue.parse_issue(issue.body)
-    except ValueError:
-        issue.create_comment("Could not process issue, data is invalid.")
-        return
+        try:
+            submission = validatespeakerscornerissue.parse_issue(issue.body, questions)
+        except ValueError:
+            issue.create_comment("Could not process issue, data is invalid.")
+            return
 
-    try:
-        submission['time'] = parse(submission['time'])
-    except ParserError:
-        issue.create_comment("Could not determine the talk date")
-        return
+        try:
+            submission['time'] = parse(submission['time'])
+        except ParserError:
+            issue.create_comment("Could not determine the talk date")
+            return
 
-    submission.pop('notes')
-    submission.pop('confirmation')
+        submission.pop('notes')
+        submission.pop('confirmation')
+
+        response = Path("../templates/talk_registered.md").read_text()
+
+    elif event_type == "lrc":
+        with open('lrc_questions.yml') as f:
+            questions = yaml.load(f)
+
+        try:
+            submission = validatespeakerscornerissue.parse_issue(issue.body, questions)
+        except ValueError:
+            issue.create_comment("Could not process issue, data is invalid.")
+            return
+
+        submission['time'] = (
+            parse(submission['time'])
+            .replace(hour=18, minute=30, tzinfo=datetime.timezone.utc)
+        )
+        submission.pop("checlist")
+
+        response = "I added/updated the talk!"
 
     talks.append(dict(
         workflow_issue=issue_number,
-        speaker_name=submission.pop("name"),
-        speaker_affiliation=submission.pop("affiliation"),
         event_type=event_type,
         **submission,
     ))
@@ -70,7 +91,7 @@ def add_talk(gh, issue_number):
             branch='master'
         )
     # Respond with instructions
-    issue.create_comment(Path("../templates/talk_registered.md").read_text())
+    issue.create_comment(response)
 
 if __name__ == "__main__":
     issue_number = int(os.getenv("ISSUE_NUMBER"))
