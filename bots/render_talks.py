@@ -7,7 +7,7 @@ import pytz
 from ruamel.yaml import YAML
 
 yaml = YAML(typ='safe')
-with open('../speakers_corner_talks.yml') as f:
+with open('../talks.yml') as f:
     talks = yaml.load(f)
 
 env = jinja2.Environment(

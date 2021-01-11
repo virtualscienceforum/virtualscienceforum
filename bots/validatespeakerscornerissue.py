@@ -68,7 +68,7 @@ def check_date(timeslot):
     if scheduled_time.minute or scheduled_time.second:
         return "We only schedule talks at the beginning of the hour."
 
-    with open(Path("../speakers_corner_talks.yml")) as f:
+    with open(Path("../talks.yml")) as f:
         other_times = {
             talk["time"].replace(tzinfo=pytz.UTC) for talk in yaml.load(f)
         }

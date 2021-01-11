@@ -12,7 +12,7 @@ import jinja2
 import validatespeakerscornerissue
 
 yaml = YAML()
-TALKS_FILE = "speakers_corner_talks.yml"
+TALKS_FILE = "talks.yml"
 
 def add_talk(gh, issue_number):
     repo = gh.get_repo("virtualscienceforum/virtualscienceforum")
