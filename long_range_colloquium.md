@@ -21,12 +21,20 @@ Attendance is open to everyone, but please register to attend!
 > A striking prediction of the quantum theory of solids is that Bloch electrons in the presence of a constant electric field oscillate at a frequency tunable by the field and taking identical values for all carriers in the band. As a paradigmatic example of collective electron dynamics, Bloch oscillations received much attention, and yet, achieving this regime in solids proved to be challenging. This talk will discuss the new ideas and a new hope triggered by the advent of van der Waals heterostructures, in particular the flat bands in Moire graphene. There are several interesting not-yet-explored regimes harbored by these systems. One is synchronous oscillations of “enlightened” electrons coupled to “the big power in the sky” (the EM field of a proximal resonator)—a collective many-body dynamics that holds promise for THz electronics. Another is magnetic Bloch oscillations achieved by combining constant electric and magnetic fields. The unique dynamical regimes arising in this case are described by the Ashcroft-Mermin (AM) Hamiltonian. We will demonstrate that the AM dynamics is integrable and identify two distinct phases, electric and magnetic, exhibiting position-momentum duality—the orbits extended in the $k$ space and confined in the $x$ space, and vice versa. The boundary between the electric and magnetic phases hosts an interesting and presently poorly understood chaotic dynamical phase. The two phases—electric and magnetic—are of keen interest both as examples of complex quantum dynamics arising in a simple setting and because of their relevance for THz research.
 
 
+If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJUpd-GgrDMtG9GonekDRLoqsodPxok4C-Az)
+
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJUpd-GgrDMtG9GonekDRLoqsodPxok4C-Az" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
 
 ### Andrea Young (UCSB)
 #### *TBA*
 
 > *TBA*
 
+
+If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJIsc-ysrj4rE9wn88j7ECWGmVNLhd6TBoyh)
+
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJIsc-ysrj4rE9wn88j7ECWGmVNLhd6TBoyh" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
 
