@@ -12,7 +12,7 @@ jobs:
       contains(github.event.issue.labels.*.name, 'speakers_corner')
       || contains(github.event.issue.labels.*.name, 'lrc')
       && contains(github.event.issue.labels.*.name, 'approved')
-      && github.event.issue.state == "open"
+      && github.event.issue.state == 'open'
       && github.event.sender.login != 'vsf-bot'
 
     runs-on: ubuntu-latest
