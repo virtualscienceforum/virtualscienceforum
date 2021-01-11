@@ -331,6 +331,8 @@
     keen interest both as examples of complex quantum dynamics arising in a simple
     setting and because of their relevance for THz research.
   time: 2021-01-20 18:30:00+00:00
+  zoom_meeting_id: 91408828715
+  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJUpd-GgrDMtG9GonekDRLoqsodPxok4C-Az
 - workflow_issue: 279
   event_type: lrc
   speaker_name: Andrea Young
@@ -338,6 +340,8 @@
   title: '*TBA*'
   abstract: '*TBA*'
   time: 2021-02-03 18:30:00+00:00
+  zoom_meeting_id: 96145405198
+  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJIsc-ysrj4rE9wn88j7ECWGmVNLhd6TBoyh
 - workflow_issue: 280
   event_type: lrc
   speaker_name: Xie Chen
@@ -345,3 +349,5 @@
   title: '*TBA*'
   abstract: '*TBA*'
   time: 2020-02-17 18:30:00+00:00
+  zoom_meeting_id: 96291795085
+  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJIvfuivpz4qEtGr_06WozbpEi35NPe1s7nW
