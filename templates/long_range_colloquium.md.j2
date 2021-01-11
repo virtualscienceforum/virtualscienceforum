@@ -1,0 +1,56 @@
+{%- import "base.md.j2" as base -%}
+
+# Long Range Colloquium
+
+We provide a venue for seminars about latest developments in condensed matter physics and quantum information.
+
+The colloquium runs every other Wednesday at 1:30 PM ET (19:30 CEST) timezone.
+Attendance is open to everyone, but please register to attend!
+
+## Program
+
+|   Date   |     Speaker    | Title |
+|:---------:|:--------------:|:-----:|
+{%- for talk in talks | sort(attribute="time") if talk.time > now %}
+| {{ talk.time.strftime("%B %-d") }} | {{ talk.speaker_name }} | [{{ talk.title }}](#{{ talk.title.replace(" ", "-") | lower }}) |
+{%- endfor %}
+
+## Upcoming talks
+
+{% for talk in talks | sort(attribute="time") if talk.time > now %}
+### {{ talk.speaker_name }} ({{ talk.speaker_affiliation }})
+#### {{ talk.title }}
+
+{% for line in talk.abstract.split("\n") -%}
+> {{ line }}
+{%- endfor %}
+
+{% if talk.registration_url %}
+If the form below doesn't work, [register directly]({{ talk.registration_url }})
+
+<iframe width="100%" height="940" src="{{ talk.registration_url }}" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+{% endif %}
+{% endfor %}
+
+## Recordings
+
+{% for talk in talks | sort(attribute="time") if talk.time < now %}
+
+### {{ talk.title }}
+#### {{ talk.speaker_name }}, {{ talk.affiliation }}
+
+<details><summary>abstract</summary>
+
+{{talk.abstract}}
+
+Authors: {{ talk.authors }}  
+Preprint: [arXiv:{{ talk.arxiv }}](https://arxiv.org/abs/{{ talk.arxiv }})
+</details>
+
+{% if talk.youtube_id %}
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{ talk.youtube_id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% else %}
+*Video in preparation*
+{% endif %}
+
+{% endfor %}
