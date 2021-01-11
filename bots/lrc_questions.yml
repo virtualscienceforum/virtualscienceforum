@@ -1,0 +1,33 @@
+speaker_name:
+  name: "Speaker name"
+  text: ""
+speaker_affiliation:
+  name: "Speaker affiliation"
+  text: ""
+  comment: ""
+title:
+  name: "Title"
+  text: "*TBA*"
+  comment: ""
+abstract:
+  name: "Abstract"
+  text: "*TBA*"
+  comment: ""
+time:
+  name: "Date"
+  text: "YYYY-MM-DD"
+  comment: ""
+confirmation:
+  name: "Checklist"
+  text: |
+    - [ ] update the [researchseminars.org](https://researchseminars.org/seminar/VSFLRC) listing (need to get link or ask Babak)
+    - [ ] Check if the speaker wants to join earlier for an informal chat
+      - [ ] Check if they do
+    - [ ] email announcement to all who signed up for updates (-2 weeks)
+    - [ ] twitter announcement (-2 weeks)
+    - [ ] reminder twitter announcement (-2 days)
+    - [ ] assign the roles (moderator/backup) (-2 days)
+    - [ ] Email the speaker their login link (access it via Zoom UI)
+    - [ ] A reminder email (-4 hours)
+    - [ ] Relay to the speaker the video link and request approval of the recording publication.
+    - [ ] respond with "the speaker approves publishing the recording. start HH:MM:SS, end HH:MM:SS"
