@@ -1,6 +1,6 @@
 * [Home](/)
 * Current and planned events
-    <!-- * [Long Range Colloquium](long_range_colloquium.md) -->
+    * [Long Range Colloquium](long_range_colloquium.md)
     * [Speakers' Corner](speakers-corner.md)
     <!-- * [Workshop: Quantum Oscillations in insulators](quantum-oscillations-insulators.md) -->
 * [Call for organizers](announcement.md)

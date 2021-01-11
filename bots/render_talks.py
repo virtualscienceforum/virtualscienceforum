@@ -28,3 +28,11 @@ Path('../speakers-corner.md').write_text(
         now=datetime.now(tz=pytz.UTC)
     )
 )
+
+Path('../long_range_colloquium.md').write_text(
+    env.get_template('long_range_colloquium.md.j2').render(
+        header=header,
+        talks=[talk for talk in talks if talk['event_type'] == 'lrc'],
+        now=datetime.now(tz=pytz.UTC)
+    )
+)

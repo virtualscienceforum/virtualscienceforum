@@ -11,7 +11,7 @@ We are grateful to the [Kavli Institute of Nanoscience Delft](http://kavli.tudel
 ![](media/kavli_logo.jpg ':size=200')
 
 [Join in](#welcome)
-<!-- [Long Range Colloquium](long_range_colloquium.md) -->
+[Long Range Colloquium](long_range_colloquium.md)
 [Speakers' Corner](speakers-corner.md)
 <!-- [Workshop: Quantum Oscillations in insulators](quantum-oscillations-insulators.md) -->
 
