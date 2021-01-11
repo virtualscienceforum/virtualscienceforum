@@ -17,7 +17,7 @@ time:
   name: "Date"
   text: "YYYY-MM-DD"
   comment: ""
-confirmation:
+checklist:
   name: "Checklist"
   text: |
     - [ ] update the [researchseminars.org](https://researchseminars.org/seminar/VSFLRC) listing (need to get link or ask Babak)
