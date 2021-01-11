@@ -13,10 +13,16 @@ import validatespeakerscornerissue
 
 yaml = YAML()
 TALKS_FILE = "talks.yml"
+EVENT_TYPES = ["speakers_corner", "lrc"]
 
 def add_talk(gh, issue_number):
     repo = gh.get_repo("virtualscienceforum/virtualscienceforum")
     issue = repo.get_issue(number=issue_number)
+
+    event_type = next(
+        name for name in EVENT_TYPES
+        if any(l.name == name for l in issue.labels)
+    )
 
     talks_data = repo.get_contents(TALKS_FILE, ref="master")
     talks = yaml.load(StringIO(talks_data.decoded_content.decode()))
@@ -30,7 +36,7 @@ def add_talk(gh, issue_number):
     except ValueError:
         issue.create_comment("Could not process issue, data is invalid.")
         return
-    
+
     try:
         submission['time'] = parse(submission['time'])
     except ParserError:
@@ -44,7 +50,7 @@ def add_talk(gh, issue_number):
         workflow_issue=issue_number,
         speaker_name=submission.pop("name"),
         speaker_affiliation=submission.pop("affiliation"),
-        event_type="speakers_corner",
+        event_type=event_type,
         **submission,
     ))
     serialized = StringIO()

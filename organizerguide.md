@@ -34,7 +34,7 @@ Here is a short summary of all the steps you will need to take
 
 #### Application form
 
-Apply via a github issue [here](https://github.com/virtualscienceforum/virtualscienceforum/issues/new?assignees=&labels=application&template=application.md&title=Please+specify+the+session+title) (requires a github.com account).
+Apply via a github issue [here](https://github.com/virtualscienceforum/virtualscienceforum/issues/new?assignees=&labels=session&template=application.md&title=Please+specify+the+session+title) (requires a github.com account).
 
 ## Detailed instructions
 
