@@ -22,7 +22,7 @@ jobs:
     
     steps :
 
-      - name: Trigger automation repository
+      - name: Trigger video publication
         uses: peter-evans/repository-dispatch@v1
         with:
           token: ${{ secrets.VSF_BOT_TOKEN }}
