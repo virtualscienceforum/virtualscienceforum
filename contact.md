@@ -4,4 +4,4 @@ We organize the development via the [github repository](https://github.com/virtu
 
 To keep up with the announcements, follow us on Twitter: [@VirtualSciForum](https://twitter.com/VirtualSciForum)
 
-If you are interested in hosting your own virtual conference, please see our [organizer guide](https://virtualscienceforum.org/#/organizerguide) and submit an [application](https://github.com/virtualscienceforum/virtualscienceforum/issues/new?assignees=&labels=application&template=application.md&title=Please+specify+the+session+title)
+If you are interested in hosting your own virtual conference, please see our [organizer guide](https://virtualscienceforum.org/#/organizerguide) and submit an [application](https://github.com/virtualscienceforum/virtualscienceforum/issues/new?assignees=&labels=session&template=application.md&title=Please+specify+the+session+title)
