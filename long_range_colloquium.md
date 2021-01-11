@@ -11,6 +11,7 @@ Attendance is open to everyone, but please register to attend!
 |:---------:|:--------------:|:-----:|
 | January 20 | Leonid Levitov | [‌Electrons Bloch-waltzing in Moire superlattices](#‌electrons-bloch-waltzing-in-moire-superlattices) |
 | February 3 | Andrea Young | [*TBA*](#*tba*) |
+| February 17 | Xie Chen | [*TBA*](#*tba*) |
 
 ## Upcoming talks
 
@@ -35,6 +36,13 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJIsc-ysrj4rE9wn88j7ECWGmVNLhd6TBoyh)
 
 <iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJIsc-ysrj4rE9wn88j7ECWGmVNLhd6TBoyh" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
+
+### Xie Chen (Caltech)
+#### *TBA*
+
+> *TBA*
+
 
 
 
