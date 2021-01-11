@@ -65,7 +65,7 @@ def add_talk(gh, issue_number):
             parse(submission['time'])
             .replace(hour=18, minute=30, tzinfo=datetime.timezone.utc)
         )
-        submission.pop("checlist")
+        submission.pop("checklist")
 
         response = "I added/updated the talk!"
 
