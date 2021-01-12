@@ -6,7 +6,7 @@ on:
 
 jobs:
   validate-issue:
-    name: Add a SC talk to the listing
+    name: Add a talk to the listing
     # Only run if approved
     if: |
       contains(github.event.issue.labels.*.name, 'speakers_corner')
@@ -16,18 +16,18 @@ jobs:
       && github.event.sender.login != 'vsf-bot'
 
     runs-on: ubuntu-latest
-    
+
     steps :
       - name: Checkout code
         uses: actions/checkout@v2
-        
+
       - name: Set up Python 3.8
         uses: actions/setup-python@v2
         with:
           python-version: 3.8
-        
+
       - name: Install dependencies
-        
+
         run: |
           python -m pip install --upgrade pip
           pip install -r bots/requirements.txt
@@ -38,7 +38,7 @@ jobs:
         env:
           VSF_BOT_TOKEN: ${{ secrets.VSF_BOT_TOKEN }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
-          
+
       - name: Schedule Zoom Talk
         uses: peter-evans/repository-dispatch@v1
         with:

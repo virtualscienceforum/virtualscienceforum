@@ -6,7 +6,7 @@ on:
 
 jobs:
   validate-issue:
-    name: Add a SC talk to the listing
+    name: Send email from issue
     # Only run if approved application
     if: ${{ contains(github.event.issue.labels.*.name, 'email') && contains(github.event.issue.labels.*.name, 'approved') }}
     # Set the type of machine to run on
