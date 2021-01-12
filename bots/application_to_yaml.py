@@ -1,9 +1,9 @@
 import os
 import re
-from copy import deepcopy
 from pathlib import Path
 from io import StringIO
 import datetime
+import logging
 
 from dateutil.parser import parse, ParserError
 import github
@@ -35,7 +35,10 @@ def add_talk(gh, issue_number):
             return
 
         try:
-            submission = validatespeakerscornerissue.parse_issue(issue.body, questions)
+            submission = validatespeakerscornerissue.parse_issue(
+                issue.body,
+                questions=validatespeakerscornerissue.questions
+            )
         except ValueError:
             issue.create_comment("Could not process issue, data is invalid.")
             return
@@ -69,39 +72,42 @@ def add_talk(gh, issue_number):
 
         response = "I added/updated the talk!"
 
+    current = next(
+        (talk for talk in talks if talk["worflow_issue"] == issue_number),
+        {}
+    )
+    new = {
+        **current,
+        **submission,
+        "workflow_issue": issue_number,
+        "event_type": event_type,
+    }
+    if current == new:
+        logging.info("No updates → nothing to do.")
+        return
+
     # If there is already a talk with this data, we should overwrite.
-    talks.append({
-        **next(
-            (talk for talk in talks if talk["worflow_issue"] == issue_number),
-            {}
-        ),
-        **dict(
-            workflow_issue=issue_number,
-            event_type=event_type,
-            **submission,
-        )
-    })
+    talks = [
+        (new if talk["workflow_issue"] == issue_number else talk)
+        for talk in talks
+    ]
 
     serialized = StringIO()
     yaml.dump(talks, serialized)
 
-    if talks_data is not None:
-        repo.update_file(
-            TALKS_FILE, f"Add a talk from #{issue_number}",
-            serialized.getvalue(),
-            sha=talks_data.sha,
-            branch='master'
-        )
-    else:
-        repo.create_file(
-            TALKS_FILE, f"Add a talk from #{issue_number}",
-            serialized.getvalue(),
-            branch='master'
-        )
-    # Respond with instructions
+    repo.update_file(
+        TALKS_FILE, f"Add a talk from #{issue_number}",
+        serialized.getvalue(),
+        sha=talks_data.sha,
+        branch='master'
+    )
+
     issue.create_comment(response)
 
+
 if __name__ == "__main__":
+    logger = logging.getLogger()
+    logger.setLevel(logging.INFO)
     issue_number = int(os.getenv("ISSUE_NUMBER"))
     gh = github.Github(os.getenv("VSF_BOT_TOKEN"))
     add_talk(gh, issue_number)
