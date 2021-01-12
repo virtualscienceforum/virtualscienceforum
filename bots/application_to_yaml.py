@@ -69,11 +69,19 @@ def add_talk(gh, issue_number):
 
         response = "I added/updated the talk!"
 
-    talks.append(dict(
-        workflow_issue=issue_number,
-        event_type=event_type,
-        **submission,
-    ))
+    # If there is already a talk with this data, we should overwrite.
+    talks.append({
+        **next(
+            (talk for talk in talks if talk["worflow_issue"] == issue_number),
+            {}
+        ),
+        **dict(
+            workflow_issue=issue_number,
+            event_type=event_type,
+            **submission,
+        )
+    })
+
     serialized = StringIO()
     yaml.dump(talks, serialized)
 
