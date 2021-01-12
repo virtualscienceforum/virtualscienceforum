@@ -1,5 +1,5 @@
 ---
-name: Long range colloquium checklist
+name: LRC checklist
 about: Workflow issue for an LRC
 title: "Checklist for {session title} on {date}"
 labels: lrc
@@ -24,6 +24,7 @@ YYYY-MM-DD
 
 ## Checklist
 
+- [ ] update the [LRC speakers 2021](https://github.com/virtualscienceforum/virtualscienceforum/wiki/LRC-Speakers) wiki page
 - [ ] update the [researchseminars.org](https://researchseminars.org/seminar/VSFLRC) listing (need to get link or ask Babak)
 - [ ] Check if the speaker wants to join earlier for an informal chat
   - [ ] Check if they do
