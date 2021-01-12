@@ -1,6 +1,6 @@
-Zoom link:  https://virtualscienceforum-org.zoom.us/j/97339120210
+Meeting [Zoom link](https://virtualscienceforum-org.zoom.us/j/99082931800?pwd=UU81ZFAwaEk0ZXRTVnhuWHdmRURWUT09)
 
-Hackmd link for meeting minutes: {{hackmd}}
+[Meeting minutes HackMD]({{hackmd}})
 
 Propose agenda items in comments
 
