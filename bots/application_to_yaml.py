@@ -73,7 +73,7 @@ def add_talk(gh, issue_number):
         response = "I added/updated the talk!"
 
     current = next(
-        (talk for talk in talks if talk["worflow_issue"] == issue_number),
+        (talk for talk in talks if talk["workflow_issue"] == issue_number),
         {}
     )
     new = {
