@@ -371,3 +371,29 @@
   time: 2021-02-05 18:00:00+00:00
   workflow_issue: 287
   event_type: speakers_corner
+- name: Elizabeth Dresselhaus
+  affiliation: University of California, Berkeley
+  email: ej_dresselhaus@berkeley.edu
+  preprint: '2101.01716'
+  title: Numerical evidence for marginal scaling at the integer quantum Hall transition
+  abstract: The integer quantum Hall transition (IQHT) is one of the most mysterious
+    members of the family of Anderson transitions. Since the 1980s, the scaling flow
+    close to the critical fixed point in the parameter plane spanned by the longitudinal
+    and Hall conductivities has been studied vigorously both by experiments and with
+    numerical simulations. Despite all efforts, it is notoriously difficult to pin
+    down the precise values of critical exponents, which seem to vary with model details
+    and thus challenge the principle of universality. Recently, M. Zirnbauer [Nucl.
+    Phys. B 941, 458 (2019)] has conjectured a conformal field theory for the transition,
+    in which linear terms in the beta-functions vanish, leading to a very slow flow
+    in the fixed point's vicinity which we term marginal scaling. In this work, we
+    provide numerical evidence for such a scenario by using extensive simulations
+    of various network models of the IQHT at unprecedented length scales. At criticality,
+    we confirm the marginal scaling of the longitudinal conductivity towards the conjectured
+    fixed-point value $\sigma_{xx} = 2/\pi$. Away from criticality we describe a mechanism
+    that could account for the emergence of an effective critical exponents $\nu_{eff}$,
+    which is necessarily dependent on the parameters of the model. We confirm this
+    idea by exact numerical determination of $\nu_{eff}$ in suitably chosen models.
+  authors: E. J. Dresselhaus, B. Sbierski, I. A. Gruzberg
+  time: 2021-02-12 16:00:00+00:00
+  workflow_issue: 292
+  event_type: speakers_corner
