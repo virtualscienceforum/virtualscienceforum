@@ -87,10 +87,13 @@ def add_talk(gh, issue_number):
         return
 
     # If there is already a talk with this data, we should overwrite.
-    talks = [
-        (new if talk["workflow_issue"] == issue_number else talk)
-        for talk in talks
-    ]
+    if current:
+        talks = [
+            (new if talk["workflow_issue"] == issue_number else talk)
+            for talk in talks
+        ]
+    else:
+        talks.append(new)
 
     serialized = StringIO()
     yaml.dump(talks, serialized)
