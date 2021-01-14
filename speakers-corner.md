@@ -75,6 +75,10 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 > **Preprint:** [arXiv:2012.12909](https://arxiv.org/abs/2012.12909)
 
 
+If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJUqduyoqTsqGN3h6wONb5nfVhcqcgXbgkuq)
+
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJUqduyoqTsqGN3h6wONb5nfVhcqcgXbgkuq" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
 
 ### Numerical evidence for marginal scaling at the integer quantum Hall transition
 #### Elizabeth Dresselhaus (University of California, Berkeley)
@@ -84,6 +88,10 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 > **Authors:** E. J. Dresselhaus, B. Sbierski, I. A. Gruzberg  
 > **Preprint:** [arXiv:2101.01716](https://arxiv.org/abs/2101.01716)
 
+
+If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJwsdO-vqDsuHdJJ4fuqIYD0bTRhonWCtbT8)
+
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJwsdO-vqDsuHdJJ4fuqIYD0bTRhonWCtbT8" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
 
