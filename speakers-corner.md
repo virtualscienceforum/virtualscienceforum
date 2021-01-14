@@ -32,6 +32,7 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 |:---------:|:--------------:|:-----:|
 | <time datetime="2021-01-21T17:00:00+00:00">January 21 17:00 UTC</time> | Abhishek Kumar | [Floquet Gauge Pump](#floquet-gauge-pump) |
 | <time datetime="2021-01-28T17:00:00+00:00">January 28 17:00 UTC</time> | Kostas Vilkelis | [Bloch-Lorentz magnetoresistance oscillations in delafossites](#bloch-lorentz-magnetoresistance-oscillations-in-delafossites) |
+| <time datetime="2021-02-05T18:00:00+00:00">February 5 18:00 UTC</time> |  | [Amorphous topological phases protected by continuous rotation symmetry](#amorphous-topological-phases-protected-by-continuous-rotation-symmetry) |
 
 ## Upcoming talks
 
@@ -62,6 +63,16 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJAtcOyvrDstHtZos7C5MAp_VXEvgY4XQOul)
 
 <iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJAtcOyvrDstHtZos7C5MAp_VXEvgY4XQOul" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
+
+### Amorphous topological phases protected by continuous rotation symmetry
+####  ()
+
+> Protection of topological surface states by reflection symmetry breaks down when the boundary of the sample is misaligned with one of the high symmetry planes of the crystal. We demonstrate that this limitation is removed in amorphous topological materials, where the Hamiltonian is invariant on average under reflection over any axis due to continuous rotation symmetry. While the local disorder caused by the amorphous structure weakens the topological protection, we demonstrate that the edge remains protected from localization. In order to classify such phases we perform a systematic search over all the possible symmetry classes in two dimensions and construct the example models realizing each of the proposed topological phases. Finally, we compute the topological invariant of these phases as an integral along a meridian of the spherical Brillouin zone of an amorphous Hamiltonian.
+>
+> **Authors:** Helene Spring, Anton R. Akhmerov, Daniel Varjas  
+> **Preprint:** [arXiv:2012.12909](https://arxiv.org/abs/2012.12909)
+
 
 
 
