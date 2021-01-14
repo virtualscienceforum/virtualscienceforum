@@ -70,12 +70,17 @@ def add_talk(gh, issue_number):
         )
         submission.pop("checklist")
 
-        response = "I added/updated the talk!"
+        response = "I added the talk!"
 
     current = next(
         (talk for talk in talks if talk["workflow_issue"] == issue_number),
         {}
     )
+    # Workaround of https://sourceforge.net/p/ruamel-yaml/tickets/366/
+    # TODO: remove once a fix is released.
+    if current:
+        current["time"] = current["time"].replace(tzinfo=datetime.timezone.utc)
+
     new = {
         **current,
         **submission,
@@ -89,9 +94,10 @@ def add_talk(gh, issue_number):
     # If there is already a talk with this data, we should overwrite.
     if current:
         talks = [
-            (new if talk["workflow_issue"] == issue_number else talk)
+            (new if talk is current else talk)
             for talk in talks
         ]
+        response = "I updated the talk!"
     else:
         talks.append(new)
 
