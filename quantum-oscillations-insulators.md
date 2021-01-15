@@ -9,20 +9,28 @@ Participation is free, but the number of places is limited, so please [register]
 ## Program
 
 <!-- Add the program -->
-The workshop will take place Feb 18 and 19, 2021. All times are US Eastern Standard Time.
+The workshop will take place Feb 18 and 19, 2021. All times listed below are US Eastern Standard Time.
 
 **Day 1: Thursday, Feb. 18**
 
 * 09:55 Introduction and Welcome
-* 10:00 Suchitra Sebastian: *TBA*
-* 10:40 Colin Broholm: *TBA*
-* 11:20 Lu Li: *TBA*
+* 10:00 Suchitra Sebastian (University of Cambridge): *Bulk Quantum Oscillations in the Unconventional Bulk Insulator SmB<sub>6</sub>*
+* 10:40 Colin Broholm (Johns Hopkins University): *TBA*
+* 11:20 Lu Li (University of Michigan): *Quantum Oscillations in Resistivity and Magnetization in Kondo Insulators*
 
 **Day 2: Friday, Feb. 19**
 
-* 10:00 Sanfeng Wu: *TBA*
-* 10:40 Patrick Lee: *Overview of Candidate Theories*
-* 11:00 Moderated closing discussion
+* 10:00 Sanfeng Wu (Princeton University): *Landau quantization and highly mobile carriers in the monolayer WTe<sub>2</sub> insulator*
+* 10:40 Patrick Lee (MIT): *Quantum oscillations of the resistivity in an excitonic insulator*
+* 11:00 Panel discussion
+  - Panelists:
+    - Meigan Aronson (University of British Columbia)
+    - G. Baskaran (IIT Madras and Perimeter Institute)
+    - Piers Coleman (Rutgers University)
+    - Nigel Cooper (University of Cambridge)
+    - Leslie Schoop (Princeton University)
+    - T. Senthil (MIT)
+  - Moderator: Art Ramirez (UC Santa Cruz)
 
 
 ## Organizers
