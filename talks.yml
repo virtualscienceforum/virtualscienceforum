@@ -401,3 +401,10 @@
   event_type: speakers_corner
   zoom_meeting_id: 98136760476
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJwsdO-vqDsuHdJJ4fuqIYD0bTRhonWCtbT8
+- speaker_name: Monika Aidelsburger
+  speaker_affiliation: Ludwig-Maximilians-University Munich
+  title: '*TBA*'
+  abstract: '*TBA*'
+  time: 2021-03-03 18:30:00+00:00
+  workflow_issue: 293
+  event_type: lrc
