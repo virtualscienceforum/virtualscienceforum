@@ -2,7 +2,7 @@
 
 During the last five years, experimental studies of a range of different materials have demonstrated the coexistence of quantum oscillations of magnetization and electrical insulation. This combination presents an apparent paradox, since quantum oscillations usually indicate a Fermi surface of electrons, which is at odds with the lack of electrical conduction. These observations have kicked off a flurry of new experimental findings and theoretical ideas, but the central mystery of the origin of the oscillations still does not have a consensus solution.
 
-This workshop, which extends for four hours over two days, aims to bring together experimental and theoretical leaders in the question of quantum oscillations in insulators. Our focus is on presenting new experimental findings, reviewing the commonalities and differences between different materials -- including SmB<sub>6</sub>, YbB<sub>12</sub>, and WTe<sub>2</sub> --, and on discussing the candidate theories.
+This workshop, which extends for four hours over two days, aims to bring together experimental and theoretical leaders in the study of quantum oscillations in insulators. Our focus is on presenting new experimental findings, reviewing the commonalities and differences between different materials — including SmB<sub>6</sub>, YbB<sub>12</sub>, and WTe<sub>2</sub> —, and on discussing the candidate theories.
 
 Participation is free, but the number of places is limited, so please [register](#registration).
 
@@ -15,7 +15,7 @@ The workshop will take place Feb 18 and 19, 2021. All times listed below are US 
 
 * 09:55 Introduction and Welcome
 * 10:00 Suchitra Sebastian (University of Cambridge): *Bulk Quantum Oscillations in the Unconventional Bulk Insulator SmB<sub>6</sub>*
-* 10:40 Colin Broholm (Johns Hopkins University): *TBA*
+* 10:40 Colin Broholm (Johns Hopkins University): *Magnetism in SmB<sub>6</sub>*
 * 11:20 Lu Li (University of Michigan): *Quantum Oscillations in Resistivity and Magnetization in Kondo Insulators*
 
 **Day 2: Friday, Feb. 19**
