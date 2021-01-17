@@ -34,6 +34,7 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 | <time datetime="2021-01-28T17:00:00+00:00">January 28 17:00 UTC</time> | Kostas Vilkelis | [Bloch-Lorentz magnetoresistance oscillations in delafossites](#bloch-lorentz-magnetoresistance-oscillations-in-delafossites) |
 | <time datetime="2021-02-05T18:00:00+00:00">February 5 18:00 UTC</time> | Helene Spring | [Amorphous topological phases protected by continuous rotation symmetry](#amorphous-topological-phases-protected-by-continuous-rotation-symmetry) |
 | <time datetime="2021-02-12T16:00:00+00:00">February 12 16:00 UTC</time> | Elizabeth Dresselhaus | [Numerical evidence for marginal scaling at the integer quantum Hall transition](#numerical-evidence-for-marginal-scaling-at-the-integer-quantum-hall-transition) |
+| <time datetime="2021-02-26T16:00:00+00:00">February 26 16:00 UTC</time> | Yevheniia Cheipesh | [Quantum tunneling dynamics in complex SYK model quenched-coupled to a cool-bath](#quantum-tunneling-dynamics-in-complex-syk-model-quenched-coupled-to-a-cool-bath) |
 
 ## Upcoming talks
 
@@ -92,6 +93,16 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJwsdO-vqDsuHdJJ4fuqIYD0bTRhonWCtbT8)
 
 <iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJwsdO-vqDsuHdJJ4fuqIYD0bTRhonWCtbT8" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
+
+### Quantum tunneling dynamics in complex SYK model quenched-coupled to a cool-bath
+#### Yevheniia Cheipesh (Leiden University)
+
+> The Sachdev-Ye-Kitaev (SYK) model describes interacting fermionic zero modes in zero spatial dimensions, e.g. quantum dot, with interactions strong enough to completely washout quasiparticle excitations in the infrared. In this note, we consider the complex-valued SYK model at temperature $T$ coupled to a zero temperature reservoir by a quench. We find out that the tunneling current dynamics reveals a way to distinguish the SYK non-Fermi liquid (nFL) initial state of the subsystem from the disordered Fermi liquid. Temperature dependent contribution to the current's half-life scales linearly in $T$ at low temperatures for the SYK nFl state, while for the Fermi liquid it scales as $T^2$. This provides a characteristic signature of the SYK non-Fermi liquid in a non-equilibrium measurement.
+>
+> **Authors:** Y. Cheipesh, A. I. Pavlov, V. Ohanesjan, K. Schalm, N. V. Gnezdilov  
+> **Preprint:** [arXiv:2011.05238](https://arxiv.org/abs/2011.05238)
+
 
 
 
