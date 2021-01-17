@@ -34,7 +34,6 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 | <time datetime="2021-01-28T17:00:00+00:00">January 28 17:00 UTC</time> | Kostas Vilkelis | [Bloch-Lorentz magnetoresistance oscillations in delafossites](#bloch-lorentz-magnetoresistance-oscillations-in-delafossites) |
 | <time datetime="2021-02-05T18:00:00+00:00">February 5 18:00 UTC</time> | Helene Spring | [Amorphous topological phases protected by continuous rotation symmetry](#amorphous-topological-phases-protected-by-continuous-rotation-symmetry) |
 | <time datetime="2021-02-12T16:00:00+00:00">February 12 16:00 UTC</time> | Elizabeth Dresselhaus | [Numerical evidence for marginal scaling at the integer quantum Hall transition](#numerical-evidence-for-marginal-scaling-at-the-integer-quantum-hall-transition) |
-| <time datetime="2021-02-26T16:00:00+00:00">February 26 16:00 UTC</time> | Yevheniia Cheipesh | [](#) |
 
 ## Upcoming talks
 
@@ -93,20 +92,6 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJwsdO-vqDsuHdJJ4fuqIYD0bTRhonWCtbT8)
 
 <iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJwsdO-vqDsuHdJJ4fuqIYD0bTRhonWCtbT8" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
-
-
-### 
-#### Yevheniia Cheipesh (Leiden University)
-
-> 
->
-> **Authors:**   
-> **Preprint:** [arXiv:2011.05238](https://arxiv.org/abs/2011.05238)
-
-
-If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJYpdeigpz8iHdITlH4o4Yqi5o0mQaSISu4Y)
-
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJYpdeigpz8iHdITlH4o4Yqi5o0mQaSISu4Y" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
 
