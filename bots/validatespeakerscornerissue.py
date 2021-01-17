@@ -172,7 +172,7 @@ def validate_issue(issue_body):
         for check, value in
         zip(
             (check_name, check_confirmation, check_date),
-            ("name", "confirmation", "time")
+            ("speaker_name", "confirmation", "time")
         )
         if (message := check(submission[value])) is not None
     ]
