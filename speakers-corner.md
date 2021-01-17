@@ -104,6 +104,10 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 > **Preprint:** [arXiv:2011.05238](https://arxiv.org/abs/2011.05238)
 
 
+If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJYpdeigpz8iHdITlH4o4Yqi5o0mQaSISu4Y)
+
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJYpdeigpz8iHdITlH4o4Yqi5o0mQaSISu4Y" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
 
 
 ## Recordings
