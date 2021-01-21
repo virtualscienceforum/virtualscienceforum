@@ -10,7 +10,7 @@ Attendance is open to everyone, but please register to attend! If you would like
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-| February 3 | Andrea Young | [*TBA*](#*tba*) |
+| February 3 | Andrea Young | [Orbital magnetism in graphene heterostructures](#orbital-magnetism-in-graphene-heterostructures) |
 | February 17 | Xie Chen | [*TBA*](#*tba*) |
 | March 3 | Monika Aidelsburger | [*TBA*](#*tba*) |
 
@@ -18,9 +18,9 @@ Attendance is open to everyone, but please register to attend! If you would like
 
 
 ### Andrea Young (UCSB)
-#### *TBA*
+#### Orbital magnetism in graphene heterostructures
 
-> *TBA*
+> The earliest reports of ferromagnetism date to Thales of Miletus who lived and wrote around 600 BC. Thales noted the ability of natural magnetite to attract iron, and is said to have taken this as proof that matter itself was alive. Our theories of magnetism have evolved considerably since then: we now know that ferromagnetism arises from the interplay of the Coulomb repulsion between electrons and their fermionic statistics. However, in one sense our science has advanced only little: the vast majority of magnets, like magnetite, consist of ordered arrangements of the electron spins stabilized by the spin orbit interaction. In my talk, I will describe a new class of magnets based on the spontaneous alignment of electron orbitals. Such orbital ferromagnetism may be a generic phenomena, but has, to date, found its fullest expression in graphene heterostructures in which the two dimensional orbits of electrons in distinct momentum space valleys provide the underlying degree of freedom. > Because orbital degrees of freedom arise directly from the band wavefunctions, they are uniquely susceptible to experimental control via materials design.  Orbital magnets also enable new forms of magnetic control using in situ knobs. For instance, orbital magnets in moire superlattice systems, where the band structure features nontrivial topology, allow for field-effect switching of magnetic moments and the resulting quantized anomalous Hall effects. I will conclude with an outlook for realizing more exotic topological phases of matter based on orbital magnetism.
 
 
 If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJIsc-ysrj4rE9wn88j7ECWGmVNLhd6TBoyh)
