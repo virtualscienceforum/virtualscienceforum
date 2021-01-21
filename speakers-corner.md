@@ -30,27 +30,13 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-| <time datetime="2021-01-21T17:00:00+00:00">January 21 17:00 UTC</time> | Abhishek Kumar | [Floquet Gauge Pump](#floquet-gauge-pump) |
 | <time datetime="2021-01-28T17:00:00+00:00">January 28 17:00 UTC</time> | Kostas Vilkelis | [Bloch-Lorentz magnetoresistance oscillations in delafossites](#bloch-lorentz-magnetoresistance-oscillations-in-delafossites) |
 | <time datetime="2021-02-05T18:00:00+00:00">February 5 18:00 UTC</time> | Helene Spring | [Amorphous topological phases protected by continuous rotation symmetry](#amorphous-topological-phases-protected-by-continuous-rotation-symmetry) |
 | <time datetime="2021-02-12T16:00:00+00:00">February 12 16:00 UTC</time> | Elizabeth Dresselhaus | [Numerical evidence for marginal scaling at the integer quantum Hall transition](#numerical-evidence-for-marginal-scaling-at-the-integer-quantum-hall-transition) |
+| <time datetime="2021-02-19T16:00:00+00:00">February 19 16:00 UTC</time> | Michał Pacholski | [Deconfinement of Majorana vortex modes produces a superconducting Landau level](#deconfinement-of-majorana-vortex-modes-produces-a-superconducting-landau-level) |
 | <time datetime="2021-02-26T16:00:00+00:00">February 26 16:00 UTC</time> | Yevheniia Cheipesh | [Quantum tunneling dynamics in complex SYK model quenched-coupled to a cool-bath](#quantum-tunneling-dynamics-in-complex-syk-model-quenched-coupled-to-a-cool-bath) |
 
 ## Upcoming talks
-
-
-### Floquet Gauge Pump
-#### Abhishek Kumar (Indiana University Bloomington)
-
-> We introduce the concept of a Floquet gauge pump whereby a dynamically engineered Floquet Hamiltonian is employed to reveal the inherent degeneracy of the ground state in interacting systems. We demonstrate this concept in a one-dimensional XY model with periodically driven couplings and transverse field. In the high frequency limit, we obtain the Floquet Hamiltonian consisting of the static XY and dynamically generated Dzyaloshinsky-Moriya interaction (DMI) terms. The dynamically generated magnetization current depends on the phases of complex coupling terms, with the XY interaction as the real and DMI as the imaginary part. As these phases are cycled, it reveals the ground state degeneracies that distinguish the ordered and disordered phases. We discuss experimental requirements needed to realize the Floquet gauge pump in a synthetic quantum spin system of interacting trapped ions.
->
-> **Authors:** Abhishek Kumar, Gerardo Ortiz, Philip Richerme, Babak Seradjeh  
-> **Preprint:** [arXiv:2012.09677](https://arxiv.org/abs/2012.09677)
-
-
-If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJUvdeGurzgrHtJE1_tew7WkudEEdBhNV7XB)
-
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJUvdeGurzgrHtJE1_tew7WkudEEdBhNV7XB" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
 ### Bloch-Lorentz magnetoresistance oscillations in delafossites
@@ -93,6 +79,16 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJwsdO-vqDsuHdJJ4fuqIYD0bTRhonWCtbT8)
 
 <iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJwsdO-vqDsuHdJJ4fuqIYD0bTRhonWCtbT8" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
+
+### Deconfinement of Majorana vortex modes produces a superconducting Landau level
+#### Michał Pacholski (Instituut-Lorentz, Universiteit Leiden)
+
+> A spatially oscillating pair potential $\Delta(r)=\Delta_0 e^{i K\cdot x}$ with momentum $K>\Delta_0/\hbar v$ drives a deconfinement transition of the Majorana bound states in the vortex cores of a Fu-Kane heterostructure (a 3D topological insulator with Fermi velocity $v$, on a superconducting substrate with gap $\Delta_0$, in a perpendicular magnetic field). In the deconfined phase at zero chemical potential the Majorana fermions form a dispersionless Landau level, protected by chiral symmetry against broadening due to vortex scattering. The coherent superposition of electrons and holes in the Majorana Landau level is detectable as a local density of states oscillation with wave vector $\sqrt{K^2-(\Delta_0/\hbar v)^2}$. The striped pattern also provides a means to measure the chirality of the Majorana fermions.
+>
+> **Authors:** M. J. Pacholski, G. Lemut, O. Ovdat, İ. Adagideli, C. W. J. Beenakker  
+> **Preprint:** [arXiv:2101.08252](https://arxiv.org/abs/2101.08252)
+
 
 
 ### Quantum tunneling dynamics in complex SYK model quenched-coupled to a cool-bath
@@ -297,6 +293,23 @@ Preprint: [arXiv:](https://arxiv.org/abs/)
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/G2reZGMaN_Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+### Floquet Gauge Pump
+#### Abhishek Kumar, 
+
+<details><summary>abstract</summary>
+
+We introduce the concept of a Floquet gauge pump whereby a dynamically engineered Floquet Hamiltonian is employed to reveal the inherent degeneracy of the ground state in interacting systems. We demonstrate this concept in a one-dimensional XY model with periodically driven couplings and transverse field. In the high frequency limit, we obtain the Floquet Hamiltonian consisting of the static XY and dynamically generated Dzyaloshinsky-Moriya interaction (DMI) terms. The dynamically generated magnetization current depends on the phases of complex coupling terms, with the XY interaction as the real and DMI as the imaginary part. As these phases are cycled, it reveals the ground state degeneracies that distinguish the ordered and disordered phases. We discuss experimental requirements needed to realize the Floquet gauge pump in a synthetic quantum spin system of interacting trapped ions.
+
+Authors: Abhishek Kumar, Gerardo Ortiz, Philip Richerme, Babak Seradjeh  
+Preprint: [arXiv:](https://arxiv.org/abs/)
+</details>
+
+
+*Video in preparation*
 
 
 
