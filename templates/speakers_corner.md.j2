@@ -36,7 +36,7 @@ If the form below doesn't work, [register directly]({{ talk.registration_url }})
 {% for talk in talks | sort(attribute="time") if talk.time < now %}
 
 ### {{ talk.title }}
-#### {{ talk.speaker_name }}, {{ talk.affiliation }}
+#### {{ talk.speaker_name }}, {{ talk.speaker_affiliation }}
 
 <details><summary>abstract</summary>
 
