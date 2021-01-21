@@ -115,7 +115,7 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 
 
 ### Correlations in the elastic Landau level of spontaneously buckled graphene
-#### Antonio Manesco, 
+#### Antonio Manesco, University of São Paulo
 
 <details><summary>abstract</summary>
 
@@ -132,7 +132,7 @@ Preprint: [arXiv:](https://arxiv.org/abs/)
 
 
 ### Using skyrmionic racetracks for unconventional computing
-#### Hamed Vakili, 
+#### Hamed Vakili, Dept. of Physics University of Virginia
 
 <details><summary>abstract</summary>
 
@@ -149,7 +149,7 @@ Preprint: [arXiv:](https://arxiv.org/abs/)
 
 
 ### Landau Quasiparticles in Weak Power-Law Liquids
-#### Joshuah T. Heath, 
+#### Joshuah T. Heath, Boston College
 
 <details><summary>abstract</summary>
 
@@ -166,7 +166,7 @@ Preprint: [arXiv:](https://arxiv.org/abs/)
 
 
 ### Topological Band Structures in the Offset-Parameter-Dependence of Small Josephson Circuits
-#### Valla Fatemi, 
+#### Valla Fatemi, Yale University
 
 <details><summary>abstract</summary>
 
@@ -183,7 +183,7 @@ Preprint: [arXiv:](https://arxiv.org/abs/)
 
 
 ### Conductance asymmetries in mesoscopic superconducting devices due to finite bias
-#### André Melo, 
+#### André Melo, Kavli Institute of Nanoscience, Delft University of Technology
 
 <details><summary>abstract</summary>
 
@@ -200,7 +200,7 @@ Preprint: [arXiv:](https://arxiv.org/abs/)
 
 
 ### Long-range ballistic transport of Brown-Zak fermions in graphene superlattices
-#### Julien Barrier, 
+#### Julien Barrier, The University of Manchester, U.K.
 
 <details><summary>abstract</summary>
 
@@ -217,7 +217,7 @@ Preprint: [arXiv:](https://arxiv.org/abs/)
 
 
 ### Topological phonons in oxide perovskites controlled by light
-#### Bo Peng, 
+#### Bo Peng, Cavendish Laboratory, University of Cambridge
 
 <details><summary>abstract</summary>
 
@@ -234,7 +234,7 @@ Preprint: [arXiv:](https://arxiv.org/abs/)
 
 
 ### Statistical Floquet prethermalization from kicked rotors to the Bose-Hubbard model
-#### Dalla Torre Emanuele, 
+#### Dalla Torre Emanuele, Bar-Ilan University
 
 <details><summary>abstract</summary>
 
@@ -251,7 +251,7 @@ Preprint: [arXiv:](https://arxiv.org/abs/)
 
 
 ### Many-body Majorana-like zero modes without gauge symmetry breaking
-#### Vasilii Vadimov, 
+#### Vasilii Vadimov, QCD Labs, Department of Applied Physics, Aalto University
 
 <details><summary>abstract</summary>
 
@@ -268,7 +268,7 @@ Preprint: [arXiv:](https://arxiv.org/abs/)
 
 
 ### Strain-engineering the topological type-II Dirac semimetal NiTe2
-#### Antonio Manesco, 
+#### Antonio Manesco, University of São Paulo
 
 <details><summary>abstract</summary>
 
@@ -285,7 +285,7 @@ Preprint: [arXiv:](https://arxiv.org/abs/)
 
 
 ### Electronic properties of InAs/EuS/Al hybrid nanowires
-#### Chun-Xiao Liu, 
+#### Chun-Xiao Liu, Delft University of Technology, the Netherlands
 
 <details><summary>abstract</summary>
 
@@ -302,7 +302,7 @@ Preprint: [arXiv:](https://arxiv.org/abs/)
 
 
 ### Floquet Gauge Pump
-#### Abhishek Kumar, 
+#### Abhishek Kumar, Indiana University Bloomington
 
 <details><summary>abstract</summary>
 
