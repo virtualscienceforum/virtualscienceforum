@@ -449,3 +449,24 @@
   event_type: speakers_corner
   zoom_meeting_id: 93273576362
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJcvcOqtqT0pHNa04eDBSsSSxQmIQm1PJO9c
+- speaker_name: Michał Pacholski
+  speaker_affiliation: Instituut-Lorentz, Universiteit Leiden
+  email: mpacholski@lorentz.leidenuniv.nl
+  preprint: '2101.08252'
+  title: Deconfinement of Majorana vortex modes produces a superconducting Landau
+    level
+  abstract: A spatially oscillating pair potential $\Delta(r)=\Delta_0 e^{i K\cdot
+    x}$ with momentum $K>\Delta_0/\hbar v$ drives a deconfinement transition of the
+    Majorana bound states in the vortex cores of a Fu-Kane heterostructure (a 3D topological
+    insulator with Fermi velocity $v$, on a superconducting substrate with gap $\Delta_0$,
+    in a perpendicular magnetic field). In the deconfined phase at zero chemical potential
+    the Majorana fermions form a dispersionless Landau level, protected by chiral
+    symmetry against broadening due to vortex scattering. The coherent superposition
+    of electrons and holes in the Majorana Landau level is detectable as a local density
+    of states oscillation with wave vector $\sqrt{K^2-(\Delta_0/\hbar v)^2}$. The
+    striped pattern also provides a means to measure the chirality of the Majorana
+    fermions.
+  authors: M. J. Pacholski, G. Lemut, O. Ovdat, İ. Adagideli, C. W. J. Beenakker
+  time: 2021-02-19 16:00:00+00:00
+  workflow_issue: 301
+  event_type: speakers_corner
