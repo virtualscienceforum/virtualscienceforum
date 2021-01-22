@@ -35,6 +35,7 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 | <time datetime="2021-02-12T16:00:00+00:00">February 12 16:00 UTC</time> | Elizabeth Dresselhaus | [Numerical evidence for marginal scaling at the integer quantum Hall transition](#numerical-evidence-for-marginal-scaling-at-the-integer-quantum-hall-transition) |
 | <time datetime="2021-02-19T16:00:00+00:00">February 19 16:00 UTC</time> | Michał Pacholski | [Deconfinement of Majorana vortex modes produces a superconducting Landau level](#deconfinement-of-majorana-vortex-modes-produces-a-superconducting-landau-level) |
 | <time datetime="2021-02-26T16:00:00+00:00">February 26 16:00 UTC</time> | Yevheniia Cheipesh | [Quantum tunneling dynamics in complex SYK model quenched-coupled to a cool-bath](#quantum-tunneling-dynamics-in-complex-syk-model-quenched-coupled-to-a-cool-bath) |
+| <time datetime="2021-03-01T16:00:00+00:00">March 1 16:00 UTC</time> | Pramod Kumar | [Flat band induced non-Fermi liquid behavior of multicomponent fermions](#flat-band-induced-non-fermi-liquid-behavior-of-multicomponent-fermions) |
 
 ## Upcoming talks
 
@@ -107,6 +108,16 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJcvcOqtqT0pHNa04eDBSsSSxQmIQm1PJO9c)
 
 <iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJcvcOqtqT0pHNa04eDBSsSSxQmIQm1PJO9c" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
+
+### Flat band induced non-Fermi liquid behavior of multicomponent fermions
+#### Pramod Kumar (Aalto University)
+
+> We investigate multicomponent fermions in a flat band and predict experimental signatures of non-Fermi liquid behavior. We use dynamical mean-field theory to obtain the density, double occupancy and entropy in a Lieb lattice for $\mathcal{N} = 2$ and $\mathcal{N} = 4$ components. We derive a mean-field scaling relation between the results for different values of $\mathcal{N}$, and study its breakdown due to beyond-mean field effects. The predicted signatures occur at temperatures above the N\'eel temperature and persist in presence of a harmonic trapping potential, thus they are observable with current ultracold gas experiments.
+>
+> **Authors:** Pramod Kumar, Sebastiano Peotta, Yosuke Takasu, Yoshiro Takahashi, Päivi Törmä  
+> **Preprint:** [arXiv:2005.05457](https://arxiv.org/abs/2005.05457)
+
 
 
 

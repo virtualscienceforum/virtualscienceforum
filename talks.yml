@@ -472,3 +472,21 @@
   event_type: speakers_corner
   zoom_meeting_id: 94265424063
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJAvceysrD8qHNcegq6IuspZ8KgEZ_tOXADD
+- speaker_name: Pramod Kumar
+  speaker_affiliation: Aalto University
+  email: pramod.kumar@aalto.fi
+  preprint: '2005.05457'
+  title: Flat band induced non-Fermi liquid behavior of multicomponent fermions
+  abstract: We investigate multicomponent fermions in a flat band and predict experimental
+    signatures of non-Fermi liquid behavior. We use dynamical mean-field theory to
+    obtain the density, double occupancy and entropy in a Lieb lattice for $\mathcal{N}
+    = 2$ and $\mathcal{N} = 4$ components. We derive a mean-field scaling relation
+    between the results for different values of $\mathcal{N}$, and study its breakdown
+    due to beyond-mean field effects. The predicted signatures occur at temperatures
+    above the N\'eel temperature and persist in presence of a harmonic trapping potential,
+    thus they are observable with current ultracold gas experiments.
+  authors: Pramod Kumar, Sebastiano Peotta, Yosuke Takasu, Yoshiro Takahashi, Päivi
+    Törmä
+  time: 2021-03-01 16:00:00+00:00
+  workflow_issue: 302
+  event_type: speakers_corner
