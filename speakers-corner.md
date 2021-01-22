@@ -119,6 +119,10 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 > **Preprint:** [arXiv:2005.05457](https://arxiv.org/abs/2005.05457)
 
 
+If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJ0ufu2hpjMpHteF6WrTA7ucor1k8fsoBpzU)
+
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJ0ufu2hpjMpHteF6WrTA7ucor1k8fsoBpzU" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
 
 
 ## Recordings
