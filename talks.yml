@@ -261,7 +261,6 @@
   speaker_name: Abhishek Kumar
   speaker_affiliation: Indiana University Bloomington
   event_type: speakers_corner
-  email: ak24@iu.edu
   preprint: '2012.09677'
   title: Floquet Gauge Pump
   abstract: We introduce the concept of a Floquet gauge pump whereby a dynamically
@@ -278,8 +277,7 @@
     ions.
   authors: Abhishek Kumar, Gerardo Ortiz, Philip Richerme, Babak Seradjeh
   time: 2021-01-21 17:00:00+00:00
-  zoom_meeting_id: 91228613146
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJUvdeGurzgrHtJE1_tew7WkudEEdBhNV7XB
+  youtube_id: Vh7dllQ6-FM
 - workflow_issue: 272
   speaker_name: Kostas Vilkelis
   speaker_affiliation: Qutech, Delft University of Technology
