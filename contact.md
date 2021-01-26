@@ -6,7 +6,7 @@ To keep up with the announcements, follow us on Twitter: [@VirtualSciForum](http
 
 If you are interested in hosting your own virtual conference, please see our [organizer guide](https://virtualscienceforum.org/#/organizerguide) and submit an [application](https://github.com/virtualscienceforum/virtualscienceforum/issues/new?assignees=&labels=session&template=application.md&title=Please+specify+the+session+title)
 
-We welcome anyone interested in joining our [team](https://virtualscienceforum.org/#/whoweare). Our team meets weekly on Tuesdays 7pm EU/1pm Eastern (the meeting details are always available in [VSF Organizational Meeting Issue](https://github.com/virtualscienceforum/virtualscienceforum/issues)). As an organizer you will get to
+We welcome anyone interested in joining our [team](https://virtualscienceforum.org/#/whoweare). Our team meets weekly on Tuesdays 7pm EU/1pm Eastern (the meeting details are always available in [VSF Organizational Meeting Issue](https://github.com/virtualscienceforum/virtualscienceforum/issues?q=is%3Aissue+is%3Aopen+title%3A%22organizational+meeting%22)). As an organizer you will get to
 
 * propose and invite [Long Range Colloquium](https://virtualscienceforum.org/#/long_range_colloquium) speakers and moderate the colloquia
 * contribute to our [website](https://virtualscienceforum.org/#/) and our [software](https://github.com/virtualscienceforum)
