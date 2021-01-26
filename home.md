@@ -33,7 +33,7 @@ iframe.twitter-follow-button {
 ### Join us
 
 We are always happy to welcome new members on the organizational side of VSF. 
-Please take a look at our [call for organizers page](announcement.md) for more information.
+Please take a look [here](contact.md) to see how to keep up with our activities or join our organising team.
 
 <a class="github-button" href="https://github.com/virtualscienceforum/virtualscienceforum" data-size="large" data-show-count="true" aria-label="Star virtualscienceforum/virtualscienceforum on GitHub">Star</a>
 
