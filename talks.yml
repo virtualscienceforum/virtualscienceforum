@@ -282,7 +282,6 @@
   speaker_name: Kostas Vilkelis
   speaker_affiliation: Qutech, Delft University of Technology
   event_type: speakers_corner
-  email: K.Vilkelis-1@tudelft.nl
   preprint: '2012.08552'
   title: Bloch-Lorentz magnetoresistance oscillations in delafossites
   abstract: Recent measurements of the out-of-plane magnetoresistance of delafossites
@@ -299,8 +298,7 @@
     out-of-plane dynamics of ballistic quasi-two-dimensional materials.
   authors: Kostas Vilkelis, Lin Wang, Anton Akhmerov
   time: 2021-01-28 17:00:00+00:00
-  zoom_meeting_id: 94075720742
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJAtcOyvrDstHtZos7C5MAp_VXEvgY4XQOul
+  youtube_id: X-Xm7w3hyAo
 - workflow_issue: 278
   event_type: lrc
   speaker_name: Leonid Levitov
