@@ -30,7 +30,6 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-| <time datetime="2021-01-28T17:00:00+00:00">January 28 17:00 UTC</time> | Kostas Vilkelis | [Bloch-Lorentz magnetoresistance oscillations in delafossites](#bloch-lorentz-magnetoresistance-oscillations-in-delafossites) |
 | <time datetime="2021-02-05T18:00:00+00:00">February 5 18:00 UTC</time> | Helene Spring | [Amorphous topological phases protected by continuous rotation symmetry](#amorphous-topological-phases-protected-by-continuous-rotation-symmetry) |
 | <time datetime="2021-02-12T16:00:00+00:00">February 12 16:00 UTC</time> | Elizabeth Dresselhaus | [Numerical evidence for marginal scaling at the integer quantum Hall transition](#numerical-evidence-for-marginal-scaling-at-the-integer-quantum-hall-transition) |
 | <time datetime="2021-02-19T16:00:00+00:00">February 19 16:00 UTC</time> | Michał Pacholski | [Deconfinement of Majorana vortex modes produces a superconducting Landau level](#deconfinement-of-majorana-vortex-modes-produces-a-superconducting-landau-level) |
@@ -38,20 +37,6 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 | <time datetime="2021-03-01T16:00:00+00:00">March 1 16:00 UTC</time> | Pramod Kumar | [Flat band induced non-Fermi liquid behavior of multicomponent fermions](#flat-band-induced-non-fermi-liquid-behavior-of-multicomponent-fermions) |
 
 ## Upcoming talks
-
-
-### Bloch-Lorentz magnetoresistance oscillations in delafossites
-#### Kostas Vilkelis (Qutech, Delft University of Technology)
-
-> Recent measurements of the out-of-plane magnetoresistance of delafossites (PdCoO$_2$ and PtCoO$_2$) observed oscillations which closely resemble the Aharanov-Bohm effect. We develop a semiclassical theory of these oscillations and show that they are a consequence of the quasi-2D dispersion of delafossites. We observe that the Lorentz force created by an in-plane magnetic field makes the out-of-plane motion of electrons oscillatory, similarly to Bloch oscillations. Analysis of the visibility of these Bloch-Lorentz oscillations reveals the mean-free path to be $l \approx 4.4 \mu m$ in comparison to the literature in-plane mean free path of $20 \mu m$. The mean-free path is reduced as a consequence of the out-of-plane relaxation and sample wall scattering. Our theory offers a way to design an experimental geometry that is better suited for probing the phenomenon and to investigate the out-of-plane dynamics of ballistic quasi-two-dimensional materials.
->
-> **Authors:** Kostas Vilkelis, Lin Wang, Anton Akhmerov  
-> **Preprint:** [arXiv:2012.08552](https://arxiv.org/abs/2012.08552)
-
-
-If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJAtcOyvrDstHtZos7C5MAp_VXEvgY4XQOul)
-
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJAtcOyvrDstHtZos7C5MAp_VXEvgY4XQOul" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
 ### Amorphous topological phases protected by continuous rotation symmetry
@@ -329,6 +314,23 @@ Preprint: [arXiv:](https://arxiv.org/abs/)
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Vh7dllQ6-FM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+### Bloch-Lorentz magnetoresistance oscillations in delafossites
+#### Kostas Vilkelis, Qutech, Delft University of Technology
+
+<details><summary>abstract</summary>
+
+Recent measurements of the out-of-plane magnetoresistance of delafossites (PdCoO$_2$ and PtCoO$_2$) observed oscillations which closely resemble the Aharanov-Bohm effect. We develop a semiclassical theory of these oscillations and show that they are a consequence of the quasi-2D dispersion of delafossites. We observe that the Lorentz force created by an in-plane magnetic field makes the out-of-plane motion of electrons oscillatory, similarly to Bloch oscillations. Analysis of the visibility of these Bloch-Lorentz oscillations reveals the mean-free path to be $l \approx 4.4 \mu m$ in comparison to the literature in-plane mean free path of $20 \mu m$. The mean-free path is reduced as a consequence of the out-of-plane relaxation and sample wall scattering. Our theory offers a way to design an experimental geometry that is better suited for probing the phenomenon and to investigate the out-of-plane dynamics of ballistic quasi-two-dimensional materials.
+
+Authors: Kostas Vilkelis, Lin Wang, Anton Akhmerov  
+Preprint: [arXiv:](https://arxiv.org/abs/)
+</details>
+
+
+*Video in preparation*
 
 
 
