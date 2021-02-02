@@ -31,6 +31,11 @@ iframe.twitter-follow-button {
 </style>
 <a href="https://twitter.com/virtualsciforum?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-dnt="true" data-show-count="true">Follow @virtualsciforum</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+### Join us
+
+We are always happy to welcome new members on the organizational side of VSF. 
+Please take a look [here](contact.md) to see how to keep up with our activities or join our organising team.
+
 <a class="github-button" href="https://github.com/virtualscienceforum/virtualscienceforum" data-size="large" data-show-count="true" aria-label="Star virtualscienceforum/virtualscienceforum on GitHub">Star</a>
 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
