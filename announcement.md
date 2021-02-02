@@ -1,8 +1,8 @@
 # Call For Organizers
 
-After a successful [inaugural session](inauguralsession.md), we aim to bring the Virtual Science Forum closer to its goal: aiding researchers to organize virtual events.
+The goal for the Virtual Science Forum is to aid researchers in organizing virtual conferences, and to facilitate dissemination of results through our Speakers' corner event.
 
-In order to get a step closer, we are now seeking organizers for our next sessions.
-The information on how to organize a session can be found [here](organizerguide.md).
+If you would like to contribute to these goals directly or have suggestions, please consider [reaching out](contact.md) and joining our team!
+Or if you know of someone whom you think might like to join our efforts, please let them now instead.
 
-We will be grateful if you could circulate this announcement among colleagues that could be interested in organizing a virtual session.
+If instead you are looking for information on how to organize a virtual conference, take a look [here](organizerguide.md).
