@@ -10,22 +10,10 @@ Attendance is open to everyone, but please register to attend! If you would like
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-| February 3 | Andrea Young | [Orbital magnetism in graphene heterostructures](#orbital-magnetism-in-graphene-heterostructures) |
 | February 17 | Xie Chen | [*TBA*](#*tba*) |
 | March 3 | Monika Aidelsburger | [*TBA*](#*tba*) |
 
 ## Upcoming talks
-
-
-### Andrea Young (UCSB)
-#### Orbital magnetism in graphene heterostructures
-
-> The earliest reports of ferromagnetism date to Thales of Miletus who lived and wrote around 600 BC. Thales noted the ability of natural magnetite to attract iron, and is said to have taken this as proof that matter itself was alive. Our theories of magnetism have evolved considerably since then: we now know that ferromagnetism arises from the interplay of the Coulomb repulsion between electrons and their fermionic statistics. However, in one sense our science has advanced only little: the vast majority of magnets, like magnetite, consist of ordered arrangements of the electron spins stabilized by the spin orbit interaction. In my talk, I will describe a new class of magnets based on the spontaneous alignment of electron orbitals. Such orbital ferromagnetism may be a generic phenomena, but has, to date, found its fullest expression in graphene heterostructures in which the two dimensional orbits of electrons in distinct momentum space valleys provide the underlying degree of freedom. > Because orbital degrees of freedom arise directly from the band wavefunctions, they are uniquely susceptible to experimental control via materials design.  Orbital magnets also enable new forms of magnetic control using in situ knobs. For instance, orbital magnets in moire superlattice systems, where the band structure features nontrivial topology, allow for field-effect switching of magnetic moments and the resulting quantized anomalous Hall effects. I will conclude with an outlook for realizing more exotic topological phases of matter based on orbital magnetism.
-
-
-If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJIsc-ysrj4rE9wn88j7ECWGmVNLhd6TBoyh)
-
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJIsc-ysrj4rE9wn88j7ECWGmVNLhd6TBoyh" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
 ### Xie Chen (Caltech)
@@ -61,6 +49,24 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 <details><summary>abstract</summary>
 
 A striking prediction of the quantum theory of solids is that Bloch electrons in the presence of a constant electric field oscillate at a frequency tunable by the field and taking identical values for all carriers in the band. As a paradigmatic example of collective electron dynamics, Bloch oscillations received much attention, and yet, achieving this regime in solids proved to be challenging. This talk will discuss the new ideas and a new hope triggered by the advent of van der Waals heterostructures, in particular the flat bands in Moire graphene. There are several interesting not-yet-explored regimes harbored by these systems. One is synchronous oscillations of “enlightened” electrons coupled to “the big power in the sky” (the EM field of a proximal resonator)—a collective many-body dynamics that holds promise for THz electronics. Another is magnetic Bloch oscillations achieved by combining constant electric and magnetic fields. The unique dynamical regimes arising in this case are described by the Ashcroft-Mermin (AM) Hamiltonian. We will demonstrate that the AM dynamics is integrable and identify two distinct phases, electric and magnetic, exhibiting position-momentum duality—the orbits extended in the $k$ space and confined in the $x$ space, and vice versa. The boundary between the electric and magnetic phases hosts an interesting and presently poorly understood chaotic dynamical phase. The two phases—electric and magnetic—are of keen interest both as examples of complex quantum dynamics arising in a simple setting and because of their relevance for THz research.
+
+Authors:   
+Preprint: [arXiv:](https://arxiv.org/abs/)
+</details>
+
+
+*Video in preparation*
+
+
+
+
+### Orbital magnetism in graphene heterostructures
+#### Andrea Young, 
+
+<details><summary>abstract</summary>
+
+The earliest reports of ferromagnetism date to Thales of Miletus who lived and wrote around 600 BC. Thales noted the ability of natural magnetite to attract iron, and is said to have taken this as proof that matter itself was alive. Our theories of magnetism have evolved considerably since then: we now know that ferromagnetism arises from the interplay of the Coulomb repulsion between electrons and their fermionic statistics. However, in one sense our science has advanced only little: the vast majority of magnets, like magnetite, consist of ordered arrangements of the electron spins stabilized by the spin orbit interaction. In my talk, I will describe a new class of magnets based on the spontaneous alignment of electron orbitals. Such orbital ferromagnetism may be a generic phenomena, but has, to date, found its fullest expression in graphene heterostructures in which the two dimensional orbits of electrons in distinct momentum space valleys provide the underlying degree of freedom. 
+Because orbital degrees of freedom arise directly from the band wavefunctions, they are uniquely susceptible to experimental control via materials design.  Orbital magnets also enable new forms of magnetic control using in situ knobs. For instance, orbital magnets in moire superlattice systems, where the band structure features nontrivial topology, allow for field-effect switching of magnetic moments and the resulting quantized anomalous Hall effects. I will conclude with an outlook for realizing more exotic topological phases of matter based on orbital magnetism.
 
 Authors:   
 Preprint: [arXiv:](https://arxiv.org/abs/)
