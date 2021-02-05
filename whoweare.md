@@ -15,7 +15,7 @@ Virtual Science Forum is a collaborative effort of the research community. Below
 
 ## Past contributors:
 * Xavi Bonet, Leiden University
-* Stefan Bretzel
+* Stefan Bretzel, LANconcept Moll GmbH
 * Sinead Griffin, Lawrence Berkeley National Lab
 * Adolfo Grushin, Institut Néel
 * Akashdeep Kamra, NTNU Trondheim
