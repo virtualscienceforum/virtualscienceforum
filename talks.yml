@@ -360,8 +360,25 @@
   event_type: lrc
   speaker_name: Xie Chen
   speaker_affiliation: Caltech
-  title: '*TBA*'
-  abstract: '*TBA*'
+  title: Fracton and Chern-Simons Theory
+  abstract: Fracton order describes the peculiar phenomena that point excitations
+    in certain strongly interacting systems either cannot move at all or are only
+    allowed to move in a lower dimensional sub-manifold. It has recently been discovered
+    in various lattice models, tensor gauge theories, etc. In this talk, we discuss
+    how another powerful field theory framework -- the 2+1D Chern-Simons (CS) gauge
+    theory -- can be used to provide new insight and explore new possibilities in
+    3+1D fracton order. 2+1D U(1) gauge theories with a CS term provide a simple and
+    complete characterization of 2+1D Abelian topological orders. To study 3+1D fracton
+    order, we extend the theory by taking the number of component gauge fields to
+    be infinity. In the simplest case of infinite-component CS gauge theory, different
+    components do not couple to each other and the theory describes a decoupled stack
+    of 2+1D fractional Quantum Hall systems with quasi-particles moving only in 2D
+    planes -- hence a fractonic system. More interestingly, we find that when the
+    component gauge fields do couple through the CS term, more varieties of fractonic
+    orders are possible. For example, they may describe foliated fractonic systems
+    which extends the framework found in exactly solvable models. Moreover, we find
+    examples which lie beyond the foliation framework, characterized by 2D excitations
+    of infinite order and braiding statistics that are not strictly local.
   time: 2021-02-17 18:30:00+00:00
   zoom_meeting_id: 93542133638
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJcoc-uprTgsGdz_poJN6ALGKN3lSPfaGEQg
