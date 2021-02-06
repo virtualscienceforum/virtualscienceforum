@@ -384,7 +384,6 @@
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJcoc-uprTgsGdz_poJN6ALGKN3lSPfaGEQg
 - speaker_name: Helene Spring
   speaker_affiliation: TU Delft
-  email: h.spring@tudelft.nl
   preprint: '2012.12909'
   title: Amorphous topological phases protected by continuous rotation symmetry
   abstract: Protection of topological surface states by reflection symmetry breaks
@@ -402,8 +401,7 @@
   time: 2021-02-05 18:00:00+00:00
   workflow_issue: 287
   event_type: speakers_corner
-  zoom_meeting_id: 91715070029
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJUqduyoqTsqGN3h6wONb5nfVhcqcgXbgkuq
+  youtube_id: w-cKuJuYkZQ
 - speaker_name: Elizabeth Dresselhaus
   speaker_affiliation: University of California, Berkeley
   email: ej_dresselhaus@berkeley.edu
