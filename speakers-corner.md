@@ -30,27 +30,12 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-| <time datetime="2021-02-05T18:00:00+00:00">February 5 18:00 UTC</time> | Helene Spring | [Amorphous topological phases protected by continuous rotation symmetry](#amorphous-topological-phases-protected-by-continuous-rotation-symmetry) |
 | <time datetime="2021-02-12T16:00:00+00:00">February 12 16:00 UTC</time> | Elizabeth Dresselhaus | [Numerical evidence for marginal scaling at the integer quantum Hall transition](#numerical-evidence-for-marginal-scaling-at-the-integer-quantum-hall-transition) |
 | <time datetime="2021-02-19T16:00:00+00:00">February 19 16:00 UTC</time> | Michał Pacholski | [Deconfinement of Majorana vortex modes produces a superconducting Landau level](#deconfinement-of-majorana-vortex-modes-produces-a-superconducting-landau-level) |
 | <time datetime="2021-02-26T16:00:00+00:00">February 26 16:00 UTC</time> | Yevheniia Cheipesh | [Quantum tunneling dynamics in complex SYK model quenched-coupled to a cool-bath](#quantum-tunneling-dynamics-in-complex-syk-model-quenched-coupled-to-a-cool-bath) |
 | <time datetime="2021-03-01T16:00:00+00:00">March 1 16:00 UTC</time> | Pramod Kumar | [Flat band induced non-Fermi liquid behavior of multicomponent fermions](#flat-band-induced-non-fermi-liquid-behavior-of-multicomponent-fermions) |
 
 ## Upcoming talks
-
-
-### Amorphous topological phases protected by continuous rotation symmetry
-#### Helene Spring (TU Delft)
-
-> Protection of topological surface states by reflection symmetry breaks down when the boundary of the sample is misaligned with one of the high symmetry planes of the crystal. We demonstrate that this limitation is removed in amorphous topological materials, where the Hamiltonian is invariant on average under reflection over any axis due to continuous rotation symmetry. While the local disorder caused by the amorphous structure weakens the topological protection, we demonstrate that the edge remains protected from localization. In order to classify such phases we perform a systematic search over all the possible symmetry classes in two dimensions and construct the example models realizing each of the proposed topological phases. Finally, we compute the topological invariant of these phases as an integral along a meridian of the spherical Brillouin zone of an amorphous Hamiltonian.
->
-> **Authors:** Helene Spring, Anton R. Akhmerov, Daniel Varjas  
-> **Preprint:** [arXiv:2012.12909](https://arxiv.org/abs/2012.12909)
-
-
-If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJUqduyoqTsqGN3h6wONb5nfVhcqcgXbgkuq)
-
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJUqduyoqTsqGN3h6wONb5nfVhcqcgXbgkuq" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
 ### Numerical evidence for marginal scaling at the integer quantum Hall transition
@@ -331,6 +316,23 @@ Preprint: [arXiv:](https://arxiv.org/abs/)
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/X-Xm7w3hyAo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+### Amorphous topological phases protected by continuous rotation symmetry
+#### Helene Spring, TU Delft
+
+<details><summary>abstract</summary>
+
+Protection of topological surface states by reflection symmetry breaks down when the boundary of the sample is misaligned with one of the high symmetry planes of the crystal. We demonstrate that this limitation is removed in amorphous topological materials, where the Hamiltonian is invariant on average under reflection over any axis due to continuous rotation symmetry. While the local disorder caused by the amorphous structure weakens the topological protection, we demonstrate that the edge remains protected from localization. In order to classify such phases we perform a systematic search over all the possible symmetry classes in two dimensions and construct the example models realizing each of the proposed topological phases. Finally, we compute the topological invariant of these phases as an integral along a meridian of the spherical Brillouin zone of an amorphous Hamiltonian.
+
+Authors: Helene Spring, Anton R. Akhmerov, Daniel Varjas  
+Preprint: [arXiv:](https://arxiv.org/abs/)
+</details>
+
+
+*Video in preparation*
 
 
 
