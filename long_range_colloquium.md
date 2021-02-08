@@ -11,7 +11,7 @@ Attendance is open to everyone, but please register to attend! If you would like
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
 | February 17 | Xie Chen | [Fracton and Chern-Simons Theory](#fracton-and-chern-simons-theory) |
-| March 3 | Monika Aidelsburger | [*TBA*](#*tba*) |
+| March 3 | Monika Aidelsburger | [Ultracold atoms in optical lattices out-of-equilibrium](#ultracold-atoms-in-optical-lattices-out-of-equilibrium) |
 
 ## Upcoming talks
 
@@ -28,9 +28,9 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 
 
 ### Monika Aidelsburger (Ludwig-Maximilians-University Munich)
-#### *TBA*
+#### Ultracold atoms in optical lattices out-of-equilibrium
 
-> *TBA*
+> Well-controlled synthetic quantum systems, such as ultracold atoms in optical lattices, offer intriguing possibilities to study complex many-body problems relevant to a variety of research areas, ranging from condensed matter to high-energy physics. In particular, out-of-equilibrium phenomena constitute natural applications of quantum simulators, which have already successfully demonstrated simulations in regimes that are beyond reach using state-of-the-art numerical techniques.> This enables us to shed new light on fundamental questions about the thermalization of isolated quantum many-body systems. While generic models are expected to thermalize according to the eigenstate thermalization hypothesis (ETH), violation of ETH is believed to occur mainly in two types of systems: integrable models and many-body localized systems. In between these two extreme limits there is, however, a whole range of models that exhibit more complex dynamics, for instance, due to an emergent fragmentation of the Hilbert space into many dynamically disconnected subspaces. Here, we realize such a model by implementing the 1D Fermi-Hubbard model with a strong linear potential [1] and observe strong initial-state dependent thermalization - a smoking-gun signature of Hilbert-space fragmentation.> Engineering quantum systems out-of-equilibrium, on the other hand, further can be used as a tool to engineer novel quantum phases of matter, which cannot be accessed in static realizations. To this end, the system’s parameters are varied periodically, a method commonly known as Floquet engineering [2]. This facilitated the realization of paradigmatic topological lattice models and recently inspired ideas for implementing Z2 lattice gauge theories [3]. The rich properties of topological Floquet systems, however, transcend those of their static counterparts, resulting in a generalized bulk-edge correspondence. As a consequence, topological edge modes can exist even in situations where the bulk bands have zero Chern numbers. The novel properties of such anomalous Floquet systems open the door to exciting new non- equilibrium many-body phases without any static analogue [4].> > [1] S. Scherg et al., arXiv:2010.12965 (2020) > [2] A. Eckardt, Phys. Mod. Phys. 89, 311 (2017)> [3] C. Schweizer et al., Nat. Phys. 15, 1168-1173 (2019)> [4] K. Wintersperger et al., Nature Physics 16, 1058-1063 (2020)
 
 
 If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJYsc--sqD0uHtOoVNP4BNbcxCpuF9_bzPu4)
