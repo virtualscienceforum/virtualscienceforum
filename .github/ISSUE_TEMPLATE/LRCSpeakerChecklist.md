@@ -1,7 +1,7 @@
 ---
 name: LRC Speaker checklist
 about: Workflow issue for an LRC
-title: "Checklist for {session title} on {date}"
+title: "Checklist for LRC by {speaker name} on {date}"
 labels: lrc
 assignees: ""
 ---
