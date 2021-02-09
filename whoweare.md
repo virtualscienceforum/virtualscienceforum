@@ -11,6 +11,7 @@ Virtual Science Forum is a collaborative effort of the research community. Below
 * Giulia Pacchioni, Springer Nature
 * Babak Seradjeh, Indiana University
 * Alberto de la Torre, Brown University
+* Daniel Varjas, TU Delft
 
 
 ## Past contributors:
@@ -20,4 +21,4 @@ Virtual Science Forum is a collaborative effort of the research community. Below
 * Adolfo Grushin, Institut Néel
 * Akashdeep Kamra, NTNU Trondheim
 * Maciej Malinowski, ETH Zürich
-* Daniel Varjas, TU Delft
+
