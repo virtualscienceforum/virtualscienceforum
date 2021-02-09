@@ -1,6 +1,7 @@
 # Who We Are
 
 Virtual Science Forum is a collaborative effort of the research community. Below is the list of contributors so far (in the alphabetical order)!
+This list was last updated on *February 9th 2021*.
 
 ## Current contributors: 
 
