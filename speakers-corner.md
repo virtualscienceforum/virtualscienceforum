@@ -30,26 +30,11 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-| <time datetime="2021-02-12T16:00:00+00:00">February 12 16:00 UTC</time> | Elizabeth Dresselhaus | [Numerical evidence for marginal scaling at the integer quantum Hall transition](#numerical-evidence-for-marginal-scaling-at-the-integer-quantum-hall-transition) |
 | <time datetime="2021-02-19T16:00:00+00:00">February 19 16:00 UTC</time> | Michał Pacholski | [Deconfinement of Majorana vortex modes produces a superconducting Landau level](#deconfinement-of-majorana-vortex-modes-produces-a-superconducting-landau-level) |
 | <time datetime="2021-02-26T16:00:00+00:00">February 26 16:00 UTC</time> | Yevheniia Cheipesh | [Quantum tunneling dynamics in complex SYK model quenched-coupled to a cool-bath](#quantum-tunneling-dynamics-in-complex-syk-model-quenched-coupled-to-a-cool-bath) |
 | <time datetime="2021-03-01T16:00:00+00:00">March 1 16:00 UTC</time> | Pramod Kumar | [Flat band induced non-Fermi liquid behavior of multicomponent fermions](#flat-band-induced-non-fermi-liquid-behavior-of-multicomponent-fermions) |
 
 ## Upcoming talks
-
-
-### Numerical evidence for marginal scaling at the integer quantum Hall transition
-#### Elizabeth Dresselhaus (University of California, Berkeley)
-
-> The integer quantum Hall transition (IQHT) is one of the most mysterious members of the family of Anderson transitions. Since the 1980s, the scaling flow close to the critical fixed point in the parameter plane spanned by the longitudinal and Hall conductivities has been studied vigorously both by experiments and with numerical simulations. Despite all efforts, it is notoriously difficult to pin down the precise values of critical exponents, which seem to vary with model details and thus challenge the principle of universality. Recently, M. Zirnbauer [Nucl. Phys. B 941, 458 (2019)] has conjectured a conformal field theory for the transition, in which linear terms in the beta-functions vanish, leading to a very slow flow in the fixed point's vicinity which we term marginal scaling. In this work, we provide numerical evidence for such a scenario by using extensive simulations of various network models of the IQHT at unprecedented length scales. At criticality, we confirm the marginal scaling of the longitudinal conductivity towards the conjectured fixed-point value $\sigma_{xx} = 2/\pi$. Away from criticality we describe a mechanism that could account for the emergence of an effective critical exponents $\nu_{eff}$, which is necessarily dependent on the parameters of the model. We confirm this idea by exact numerical determination of $\nu_{eff}$ in suitably chosen models.
->
-> **Authors:** E. J. Dresselhaus, B. Sbierski, I. A. Gruzberg  
-> **Preprint:** [arXiv:2101.01716](https://arxiv.org/abs/2101.01716)
-
-
-If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJwsdO-vqDsuHdJJ4fuqIYD0bTRhonWCtbT8)
-
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJwsdO-vqDsuHdJJ4fuqIYD0bTRhonWCtbT8" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
 ### Deconfinement of Majorana vortex modes produces a superconducting Landau level
@@ -333,6 +318,23 @@ Preprint: [arXiv:](https://arxiv.org/abs/)
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/w-cKuJuYkZQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+### Numerical evidence for marginal scaling at the integer quantum Hall transition
+#### Elizabeth Dresselhaus, University of California, Berkeley
+
+<details><summary>abstract</summary>
+
+The integer quantum Hall transition (IQHT) is one of the most mysterious members of the family of Anderson transitions. Since the 1980s, the scaling flow close to the critical fixed point in the parameter plane spanned by the longitudinal and Hall conductivities has been studied vigorously both by experiments and with numerical simulations. Despite all efforts, it is notoriously difficult to pin down the precise values of critical exponents, which seem to vary with model details and thus challenge the principle of universality. Recently, M. Zirnbauer [Nucl. Phys. B 941, 458 (2019)] has conjectured a conformal field theory for the transition, in which linear terms in the beta-functions vanish, leading to a very slow flow in the fixed point's vicinity which we term marginal scaling. In this work, we provide numerical evidence for such a scenario by using extensive simulations of various network models of the IQHT at unprecedented length scales. At criticality, we confirm the marginal scaling of the longitudinal conductivity towards the conjectured fixed-point value $\sigma_{xx} = 2/\pi$. Away from criticality we describe a mechanism that could account for the emergence of an effective critical exponents $\nu_{eff}$, which is necessarily dependent on the parameters of the model. We confirm this idea by exact numerical determination of $\nu_{eff}$ in suitably chosen models.
+
+Authors: E. J. Dresselhaus, B. Sbierski, I. A. Gruzberg  
+Preprint: [arXiv:](https://arxiv.org/abs/)
+</details>
+
+
+*Video in preparation*
 
 
 
