@@ -32,6 +32,37 @@ The workshop will take place Feb 18 and 19, 2021. All times listed below are US 
     - T. Senthil (MIT)
   - Moderator: Art Ramirez (UC Santa Cruz)
 
+## Late-breaking session
+
+### Quantum oscillations in 2D insulators induced by graphite gates
+by Kin Fai Mak, Cornell University
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BqhF5Ic8E1g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Intrinsic low-energy magnetic excitations detected in SmB6 by μSR
+by Jeff Sonier, Simon Fraser University
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5YKtNYs1e2Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Bulk Transport Through Defects in Floating Zone and Al-flux-grown Samarium Hexaboride
+by Cagliyan Kurdak, University of Michigan
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ihkcqeZCqPE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Evidence for Specific Heat Quantum Oscillations in SmB6
+by Patrick LeBarre, University of California Santa Cruz
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2RSjJrXWIqU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Anomalous Quantum Oscillations in a Heterostructure of Graphene on a Proximate Quantum Spin Liquid
+by Valentin Leeb, Technical University Munich
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zdoZC7h1oGc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Majoranas in Mixed Valence Insulators
+by Chandra Varma, University of California Berkeley
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vN5IQxgzKPQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Organizers
 
