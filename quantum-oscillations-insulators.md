@@ -59,15 +59,15 @@ by Valentin Leeb, Technical University Munich
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zdoZC7h1oGc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Survival of neutral fermions into the high-magnetic-field Kondo-metal state of YbB₁₂
-by John Singleton, Los Alamos National Lab
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/M52rdrB8m4U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ### Majoranas in Mixed Valence Insulators
 by Chandra Varma, University of California Berkeley
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vN5IQxgzKPQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Survival of neutral fermions into the high-magnetic-field Kondo-metal state of YbB₁₂
+by John Singleton, Los Alamos National Lab
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/M52rdrB8m4U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Organizers
 
