@@ -30,25 +30,10 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-| <time datetime="2021-02-19T16:00:00+00:00">February 19 16:00 UTC</time> | Michał Pacholski | [Deconfinement of Majorana vortex modes produces a superconducting Landau level](#deconfinement-of-majorana-vortex-modes-produces-a-superconducting-landau-level) |
 | <time datetime="2021-02-26T16:00:00+00:00">February 26 16:00 UTC</time> | Yevheniia Cheipesh | [Quantum tunneling dynamics in complex SYK model quenched-coupled to a cool-bath](#quantum-tunneling-dynamics-in-complex-syk-model-quenched-coupled-to-a-cool-bath) |
 | <time datetime="2021-03-01T16:00:00+00:00">March 1 16:00 UTC</time> | Pramod Kumar | [Flat band induced non-Fermi liquid behavior of multicomponent fermions](#flat-band-induced-non-fermi-liquid-behavior-of-multicomponent-fermions) |
 
 ## Upcoming talks
-
-
-### Deconfinement of Majorana vortex modes produces a superconducting Landau level
-#### Michał Pacholski (Instituut-Lorentz, Universiteit Leiden)
-
-> A spatially oscillating pair potential $\Delta(r)=\Delta_0 e^{i K\cdot x}$ with momentum $K>\Delta_0/\hbar v$ drives a deconfinement transition of the Majorana bound states in the vortex cores of a Fu-Kane heterostructure (a 3D topological insulator with Fermi velocity $v$, on a superconducting substrate with gap $\Delta_0$, in a perpendicular magnetic field). In the deconfined phase at zero chemical potential the Majorana fermions form a dispersionless Landau level, protected by chiral symmetry against broadening due to vortex scattering. The coherent superposition of electrons and holes in the Majorana Landau level is detectable as a local density of states oscillation with wave vector $\sqrt{K^2-(\Delta_0/\hbar v)^2}$. The striped pattern also provides a means to measure the chirality of the Majorana fermions.
->
-> **Authors:** M. J. Pacholski, G. Lemut, O. Ovdat, İ. Adagideli, C. W. J. Beenakker  
-> **Preprint:** [arXiv:2101.08252](https://arxiv.org/abs/2101.08252)
-
-
-If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJAvceysrD8qHNcegq6IuspZ8KgEZ_tOXADD)
-
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJAvceysrD8qHNcegq6IuspZ8KgEZ_tOXADD" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
 ### Quantum tunneling dynamics in complex SYK model quenched-coupled to a cool-bath
@@ -330,6 +315,23 @@ Preprint: [arXiv:](https://arxiv.org/abs/)
 The integer quantum Hall transition (IQHT) is one of the most mysterious members of the family of Anderson transitions. Since the 1980s, the scaling flow close to the critical fixed point in the parameter plane spanned by the longitudinal and Hall conductivities has been studied vigorously both by experiments and with numerical simulations. Despite all efforts, it is notoriously difficult to pin down the precise values of critical exponents, which seem to vary with model details and thus challenge the principle of universality. Recently, M. Zirnbauer [Nucl. Phys. B 941, 458 (2019)] has conjectured a conformal field theory for the transition, in which linear terms in the beta-functions vanish, leading to a very slow flow in the fixed point's vicinity which we term marginal scaling. In this work, we provide numerical evidence for such a scenario by using extensive simulations of various network models of the IQHT at unprecedented length scales. At criticality, we confirm the marginal scaling of the longitudinal conductivity towards the conjectured fixed-point value $\sigma_{xx} = 2/\pi$. Away from criticality we describe a mechanism that could account for the emergence of an effective critical exponents $\nu_{eff}$, which is necessarily dependent on the parameters of the model. We confirm this idea by exact numerical determination of $\nu_{eff}$ in suitably chosen models.
 
 Authors: E. J. Dresselhaus, B. Sbierski, I. A. Gruzberg  
+Preprint: [arXiv:](https://arxiv.org/abs/)
+</details>
+
+
+*Video in preparation*
+
+
+
+
+### Deconfinement of Majorana vortex modes produces a superconducting Landau level
+#### Michał Pacholski, Instituut-Lorentz, Universiteit Leiden
+
+<details><summary>abstract</summary>
+
+A spatially oscillating pair potential $\Delta(r)=\Delta_0 e^{i K\cdot x}$ with momentum $K>\Delta_0/\hbar v$ drives a deconfinement transition of the Majorana bound states in the vortex cores of a Fu-Kane heterostructure (a 3D topological insulator with Fermi velocity $v$, on a superconducting substrate with gap $\Delta_0$, in a perpendicular magnetic field). In the deconfined phase at zero chemical potential the Majorana fermions form a dispersionless Landau level, protected by chiral symmetry against broadening due to vortex scattering. The coherent superposition of electrons and holes in the Majorana Landau level is detectable as a local density of states oscillation with wave vector $\sqrt{K^2-(\Delta_0/\hbar v)^2}$. The striped pattern also provides a means to measure the chirality of the Majorana fermions.
+
+Authors: M. J. Pacholski, G. Lemut, O. Ovdat, İ. Adagideli, C. W. J. Beenakker  
 Preprint: [arXiv:](https://arxiv.org/abs/)
 </details>
 
