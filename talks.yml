@@ -492,7 +492,6 @@
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJcvcOqtqT0pHNa04eDBSsSSxQmIQm1PJO9c
 - speaker_name: Michał Pacholski
   speaker_affiliation: Instituut-Lorentz, Universiteit Leiden
-  email: mpacholski@lorentz.leidenuniv.nl
   preprint: '2101.08252'
   title: Deconfinement of Majorana vortex modes produces a superconducting Landau
     level
@@ -511,8 +510,7 @@
   time: 2021-02-19 16:00:00+00:00
   workflow_issue: 301
   event_type: speakers_corner
-  zoom_meeting_id: 94265424063
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJAvceysrD8qHNcegq6IuspZ8KgEZ_tOXADD
+  youtube_id: iBntU1RkIVo
 - speaker_name: Pramod Kumar
   speaker_affiliation: Aalto University
   email: pramod.kumar@aalto.fi
