@@ -28,6 +28,8 @@ YYYY-MM-DD
 - [ ] update the [researchseminars.org](https://researchseminars.org/seminar/VSFLRC) listing (need to get link or ask Babak)
 - [ ] Check if the speaker wants to join earlier for an informal chat
   - [ ] Check if they do
+- [ ] Ask the speaker for a cover image 
+  - [ ] if an image is provided, comment with "cover image" as text and attach the image
 - [ ] email announcement to all who signed up for updates (-2 weeks)
 - [ ] twitter announcement (-2 weeks)
 - [ ] reminder twitter announcement (-2 days)
