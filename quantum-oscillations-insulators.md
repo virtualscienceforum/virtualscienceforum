@@ -23,7 +23,7 @@ by Lu Li, University of Michigan
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pOLH5MZQIBo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Intrinsic Landau Quantization in WTe<sub>2</sub> Insulators
-by Kin Fai Mak, Cornell University
+by Sanfeng Wu, Princeton University
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ybZJ3dtPRyo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
