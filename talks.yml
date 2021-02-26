@@ -404,7 +404,6 @@
   youtube_id: w-cKuJuYkZQ
 - speaker_name: Elizabeth Dresselhaus
   speaker_affiliation: University of California, Berkeley
-  email: ej_dresselhaus@berkeley.edu
   preprint: '2101.01716'
   title: Numerical evidence for marginal scaling at the integer quantum Hall transition
   abstract: The integer quantum Hall transition (IQHT) is one of the most mysterious
@@ -428,8 +427,7 @@
   time: 2021-02-12 16:00:00+00:00
   workflow_issue: 292
   event_type: speakers_corner
-  zoom_meeting_id: 98136760476
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJwsdO-vqDsuHdJJ4fuqIYD0bTRhonWCtbT8
+  youtube_id: O0eJGAy_FIo
 - speaker_name: Monika Aidelsburger
   speaker_affiliation: Ludwig-Maximilians-University Munich
   title: Ultracold atoms in optical lattices out-of-equilibrium
