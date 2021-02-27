@@ -30,24 +30,9 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-| <time datetime="2021-02-26T16:00:00+00:00">February 26 16:00 UTC</time> | Yevheniia Cheipesh | [Quantum tunneling dynamics in complex SYK model quenched-coupled to a cool-bath](#quantum-tunneling-dynamics-in-complex-syk-model-quenched-coupled-to-a-cool-bath) |
 | <time datetime="2021-03-01T16:00:00+00:00">March 1 16:00 UTC</time> | Pramod Kumar | [Flat band induced non-Fermi liquid behavior of multicomponent fermions](#flat-band-induced-non-fermi-liquid-behavior-of-multicomponent-fermions) |
 
 ## Upcoming talks
-
-
-### Quantum tunneling dynamics in complex SYK model quenched-coupled to a cool-bath
-#### Yevheniia Cheipesh (Leiden University)
-
-> The Sachdev-Ye-Kitaev (SYK) model describes interacting fermionic zero modes in zero spatial dimensions, e.g. quantum dot, with interactions strong enough to completely washout quasiparticle excitations in the infrared. In this note, we consider the complex-valued SYK model at temperature $T$ coupled to a zero temperature reservoir by a quench. We find out that the tunneling current dynamics reveals a way to distinguish the SYK non-Fermi liquid (nFL) initial state of the subsystem from the disordered Fermi liquid. Temperature dependent contribution to the current's half-life scales linearly in $T$ at low temperatures for the SYK nFl state, while for the Fermi liquid it scales as $T^2$. This provides a characteristic signature of the SYK non-Fermi liquid in a non-equilibrium measurement.
->
-> **Authors:** Y. Cheipesh, A. I. Pavlov, V. Ohanesjan, K. Schalm, N. V. Gnezdilov  
-> **Preprint:** [arXiv:2011.05238](https://arxiv.org/abs/2011.05238)
-
-
-If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJcvcOqtqT0pHNa04eDBSsSSxQmIQm1PJO9c)
-
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJcvcOqtqT0pHNa04eDBSsSSxQmIQm1PJO9c" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
 ### Flat band induced non-Fermi liquid behavior of multicomponent fermions
@@ -337,6 +322,23 @@ Preprint: [arXiv:](https://arxiv.org/abs/)
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iBntU1RkIVo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+### Quantum tunneling dynamics in complex SYK model quenched-coupled to a cool-bath
+#### Yevheniia Cheipesh, Leiden University
+
+<details><summary>abstract</summary>
+
+The Sachdev-Ye-Kitaev (SYK) model describes interacting fermionic zero modes in zero spatial dimensions, e.g. quantum dot, with interactions strong enough to completely washout quasiparticle excitations in the infrared. In this note, we consider the complex-valued SYK model at temperature $T$ coupled to a zero temperature reservoir by a quench. We find out that the tunneling current dynamics reveals a way to distinguish the SYK non-Fermi liquid (nFL) initial state of the subsystem from the disordered Fermi liquid. Temperature dependent contribution to the current's half-life scales linearly in $T$ at low temperatures for the SYK nFl state, while for the Fermi liquid it scales as $T^2$. This provides a characteristic signature of the SYK non-Fermi liquid in a non-equilibrium measurement.
+
+Authors: Y. Cheipesh, A. I. Pavlov, V. Ohanesjan, K. Schalm, N. V. Gnezdilov  
+Preprint: [arXiv:](https://arxiv.org/abs/)
+</details>
+
+
+*Video in preparation*
 
 
 
