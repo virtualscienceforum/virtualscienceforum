@@ -73,11 +73,11 @@ We of course ask you to be considerate and avoid spamming your colleagues.
 
 In the virtual conference setting, moderators play a vital role. Find moderators for your event. The moderator's role is demanding, and we recommend finding more than one person to fill it. For example, you might want to have one person in charge of introducing the speakers and moderate the question, and a second one checking who want to asks questions and making sure everything is running smoothly. See our [Moderator Guide](https://virtualscienceforum.org/#/moderatorguide) for more detailed information.
 
-Set up an appointment with the speakers and the moderators to introduce them to the platform. 
+Set up an appointment with the speakers and the moderators to introduce them to the platform. Note: speakers should set their screen resolution to 1920x1080 or lower in order for the recording to render properly (otherwise the speaker's video stream will be tiny).
 
 ### During the event
 
-Make final technical checks shortly before the event starts. By this time you, the moderators, and the speakers should know how the platform works (it’s easy, but requires some preparation).
+Make final technical checks shortly before the event starts. By this time you, the moderators, and the speakers should know how the platform works (it’s easy, but requires some preparation). Remind the speakers to set their screen resolution to 1920x1080 or lower in order for the recording to render properly (otherwise the speaker's video stream will be tiny).
 
 Give a brief opening and closing speech. In the opening speech, introduce the event, and remind participants of the code of conduct.
 
