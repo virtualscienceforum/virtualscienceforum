@@ -32,7 +32,7 @@ YYYY-MM-DD
 - [ ] twitter announcement (-2 weeks)
 - [ ] reminder twitter announcement (-2 days)
 - [ ] assign the roles (moderator/backup) (-2 days)
-- [ ] Email the speaker their login link (access it via Zoom UI)
+- [ ] Email the speaker their login link (access it via Zoom UI). Ask the speaker to check their screen resolution is max 1080p.
 - [ ] A reminder email (-4 hours)
 - [ ] Relay to the speaker the video link and request approval of the recording publication.
 - [ ] respond with "the speaker approves publishing the recording. start HH:MM:SS, end HH:MM:SS"
