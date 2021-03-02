@@ -16,7 +16,8 @@ Good luck with your talk!
 
 ## During the meeting
 
-- The meeting will be open for joining 5 minutes before the talk starts. Join at that time using the personal link we sent (don't be late!).
+- The meeting will be open for joining 5 minutes before the talk starts. Join at that time using the personal link we sent (don't be late!). 
+- Ensure that your screen resolution is 1920x1080 or lower; otherwise, the speaker's video will be too small in the recording. 
 - **Claim meeting host by using the host key that is in your email.** (You won't be able to use screenshare otherwise)
 - The recording starts automatically as soon as you join. Don't stop it; you may pause it, but don't forget to unpause.
 - Tell your audience how the questions will be organized. Can they ask questions during the talk or only at the end? How should they signal they have a question?
