@@ -20,8 +20,10 @@ containing all of the upcoming talks. That way, more potential participants will
   - make sure to **advertise your talk at your institution** and **invite participants to register for the talk**
   - tweet at @VirtualSciForum with the hashtag #VSFSpeakersCorner and we will retweet your talk info
   - VSF announces your talk in the VSF Speakers' Corner mailing list and on this website
-5. You are welcome to moderate your talk yourself as well as invite a colleague to be your moderator
-6. VSF records your talk, forwards it to you for approval, and publishes it in the [YouTube channel](https://www.youtube.com/channel/UCvQEx4iW7u_x3jX742kUZLw)
+5. Preparing for your talk:
+  - check that your screen resolution is set to lower than 1080p. This ensures the video captured by your camera while you speak will be not appear too small in the recording.
+6. You are welcome to moderate your talk yourself as well as invite a colleague to be your moderator
+7. VSF records your talk, forwards it to you for approval, and publishes it in the [YouTube channel](https://www.youtube.com/channel/UCvQEx4iW7u_x3jX742kUZLw)
 
 
 ## Schedule
