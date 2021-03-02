@@ -11,9 +11,9 @@ We offer beginning-to-end support for organizing an academic event of your own, 
 ### Current Events
 * [Long Range Colloquium](long_range_colloquium.md) series **every other Wednesday** at 1:30 pm EDT / 7:30pm CEST
 * [Speakers' Corner](speakers-corner.md), a **self-invited** seminar series
-* Workshop: [Quantum Oscillations in insulators](quantum-oscillations-insulators.md)
 
 ### Previous Events
+* Workshop: [Quantum Oscillations in insulators](quantum-oscillations-insulators.md)
 * Mini-tutorial on [computational quantum transport](quantum-transport-workshop.md)
 * [Observing Anyons 2020](Observing_Anyons_2020.md) mini-conference
 * Workshop on [Scanning Probe Microscopy](SPM_workshop.md)
