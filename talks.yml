@@ -511,7 +511,6 @@
   youtube_id: iBntU1RkIVo
 - speaker_name: Pramod Kumar
   speaker_affiliation: Aalto University
-  email: pramod.kumar@aalto.fi
   preprint: '2005.05457'
   title: Flat band induced non-Fermi liquid behavior of multicomponent fermions
   abstract: We investigate multicomponent fermions in a flat band and predict experimental
@@ -527,8 +526,7 @@
   time: 2021-03-01 16:00:00+00:00
   workflow_issue: 302
   event_type: speakers_corner
-  zoom_meeting_id: 99394988343
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJ0ufu2hpjMpHteF6WrTA7ucor1k8fsoBpzU
+  youtube_id: VBkv2PD5mL4
 - speaker_name: Andrew Mackenzie
   speaker_affiliation: Max Planck Institute for Chemical Physics of Solids
   title: '*TBA*'
