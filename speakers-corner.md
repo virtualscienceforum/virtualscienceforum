@@ -30,23 +30,8 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-| <time datetime="2021-03-01T16:00:00+00:00">March 1 16:00 UTC</time> | Pramod Kumar | [Flat band induced non-Fermi liquid behavior of multicomponent fermions](#flat-band-induced-non-fermi-liquid-behavior-of-multicomponent-fermions) |
 
 ## Upcoming talks
-
-
-### Flat band induced non-Fermi liquid behavior of multicomponent fermions
-#### Pramod Kumar (Aalto University)
-
-> We investigate multicomponent fermions in a flat band and predict experimental signatures of non-Fermi liquid behavior. We use dynamical mean-field theory to obtain the density, double occupancy and entropy in a Lieb lattice for $\mathcal{N} = 2$ and $\mathcal{N} = 4$ components. We derive a mean-field scaling relation between the results for different values of $\mathcal{N}$, and study its breakdown due to beyond-mean field effects. The predicted signatures occur at temperatures above the N\'eel temperature and persist in presence of a harmonic trapping potential, thus they are observable with current ultracold gas experiments.
->
-> **Authors:** Pramod Kumar, Sebastiano Peotta, Yosuke Takasu, Yoshiro Takahashi, Päivi Törmä  
-> **Preprint:** [arXiv:2005.05457](https://arxiv.org/abs/2005.05457)
-
-
-If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJ0ufu2hpjMpHteF6WrTA7ucor1k8fsoBpzU)
-
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJ0ufu2hpjMpHteF6WrTA7ucor1k8fsoBpzU" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
 
@@ -334,6 +319,23 @@ Preprint: [arXiv:](https://arxiv.org/abs/)
 The Sachdev-Ye-Kitaev (SYK) model describes interacting fermionic zero modes in zero spatial dimensions, e.g. quantum dot, with interactions strong enough to completely washout quasiparticle excitations in the infrared. In this note, we consider the complex-valued SYK model at temperature $T$ coupled to a zero temperature reservoir by a quench. We find out that the tunneling current dynamics reveals a way to distinguish the SYK non-Fermi liquid (nFL) initial state of the subsystem from the disordered Fermi liquid. Temperature dependent contribution to the current's half-life scales linearly in $T$ at low temperatures for the SYK nFl state, while for the Fermi liquid it scales as $T^2$. This provides a characteristic signature of the SYK non-Fermi liquid in a non-equilibrium measurement.
 
 Authors: Y. Cheipesh, A. I. Pavlov, V. Ohanesjan, K. Schalm, N. V. Gnezdilov  
+Preprint: [arXiv:](https://arxiv.org/abs/)
+</details>
+
+
+*Video in preparation*
+
+
+
+
+### Flat band induced non-Fermi liquid behavior of multicomponent fermions
+#### Pramod Kumar, Aalto University
+
+<details><summary>abstract</summary>
+
+We investigate multicomponent fermions in a flat band and predict experimental signatures of non-Fermi liquid behavior. We use dynamical mean-field theory to obtain the density, double occupancy and entropy in a Lieb lattice for $\mathcal{N} = 2$ and $\mathcal{N} = 4$ components. We derive a mean-field scaling relation between the results for different values of $\mathcal{N}$, and study its breakdown due to beyond-mean field effects. The predicted signatures occur at temperatures above the N\'eel temperature and persist in presence of a harmonic trapping potential, thus they are observable with current ultracold gas experiments.
+
+Authors: Pramod Kumar, Sebastiano Peotta, Yosuke Takasu, Yoshiro Takahashi, Päivi Törmä  
 Preprint: [arXiv:](https://arxiv.org/abs/)
 </details>
 
