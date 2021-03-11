@@ -10,13 +10,13 @@ Attendance is open to everyone, but please register to attend! If you would like
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-| March 31 | Andrew Mackenzie | [*TBA*](#*tba*) |
+| March 31 | Andrew Mackenzie | [Benefits of good old-fashioned crystalline perfection - new physics in ultra pure delafossite metals](#benefits-of-good-old-fashioned-crystalline-perfection---new-physics-in-ultra-pure-delafossite-metals) |
 
 ## Upcoming talks
 
 
 ### Andrew Mackenzie (Max Planck Institute for Chemical Physics of Solids)
-#### *TBA*
+#### Benefits of good old-fashioned crystalline perfection - new physics in ultra pure delafossite metals
 
 > *TBA*
 
