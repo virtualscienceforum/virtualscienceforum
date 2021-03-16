@@ -18,7 +18,7 @@ Attendance is open to everyone, but please register to attend! If you would like
 ### Andrew Mackenzie (Max Planck Institute for Chemical Physics of Solids)
 #### Benefits of good old-fashioned crystalline perfection - new physics in ultra pure delafossite metals
 
-> *TBA*
+> The delafossites are a series of layered compounds with triangular lattices similar to that of NaCoO2 but with a different stacking sequence along the c axis.  They are host to intriguing magnetic insulators and semimetals, as well as metals such as PdCoO2, PtCoO2, PdCrO2 and PdRhO2.  The properties of these metals are remarkable.  Although they are strongly two-dimensional, their room temperature electrical conductivity is higher per carrier than that of any elemental metal, and PdCoO2 crystals can have a low temperature resistivity of only a few nΩcm, corresponding to mean free paths of tens of microns.  I will describe recent experiments from my group in which we have established that the huge mean free paths result from extraordinarily low defect densities in the conducting planes of as-grown crystals, and give examples of new mesoscopic physics that can be observed as a result.  If time permits I will also discuss intriguing bulk and surface states that can be observed with extremely high resolution in angle resolved photoemission experiments.
 
 
 If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJYvceuorz8jHdFnAxJ4sPramnnXtyfWZpqj)
