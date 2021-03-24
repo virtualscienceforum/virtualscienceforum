@@ -26,18 +26,36 @@ containing all of the upcoming talks. That way, more potential participants will
 7. VSF records your talk, forwards it to you for approval, and publishes it in the [YouTube channel](https://www.youtube.com/channel/UCvQEx4iW7u_x3jX742kUZLw)
 
 
-## Schedule
 
-All times are shown in <span id="timezone">UTC</span> timezone.
-
-|   Date   |     Speaker    | Title |
-|:---------:|:--------------:|:-----:|
 
 ## Upcoming talks
+
+There are no upcoming talks at the moment, apply [here](https://github.com/virtualscienceforum/virtualscienceforum/issues/new?template=speakers_corner_application.md&labels=speakers_corner&title=Speakers%27%20corner%20talk%20application) to present one.
 
 
 
 ## Recordings
+
+|     Speaker    | Title |
+|:--------------:|:-----:|
+| Antonio Manesco | [Correlations in the elastic Landau level of spontaneously buckled graphene](#correlations-in-the-elastic-landau-level-of-spontaneously-buckled-graphene) |
+| Hamed Vakili | [Using skyrmionic racetracks for unconventional computing](#using-skyrmionic-racetracks-for-unconventional-computing) |
+| Joshuah T. Heath | [Landau Quasiparticles in Weak Power-Law Liquids](#landau-quasiparticles-in-weak-power-law-liquids) |
+| Valla Fatemi | [Topological Band Structures in the Offset-Parameter-Dependence of Small Josephson Circuits](#topological-band-structures-in-the-offset-parameter-dependence-of-small-josephson-circuits) |
+| André Melo | [Conductance asymmetries in mesoscopic superconducting devices due to finite bias](#conductance-asymmetries-in-mesoscopic-superconducting-devices-due-to-finite-bias) |
+| Julien Barrier | [Long-range ballistic transport of Brown-Zak fermions in graphene superlattices](#long-range-ballistic-transport-of-brown-zak-fermions-in-graphene-superlattices) |
+| Bo Peng | [Topological phonons in oxide perovskites controlled by light](#topological-phonons-in-oxide-perovskites-controlled-by-light) |
+| Dalla Torre Emanuele | [Statistical Floquet prethermalization from kicked rotors to the Bose-Hubbard model](#statistical-floquet-prethermalization-from-kicked-rotors-to-the-bose-hubbard-model) |
+| Vasilii Vadimov | [Many-body Majorana-like zero modes without gauge symmetry breaking](#many-body-majorana-like-zero-modes-without-gauge-symmetry-breaking) |
+| Antonio Manesco | [Strain-engineering the topological type-II Dirac semimetal NiTe2](#strain-engineering-the-topological-type-ii-dirac-semimetal-nite2) |
+| Chun-Xiao Liu | [Electronic properties of InAs/EuS/Al hybrid nanowires](#electronic-properties-of-inas/eus/al-hybrid-nanowires) |
+| Abhishek Kumar | [Floquet Gauge Pump](#floquet-gauge-pump) |
+| Kostas Vilkelis | [Bloch-Lorentz magnetoresistance oscillations in delafossites](#bloch-lorentz-magnetoresistance-oscillations-in-delafossites) |
+| Helene Spring | [Amorphous topological phases protected by continuous rotation symmetry](#amorphous-topological-phases-protected-by-continuous-rotation-symmetry) |
+| Elizabeth Dresselhaus | [Numerical evidence for marginal scaling at the integer quantum Hall transition](#numerical-evidence-for-marginal-scaling-at-the-integer-quantum-hall-transition) |
+| Michał Pacholski | [Deconfinement of Majorana vortex modes produces a superconducting Landau level](#deconfinement-of-majorana-vortex-modes-produces-a-superconducting-landau-level) |
+| Yevheniia Cheipesh | [Quantum tunneling dynamics in complex SYK model quenched-coupled to a cool-bath](#quantum-tunneling-dynamics-in-complex-syk-model-quenched-coupled-to-a-cool-bath) |
+| Pramod Kumar | [Flat band induced non-Fermi liquid behavior of multicomponent fermions](#flat-band-induced-non-fermi-liquid-behavior-of-multicomponent-fermions) |
 
 
 
