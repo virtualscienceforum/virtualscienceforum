@@ -560,12 +560,8 @@
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJUvdu2hpjIrH9JyaVx-3KNb2dryPUHNl0K5
 - speaker_name: Andreas Wallraff
   speaker_affiliation: ETH Zurich
-  title: Quantum communication
-  abstract: "Microwave Quantum Link between Superconducting Circuits Housed in Spatially\
-    \ Separated Cryogenic Systems \r\nP. Magnard, S. Storz, P. Kurpiers, J. Schär,\
-    \ F. Marxer, J. Lütolf, T. Walter, J. - C. Besse, M. Gabureac, K. Reuer, A. Akin,\
-    \ B. Royer, A. Blais, and A. Wallraff, Phys. Rev. Lett. 125, 260502 (2020), \r\
-    \narXiv:2008.01642"
+  title: TBA
+  abstract: TBA
   time: 2021-04-14 18:30:00+00:00
   workflow_issue: 345
   event_type: lrc
