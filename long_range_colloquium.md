@@ -34,12 +34,20 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 > Microwave Quantum Link between Superconducting Circuits Housed in Spatially Separated Cryogenic Systems > P. Magnard, S. Storz, P. Kurpiers, J. Schär, F. Marxer, J. Lütolf, T. Walter, J. - C. Besse, M. Gabureac, K. Reuer, A. Akin, B. Royer, A. Blais, and A. Wallraff, Phys. Rev. Lett. 125, 260502 (2020), > arXiv:2008.01642
 
 
+If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJckc-qvrzMrHtM5vR1hjTVlE9CmSraWC7dP)
+
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJckc-qvrzMrHtM5vR1hjTVlE9CmSraWC7dP" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
 
 ### Michael Sentef (Max Planck Institute for the Structure and Dynamics of Matter)
 #### *TBA*
 
 > *TBA*
 
+
+If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJUvdu2hpjIrH9JyaVx-3KNb2dryPUHNl0K5)
+
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJUvdu2hpjIrH9JyaVx-3KNb2dryPUHNl0K5" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
 
