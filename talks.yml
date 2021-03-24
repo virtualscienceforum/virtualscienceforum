@@ -549,3 +549,10 @@
   event_type: lrc
   zoom_meeting_id: 92262014975
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJYvceuorz8jHdFnAxJ4sPramnnXtyfWZpqj
+- speaker_name: Michael Sentef
+  speaker_affiliation: Max Planck Institute for the Structure and Dynamics of Matter
+  title: '*TBA*'
+  abstract: '*TBA*'
+  time: 2021-04-28 18:30:00+00:00
+  workflow_issue: 343
+  event_type: lrc

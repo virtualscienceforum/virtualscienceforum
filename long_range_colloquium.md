@@ -11,6 +11,7 @@ Attendance is open to everyone, but please register to attend! If you would like
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
 | March 31 | Andrew Mackenzie | [Benefits of good old-fashioned crystalline perfection - new physics in ultra pure delafossite metals](#benefits-of-good-old-fashioned-crystalline-perfection---new-physics-in-ultra-pure-delafossite-metals) |
+| April 28 | Michael Sentef | [*TBA*](#*tba*) |
 
 ## Upcoming talks
 
@@ -24,6 +25,13 @@ Attendance is open to everyone, but please register to attend! If you would like
 If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJYvceuorz8jHdFnAxJ4sPramnnXtyfWZpqj)
 
 <iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJYvceuorz8jHdFnAxJ4sPramnnXtyfWZpqj" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
+
+### Michael Sentef (Max Planck Institute for the Structure and Dynamics of Matter)
+#### *TBA*
+
+> *TBA*
+
 
 
 
