@@ -556,6 +556,8 @@
   time: 2021-04-28 18:30:00+00:00
   workflow_issue: 343
   event_type: lrc
+  zoom_meeting_id: 91214989156
+  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJUvdu2hpjIrH9JyaVx-3KNb2dryPUHNl0K5
 - speaker_name: Andreas Wallraff
   speaker_affiliation: ETH Zurich
   title: Quantum communication
@@ -567,3 +569,5 @@
   time: 2021-04-14 18:30:00+00:00
   workflow_issue: 345
   event_type: lrc
+  zoom_meeting_id: 93943718147
+  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJckc-qvrzMrHtM5vR1hjTVlE9CmSraWC7dP
