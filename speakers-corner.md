@@ -28,9 +28,18 @@ containing all of the upcoming talks. That way, more potential participants will
 
 
 
+## Schedule
+
+All times are shown in <span id="timezone">UTC</span> timezone.
+
+|   Date   |     Speaker    | Title |
+|:---------:|:--------------:|:-----:|
+| <time datetime="2021-04-12T15:00:00+00:00">April 12 15:00 UTC</time> | Valentin Crépel | [Superconductivity mediated by a third-electron: 
+Spin-triplet superconductivity from excitonic eﬀect in doped band insulators](#superconductivity-mediated-by-a-third-electron:-
+spin-triplet-superconductivity-from-excitonic-eﬀect-in-doped-band-insulators) |
+
 ## Upcoming talks
 
-There are no upcoming talks at the moment, apply [here](https://github.com/virtualscienceforum/virtualscienceforum/issues/new?template=speakers_corner_application.md&labels=speakers_corner&title=Speakers%27%20corner%20talk%20application) to present one.
 
 
 
