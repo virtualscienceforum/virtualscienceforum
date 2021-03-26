@@ -15,7 +15,7 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 
 ## Upcoming talks
 
-{% for talk in talks | sort(attribute="time") if talk.time > now %}
+{% for talk in upcoming | sort(attribute="time") %}
 ### {{ talk.title }}
 #### {{ talk.speaker_name }} ({{ talk.speaker_affiliation }})
 
