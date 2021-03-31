@@ -10,28 +10,16 @@ Attendance is open to everyone, but please register to attend! If you would like
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-| March 31 | Andrew Mackenzie | [Benefits of good old-fashioned crystalline perfection - new physics in ultra pure delafossite metals](#benefits-of-good-old-fashioned-crystalline-perfection---new-physics-in-ultra-pure-delafossite-metals) |
-| April 14 | Andreas Wallraff | [TBA](#tba) |
+| April 14 | Andreas Wallraff | [Microwave Networks for Solid State Quantum Information Processors](#microwave-networks-for-solid-state-quantum-information-processors) |
 | April 28 | Michael Sentef | [Cavity quantum materials](#cavity-quantum-materials) |
 
 ## Upcoming talks
 
 
-### Andrew Mackenzie (Max Planck Institute for Chemical Physics of Solids)
-#### Benefits of good old-fashioned crystalline perfection - new physics in ultra pure delafossite metals
-
-> The delafossites are a series of layered compounds with triangular lattices similar to that of NaCoO2 but with a different stacking sequence along the c axis.  They are host to intriguing magnetic insulators and semimetals, as well as metals such as PdCoO2, PtCoO2, PdCrO2 and PdRhO2.  The properties of these metals are remarkable.  Although they are strongly two-dimensional, their room temperature electrical conductivity is higher per carrier than that of any elemental metal, and PdCoO2 crystals can have a low temperature resistivity of only a few nΩcm, corresponding to mean free paths of tens of microns.  I will describe recent experiments from my group in which we have established that the huge mean free paths result from extraordinarily low defect densities in the conducting planes of as-grown crystals, and give examples of new mesoscopic physics that can be observed as a result.  If time permits I will also discuss intriguing bulk and surface states that can be observed with extremely high resolution in angle resolved photoemission experiments.
-
-
-If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJYvceuorz8jHdFnAxJ4sPramnnXtyfWZpqj)
-
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJYvceuorz8jHdFnAxJ4sPramnnXtyfWZpqj" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
-
-
 ### Andreas Wallraff (ETH Zurich)
-#### TBA
+#### Microwave Networks for Solid State Quantum Information Processors
 
-> TBA
+> Quantum computing is a radically new approach to processing information. It is one of the approaches which has the potential to address the ever-growing need of society, industry and research for computing power. At ETH Zurich, we have designed, realized and tested a first data link which allows superconducting-circuit-based quantum processors located in different systems to directly exchange quantum information [1]. This link, for a quantum computer, takes the role of a network transferring data between computing nodes located in a high-performance computing data center. However, unlike its conventional counterparts, our data link is operated at ultra-low temperatures, close to the absolute zero. This allows our quantum data link to directly connect to quantum processors operating at the same temperature [2]. The system we have constructed is a first of its kind in the world and could play an important role in growing the power of quantum computers in the future.> > [1] P. Magnard et al., Phys. Rev. Lett. 125, 260502 (2020)> [2] P. Kurpiers et al., Nature 558, 264-267 (2018)
 
 
 If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJckc-qvrzMrHtM5vR1hjTVlE9CmSraWC7dP)
@@ -114,6 +102,21 @@ Engineering quantum systems out-of-equilibrium, on the other hand, further can b
 [2] A. Eckardt, Phys. Mod. Phys. 89, 311 (2017)
 [3] C. Schweizer et al., Nat. Phys. 15, 1168-1173 (2019)
 [4] K. Wintersperger et al., Nature Physics 16, 1058-1063 (2020)
+
+</details>
+
+
+*Video in preparation*
+
+
+
+
+### Benefits of good old-fashioned crystalline perfection - new physics in ultra pure delafossite metals
+#### Andrew Mackenzie, 
+
+<details><summary>abstract</summary>
+
+The delafossites are a series of layered compounds with triangular lattices similar to that of NaCoO2 but with a different stacking sequence along the c axis.  They are host to intriguing magnetic insulators and semimetals, as well as metals such as PdCoO2, PtCoO2, PdCrO2 and PdRhO2.  The properties of these metals are remarkable.  Although they are strongly two-dimensional, their room temperature electrical conductivity is higher per carrier than that of any elemental metal, and PdCoO2 crystals can have a low temperature resistivity of only a few nΩcm, corresponding to mean free paths of tens of microns.  I will describe recent experiments from my group in which we have established that the huge mean free paths result from extraordinarily low defect densities in the conducting planes of as-grown crystals, and give examples of new mesoscopic physics that can be observed as a result.  If time permits I will also discuss intriguing bulk and surface states that can be observed with extremely high resolution in angle resolved photoemission experiments.
 
 </details>
 
