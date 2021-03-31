@@ -586,8 +586,21 @@
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJUvdu2hpjIrH9JyaVx-3KNb2dryPUHNl0K5
 - speaker_name: Andreas Wallraff
   speaker_affiliation: ETH Zurich
-  title: TBA
-  abstract: TBA
+  title: Microwave Networks for Solid State Quantum Information Processors
+  abstract: "Quantum computing is a radically new approach to processing information.\
+    \ It is one of the approaches which has the potential to address the ever-growing\
+    \ need of society, industry and research for computing power. At ETH Zurich, we\
+    \ have designed, realized and tested a first data link which allows superconducting-circuit-based\
+    \ quantum processors located in different systems to directly exchange quantum\
+    \ information [1]. This link, for a quantum computer, takes the role of a network\
+    \ transferring data between computing nodes located in a high-performance computing\
+    \ data center. However, unlike its conventional counterparts, our data link is\
+    \ operated at ultra-low temperatures, close to the absolute zero. This allows\
+    \ our quantum data link to directly connect to quantum processors operating at\
+    \ the same temperature [2]. The system we have constructed is a first of its kind\
+    \ in the world and could play an important role in growing the power of quantum\
+    \ computers in the future.\r\n\r\n[1] P. Magnard et al., Phys. Rev. Lett. 125,\
+    \ 260502 (2020)\r\n[2] P. Kurpiers et al., Nature 558, 264-267 (2018)"
   time: 2021-04-14 18:30:00+00:00
   workflow_issue: 345
   event_type: lrc
