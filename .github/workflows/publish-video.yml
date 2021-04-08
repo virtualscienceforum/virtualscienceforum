@@ -1,4 +1,4 @@
-name: Publish speakers' corner video
+name: Publish talk video
 
 on:
   issue_comment:
@@ -9,15 +9,15 @@ jobs:
   validate-issue:
     name: Publish the talk video
     # Only run if:
-    # - Posted in the speakers' corner issue
-    # - By the issue creator
-    # - Matches the response pattern
+    # - Posted in the planning issue
+    # - Seems like it has the right text
+    # (The detailed check is on the receiving side)
     if: |
       (contains(github.event.issue.labels.*.name, 'speakers_corner')
       || contains(github.event.issue.labels.*.name, 'lrc'))
       && contains(github.event.issue.labels.*.name, 'approved')
-      && github.event.sender.login == github.event.issue.user.login
-      && contains(github.event.comment.body, 'approve publishing')
+      && contains(github.event.comment.body, 'approve')
+      && contains(github.event.comment.body, 'publishing')
     # Set the type of machine to run on
     runs-on: ubuntu-latest
     
