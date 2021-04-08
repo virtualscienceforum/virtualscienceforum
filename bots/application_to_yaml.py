@@ -66,8 +66,8 @@ def add_talk(gh, issue_number):
             return
 
         submission['time'] = (
-            parse(submission['time'])
-            .replace(hour=19, minute=30, tzinfo=pytz.timezone("Europe/Amsterdam"))
+            parse(submission['time'], tzinfos=[pytz.timezone("Europe/Amsterdam")])
+            .replace(hour=19, minute=30)
         ).astimezone(pytz.utc)
         submission.pop("checklist")
 
