@@ -465,27 +465,6 @@
   event_type: lrc
   zoom_meeting_id: 92146466447
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJYsc--sqD0uHtOoVNP4BNbcxCpuF9_bzPu4
-- speaker_name: Yevheniia Cheipesh
-  speaker_affiliation: Leiden University
-  email: gene.cheypesh@gmail.com
-  preprint: '2011.05238'
-  title: Quantum tunneling dynamics in complex SYK model quenched-coupled to a cool-bath
-  abstract: The Sachdev-Ye-Kitaev (SYK) model describes interacting fermionic zero
-    modes in zero spatial dimensions, e.g. quantum dot, with interactions strong enough
-    to completely washout quasiparticle excitations in the infrared. In this note,
-    we consider the complex-valued SYK model at temperature $T$ coupled to a zero
-    temperature reservoir by a quench. We find out that the tunneling current dynamics
-    reveals a way to distinguish the SYK non-Fermi liquid (nFL) initial state of the
-    subsystem from the disordered Fermi liquid. Temperature dependent contribution
-    to the current's half-life scales linearly in $T$ at low temperatures for the
-    SYK nFl state, while for the Fermi liquid it scales as $T^2$. This provides a
-    characteristic signature of the SYK non-Fermi liquid in a non-equilibrium measurement.
-  authors: Y. Cheipesh, A. I. Pavlov, V. Ohanesjan, K. Schalm, N. V. Gnezdilov
-  time: 2021-02-26 16:00:00+00:00
-  workflow_issue: 297
-  event_type: speakers_corner
-  zoom_meeting_id: 93273576362
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJcvcOqtqT0pHNa04eDBSsSSxQmIQm1PJO9c
 - speaker_name: Michał Pacholski
   speaker_affiliation: Instituut-Lorentz, Universiteit Leiden
   preprint: '2101.08252'
