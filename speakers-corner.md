@@ -75,7 +75,6 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 | Helene Spring | [Amorphous topological phases protected by continuous rotation symmetry](#amorphous-topological-phases-protected-by-continuous-rotation-symmetry) |
 | Elizabeth Dresselhaus | [Numerical evidence for marginal scaling at the integer quantum Hall transition](#numerical-evidence-for-marginal-scaling-at-the-integer-quantum-hall-transition) |
 | Michał Pacholski | [Deconfinement of Majorana vortex modes produces a superconducting Landau level](#deconfinement-of-majorana-vortex-modes-produces-a-superconducting-landau-level) |
-| Yevheniia Cheipesh | [Quantum tunneling dynamics in complex SYK model quenched-coupled to a cool-bath](#quantum-tunneling-dynamics-in-complex-syk-model-quenched-coupled-to-a-cool-bath) |
 | Pramod Kumar | [Flat band induced non-Fermi liquid behavior of multicomponent fermions](#flat-band-induced-non-fermi-liquid-behavior-of-multicomponent-fermions) |
 
 
@@ -348,23 +347,6 @@ Preprint: [arXiv:](https://arxiv.org/abs/)
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iBntU1RkIVo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
-### Quantum tunneling dynamics in complex SYK model quenched-coupled to a cool-bath
-#### Yevheniia Cheipesh, Leiden University
-
-<details><summary>abstract</summary>
-
-The Sachdev-Ye-Kitaev (SYK) model describes interacting fermionic zero modes in zero spatial dimensions, e.g. quantum dot, with interactions strong enough to completely washout quasiparticle excitations in the infrared. In this note, we consider the complex-valued SYK model at temperature $T$ coupled to a zero temperature reservoir by a quench. We find out that the tunneling current dynamics reveals a way to distinguish the SYK non-Fermi liquid (nFL) initial state of the subsystem from the disordered Fermi liquid. Temperature dependent contribution to the current's half-life scales linearly in $T$ at low temperatures for the SYK nFl state, while for the Fermi liquid it scales as $T^2$. This provides a characteristic signature of the SYK non-Fermi liquid in a non-equilibrium measurement.
-
-Authors: Y. Cheipesh, A. I. Pavlov, V. Ohanesjan, K. Schalm, N. V. Gnezdilov  
-Preprint: [arXiv:](https://arxiv.org/abs/)
-</details>
-
-
-*Video in preparation*
 
 
 
