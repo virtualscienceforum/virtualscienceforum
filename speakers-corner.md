@@ -35,6 +35,7 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
 | <time datetime="2021-04-12T15:00:00+00:00">April 12 15:00 UTC</time> | Valentin Crépel | [Superconductivity mediated by a third-electron: Spin-triplet superconductivity from excitonic eﬀect in doped band insulators](#superconductivity-mediated-by-a-third-electron-spin-triplet-superconductivity-from-excitonic-eﬀect-in-doped-band-insulators) |
+| <time datetime="2021-04-20T15:00:00+00:00">April 20 15:00 UTC</time> | Dominic Else | [Quantum many-body topology of quasicrystals](#quantum-many-body-topology-of-quasicrystals) |
 
 ## Upcoming talks
 
@@ -51,6 +52,16 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJwqfuuqrTItH9WL42Psj_co0Ht_ZnGxnOPi)
 
 <iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJwqfuuqrTItH9WL42Psj_co0Ht_ZnGxnOPi" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
+
+### Quantum many-body topology of quasicrystals
+#### Dominic Else (MIT)
+
+> In this paper, we characterize quasicrystalline interacting topological phases of matter i.e., phases protected by some quasicrystalline structure. We show that the elasticity theory of quasicrystals, which accounts for both "phonon" and "phason" modes, admits non-trivial quantized topological terms with far richer structure than their crystalline counterparts. We show that these terms correspond to distinct phases of matter and also uncover intrinsically quasicrystalline phases, which have no crystalline analogues. For quasicrystals with internal $\mathrm{U}(1)$ symmetry, we discuss a number of interpretations and physical implications of the topological terms, including constraints on the mobility of dislocations in $d=2$ quasicrystals and a quasicrystalline generalization of the Lieb-Schultz-Mattis-Oshikawa-Hastings theorem. We then extend these ideas much further and address the complete classification of quasicrystalline topological phases, including systems with point-group symmetry as well as non-invertible phases. We hence obtain the "Quasicrystalline Equivalence Principle," which generalizes the classification of crystalline topological phases to the quasicrystalline setting.
+>
+> **Authors:** Dominic V. Else, Sheng-Jie Huang, Abhinav Prem, Andrey Gromov  
+> **Preprint:** [arXiv:2103.13393](https://arxiv.org/abs/2103.13393)
+
 
 
 

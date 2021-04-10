@@ -605,3 +605,27 @@
   event_type: speakers_corner
   zoom_meeting_id: 98792239751
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJwqfuuqrTItH9WL42Psj_co0Ht_ZnGxnOPi
+- speaker_name: Dominic Else
+  speaker_affiliation: MIT
+  email: d_else@mit.edu
+  preprint: '2103.13393'
+  title: Quantum many-body topology of quasicrystals
+  abstract: In this paper, we characterize quasicrystalline interacting topological
+    phases of matter i.e., phases protected by some quasicrystalline structure. We
+    show that the elasticity theory of quasicrystals, which accounts for both "phonon"
+    and "phason" modes, admits non-trivial quantized topological terms with far richer
+    structure than their crystalline counterparts. We show that these terms correspond
+    to distinct phases of matter and also uncover intrinsically quasicrystalline phases,
+    which have no crystalline analogues. For quasicrystals with internal $\mathrm{U}(1)$
+    symmetry, we discuss a number of interpretations and physical implications of
+    the topological terms, including constraints on the mobility of dislocations in
+    $d=2$ quasicrystals and a quasicrystalline generalization of the Lieb-Schultz-Mattis-Oshikawa-Hastings
+    theorem. We then extend these ideas much further and address the complete classification
+    of quasicrystalline topological phases, including systems with point-group symmetry
+    as well as non-invertible phases. We hence obtain the "Quasicrystalline Equivalence
+    Principle," which generalizes the classification of crystalline topological phases
+    to the quasicrystalline setting.
+  authors: Dominic V. Else, Sheng-Jie Huang, Abhinav Prem, Andrey Gromov
+  time: 2021-04-20 15:00:00+00:00
+  workflow_issue: 353
+  event_type: speakers_corner
