@@ -63,6 +63,10 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 > **Preprint:** [arXiv:2103.13393](https://arxiv.org/abs/2103.13393)
 
 
+If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJModOqpqjgsGdFWCJLc-Jjbsul2Hg1gQMxM)
+
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJModOqpqjgsGdFWCJLc-Jjbsul2Hg1gQMxM" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
 
 
 
