@@ -34,24 +34,9 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-| <time datetime="2021-04-12T15:00:00+00:00">April 12 15:00 UTC</time> | Valentin Crépel | [Superconductivity mediated by a third-electron: Spin-triplet superconductivity from excitonic eﬀect in doped band insulators](#superconductivity-mediated-by-a-third-electron-spin-triplet-superconductivity-from-excitonic-eﬀect-in-doped-band-insulators) |
 | <time datetime="2021-04-20T15:00:00+00:00">April 20 15:00 UTC</time> | Dominic Else | [Quantum many-body topology of quasicrystals](#quantum-many-body-topology-of-quasicrystals) |
 
 ## Upcoming talks
-
-
-### Superconductivity mediated by a third-electron: Spin-triplet superconductivity from excitonic eﬀect in doped band insulators
-#### Valentin Crépel (MIT)
-
-> In this talk, I will comprehensively review the general electronic mechanism for superconductivity introduced in arXiv:2012.08528 and arXiv:2103.12060. There, it is shown that a non-retarded pairing interaction can be produced from the electron-electron repulsion itself through virtual inter-band transitions. The theory presented is analytically controlled by a strong-coupling expansion in the kinetic energy term and explicitly demonstrated in doped band insulators with the example of an extended Hubbard model. This work demonstrates a powerful method for studying strong coupling superconductivity. It also offers realistic new routes to realize unconventional superconducting state with, for instance, finite angular momentum or spin-triplet pairing.
->
-> **Authors:** Valentin Crépel and Liang Fu  
-
-
-
-If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJwqfuuqrTItH9WL42Psj_co0Ht_ZnGxnOPi)
-
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJwqfuuqrTItH9WL42Psj_co0Ht_ZnGxnOPi" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
 ### Quantum many-body topology of quasicrystals
@@ -91,6 +76,7 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 | Elizabeth Dresselhaus | [Numerical evidence for marginal scaling at the integer quantum Hall transition](#numerical-evidence-for-marginal-scaling-at-the-integer-quantum-hall-transition) |
 | Michał Pacholski | [Deconfinement of Majorana vortex modes produces a superconducting Landau level](#deconfinement-of-majorana-vortex-modes-produces-a-superconducting-landau-level) |
 | Pramod Kumar | [Flat band induced non-Fermi liquid behavior of multicomponent fermions](#flat-band-induced-non-fermi-liquid-behavior-of-multicomponent-fermions) |
+| Valentin Crépel | [Superconductivity mediated by a third-electron: Spin-triplet superconductivity from excitonic eﬀect in doped band insulators](#superconductivity-mediated-by-a-third-electron:-spin-triplet-superconductivity-from-excitonic-eﬀect-in-doped-band-insulators) |
 
 
 
@@ -379,6 +365,23 @@ Preprint: [arXiv:](https://arxiv.org/abs/)
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VBkv2PD5mL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+### Superconductivity mediated by a third-electron: Spin-triplet superconductivity from excitonic eﬀect in doped band insulators
+#### Valentin Crépel, MIT
+
+<details><summary>abstract</summary>
+
+In this talk, I will comprehensively review the general electronic mechanism for superconductivity introduced in arXiv:2012.08528 and arXiv:2103.12060. There, it is shown that a non-retarded pairing interaction can be produced from the electron-electron repulsion itself through virtual inter-band transitions. The theory presented is analytically controlled by a strong-coupling expansion in the kinetic energy term and explicitly demonstrated in doped band insulators with the example of an extended Hubbard model. This work demonstrates a powerful method for studying strong coupling superconductivity. It also offers realistic new routes to realize unconventional superconducting state with, for instance, finite angular momentum or spin-triplet pairing.
+
+Authors: Valentin Crépel and Liang Fu  
+Preprint: [arXiv:](https://arxiv.org/abs/)
+</details>
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9x74Ac-UYN8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
