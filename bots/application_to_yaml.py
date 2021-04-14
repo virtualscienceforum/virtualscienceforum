@@ -24,7 +24,7 @@ def add_talk(gh, issue_number):
     # Only one of the talk type labels must be present.
     event_type, = (
         name for name in EVENT_TYPES
-        if any(l.name == name for l in issue.labels)
+        if any(label.name == name for label in issue.labels)
     )
 
     talks_data = repo.get_contents(TALKS_FILE, ref="master")
@@ -66,9 +66,11 @@ def add_talk(gh, issue_number):
             return
 
         submission['time'] = (
-            parse(submission['time'], tzinfos=[pytz.timezone("Europe/Amsterdam")])
+            parse(submission['time'], ignoretz=True)
+            .astimezone(pytz.timezone("Europe/Amsterdam"))
             .replace(hour=19, minute=30)
-        ).astimezone(datetime.timezone.utc)
+            .astimezone(datetime.timezone.utc)
+        )
         submission.pop("checklist")
 
         response = "I added the talk!"
