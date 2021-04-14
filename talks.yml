@@ -629,3 +629,30 @@
   event_type: speakers_corner
   zoom_meeting_id: 97533143635
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJModOqpqjgsGdFWCJLc-Jjbsul2Hg1gQMxM
+- speaker_name: Mazhar Ali
+  speaker_affiliation: Max Planck Institute for Microstructure Physics
+  email: maz@berkeley.edu
+  preprint: '2103.15809'
+  title: Realization of the field-free Josephson diode
+  abstract: The superconducting analog to the semiconducting diode, the Josephson
+    diode, has long been sought, with multiple avenues to realization proposed by
+    theorists. Exhibiting magnetic-field free, single directional superconductivity
+    with Josephson coupling of the supercurrent across a tunnel barrier, it would
+    serve as the building-block for next-generation superconducting circuit technology.
+    Here we realized the field-free Josephson diode using an inversion symmetry breaking
+    heterostructure of $\mathrm{NbSe_2/Nb_3Br_8/NbSe_2}$. We demonstrate, for the
+    first time without magnetic field, the junction can be superconducting in one
+    direction while normal in the opposite direction. Based on that, half-wave rectification
+    of a square-wave excitation was achieved with low switching current density ($~2.2\times
+    10^2 \mathrm{A/cm^2}$), high rectification ratio ($~10^4$) and high robustness
+    (at least $10^4$ cycles). We also demonstrate symmetric $\Delta I_\mathrm{c}$
+    (the difference between positive and negative critical currents) behavior with
+    field and the expected Fraunhofer current phase relation of a Josephson junction.
+    This realization raises fundamental questions about the Josephson effect through
+    an insulator when breaking symmetry, and opens the door to ultralow power, high
+    speed, superconducting circuits for logic and signal modulation.
+  authors: Heng Wu, Yaojia Wang, Pranava K. Sivakumar, Chris Pasco, Stuart S. P. Parkin,
+    Yu-Jia Zeng, Tyrel McQueen, Mazhar N. Ali
+  time: 2021-05-12 17:00:00+00:00
+  workflow_issue: 356
+  event_type: speakers_corner
