@@ -658,3 +658,10 @@
   event_type: speakers_corner
   zoom_meeting_id: 96225920534
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJIvdeyhrDsvGdDseW69S1kgH55Gba-wHHpI
+- speaker_name: Giuseppe Carleo
+  speaker_affiliation: EPFL Lausanne
+  title: '*TBA*'
+  abstract: '*TBA*'
+  time: 2021-05-28 17:30:00+00:00
+  workflow_issue: 357
+  event_type: lrc
