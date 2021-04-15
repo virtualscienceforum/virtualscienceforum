@@ -581,8 +581,7 @@
   time: 2021-04-14 17:30:00+00:00
   workflow_issue: 345
   event_type: lrc
-  zoom_meeting_id: 93943718147
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJckc-qvrzMrHtM5vR1hjTVlE9CmSraWC7dP
+  youtube_id: SNaowqh5Xjc
 - speaker_name: Valentin Crépel
   speaker_affiliation: MIT
   preprint: arXiv:2012.08528 and arXiv:2103.12060

@@ -139,6 +139,6 @@ Quantum computing is a radically new approach to processing information. It is o
 </details>
 
 
-*Video in preparation*
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SNaowqh5Xjc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
