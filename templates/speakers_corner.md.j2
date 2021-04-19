@@ -43,11 +43,11 @@ There are no upcoming talks at the moment, apply [here](https://github.com/virtu
 
 |     Speaker    | Title |
 |:--------------:|:-----:|
-{%- for talk in previous | sort(attribute="time") %}
+{%- for talk in previous | sort(attribute="time", reverse=True) %}
 | {{ talk.speaker_name }} | [{{ talk.title }}](#{{ talk.title.replace(" ", "-") | lower }}) |
 {%- endfor %}
 
-{% for talk in previous | sort(attribute="time") %}
+{% for talk in previous | sort(attribute="time", reverse=True) %}
 
 ### {{ talk.title }}
 #### {{ talk.speaker_name }}, {{ talk.speaker_affiliation }}
