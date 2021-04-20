@@ -11,6 +11,7 @@ Attendance is open to everyone, but please register to attend! If you would like
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
 | April 28 | Michael Sentef | [Cavity quantum materials](#cavity-quantum-materials) |
+| May 12 | Jonathan Simon | [*TBA*](#*tba*) |
 | May 28 | Giuseppe Carleo | [*TBA*](#*tba*) |
 
 ## Upcoming talks
@@ -25,6 +26,13 @@ Attendance is open to everyone, but please register to attend! If you would like
 If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJUvdu2hpjIrH9JyaVx-3KNb2dryPUHNl0K5)
 
 <iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJUvdu2hpjIrH9JyaVx-3KNb2dryPUHNl0K5" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
+
+### Jonathan Simon (University of Chicago)
+#### *TBA*
+
+> *TBA*
+
 
 
 ### Giuseppe Carleo (EPFL Lausanne)
