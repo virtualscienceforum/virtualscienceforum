@@ -666,3 +666,10 @@
   event_type: lrc
   zoom_meeting_id: 95773137000
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJEqcOqprTwqGtSGbHaFCd4xQ9hwYJ7CtddD
+- speaker_name: Jonathan Simon
+  speaker_affiliation: University of Chicago
+  title: '*TBA*'
+  abstract: '*TBA*'
+  time: 2021-05-12 17:30:00+00:00
+  workflow_issue: 359
+  event_type: lrc
