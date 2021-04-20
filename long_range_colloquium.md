@@ -34,6 +34,10 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 > *TBA*
 
 
+If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJUtd-ygrDkqEtMbTxLhLo08Ci1i4tRatEJd)
+
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJUtd-ygrDkqEtMbTxLhLo08Ci1i4tRatEJd" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
 
 ### Giuseppe Carleo (EPFL Lausanne)
 #### *TBA*
