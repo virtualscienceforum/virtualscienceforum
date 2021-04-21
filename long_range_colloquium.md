@@ -133,7 +133,7 @@ The delafossites are a series of layered compounds with triangular lattices simi
 </details>
 
 
-*Video in preparation*
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SGnAz_6RHlY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

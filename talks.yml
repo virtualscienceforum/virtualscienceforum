@@ -524,8 +524,7 @@
   time: 2021-03-31 17:30:00+00:00
   workflow_issue: 317
   event_type: lrc
-  zoom_meeting_id: 92262014975
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJYvceuorz8jHdFnAxJ4sPramnnXtyfWZpqj
+  youtube_id: SGnAz_6RHlY
 - speaker_name: Michael Sentef
   speaker_affiliation: Max Planck Institute for the Structure and Dynamics of Matter
   title: Cavity quantum materials
@@ -604,7 +603,6 @@
   youtube_id: 9x74Ac-UYN8
 - speaker_name: Dominic Else
   speaker_affiliation: MIT
-  email: d_else@mit.edu
   preprint: '2103.13393'
   title: Quantum many-body topology of quasicrystals
   abstract: In this paper, we characterize quasicrystalline interacting topological
@@ -626,8 +624,7 @@
   time: 2021-04-20 15:00:00+00:00
   workflow_issue: 353
   event_type: speakers_corner
-  zoom_meeting_id: 97533143635
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJModOqpqjgsGdFWCJLc-Jjbsul2Hg1gQMxM
+  youtube_id: iad6OoFnTZ0
 - speaker_name: Mazhar Ali
   speaker_affiliation: Max Planck Institute for Microstructure Physics
   email: maz@berkeley.edu
