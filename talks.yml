@@ -524,8 +524,7 @@
   time: 2021-03-31 17:30:00+00:00
   workflow_issue: 317
   event_type: lrc
-  zoom_meeting_id: 92262014975
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJYvceuorz8jHdFnAxJ4sPramnnXtyfWZpqj
+  youtube_id: SGnAz_6RHlY
 - speaker_name: Michael Sentef
   speaker_affiliation: Max Planck Institute for the Structure and Dynamics of Matter
   title: Cavity quantum materials
