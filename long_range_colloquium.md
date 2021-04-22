@@ -118,7 +118,7 @@ Engineering quantum systems out-of-equilibrium, on the other hand, further can b
 </details>
 
 
-*Video in preparation*
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8lubGLKXQk4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
