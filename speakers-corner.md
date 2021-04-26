@@ -35,6 +35,7 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
 | <time datetime="2021-05-12T17:00:00+00:00">May 12 17:00 UTC</time> | Mazhar Ali | [Realization of the field-free Josephson diode](#realization-of-the-field-free-josephson-diode) |
+| <time datetime="2021-05-17T15:00:00+00:00">May 17 15:00 UTC</time> | André Melo | [Multiplet supercurrent in Josephson tunneling circuits](#multiplet-supercurrent-in-josephson-tunneling-circuits) |
 
 ## Upcoming talks
 
@@ -51,6 +52,16 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJIvdeyhrDsvGdDseW69S1kgH55Gba-wHHpI)
 
 <iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJIvdeyhrDsvGdDseW69S1kgH55Gba-wHHpI" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
+
+### Multiplet supercurrent in Josephson tunneling circuits
+#### André Melo (Kavli Institute of Nanoscience, Delft University of Technology)
+
+> The multi-terminal Josephson effect allows DC supercurrent to flow at finite commensurate voltages. Existing proposals to realize this effect rely on nonlocal Andreev processes in superconductor-normal-superconductor junctions. However, this approach requires precise control over microscopic states and is obscured by dissipative current. We show that standard tunnel Josephson circuits also support multiplet supercurrent mediated only by local tunneling processes. Furtheremore, we observe that the supercurrents persist even in the high charging energy regime in which only sequential Cooper transfers are allowed. Finally, we demonstrate that the multiplet supercurrent in these circuits has a quantum geometric component that is distinguinshable from the well-known adiabatic contribution.
+>
+> **Authors:** André Melo, Valla Fatemi, Anton R. Akhmerov  
+> **Preprint:** [arXiv:2104.11239](https://arxiv.org/abs/2104.11239)
+
 
 
 
