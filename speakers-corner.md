@@ -36,6 +36,7 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 |:---------:|:--------------:|:-----:|
 | <time datetime="2021-05-12T17:00:00+00:00">May 12 17:00 UTC</time> | Mazhar Ali | [Realization of the field-free Josephson diode](#realization-of-the-field-free-josephson-diode) |
 | <time datetime="2021-05-17T15:00:00+00:00">May 17 15:00 UTC</time> | André Melo | [Multiplet supercurrent in Josephson tunneling circuits](#multiplet-supercurrent-in-josephson-tunneling-circuits) |
+| <time datetime="2021-05-18T15:00:00+00:00">May 18 15:00 UTC</time> | Antonio Manesco | [Correlation-induced valley topology in buckled graphene superlattices](#correlation-induced-valley-topology-in-buckled-graphene-superlattices) |
 
 ## Upcoming talks
 
@@ -66,6 +67,16 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJwkcOurrTkqHtLCRpukSx6zOe-YPQ7RJqOk)
 
 <iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJwkcOurrTkqHtLCRpukSx6zOe-YPQ7RJqOk" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
+
+### Correlation-induced valley topology in buckled graphene superlattices
+#### Antonio Manesco (University of São Paulo)
+
+> Flat bands emerging in buckled monolayer graphene superlattices have been recently shown to realize correlated states analogous to those observed in twisted graphene multilayers. Here, we demonstrate the emergence of valley topology driven by competing electronic correlations in buckled graphene superlattices. We show, both by means of atomistic models and a low-energy description, that the existence of long-range electronic correlations leads to a competition between antiferromagnetic and charge density wave instabilities, that can be controlled by means of screening engineering. Interestingly, we find that the emergent charge density wave has a topologically non-trivial electronic structure, leading to a coexistent quantum valley Hall insulating state. In a similar fashion, the antiferromagnetic phase realizes a spin-polarized quantum valley-Hall insulating state. Our results put forward buckled graphene superlattices as a new platform to realize interaction-induced topological matter.
+>
+> **Authors:** Antonio L. R. Manesco, Jose L. Lado  
+> **Preprint:** [arXiv:2104.00573](https://arxiv.org/abs/2104.00573)
+
 
 
 
