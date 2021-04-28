@@ -692,3 +692,25 @@
   event_type: speakers_corner
   zoom_meeting_id: 98972332046
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJwkcOurrTkqHtLCRpukSx6zOe-YPQ7RJqOk
+- speaker_name: Antonio Manesco
+  speaker_affiliation: University of São Paulo
+  email: antoniolrm@usp.br
+  preprint: '2104.00573'
+  title: Correlation-induced valley topology in buckled graphene superlattices
+  abstract: Flat bands emerging in buckled monolayer graphene superlattices have been
+    recently shown to realize correlated states analogous to those observed in twisted
+    graphene multilayers. Here, we demonstrate the emergence of valley topology driven
+    by competing electronic correlations in buckled graphene superlattices. We show,
+    both by means of atomistic models and a low-energy description, that the existence
+    of long-range electronic correlations leads to a competition between antiferromagnetic
+    and charge density wave instabilities, that can be controlled by means of screening
+    engineering. Interestingly, we find that the emergent charge density wave has
+    a topologically non-trivial electronic structure, leading to a coexistent quantum
+    valley Hall insulating state. In a similar fashion, the antiferromagnetic phase
+    realizes a spin-polarized quantum valley-Hall insulating state. Our results put
+    forward buckled graphene superlattices as a new platform to realize interaction-induced
+    topological matter.
+  authors: Antonio L. R. Manesco, Jose L. Lado
+  time: 2021-05-18 15:00:00+00:00
+  workflow_issue: 363
+  event_type: speakers_corner
