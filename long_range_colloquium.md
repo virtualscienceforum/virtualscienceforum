@@ -10,22 +10,10 @@ Attendance is open to everyone, but please register to attend! If you would like
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-| April 28 | Michael Sentef | [Cavity quantum materials](#cavity-quantum-materials) |
 | May 12 | Jonathan Simon | [*TBA*](#*tba*) |
 | May 28 | Giuseppe Carleo | [*TBA*](#*tba*) |
 
 ## Upcoming talks
-
-
-### Michael Sentef (Max Planck Institute for the Structure and Dynamics of Matter)
-#### Cavity quantum materials
-
-> Recent years have seen tremendous progress in utilizing ultrafast light-matter interaction to control the macroscopic properties of quantum materials [1]. Many of the most intriguing effects are based on nonthermal pathways, with the material (quantum many-body system) being driven away from its thermal equilibrium by strong laser pulses. While this has deepened our understanding of quantum matter far from equilibrium and enabled us to build bridges to other fields (quantum simulators, Floquet states of matter, (pre)thermalization, …), there are a number of challenges: (i) the need for strong lasers, (ii) heating, (iii) short lifetime of light-induced states.> > This has motivated an emergent community of researchers to search for new directions that draw inspiration from the discoveries in ultrafast materials science and combine them with expertise gleaned from quantum optics, cavity QED, polaritonic chemistry, and nanoplasmonics, creating the new field of "cavity quantum materials“. > > In this Colloquium, I will provide a personal perspective on this new field and highlight a few of our recent works. Specifically, I will discuss the quantum-to-classical crossover of Floquet engineering in correlated systems and show how a many-photon classical coherent state can be replaced by a few-photon number state, provided that one can reach the regime of sufficiently strong light-matter coupling in a cavity [2]. I will then show how the quantum geometry of wavefunctions impacts their light-matter coupling, and how we envision this to be a key ingredient for future light-matter-based engineering of flat-band (Moiré) materials [3]. > > [1] A. de la Torre, D. M. Kennes, M. Claassen, S. Gerber, J. W. McIver, M. A. Sentef, Nonthermal pathways to ultrafast control in quantum materials, https://arxiv.org/abs/2103.14888> [2] M. A. Sentef, J. Li, F. Künzel, M. Eckstein, Quantum to classical crossover of Floquet engineering in correlated quantum systems, Phys. Rev. Research 2, 033033 (2020)> [3] G. E. Topp, C. J. Eckhardt, D. M. Kennes, M. A. Sentef, P. Törmä, Light-matter coupling and quantum geometry in moiré materials, https://arxiv.org/abs/2103.04967
-
-
-If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJUvdu2hpjIrH9JyaVx-3KNb2dryPUHNl0K5)
-
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJUvdu2hpjIrH9JyaVx-3KNb2dryPUHNl0K5" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
 ### Jonathan Simon (University of Chicago)
@@ -152,5 +140,28 @@ Quantum computing is a radically new approach to processing information. It is o
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SNaowqh5Xjc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+### Cavity quantum materials
+#### Michael Sentef, 
+
+<details><summary>abstract</summary>
+
+Recent years have seen tremendous progress in utilizing ultrafast light-matter interaction to control the macroscopic properties of quantum materials [1]. Many of the most intriguing effects are based on nonthermal pathways, with the material (quantum many-body system) being driven away from its thermal equilibrium by strong laser pulses. While this has deepened our understanding of quantum matter far from equilibrium and enabled us to build bridges to other fields (quantum simulators, Floquet states of matter, (pre)thermalization, …), there are a number of challenges: (i) the need for strong lasers, (ii) heating, (iii) short lifetime of light-induced states.
+
+This has motivated an emergent community of researchers to search for new directions that draw inspiration from the discoveries in ultrafast materials science and combine them with expertise gleaned from quantum optics, cavity QED, polaritonic chemistry, and nanoplasmonics, creating the new field of "cavity quantum materials“. 
+
+In this Colloquium, I will provide a personal perspective on this new field and highlight a few of our recent works. Specifically, I will discuss the quantum-to-classical crossover of Floquet engineering in correlated systems and show how a many-photon classical coherent state can be replaced by a few-photon number state, provided that one can reach the regime of sufficiently strong light-matter coupling in a cavity [2]. I will then show how the quantum geometry of wavefunctions impacts their light-matter coupling, and how we envision this to be a key ingredient for future light-matter-based engineering of flat-band (Moiré) materials [3]. 
+
+[1] A. de la Torre, D. M. Kennes, M. Claassen, S. Gerber, J. W. McIver, M. A. Sentef, Nonthermal pathways to ultrafast control in quantum materials, https://arxiv.org/abs/2103.14888
+[2] M. A. Sentef, J. Li, F. Künzel, M. Eckstein, Quantum to classical crossover of Floquet engineering in correlated quantum systems, Phys. Rev. Research 2, 033033 (2020)
+[3] G. E. Topp, C. J. Eckhardt, D. M. Kennes, M. A. Sentef, P. Törmä, Light-matter coupling and quantum geometry in moiré materials, https://arxiv.org/abs/2103.04967
+
+</details>
+
+
+*Video in preparation*
 
 
