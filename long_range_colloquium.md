@@ -162,6 +162,6 @@ In this Colloquium, I will provide a personal perspective on this new field and 
 </details>
 
 
-*Video in preparation*
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TtbGSNLFmpk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

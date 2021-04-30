@@ -557,8 +557,7 @@
   time: 2021-04-28 17:30:00+00:00
   workflow_issue: 343
   event_type: lrc
-  zoom_meeting_id: 91214989156
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJUvdu2hpjIrH9JyaVx-3KNb2dryPUHNl0K5
+  youtube_id: TtbGSNLFmpk
 - speaker_name: Andreas Wallraff
   speaker_affiliation: ETH Zurich
   title: Microwave Networks for Solid State Quantum Information Processors
