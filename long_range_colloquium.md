@@ -10,16 +10,16 @@ Attendance is open to everyone, but please register to attend! If you would like
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-| May 12 | Jonathan Simon | [*When Photons Self-Organize: Making Matter from Light*](#*when-photons-self-organize:-making-matter-from-light*) |
+| May 12 | Jonathan Simon | [When Photons Self-Organize: Making Matter from Light](#when-photons-self-organize:-making-matter-from-light) |
 | May 28 | Giuseppe Carleo | [*TBA*](#*tba*) |
 
 ## Upcoming talks
 
 
 ### Jonathan Simon (University of Chicago)
-#### *When Photons Self-Organize: Making Matter from Light*
+#### When Photons Self-Organize: Making Matter from Light
 
-> *In this talk I will discuss ongoing efforts at University of Chicago to explore matter made of light. I will begin with a broad introduction to the challenges associated with making matter from photons, focusing specifically on (1) how to trap photons and imbue them with synthetic mass and charge; (2) how to induce photons to collide with one another; and (3) how to drive photons to order, by cooling or otherwise. I will then provide as examples two state-of-the-art photonic quantum matter platforms: microwave photons coupled to superconducting resonators and transmon qubits, and optical photons trapped in multimode optical cavities and made to interact through Rydberg-dressing. In each case I will describe a synthetic material created in that platform: a Mott insulator of microwave photons, stabilized by coupling to an engineered, non-Markovian reservoir, and a Laughlin molecule of optical photons prepared by scattering photons through the optical cavity. I will conclude with an outlook on new experimental platforms we are developing to marry these techniques and ideas!*
+> In this talk I will discuss ongoing efforts at University of Chicago to explore matter made of light. I will begin with a broad introduction to the challenges associated with making matter from photons, focusing specifically on (1) how to trap photons and imbue them with synthetic mass and charge; (2) how to induce photons to collide with one another; and (3) how to drive photons to order, by cooling or otherwise. I will then provide as examples two state-of-the-art photonic quantum matter platforms: microwave photons coupled to superconducting resonators and transmon qubits, and optical photons trapped in multimode optical cavities and made to interact through Rydberg-dressing. In each case I will describe a synthetic material created in that platform: a Mott insulator of microwave photons, stabilized by coupling to an engineered, non-Markovian reservoir, and a Laughlin molecule of optical photons prepared by scattering photons through the optical cavity. I will conclude with an outlook on new experimental platforms we are developing to marry these techniques and ideas!
 
 
 If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJUtd-ygrDkqEtMbTxLhLo08Ci1i4tRatEJd)

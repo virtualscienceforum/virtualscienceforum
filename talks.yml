@@ -663,8 +663,8 @@
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJEqcOqprTwqGtSGbHaFCd4xQ9hwYJ7CtddD
 - speaker_name: Jonathan Simon
   speaker_affiliation: University of Chicago
-  title: '*When Photons Self-Organize: Making Matter from Light*'
-  abstract: '*In this talk I will discuss ongoing efforts at University of Chicago
+  title: 'When Photons Self-Organize: Making Matter from Light'
+  abstract: 'In this talk I will discuss ongoing efforts at University of Chicago
     to explore matter made of light. I will begin with a broad introduction to the
     challenges associated with making matter from photons, focusing specifically on
     (1) how to trap photons and imbue them with synthetic mass and charge; (2) how
@@ -677,7 +677,7 @@
     stabilized by coupling to an engineered, non-Markovian reservoir, and a Laughlin
     molecule of optical photons prepared by scattering photons through the optical
     cavity. I will conclude with an outlook on new experimental platforms we are developing
-    to marry these techniques and ideas!*'
+    to marry these techniques and ideas!'
   time: 2021-05-12 17:30:00+00:00
   workflow_issue: 359
   event_type: lrc
