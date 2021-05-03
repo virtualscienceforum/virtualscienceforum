@@ -9,6 +9,7 @@ from dateutil.parser import parse, ParserError
 import github
 from ruamel.yaml import YAML
 import jinja2
+import pytz
 
 import validatespeakerscornerissue
 
@@ -23,7 +24,7 @@ def add_talk(gh, issue_number):
     # Only one of the talk type labels must be present.
     event_type, = (
         name for name in EVENT_TYPES
-        if any(l.name == name for l in issue.labels)
+        if any(label.name == name for label in issue.labels)
     )
 
     talks_data = repo.get_contents(TALKS_FILE, ref="master")
@@ -65,17 +66,24 @@ def add_talk(gh, issue_number):
             return
 
         submission['time'] = (
-            parse(submission['time'])
-            .replace(hour=18, minute=30, tzinfo=datetime.timezone.utc)
+            parse(submission['time'], ignoretz=True)
+            .astimezone(pytz.timezone("Europe/Amsterdam"))
+            .replace(hour=19, minute=30)
+            .astimezone(datetime.timezone.utc)
         )
         submission.pop("checklist")
 
-        response = "I added/updated the talk!"
+        response = "I added the talk!"
 
     current = next(
-        (talk for talk in talks if talk["worflow_issue"] == issue_number),
+        (talk for talk in talks if talk["workflow_issue"] == issue_number),
         {}
     )
+    # Workaround of https://sourceforge.net/p/ruamel-yaml/tickets/366/
+    # TODO: remove once a fix is released.
+    if current:
+        current["time"] = current["time"].replace(tzinfo=datetime.timezone.utc)
+
     new = {
         **current,
         **submission,
@@ -87,10 +95,14 @@ def add_talk(gh, issue_number):
         return
 
     # If there is already a talk with this data, we should overwrite.
-    talks = [
-        (new if talk["workflow_issue"] == issue_number else talk)
-        for talk in talks
-    ]
+    if current:
+        talks = [
+            (new if talk is current else talk)
+            for talk in talks
+        ]
+        response = "I updated the talk!"
+    else:
+        talks.append(new)
 
     serialized = StringIO()
     yaml.dump(talks, serialized)

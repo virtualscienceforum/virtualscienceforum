@@ -2,7 +2,7 @@
 
 ## Your tasks
  
-
+* ensure that the person recording the event has a screen resolution equal to or lower than 1920x1080.
 * open the program by introducing the event, organizers and the (first) speaker
 * remind the audience of the event format and explain how and when to ask questions
 * monitor the participant list for raised hands and enable those attendees to ask questions

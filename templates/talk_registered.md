@@ -9,14 +9,15 @@ Good luck with your talk!
 
 - We will send you an email containing the meeting key and your join URL in a moment.
   **Confirm that you received the meeting key and URL by responding in this issue.**
-- Install a [Zoom client](https://zoom.us/download). This is required for registration-only meetings.
+- Install a [Zoom client](https://zoom.us/download). This is required to claim host.
 - Test your setup on your own: check that your sound, video, and slide-sharing work.
 - **Announce the meeting to your colleagues and invite them to register for the talk**.
 - We will include your talk in the VSF mailing list announcement. If you like you can also tweet at @VirtualSciForum with the hashtag #VSFSpeakersCorner and we will retweet information about your talk.
 
 ## During the meeting
 
-- The meeting will be open for joining 5 minutes before the talk starts. Join at that time using the personal link we sent (don't be late!).
+- The meeting will be open for joining 5 minutes before the talk starts. Join at that time using the personal link we sent (don't be late!). 
+- Ensure that your screen resolution is 1920x1080 or lower; otherwise, the speaker's video will be too small in the recording. 
 - **Claim meeting host by using the host key that is in your email.** (You won't be able to use screenshare otherwise)
 - The recording starts automatically as soon as you join. Don't stop it; you may pause it, but don't forget to unpause.
 - Tell your audience how the questions will be organized. Can they ask questions during the talk or only at the end? How should they signal they have a question?

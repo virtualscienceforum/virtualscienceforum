@@ -4,6 +4,7 @@
 * The room you will use to present should be well lit, have stable internet connection, and have no distracting background noise, movement or glaring lights.
 * If you can arrange two screens, so that you use one for your presentation, and the other to view the audience, it may help get some visual feedback.
 * Make sure your microphone produces good sound quality, if not, try to find a good external microphone.
+* Ensure that the person recording the event has a screen resolution equal to or lower than 1920x1080 (otherwise Zoom will render the speaker's video stream to be tiny). 
 * One day before your seminar you will be provided with a link to a testing area on our virtual conferencing platform (currently Zoom). Connect and test your video, audio, microphone, the display of your presentation, etc. Become familiar with the different screen-sharing options (share a specific screen, share particular program window, etc) to be prepared to choose the correct one.
 * The day of your seminar join the meeting at least 10 minutes before the start of your talk.
 * Don't forget to disable annotations by other participants.

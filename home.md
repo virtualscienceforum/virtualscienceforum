@@ -6,13 +6,14 @@ Additionally we develop best practices and provide recommendations for all commu
 
 ## What we do
 
-We offer beginning-to-end support for organizing an academic event of your own, check out the [organizer guide](organizerguide.md) to see what it takes. It could be a seminar series, a workshop or a tutorial. Now that winter has arrived, we particularly encourage applications for winter schools organized by graduate students, post docs or early-career researchers. 
+We offer beginning-to-end support for organizing an academic event of your own, check out the [organizer guide](organizerguide.md) to see what it takes. It could be a seminar series, a workshop or a tutorial. We prioritize upholding a safe, accessible, inclusive and equitable online environment for all across the spectrum of identities and lived experiences. We encourage participation, either as speakers, organizers or audience, of all members of the scientific community.
 
 ### Current Events
-<!-- * [Long Range Colloquium](long_range_colloquium.md) series **every other Wednesday** at 1:30 pm EDT / 7:30pm CEST -->
+* [Long Range Colloquium](long_range_colloquium.md) series **every other Wednesday** at 1:30 pm EDT / 7:30pm CEST
 * [Speakers' Corner](speakers-corner.md), a **self-invited** seminar series
 
 ### Previous Events
+* Workshop: [Quantum Oscillations in insulators](quantum-oscillations-insulators.md)
 * Mini-tutorial on [computational quantum transport](quantum-transport-workshop.md)
 * [Observing Anyons 2020](Observing_Anyons_2020.md) mini-conference
 * Workshop on [Scanning Probe Microscopy](SPM_workshop.md)
@@ -29,6 +30,11 @@ iframe.twitter-follow-button {
 }
 </style>
 <a href="https://twitter.com/virtualsciforum?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-dnt="true" data-show-count="true">Follow @virtualsciforum</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Join us
+
+We are always happy to welcome new members on the organizational side of VSF. 
+Please take a look [here](contact.md) to see how to keep up with our activities or join our organising team.
 
 <a class="github-button" href="https://github.com/virtualscienceforum/virtualscienceforum" data-size="large" data-show-count="true" aria-label="Star virtualscienceforum/virtualscienceforum on GitHub">Star</a>
 

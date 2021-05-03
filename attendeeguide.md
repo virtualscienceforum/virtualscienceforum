@@ -1,8 +1,5 @@
 # Attendee Guide
 
-## Needs
-* You must install a (free) [Zoom client](https://zoom.us/download). For now, this is necessary in advance for meetings requiring registration (like ours). 
-
 ## Rules
 
 * Follow the moderator instructions.
