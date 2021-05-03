@@ -13,7 +13,7 @@ Attendance is open to everyone, but please register to attend! If you would like
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
 {%- for talk in talks | sort(attribute="time") if talk.time > now %}
-| {{ talk.time.strftime("%B %-d") }} | {{ talk.speaker_name }} | [{{ talk.title }}](#{{ talk.title | replace_specials | lower }}) |
+| {{ talk.time.strftime("%B %-d") }} | {{ talk.speaker_name }} | [{{ talk.title }}](#{{ talk.title | lower | format_title }}) |
 {%- endfor %}
 
 ## Upcoming talks

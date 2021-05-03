@@ -1,6 +1,7 @@
 from pathlib import Path
 from datetime import datetime
 import re
+import string
 
 import jinja2
 import pytz
@@ -10,13 +11,15 @@ yaml = YAML(typ='safe')
 with open('../talks.yml') as f:
     talks = yaml.load(f)
 
-def replace_specials(str):
-    return re.sub('[^a-zA-Z0-9\n\.]', '', str)
-
+def format_title(s):
+    punctuation = string.punctuation.replace('-','')
+    s = s.translate(str.maketrans('', '', punctuation))
+    return s.replace(' ', '-')
+    
 env = jinja2.Environment(
     loader=jinja2.FileSystemLoader('../templates')
 )
-env.filters['replace_specials'] = replace_specials
+env.filters['format_title'] = format_title
 
 header = Path("../speakers-corner-header.md").read_text()
 
