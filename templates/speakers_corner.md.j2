@@ -1,19 +1,21 @@
 {% import "base.md.j2" as base %}
 {{ header }}
 
+
+{% if upcoming %}
 ## Schedule
 
 All times are shown in <span id="timezone">UTC</span> timezone.
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-{%- for talk in talks | sort(attribute="time") if talk.time > now %}
-| <time datetime="{{ talk.time.isoformat() }}">{{ talk.time.strftime("%B %-d %-H:%M %Z") }}</time> | {{ talk.speaker_name }} | [{{ talk.title }}](#{{ talk.title.replace(" ", "-") | lower }}) |
+{%- for talk in upcoming | sort(attribute="time") %}
+| <time datetime="{{ talk.time.isoformat() }}">{{ talk.time.strftime("%B %-d %-H:%M %Z") }}</time> | {{ talk.speaker_name }} | [{{ talk.title }}](#{{ talk.title.replace(" ", "-").replace(":", "") | lower }}) |
 {%- endfor %}
 
 ## Upcoming talks
 
-{% for talk in talks | sort(attribute="time") if talk.time > now %}
+{% for talk in upcoming | sort(attribute="time") %}
 ### {{ talk.title }}
 #### {{ talk.speaker_name }} ({{ talk.speaker_affiliation }})
 
@@ -30,10 +32,22 @@ If the form below doesn't work, [register directly]({{ talk.registration_url }})
 <iframe width="100%" height="940" src="{{ talk.registration_url }}" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 {% endif %}
 {% endfor %}
+{% else %}
+## Upcoming talks
+
+There are no upcoming talks at the moment, apply [here](https://github.com/virtualscienceforum/virtualscienceforum/issues/new?template=speakers_corner_application.md&labels=speakers_corner&title=Speakers%27%20corner%20talk%20application) to present one.
+
+{% endif %}
 
 ## Recordings
 
-{% for talk in talks | sort(attribute="time") if talk.time < now %}
+|     Speaker    | Title |
+|:--------------:|:-----:|
+{%- for talk in previous | sort(attribute="time", reverse=True) %}
+| {{ talk.speaker_name }} | [{{ talk.title }}](#{{ talk.title.replace(" ", "-") | lower }}) |
+{%- endfor %}
+
+{% for talk in previous | sort(attribute="time", reverse=True) %}
 
 ### {{ talk.title }}
 #### {{ talk.speaker_name }}, {{ talk.speaker_affiliation }}

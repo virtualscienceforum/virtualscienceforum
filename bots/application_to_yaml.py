@@ -9,6 +9,7 @@ from dateutil.parser import parse, ParserError
 import github
 from ruamel.yaml import YAML
 import jinja2
+import pytz
 
 import validatespeakerscornerissue
 
@@ -23,7 +24,7 @@ def add_talk(gh, issue_number):
     # Only one of the talk type labels must be present.
     event_type, = (
         name for name in EVENT_TYPES
-        if any(l.name == name for l in issue.labels)
+        if any(label.name == name for label in issue.labels)
     )
 
     talks_data = repo.get_contents(TALKS_FILE, ref="master")
@@ -65,8 +66,10 @@ def add_talk(gh, issue_number):
             return
 
         submission['time'] = (
-            parse(submission['time'])
-            .replace(hour=18, minute=30, tzinfo=datetime.timezone.utc)
+            parse(submission['time'], ignoretz=True)
+            .astimezone(pytz.timezone("Europe/Amsterdam"))
+            .replace(hour=19, minute=30)
+            .astimezone(datetime.timezone.utc)
         )
         submission.pop("checklist")
 

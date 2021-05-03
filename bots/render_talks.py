@@ -28,11 +28,16 @@ for talk in talks:
     if re.fullmatch(r"\d{4}\.\d{5}", talk.get("preprint", "")) is None:
         talk.pop("preprint", "")
 
+sc_talks = [talk for talk in talks if talk['event_type'] == 'speakers_corner']
+now = datetime.now(tz=pytz.UTC)
+upcoming = [talk for talk in sc_talks if talk["time"] > now]
+previous = [talk for talk in sc_talks if talk["time"] < now]
+
 Path('../speakers-corner.md').write_text(
     env.get_template('speakers_corner.md.j2').render(
         header=header,
-        talks=[talk for talk in talks if talk['event_type'] == 'speakers_corner'],
-        now=datetime.now(tz=pytz.UTC)
+        upcoming=upcoming,
+        previous=previous,
     )
 )
 
@@ -40,6 +45,6 @@ Path('../long_range_colloquium.md').write_text(
     env.get_template('long_range_colloquium.md.j2').render(
         header=header,
         talks=[talk for talk in talks if talk['event_type'] == 'lrc'],
-        now=datetime.now(tz=pytz.UTC)
+        now=now
     )
 )

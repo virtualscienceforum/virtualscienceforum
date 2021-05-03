@@ -77,7 +77,7 @@ Set up an appointment with the speakers and the moderators to introduce them to 
 
 ### During the event
 
-Make final technical checks shortly before the event starts. By this time you, the moderators, and the speakers should know how the platform works (it’s easy, but requires some preparation).
+Make final technical checks shortly before the event starts. By this time you, the moderators, and the speakers should know how the platform works (it’s easy, but requires some preparation). Remind the person recording the event to set their screen resolution to 1920x1080 or lower in order for the recording to render properly (otherwise the speaker's video stream will be tiny).
 
 Give a brief opening and closing speech. In the opening speech, introduce the event, and remind participants of the code of conduct.
 

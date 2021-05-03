@@ -6,14 +6,14 @@ Additionally we develop best practices and provide recommendations for all commu
 
 ## What we do
 
-We offer beginning-to-end support for organizing an academic event of your own, check out the [organizer guide](organizerguide.md) to see what it takes. It could be a seminar series, a workshop or a tutorial. Now that winter has arrived, we particularly encourage applications for winter schools organized by graduate students, post docs or early-career researchers. 
+We offer beginning-to-end support for organizing an academic event of your own, check out the [organizer guide](organizerguide.md) to see what it takes. It could be a seminar series, a workshop or a tutorial. We prioritize upholding a safe, accessible, inclusive and equitable online environment for all across the spectrum of identities and lived experiences. We encourage participation, either as speakers, organizers or audience, of all members of the scientific community.
 
 ### Current Events
 * [Long Range Colloquium](long_range_colloquium.md) series **every other Wednesday** at 1:30 pm EDT / 7:30pm CEST
 * [Speakers' Corner](speakers-corner.md), a **self-invited** seminar series
-* Workshop: [Quantum Oscillations in insulators](quantum-oscillations-insulators.md)
 
 ### Previous Events
+* Workshop: [Quantum Oscillations in insulators](quantum-oscillations-insulators.md)
 * Mini-tutorial on [computational quantum transport](quantum-transport-workshop.md)
 * [Observing Anyons 2020](Observing_Anyons_2020.md) mini-conference
 * Workshop on [Scanning Probe Microscopy](SPM_workshop.md)

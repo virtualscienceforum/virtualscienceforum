@@ -2,7 +2,6 @@
 * Current and planned events
     * [Long Range Colloquium](long_range_colloquium.md)
     * [Speakers' Corner](speakers-corner.md)
-    * [Workshop: Quantum Oscillations in insulators](quantum-oscillations-insulators.md)
 * [Call for organizers](announcement.md)
 * [Organizer Guide](organizerguide.md)
 * [Speaker Guide](speakerguide.md)
@@ -12,6 +11,7 @@
 * [Contributors](whoweare.md)
 * [Privacy policy](privacy_policy.md)
 * Past events
+   * [Workshop: Quantum Oscillations in insulators](quantum-oscillations-insulators.md)
    * [Long Range Colloquium 2020](long_range_colloquium-2020.md)
    * [Quantum transport workshop](quantum-transport-workshop.md)
    * [Observing Anyons 2020](Observing_Anyons_2020.md)
