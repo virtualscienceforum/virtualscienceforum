@@ -10,9 +10,13 @@ yaml = YAML(typ='safe')
 with open('../talks.yml') as f:
     talks = yaml.load(f)
 
+def replace_specials(str):
+    return re.sub('[^a-zA-Z0-9\n\.]', '', str)
+
 env = jinja2.Environment(
     loader=jinja2.FileSystemLoader('../templates')
 )
+env.filters['replace_specials'] = replace_specials
 
 header = Path("../speakers-corner-header.md").read_text()
 
