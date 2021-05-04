@@ -10,7 +10,7 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
 {%- for talk in upcoming | sort(attribute="time") %}
-| <time datetime="{{ talk.time.isoformat() }}">{{ talk.time.strftime("%B %-d %-H:%M %Z") }}</time> | {{ talk.speaker_name }} | [{{ talk.title }}](#{{ talk.title.replace(" ", "-").replace(":", "") | lower }}) |
+| <time datetime="{{ talk.time.isoformat() }}">{{ talk.time.strftime("%B %-d %-H:%M %Z") }}</time> | {{ talk.speaker_name }} | [{{ talk.title }}](#{{ talk.title | lower | format_title }}) |
 {%- endfor %}
 
 ## Upcoming talks
@@ -23,7 +23,7 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 > {{ line }}
 {%- endfor %}
 >
-> **Authors:** {{ talk.authors }}  
+> **Authors:** {{ talk.authors }}
 {% if talk.preprint %}> **Preprint:** [arXiv:{{ talk.preprint }}](https://arxiv.org/abs/{{ talk.preprint }}){% endif %}
 
 {% if talk.registration_url %}
@@ -56,7 +56,7 @@ There are no upcoming talks at the moment, apply [here](https://github.com/virtu
 
 {{talk.abstract}}
 
-Authors: {{ talk.authors }}  
+Authors: {{ talk.authors }}
 Preprint: [arXiv:{{ talk.arxiv }}](https://arxiv.org/abs/{{ talk.arxiv }})
 </details>
 
