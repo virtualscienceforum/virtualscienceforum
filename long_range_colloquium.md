@@ -3,15 +3,15 @@
 The Long Range Colloquium is a bi-weekly seminar series covering the latest developments in condensed matter physics and quantum information. We alternate experimental and theory talks to keep the schedule exciting for a varied audience: have a look at our 2021 schedule below!
 You can also find all the information and recordings for our 2020 talks [here](https://virtualscienceforum.org/#/long_range_colloquium-2020).
 
-The colloquium runs every other Wednesday at 1:30 PM ET / 19:30 CEST. 
+The colloquium runs every other Wednesday at 1:30 PM ET / 19:30 CEST.
 Attendance is open to everyone, but please register to attend! If you would like to hear about upcoming talks, you can subscribe to the colloquim mailing list [here](https://virtualscienceforum.org/#/mailinglist).
 
 ## Program
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-| May 12 | Jonathan Simon | [When Photons Self-Organize: Making Matter from Light](#when-photons-self-organize:-making-matter-from-light) |
-| May 28 | Giuseppe Carleo | [*TBA*](#*tba*) |
+| May 12 | Jonathan Simon | [When Photons Self-Organize: Making Matter from Light](#when-photons-self-organize-making-matter-from-light) |
+| May 28 | Giuseppe Carleo | [*TBA*](#tba) |
 
 ## Upcoming talks
 
