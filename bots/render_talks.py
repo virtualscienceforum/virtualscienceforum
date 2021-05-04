@@ -1,7 +1,7 @@
 from pathlib import Path
 from datetime import datetime
 import re
-import string
+from string import punctuation
 
 import jinja2
 import pytz
@@ -11,11 +11,11 @@ yaml = YAML(typ='safe')
 with open('../talks.yml') as f:
     talks = yaml.load(f)
 
+punctuation_without_dash = punctuation.replace('-','')
+translation_table = str.maketrans('','', punctuation_without_dash)
 def format_title(s):
-    punctuation = string.punctuation.replace('-','')
-    s = s.translate(str.maketrans('', '', punctuation))
-    return s.replace(' ', '-')
-    
+    return s.translate(translation_table).replace(' ', '-')
+
 env = jinja2.Environment(
     loader=jinja2.FileSystemLoader('../templates')
 )
