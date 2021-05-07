@@ -27,7 +27,7 @@ if __name__ == "__main__":
     template = jinja2.Template(Path('../templates/org_meeting.md').read_text())
     # Next Tuesday
     meeting_date = date.today() + relativedelta.relativedelta(days=1, weekday=relativedelta.TU)
-    title = f"VSF Organizational Meeting {meeting_date} 7pm CEST / 1pm EST"
+    title = f"VSF Organizational Meeting {meeting_date} 5pm CEST / 11am EST"
 
     repo = g.get_repo("virtualscienceforum/virtualscienceforum")
 
