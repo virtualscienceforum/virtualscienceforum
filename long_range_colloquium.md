@@ -11,7 +11,7 @@ Attendance is open to everyone, but please register to attend! If you would like
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
 | May 12 | Jonathan Simon | [When Photons Self-Organize: Making Matter from Light](#when-photons-self-organize-making-matter-from-light) |
-| May 28 | Giuseppe Carleo | [*TBA*](#tba) |
+| May 28 | Giuseppe Carleo | [Many-body wave functions in the era of machine learning and quantum computing](#many-body-wave-functions-in-the-era-of-machine-learning-and-quantum-computing) |
 
 ## Upcoming talks
 
@@ -28,9 +28,9 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 
 
 ### Giuseppe Carleo (EPFL Lausanne)
-#### *TBA*
+#### Many-body wave functions in the era of machine learning and quantum computing
 
-> *TBA*
+> The theoretical description of several complex quantum phenomena fundamentally relies on many-particle wave functions and our ability to represent and manipulate them. Variational methods aim at compact descriptions of many-body wave functions in terms of parameterised ansatz states, and are at present living exciting transformative developments, > thanks to advances both in machine learning and in quantum computing. In this talk I will first present variational representations of quantum states based on artificial neural networks [1]. Highlighting the connection with other known representations based on tensor networks [2], I will also discuss the crucial role of physical symmetries in these representations. Then, I will discuss parameterised quantum circuits, and hybrid classical-quantum variational schemes with an emphasis on near-term quantum hardware and limited-depth circuits. In this context, I will discuss strategies to efficiently target ground-state problems [3] and unitary dynamics [4]. For both classical and quantum variational parameterisations, I will focus on physics-oriented applications of these approaches, discussing their limitations and possible paths for improvement. > ——— > [1] Carleo and Troyer, Science 365, 602 (2017)> [2] Sharir, Shashua, and Carleo, arXiv:2103.10293 (2021)> [3] Stokes, Izaac, Killoran, and Carleo, Quantum 4, 269 (2020)> [4] Barison, Vicentini, and Carleo, arXiv:2101.04579 (2021)
 
 
 If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJEqcOqprTwqGtSGbHaFCd4xQ9hwYJ7CtddD)
