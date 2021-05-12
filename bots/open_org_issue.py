@@ -26,7 +26,7 @@ if __name__ == "__main__":
     g = Github(os.getenv("VSF_BOT_TOKEN"))
     template = jinja2.Template(Path('../templates/org_meeting.md').read_text())
     # Next Tuesday
-    meeting_date = date.today() + relativedelta.relativedelta(days=1, weekday=relativedelta.TU)
+    meeting_date = date.today() + relativedelta.relativedelta(days=1, weekday=relativedelta.FR)
     title = f"VSF Organizational Meeting {meeting_date} 5pm CEST / 11am EST"
 
     repo = g.get_repo("virtualscienceforum/virtualscienceforum")
