@@ -20,4 +20,6 @@ VSF Github: https://github.com/virtualscienceforum/virtualscienceforum
 
 VSF YouTube Channel: https://www.youtube.com/channel/UCvQEx4iW7u_x3jX742kUZLw
 
+VSF Speakers' Corner: https://virtualscienceforum.org/#/speakers-corner
+
 Next Colloquium registration: https://virtualscienceforum.org/#/long_range_colloquium?id=****
