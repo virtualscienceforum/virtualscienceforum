@@ -34,25 +34,10 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-| <time datetime="2021-05-12T17:00:00+00:00">May 12 17:00 UTC</time> | Mazhar Ali | [Realization of the field-free Josephson diode](#realization-of-the-field-free-josephson-diode) |
 | <time datetime="2021-05-17T15:00:00+00:00">May 17 15:00 UTC</time> | André Melo | [Multiplet supercurrent in Josephson tunneling circuits](#multiplet-supercurrent-in-josephson-tunneling-circuits) |
 | <time datetime="2021-05-18T15:00:00+00:00">May 18 15:00 UTC</time> | Antonio Manesco | [Correlation-induced valley topology in buckled graphene superlattices](#correlation-induced-valley-topology-in-buckled-graphene-superlattices) |
 
 ## Upcoming talks
-
-
-### Realization of the field-free Josephson diode
-#### Mazhar Ali (Max Planck Institute for Microstructure Physics)
-
-> The superconducting analog to the semiconducting diode, the Josephson diode, has long been sought, with multiple avenues to realization proposed by theorists. Exhibiting magnetic-field free, single directional superconductivity with Josephson coupling of the supercurrent across a tunnel barrier, it would serve as the building-block for next-generation superconducting circuit technology. Here we realized the field-free Josephson diode using an inversion symmetry breaking heterostructure of $\mathrm{NbSe_2/Nb_3Br_8/NbSe_2}$. We demonstrate, for the first time without magnetic field, the junction can be superconducting in one direction while normal in the opposite direction. Based on that, half-wave rectification of a square-wave excitation was achieved with low switching current density ($~2.2\times 10^2 \mathrm{A/cm^2}$), high rectification ratio ($~10^4$) and high robustness (at least $10^4$ cycles). We also demonstrate symmetric $\Delta I_\mathrm{c}$ (the difference between positive and negative critical currents) behavior with field and the expected Fraunhofer current phase relation of a Josephson junction. This realization raises fundamental questions about the Josephson effect through an insulator when breaking symmetry, and opens the door to ultralow power, high speed, superconducting circuits for logic and signal modulation.
->
-> **Authors:** Heng Wu, Yaojia Wang, Pranava K. Sivakumar, Chris Pasco, Stuart S. P. Parkin, Yu-Jia Zeng, Tyrel McQueen, Mazhar N. Ali  
-> **Preprint:** [arXiv:2103.15809](https://arxiv.org/abs/2103.15809)
-
-
-If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJIvdeyhrDsvGdDseW69S1kgH55Gba-wHHpI)
-
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJIvdeyhrDsvGdDseW69S1kgH55Gba-wHHpI" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
 ### Multiplet supercurrent in Josephson tunneling circuits
@@ -89,6 +74,7 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 
 |     Speaker    | Title |
 |:--------------:|:-----:|
+| Mazhar Ali | [Realization of the field-free Josephson diode](#realization-of-the-field-free-josephson-diode) |
 | Dominic Else | [Quantum many-body topology of quasicrystals](#quantum-many-body-topology-of-quasicrystals) |
 | Valentin Crépel | [Superconductivity mediated by a third-electron: Spin-triplet superconductivity from excitonic eﬀect in doped band insulators](#superconductivity-mediated-by-a-third-electron:-spin-triplet-superconductivity-from-excitonic-eﬀect-in-doped-band-insulators) |
 | Pramod Kumar | [Flat band induced non-Fermi liquid behavior of multicomponent fermions](#flat-band-induced-non-fermi-liquid-behavior-of-multicomponent-fermions) |
@@ -108,6 +94,23 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 | Joshuah T. Heath | [Landau Quasiparticles in Weak Power-Law Liquids](#landau-quasiparticles-in-weak-power-law-liquids) |
 | Hamed Vakili | [Using skyrmionic racetracks for unconventional computing](#using-skyrmionic-racetracks-for-unconventional-computing) |
 | Antonio Manesco | [Correlations in the elastic Landau level of spontaneously buckled graphene](#correlations-in-the-elastic-landau-level-of-spontaneously-buckled-graphene) |
+
+
+
+### Realization of the field-free Josephson diode
+#### Mazhar Ali, Max Planck Institute for Microstructure Physics
+
+<details><summary>abstract</summary>
+
+The superconducting analog to the semiconducting diode, the Josephson diode, has long been sought, with multiple avenues to realization proposed by theorists. Exhibiting magnetic-field free, single directional superconductivity with Josephson coupling of the supercurrent across a tunnel barrier, it would serve as the building-block for next-generation superconducting circuit technology. Here we realized the field-free Josephson diode using an inversion symmetry breaking heterostructure of $\mathrm{NbSe_2/Nb_3Br_8/NbSe_2}$. We demonstrate, for the first time without magnetic field, the junction can be superconducting in one direction while normal in the opposite direction. Based on that, half-wave rectification of a square-wave excitation was achieved with low switching current density ($~2.2\times 10^2 \mathrm{A/cm^2}$), high rectification ratio ($~10^4$) and high robustness (at least $10^4$ cycles). We also demonstrate symmetric $\Delta I_\mathrm{c}$ (the difference between positive and negative critical currents) behavior with field and the expected Fraunhofer current phase relation of a Josephson junction. This realization raises fundamental questions about the Josephson effect through an insulator when breaking symmetry, and opens the door to ultralow power, high speed, superconducting circuits for logic and signal modulation.
+
+Authors: Heng Wu, Yaojia Wang, Pranava K. Sivakumar, Chris Pasco, Stuart S. P. Parkin, Yu-Jia Zeng, Tyrel McQueen, Mazhar N. Ali  
+Preprint: [arXiv:](https://arxiv.org/abs/)
+</details>
+
+
+*Video in preparation*
+
 
 
 
