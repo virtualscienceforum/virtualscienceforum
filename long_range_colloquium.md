@@ -10,7 +10,7 @@ Attendance is open to everyone, but please register to attend! If you would like
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-| May 28 | Giuseppe Carleo | [Many-body wave functions in the era of machine learning and quantum computing](#many-body-wave-functions-in-the-era-of-machine-learning-and-quantum-computing) |
+| May 26 | Giuseppe Carleo | [Many-body wave functions in the era of machine learning and quantum computing](#many-body-wave-functions-in-the-era-of-machine-learning-and-quantum-computing) |
 
 ## Upcoming talks
 
