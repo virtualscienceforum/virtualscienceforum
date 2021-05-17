@@ -745,3 +745,22 @@
   event_type: speakers_corner
   zoom_meeting_id: 99553091274
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJ0ocuqopzooHdBH9VBO5NBzcNKKEricMm65
+- speaker_name: Xavier Waintal
+  speaker_affiliation: PHELIQS, CEA Grenoble, France
+  email: xavier.waintal@cea.fr
+  preprint: '2002.12372'
+  title: "Correlations and computational quantum transport: an approach for the automatic\
+    \ calculation\r\nof Feynman diagrams at large orders"
+  abstract: Even in the simplest quantum nanoelectronic devices, such as quantum dots
+    (Kondo effect, Coulomb blockade) or quantum point contacts (0.7 anomaly), electronic
+    correlations play a central role. Yet, except in some specific situations, these
+    correlations are beyond the reach of existing numerical techniques. In this talk,
+    I will present our efforts to build algorithms that systematically and automatically
+    calculate all Feynman diagrams up to very large order (10-22). As a first real
+    life application, I will show how the technique can be used to solve the Kondo
+    problem out-of-equilibrium.
+  authors: Marjan Maček, Philipp T. Dumitrescu, Corentin Bertrand, Bill Triggs, Olivier
+    Parcollet, Xavier Waintal
+  time: 2021-06-01 14:00:00+00:00
+  workflow_issue: 375
+  event_type: speakers_corner
