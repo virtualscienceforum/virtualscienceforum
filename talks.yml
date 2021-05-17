@@ -625,7 +625,6 @@
   youtube_id: iad6OoFnTZ0
 - speaker_name: Mazhar Ali
   speaker_affiliation: Max Planck Institute for Microstructure Physics
-  email: maz@berkeley.edu
   preprint: '2103.15809'
   title: Realization of the field-free Josephson diode
   abstract: The superconducting analog to the semiconducting diode, the Josephson
@@ -650,8 +649,7 @@
   time: 2021-05-12 17:00:00+00:00
   workflow_issue: 356
   event_type: speakers_corner
-  zoom_meeting_id: 96225920534
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJIvdeyhrDsvGdDseW69S1kgH55Gba-wHHpI
+  youtube_id: ch6VHXNDNcc
 - speaker_name: Giuseppe Carleo
   speaker_affiliation: EPFL Lausanne
   title: Many-body wave functions in the era of machine learning and quantum computing
@@ -749,8 +747,8 @@
   speaker_affiliation: PHELIQS, CEA Grenoble, France
   email: xavier.waintal@cea.fr
   preprint: '2002.12372'
-  title: "Correlations and computational quantum transport: an approach for the automatic\
-    \ calculation of Feynman diagrams at large orders"
+  title: 'Correlations and computational quantum transport: an approach for the automatic
+    calculation of Feynman diagrams at large orders'
   abstract: Even in the simplest quantum nanoelectronic devices, such as quantum dots
     (Kondo effect, Coulomb blockade) or quantum point contacts (0.7 anomaly), electronic
     correlations play a central role. Yet, except in some specific situations, these
