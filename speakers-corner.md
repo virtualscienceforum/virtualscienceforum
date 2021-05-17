@@ -36,9 +36,7 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 |:---------:|:--------------:|:-----:|
 | <time datetime="2021-05-17T15:00:00+00:00">May 17 15:00 UTC</time> | André Melo | [Multiplet supercurrent in Josephson tunneling circuits](#multiplet-supercurrent-in-josephson-tunneling-circuits) |
 | <time datetime="2021-05-18T15:00:00+00:00">May 18 15:00 UTC</time> | Antonio Manesco | [Correlation-induced valley topology in buckled graphene superlattices](#correlation-induced-valley-topology-in-buckled-graphene-superlattices) |
-| <time datetime="2021-06-01T14:00:00+00:00">June 1 14:00 UTC</time> | Xavier Waintal | [Correlations and computational quantum transport: an approach for the automatic calculation
-of Feynman diagrams at large orders](#correlations-and-computational-quantum-transport-an-approach-for-the-automatic-calculation
-of-feynman-diagrams-at-large-orders) |
+| <time datetime="2021-06-01T14:00:00+00:00">June 1 14:00 UTC</time> | Xavier Waintal | [Correlations and computational quantum transport: an approach for the automatic calculation of Feynman diagrams at large orders](#correlations-and-computational-quantum-transport-an-approach-for-the-automatic-calculation-of-feynman-diagrams-at-large-orders) |
 
 ## Upcoming talks
 
@@ -71,8 +69,7 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 <iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJ0ocuqopzooHdBH9VBO5NBzcNKKEricMm65" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
-### Correlations and computational quantum transport: an approach for the automatic calculation
-of Feynman diagrams at large orders
+### Correlations and computational quantum transport: an approach for the automatic calculation of Feynman diagrams at large orders
 #### Xavier Waintal (PHELIQS, CEA Grenoble, France)
 
 > Even in the simplest quantum nanoelectronic devices, such as quantum dots (Kondo effect, Coulomb blockade) or quantum point contacts (0.7 anomaly), electronic correlations play a central role. Yet, except in some specific situations, these correlations are beyond the reach of existing numerical techniques. In this talk, I will present our efforts to build algorithms that systematically and automatically calculate all Feynman diagrams up to very large order (10-22). As a first real life application, I will show how the technique can be used to solve the Kondo problem out-of-equilibrium.
