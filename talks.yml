@@ -700,7 +700,6 @@
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJUtd-ygrDkqEtMbTxLhLo08Ci1i4tRatEJd
 - speaker_name: André Melo
   speaker_affiliation: Kavli Institute of Nanoscience, Delft University of Technology
-  email: am@andremelo.org
   preprint: '2104.11239'
   title: Multiplet supercurrent in Josephson tunneling circuits
   abstract: The multi-terminal Josephson effect allows DC supercurrent to flow at
@@ -717,8 +716,7 @@
   time: 2021-05-17 15:00:00+00:00
   workflow_issue: 360
   event_type: speakers_corner
-  zoom_meeting_id: 98972332046
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJwkcOurrTkqHtLCRpukSx6zOe-YPQ7RJqOk
+  youtube_id: 6WhDzzvBK2E
 - speaker_name: Antonio Manesco
   speaker_affiliation: University of São Paulo
   email: antoniolrm@usp.br
