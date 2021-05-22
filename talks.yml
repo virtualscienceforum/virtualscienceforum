@@ -762,3 +762,10 @@
   event_type: speakers_corner
   zoom_meeting_id: 94191921295
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJAsfuihrDooE9FTOtFdA1g_ckLVv7amhPXO
+- speaker_name: Prineha Narang
+  speaker_affiliation: Harvard University
+  title: '*TBA*'
+  abstract: '*TBA*'
+  time: 2021-06-09 17:30:00+00:00
+  workflow_issue: 377
+  event_type: lrc
