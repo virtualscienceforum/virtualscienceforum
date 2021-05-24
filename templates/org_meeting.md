@@ -6,8 +6,8 @@ Propose agenda items in comments
 
 Checklist:
 - [ ] Start recording on Zoom
-- [ ] Choose the next chair at the end of the meeting
-- [ ] Copy paste meeting notes to Wiki, title "YYYY-MM-DD Org Meeting"
+- [ ] Choose the next chair at the end of the meeting, assign the next org meeting issue to them
+- [ ] Copy paste meeting notes to [this page Wiki](https://github.com/virtualscienceforum/virtualscienceforum/wiki/{{date}}-Org-Meeting)
 - [ ] Convert all action points to issues, assign or mention the relevant people
 
 After all is done, close this issue

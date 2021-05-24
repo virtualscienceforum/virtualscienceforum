@@ -36,6 +36,7 @@ if __name__ == "__main__":
         body=template.render(
             hackmd=new_hackmd_note(
                 f"# {title}\n\n## Present: \n\n* \n\n## Next chair\n\nChair name\n"
-            )
+            ),
+            date=meeting_date,
         )
     )
