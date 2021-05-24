@@ -719,7 +719,6 @@
   youtube_id: 6WhDzzvBK2E
 - speaker_name: Antonio Manesco
   speaker_affiliation: University of São Paulo
-  email: antoniolrm@usp.br
   preprint: '2104.00573'
   title: Correlation-induced valley topology in buckled graphene superlattices
   abstract: Flat bands emerging in buckled monolayer graphene superlattices have been
@@ -739,8 +738,7 @@
   time: 2021-05-18 15:00:00+00:00
   workflow_issue: 363
   event_type: speakers_corner
-  zoom_meeting_id: 99553091274
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJ0ocuqopzooHdBH9VBO5NBzcNKKEricMm65
+  youtube_id: 92gahnZ920g
 - speaker_name: Xavier Waintal
   speaker_affiliation: PHELIQS, CEA Grenoble, France
   email: xavier.waintal@cea.fr
