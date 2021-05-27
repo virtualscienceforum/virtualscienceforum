@@ -10,21 +10,9 @@ Attendance is open to everyone, but please register to attend! If you would like
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-| May 26 | Giuseppe Carleo | [Many-body wave functions in the era of machine learning and quantum computing](#many-body-wave-functions-in-the-era-of-machine-learning-and-quantum-computing) |
 | June 9 | Prineha Narang | [*TBA*](#tba) |
 
 ## Upcoming talks
-
-
-### Giuseppe Carleo (EPFL Lausanne)
-#### Many-body wave functions in the era of machine learning and quantum computing
-
-> The theoretical description of several complex quantum phenomena fundamentally relies on many-particle wave functions and our ability to represent and manipulate them. Variational methods aim at compact descriptions of many-body wave functions in terms of parameterised ansatz states, and are at present living exciting transformative developments, > thanks to advances both in machine learning and in quantum computing. In this talk I will first present variational representations of quantum states based on artificial neural networks [1]. Highlighting the connection with other known representations based on tensor networks [2], I will also discuss the crucial role of physical symmetries in these representations. Then, I will discuss parameterised quantum circuits, and hybrid classical-quantum variational schemes with an emphasis on near-term quantum hardware and limited-depth circuits. In this context, I will discuss strategies to efficiently target ground-state problems [3] and unitary dynamics [4]. For both classical and quantum variational parameterisations, I will focus on physics-oriented applications of these approaches, discussing their limitations and possible paths for improvement. > ——— > [1] Carleo and Troyer, Science 365, 602 (2017)> [2] Sharir, Shashua, and Carleo, arXiv:2103.10293 (2021)> [3] Stokes, Izaac, Killoran, and Carleo, Quantum 4, 269 (2020)> [4] Barison, Vicentini, and Carleo, arXiv:2101.04579 (2021)
-
-
-If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJEqcOqprTwqGtSGbHaFCd4xQ9hwYJ7CtddD)
-
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJEqcOqprTwqGtSGbHaFCd4xQ9hwYJ7CtddD" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
 ### Prineha Narang (Harvard University)
@@ -173,6 +161,27 @@ In this Colloquium, I will provide a personal perspective on this new field and 
 <details><summary>abstract</summary>
 
 In this talk I will discuss ongoing efforts at University of Chicago to explore matter made of light. I will begin with a broad introduction to the challenges associated with making matter from photons, focusing specifically on (1) how to trap photons and imbue them with synthetic mass and charge; (2) how to induce photons to collide with one another; and (3) how to drive photons to order, by cooling or otherwise. I will then provide as examples two state-of-the-art photonic quantum matter platforms: microwave photons coupled to superconducting resonators and transmon qubits, and optical photons trapped in multimode optical cavities and made to interact through Rydberg-dressing. In each case I will describe a synthetic material created in that platform: a Mott insulator of microwave photons, stabilized by coupling to an engineered, non-Markovian reservoir, and a Laughlin molecule of optical photons prepared by scattering photons through the optical cavity. I will conclude with an outlook on new experimental platforms we are developing to marry these techniques and ideas!
+
+</details>
+
+
+*Video in preparation*
+
+
+
+
+### Many-body wave functions in the era of machine learning and quantum computing
+#### Giuseppe Carleo, 
+
+<details><summary>abstract</summary>
+
+The theoretical description of several complex quantum phenomena fundamentally relies on many-particle wave functions and our ability to represent and manipulate them. Variational methods aim at compact descriptions of many-body wave functions in terms of parameterised ansatz states, and are at present living exciting transformative developments, 
+thanks to advances both in machine learning and in quantum computing. In this talk I will first present variational representations of quantum states based on artificial neural networks [1]. Highlighting the connection with other known representations based on tensor networks [2], I will also discuss the crucial role of physical symmetries in these representations. Then, I will discuss parameterised quantum circuits, and hybrid classical-quantum variational schemes with an emphasis on near-term quantum hardware and limited-depth circuits. In this context, I will discuss strategies to efficiently target ground-state problems [3] and unitary dynamics [4]. For both classical and quantum variational parameterisations, I will focus on physics-oriented applications of these approaches, discussing their limitations and possible paths for improvement. 
+——— 
+[1] Carleo and Troyer, Science 365, 602 (2017)
+[2] Sharir, Shashua, and Carleo, arXiv:2103.10293 (2021)
+[3] Stokes, Izaac, Killoran, and Carleo, Quantum 4, 269 (2020)
+[4] Barison, Vicentini, and Carleo, arXiv:2101.04579 (2021)
 
 </details>
 
