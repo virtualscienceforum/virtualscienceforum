@@ -674,8 +674,7 @@
   time: 2021-05-26 17:30:00+00:00
   workflow_issue: 357
   event_type: lrc
-  zoom_meeting_id: 95773137000
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJEqcOqprTwqGtSGbHaFCd4xQ9hwYJ7CtddD
+  youtube_id: sBs-5TWZ6RI
 - speaker_name: Jonathan Simon
   speaker_affiliation: University of Chicago
   title: 'When Photons Self-Organize: Making Matter from Light'

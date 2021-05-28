@@ -198,6 +198,6 @@ thanks to advances both in machine learning and in quantum computing. In this ta
 </details>
 
 
-*Video in preparation*
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sBs-5TWZ6RI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
