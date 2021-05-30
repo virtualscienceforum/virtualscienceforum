@@ -73,8 +73,7 @@ def check_date(timeslot):
             talk["time"].replace(tzinfo=pytz.UTC) for talk in yaml.load(f)
         }
 
-    nearby = {scheduled_time + timedelta(hours=n) for n in (-1, 0, 1)}
-    if nearby & other_times:
+    if min(abs(scheduled_time - t) for t in other_times) < timedelta(hours=1, minutes=15):
         return (
             "I found another talk within one hour time"
             " difference, please use another time slot."
