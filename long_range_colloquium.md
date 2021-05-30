@@ -45,6 +45,10 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 > *TBA*
 
 
+If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJAscO6oqj4vGtfvYKv3ZU7Q_3U1F-odPqTR)
+
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJAscO6oqj4vGtfvYKv3ZU7Q_3U1F-odPqTR" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
 
 
 ## Recordings
