@@ -777,3 +777,10 @@
   event_type: lrc
   zoom_meeting_id: 94300659980
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJAud-muqzIjEtSW4d0KN5ctbPJOx76vzJSX
+- speaker_name: Andrea Caviglia
+  speaker_affiliation: Delft University of Technology
+  title: '*TBA*'
+  abstract: '*TBA*'
+  time: 2021-07-07 17:30:00+00:00
+  workflow_issue: 383
+  event_type: lrc

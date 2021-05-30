@@ -12,6 +12,7 @@ Attendance is open to everyone, but please register to attend! If you would like
 |:---------:|:--------------:|:-----:|
 | June 9 | Prineha Narang | [*TBA*](#tba) |
 | June 23 | Sebastian Huber | [*TBA*](#tba) |
+| July 7 | Andrea Caviglia | [*TBA*](#tba) |
 
 ## Upcoming talks
 
@@ -36,6 +37,13 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJAud-muqzIjEtSW4d0KN5ctbPJOx76vzJSX)
 
 <iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJAud-muqzIjEtSW4d0KN5ctbPJOx76vzJSX" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
+
+### Andrea Caviglia (Delft University of Technology)
+#### *TBA*
+
+> *TBA*
+
 
 
 
