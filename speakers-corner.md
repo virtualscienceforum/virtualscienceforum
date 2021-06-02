@@ -28,30 +28,9 @@ containing all of the upcoming talks. That way, more potential participants will
 
 
 
-## Schedule
-
-All times are shown in <span id="timezone">UTC</span> timezone.
-
-|   Date   |     Speaker    | Title |
-|:---------:|:--------------:|:-----:|
-| <time datetime="2021-06-01T14:00:00+00:00">June 1 14:00 UTC</time> | Xavier Waintal | [Correlations and computational quantum transport: an approach for the automatic calculation of Feynman diagrams at large orders](#correlations-and-computational-quantum-transport-an-approach-for-the-automatic-calculation-of-feynman-diagrams-at-large-orders) |
-
 ## Upcoming talks
 
-
-### Correlations and computational quantum transport: an approach for the automatic calculation of Feynman diagrams at large orders
-#### Xavier Waintal (PHELIQS, CEA Grenoble, France)
-
-> Even in the simplest quantum nanoelectronic devices, such as quantum dots (Kondo effect, Coulomb blockade) or quantum point contacts (0.7 anomaly), electronic correlations play a central role. Yet, except in some specific situations, these correlations are beyond the reach of existing numerical techniques. In this talk, I will present our efforts to build algorithms that systematically and automatically calculate all Feynman diagrams up to very large order (10-22). As a first real life application, I will show how the technique can be used to solve the Kondo problem out-of-equilibrium.
->
-> **Authors:** Marjan Maček, Philipp T. Dumitrescu, Corentin Bertrand, Bill Triggs, Olivier Parcollet, Xavier Waintal  
-> **Preprint:** [arXiv:2002.12372](https://arxiv.org/abs/2002.12372)
-
-
-If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJAsfuihrDooE9FTOtFdA1g_ckLVv7amhPXO)
-
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJAsfuihrDooE9FTOtFdA1g_ckLVv7amhPXO" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
-
+There are no upcoming talks at the moment, apply [here](https://github.com/virtualscienceforum/virtualscienceforum/issues/new?template=speakers_corner_application.md&labels=speakers_corner&title=Speakers%27%20corner%20talk%20application) to present one.
 
 
 
@@ -59,6 +38,7 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 
 |     Speaker    | Title |
 |:--------------:|:-----:|
+| Xavier Waintal | [Correlations and computational quantum transport: an approach for the automatic calculation of Feynman diagrams at large orders](#correlations-and-computational-quantum-transport:-an-approach-for-the-automatic-calculation-of-feynman-diagrams-at-large-orders) |
 | Antonio Manesco | [Correlation-induced valley topology in buckled graphene superlattices](#correlation-induced-valley-topology-in-buckled-graphene-superlattices) |
 | André Melo | [Multiplet supercurrent in Josephson tunneling circuits](#multiplet-supercurrent-in-josephson-tunneling-circuits) |
 | Mazhar Ali | [Realization of the field-free Josephson diode](#realization-of-the-field-free-josephson-diode) |
@@ -81,6 +61,23 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 | Joshuah T. Heath | [Landau Quasiparticles in Weak Power-Law Liquids](#landau-quasiparticles-in-weak-power-law-liquids) |
 | Hamed Vakili | [Using skyrmionic racetracks for unconventional computing](#using-skyrmionic-racetracks-for-unconventional-computing) |
 | Antonio Manesco | [Correlations in the elastic Landau level of spontaneously buckled graphene](#correlations-in-the-elastic-landau-level-of-spontaneously-buckled-graphene) |
+
+
+
+### Correlations and computational quantum transport: an approach for the automatic calculation of Feynman diagrams at large orders
+#### Xavier Waintal, PHELIQS, CEA Grenoble, France
+
+<details><summary>abstract</summary>
+
+Even in the simplest quantum nanoelectronic devices, such as quantum dots (Kondo effect, Coulomb blockade) or quantum point contacts (0.7 anomaly), electronic correlations play a central role. Yet, except in some specific situations, these correlations are beyond the reach of existing numerical techniques. In this talk, I will present our efforts to build algorithms that systematically and automatically calculate all Feynman diagrams up to very large order (10-22). As a first real life application, I will show how the technique can be used to solve the Kondo problem out-of-equilibrium.
+
+Authors: Marjan Maček, Philipp T. Dumitrescu, Corentin Bertrand, Bill Triggs, Olivier Parcollet, Xavier Waintal  
+Preprint: [arXiv:](https://arxiv.org/abs/)
+</details>
+
+
+*Video in preparation*
+
 
 
 
