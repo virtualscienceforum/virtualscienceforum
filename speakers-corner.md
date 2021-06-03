@@ -48,6 +48,10 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 > **Preprint:** [arXiv:2103.07412](https://arxiv.org/abs/2103.07412)
 
 
+If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJYtcuqgrTsqEtNvzmnqld0IzaQTzcN8aYGr)
+
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJYtcuqgrTsqEtNvzmnqld0IzaQTzcN8aYGr" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
 
 
 
