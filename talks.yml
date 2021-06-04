@@ -740,7 +740,6 @@
   youtube_id: 92gahnZ920g
 - speaker_name: Xavier Waintal
   speaker_affiliation: PHELIQS, CEA Grenoble, France
-  email: xavier.waintal@cea.fr
   preprint: '2002.12372'
   title: 'Correlations and computational quantum transport: an approach for the automatic
     calculation of Feynman diagrams at large orders'
@@ -757,8 +756,7 @@
   time: 2021-06-01 14:00:00+00:00
   workflow_issue: 375
   event_type: speakers_corner
-  zoom_meeting_id: 94191921295
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJAsfuihrDooE9FTOtFdA1g_ckLVv7amhPXO
+  youtube_id: zYHXiPXUJmI
 - speaker_name: Prineha Narang
   speaker_affiliation: Harvard University
   title: Predicting and Controlling Scalable Quantum Systems
