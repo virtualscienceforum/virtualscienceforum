@@ -35,7 +35,7 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
 | <time datetime="2021-06-23T12:00:00+00:00">June 23 12:00 UTC</time> | Risto Ojajärvi | [Superconductivity provides a giant enhancement to the spin battery effect](#superconductivity-provides-a-giant-enhancement-to-the-spin-battery-effect) |
-| <time datetime="2021-06-24T02:00:00+00:00">June 24 2:00 UTC</time> | Noah F. Q. Yuan | [Supercurrent diode effect and finite momentum superconductivity](#supercurrent-diode-effect-and-finite-momentum-superconductivity) |
+| <time datetime="2021-06-24T14:00:00+00:00">June 24 14:00 UTC</time> | Noah F. Q. Yuan | [Supercurrent diode effect and finite momentum superconductivity](#supercurrent-diode-effect-and-finite-momentum-superconductivity) |
 
 ## Upcoming talks
 
