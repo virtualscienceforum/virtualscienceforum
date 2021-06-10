@@ -849,3 +849,22 @@
   event_type: speakers_corner
   zoom_meeting_id: 92053830087
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJYtcuqgrTsqEtNvzmnqld0IzaQTzcN8aYGr
+- speaker_name: "First Last\r\n\r\nNoah F. Q. Yuan"
+  speaker_affiliation: Shenzhen JL Computational Science and Applied Research Institute
+  email: yuanfanqi@csar.ac.cn
+  preprint: '2106.01909'
+  title: Supercurrent diode effect and finite momentum superconductivity
+  abstract: When both inversion and time-reversal symmetries are broken, the critical
+    current of a superconductor can be nonreciprocal. In this work we show that in
+    certain classes of two-dimensional superconductors with antisymmetric spin-orbit
+    coupling, Cooper pairs acquire a finite momentum upon the application of an in-plane
+    magnetic field, and as a result, critical currents in the direction parallel and
+    antiparallel to the Cooper pair momentum become unequal. This supercurrent diode
+    effect is also manifested in the polarity-dependence of in-plane critical fields
+    induced by a supercurrent. These nonreciprocal effects may be found in polar SrTiO$_3$
+    film, few-layer MoTe$_2$ in the $T_d$ phase, and twisted bilayer graphene in which
+    the valley degrees of freedom plays the role analogous to spin.
+  authors: Noah F. Q. Yuan, Liang Fu
+  time: 2021-06-24 02:00:00+00:00
+  workflow_issue: 387
+  event_type: speakers_corner
