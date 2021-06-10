@@ -35,9 +35,7 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
 | <time datetime="2021-06-23T12:00:00+00:00">June 23 12:00 UTC</time> | Risto Ojajärvi | [Superconductivity provides a giant enhancement to the spin battery effect](#superconductivity-provides-a-giant-enhancement-to-the-spin-battery-effect) |
-| <time datetime="2021-06-24T02:00:00+00:00">June 24 2:00 UTC</time> | First Last
-
-Noah F. Q. Yuan | [Supercurrent diode effect and finite momentum superconductivity](#supercurrent-diode-effect-and-finite-momentum-superconductivity) |
+| <time datetime="2021-06-24T02:00:00+00:00">June 24 2:00 UTC</time> | Noah F. Q. Yuan | [Supercurrent diode effect and finite momentum superconductivity](#supercurrent-diode-effect-and-finite-momentum-superconductivity) |
 
 ## Upcoming talks
 
@@ -57,9 +55,7 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 
 
 ### Supercurrent diode effect and finite momentum superconductivity
-#### First Last
-
-Noah F. Q. Yuan (Shenzhen JL Computational Science and Applied Research Institute)
+#### Noah F. Q. Yuan (Shenzhen JL Computational Science and Applied Research Institute)
 
 > When both inversion and time-reversal symmetries are broken, the critical current of a superconductor can be nonreciprocal. In this work we show that in certain classes of two-dimensional superconductors with antisymmetric spin-orbit coupling, Cooper pairs acquire a finite momentum upon the application of an in-plane magnetic field, and as a result, critical currents in the direction parallel and antiparallel to the Cooper pair momentum become unequal. This supercurrent diode effect is also manifested in the polarity-dependence of in-plane critical fields induced by a supercurrent. These nonreciprocal effects may be found in polar SrTiO$_3$ film, few-layer MoTe$_2$ in the $T_d$ phase, and twisted bilayer graphene in which the valley degrees of freedom plays the role analogous to spin.
 >
