@@ -67,6 +67,10 @@ Noah F. Q. Yuan (Shenzhen JL Computational Science and Applied Research Institut
 > **Preprint:** [arXiv:2106.01909](https://arxiv.org/abs/2106.01909)
 
 
+If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJEscOysrDIjHdLNJDlaGJ_WYrmrceO7BcOU)
+
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJEscOysrDIjHdLNJDlaGJ_WYrmrceO7BcOU" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
 
 
 
