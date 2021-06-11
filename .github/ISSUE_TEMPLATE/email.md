@@ -6,7 +6,7 @@ assignees: ""
 ---
 subject: email subject
 from: VSF team <no-reply@mail.virtualscienceforum.org>
-to: (choose one) vsf-announce / speakers_corner / <zoom meeting id>
+to: (choose one) vsf-announce / speakers_corner / <zoom meeting id> / #<tracking issue number>
 ---
 Dear %recipient_name%,
 
