@@ -11,7 +11,7 @@ from ruamel.yaml import YAML
 import jinja2
 import pytz
 
-import validatespeakerscornerissue
+from . import validatespeakerscornerissue
 
 yaml = YAML()
 TALKS_FILE = "talks.yml"
