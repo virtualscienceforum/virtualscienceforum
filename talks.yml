@@ -811,8 +811,13 @@
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJcudOCuqzgqHdzIDMy9XdgJs-2Bc_khn1op
 - speaker_name: Sebastian Huber
   speaker_affiliation: ETH Zurich
-  title: '*TBA*'
-  abstract: '*TBA*'
+  title: Topological Mechanics
+  abstract: Topological band theory provides us with a powerful design-principle for
+    metamaterials that control how waves propagate in space. These metamaterials are
+    ideal to investigate novel phenomena difficult to observe in other platforms.
+    In particular, I will present how artificial gauge fields lead to the appearance
+    of chiral Landau levels in neutral Weyl systems and crystalline symmetries to
+    novel fragile topological states in an acoustic super-structure.
   time: 2021-06-23 17:30:00+00:00
   workflow_issue: 382
   event_type: lrc
@@ -849,7 +854,7 @@
   event_type: speakers_corner
   zoom_meeting_id: 92053830087
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJYtcuqgrTsqEtNvzmnqld0IzaQTzcN8aYGr
-- speaker_name: "Noah F. Q. Yuan"
+- speaker_name: Noah F. Q. Yuan
   speaker_affiliation: Shenzhen JL Computational Science and Applied Research Institute
   email: yuanfanqi@csar.ac.cn
   preprint: '2106.01909'

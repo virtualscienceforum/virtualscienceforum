@@ -10,16 +10,16 @@ Attendance is open to everyone, but please register to attend! If you would like
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-| June 23 | Sebastian Huber | [*TBA*](#tba) |
+| June 23 | Sebastian Huber | [Topological Mechanics](#topological-mechanics) |
 | July 7 | Andrea Caviglia | [*TBA*](#tba) |
 
 ## Upcoming talks
 
 
 ### Sebastian Huber (ETH Zurich)
-#### *TBA*
+#### Topological Mechanics
 
-> *TBA*
+> Topological band theory provides us with a powerful design-principle for metamaterials that control how waves propagate in space. These metamaterials are ideal to investigate novel phenomena difficult to observe in other platforms. In particular, I will present how artificial gauge fields lead to the appearance of chiral Landau levels in neutral Weyl systems and crystalline symmetries to novel fragile topological states in an acoustic super-structure.
 
 
 If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJAud-muqzIjEtSW4d0KN5ctbPJOx76vzJSX)
