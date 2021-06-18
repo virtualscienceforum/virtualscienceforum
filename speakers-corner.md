@@ -78,6 +78,10 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 > **Preprint:** [arXiv:2106.07828](https://arxiv.org/abs/2106.07828)
 
 
+If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJwld-yuqT4oGdO6mG-aH71tYc15SyE8LQdf)
+
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJwld-yuqT4oGdO6mG-aH71tYc15SyE8LQdf" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
 
 
 
