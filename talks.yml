@@ -875,3 +875,32 @@
   event_type: speakers_corner
   zoom_meeting_id: 95175429976
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJEscOysrDIjHdLNJDlaGJ_WYrmrceO7BcOU
+- speaker_name: Jonathan Curtis
+  speaker_affiliation: Harvard University
+  email: jcurtis@seas.harvard.edu
+  preprint: '2106.07828'
+  title: Cavity magnon-polaritons in cuprate parent compounds
+  abstract: Cavity control of quantum matter may offer new ways to study and manipulate
+    many-body systems. A particularly appealing idea is to use cavities to enhance
+    superconductivity, especially in unconventional or high-$T_c$ systems. Motivated
+    by this, we propose a scheme for coupling Terahertz resonators to the antiferromagnetic
+    fluctuations in a cuprate parent compound, which are believed to provide the glue
+    for Cooper pairs in the superconducting phase. First, we derive the interaction
+    between magnon excitations of the Ne\'el-order and polar phonons associated with
+    the planar oxygens. This mode also couples to the cavity electric field, and in
+    the presence of spin-orbit interactions mediates a linear coupling between the
+    cavity and magnons, forming hybridized magnon-polaritons. This hybridization vanishes
+    linearly with photon momentum, implying the need for near-field optical methods,
+    which we analyze within a simple model. We then derive a higher-order coupling
+    between the cavity and magnons which is only present in bilayer systems, but does
+    not rely on spin-orbit coupling. This interaction is found to be large, but only
+    couples to the bimagnon operator. As a result we find a strong, but heavily damped,
+    bimagnon-cavity interaction which produces highly asymmetric cavity line-shapes
+    in the strong-coupling regime. To conclude, we outline several interesting extensions
+    of our theory, including applications to carrier-doped cuprates and other strongly-correlated
+    systems with Terahertz-scale magnetic excitations.
+  authors: Jonathan B. Curtis, Andrey Grankin, Nicholas R. Poniatowski, Victor M.
+    Galitski, Prineha Narang, Eugene Demler
+  time: 2021-07-08 14:00:00+00:00
+  workflow_issue: 390
+  event_type: speakers_corner
