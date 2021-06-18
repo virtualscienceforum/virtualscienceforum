@@ -36,6 +36,7 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 |:---------:|:--------------:|:-----:|
 | <time datetime="2021-06-23T12:00:00+00:00">June 23 12:00 UTC</time> | Risto Ojajärvi | [Superconductivity provides a giant enhancement to the spin battery effect](#superconductivity-provides-a-giant-enhancement-to-the-spin-battery-effect) |
 | <time datetime="2021-06-24T14:00:00+00:00">June 24 14:00 UTC</time> | Noah F. Q. Yuan | [Supercurrent diode effect and finite momentum superconductivity](#supercurrent-diode-effect-and-finite-momentum-superconductivity) |
+| <time datetime="2021-07-08T14:00:00+00:00">July 8 14:00 UTC</time> | Jonathan Curtis | [Cavity magnon-polaritons in cuprate parent compounds](#cavity-magnon-polaritons-in-cuprate-parent-compounds) |
 
 ## Upcoming talks
 
@@ -66,6 +67,16 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJEscOysrDIjHdLNJDlaGJ_WYrmrceO7BcOU)
 
 <iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJEscOysrDIjHdLNJDlaGJ_WYrmrceO7BcOU" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
+
+### Cavity magnon-polaritons in cuprate parent compounds
+#### Jonathan Curtis (Harvard University)
+
+> Cavity control of quantum matter may offer new ways to study and manipulate many-body systems. A particularly appealing idea is to use cavities to enhance superconductivity, especially in unconventional or high-$T_c$ systems. Motivated by this, we propose a scheme for coupling Terahertz resonators to the antiferromagnetic fluctuations in a cuprate parent compound, which are believed to provide the glue for Cooper pairs in the superconducting phase. First, we derive the interaction between magnon excitations of the Ne\'el-order and polar phonons associated with the planar oxygens. This mode also couples to the cavity electric field, and in the presence of spin-orbit interactions mediates a linear coupling between the cavity and magnons, forming hybridized magnon-polaritons. This hybridization vanishes linearly with photon momentum, implying the need for near-field optical methods, which we analyze within a simple model. We then derive a higher-order coupling between the cavity and magnons which is only present in bilayer systems, but does not rely on spin-orbit coupling. This interaction is found to be large, but only couples to the bimagnon operator. As a result we find a strong, but heavily damped, bimagnon-cavity interaction which produces highly asymmetric cavity line-shapes in the strong-coupling regime. To conclude, we outline several interesting extensions of our theory, including applications to carrier-doped cuprates and other strongly-correlated systems with Terahertz-scale magnetic excitations.
+>
+> **Authors:** Jonathan B. Curtis, Andrey Grankin, Nicholas R. Poniatowski, Victor M. Galitski, Prineha Narang, Eugene Demler  
+> **Preprint:** [arXiv:2106.07828](https://arxiv.org/abs/2106.07828)
+
 
 
 
