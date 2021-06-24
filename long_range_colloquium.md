@@ -10,21 +10,9 @@ Attendance is open to everyone, but please register to attend! If you would like
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-| June 23 | Sebastian Huber | [Topological Mechanics](#topological-mechanics) |
 | July 7 | Andrea Caviglia | [*TBA*](#tba) |
 
 ## Upcoming talks
-
-
-### Sebastian Huber (ETH Zurich)
-#### Topological Mechanics
-
-> Topological band theory provides us with a powerful design-principle for metamaterials that control how waves propagate in space. These metamaterials are ideal to investigate novel phenomena difficult to observe in other platforms. In particular, I will present how artificial gauge fields lead to the appearance of chiral Landau levels in neutral Weyl systems and crystalline symmetries to novel fragile topological states in an acoustic super-structure.
-
-
-If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJAud-muqzIjEtSW4d0KN5ctbPJOx76vzJSX)
-
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJAud-muqzIjEtSW4d0KN5ctbPJOx76vzJSX" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
 ### Andrea Caviglia (Delft University of Technology)
@@ -220,6 +208,21 @@ Quantum matter hosts spectacular excited-state and nonequilibrium effects, but m
 8.	Neuman, T., Wang, D. S. & Narang, P. Nanomagnonic Cavities for Strong Spin-Magnon Coupling and Magnon-Mediated Spin-Spin Interactions. Phys. Rev. Lett. 125, 247702 (2020).
 9.	Wang, D. S., Neuman, T. & Narang, P. Dipole-coupled emitters as deterministic entangled photon-pair sources. Phys. Rev. Research 2, 043328 (2020).
 10.	Neuman, T. et al. A Phononic Bus for Coherent Interfaces Between a Superconducting Quantum Processor, Spin Memory, and Photonic Quantum Networks. arXiv [quant-ph] (2020).
+
+</details>
+
+
+*Video in preparation*
+
+
+
+
+### Topological Mechanics
+#### Sebastian Huber, 
+
+<details><summary>abstract</summary>
+
+Topological band theory provides us with a powerful design-principle for metamaterials that control how waves propagate in space. These metamaterials are ideal to investigate novel phenomena difficult to observe in other platforms. In particular, I will present how artificial gauge fields lead to the appearance of chiral Landau levels in neutral Weyl systems and crystalline symmetries to novel fragile topological states in an acoustic super-structure.
 
 </details>
 
