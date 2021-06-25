@@ -34,24 +34,9 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-| <time datetime="2021-06-24T14:00:00+00:00">June 24 14:00 UTC</time> | Noah F. Q. Yuan | [Supercurrent diode effect and finite momentum superconductivity](#supercurrent-diode-effect-and-finite-momentum-superconductivity) |
 | <time datetime="2021-07-08T14:00:00+00:00">July 8 14:00 UTC</time> | Jonathan Curtis | [Cavity magnon-polaritons in cuprate parent compounds](#cavity-magnon-polaritons-in-cuprate-parent-compounds) |
 
 ## Upcoming talks
-
-
-### Supercurrent diode effect and finite momentum superconductivity
-#### Noah F. Q. Yuan (Shenzhen JL Computational Science and Applied Research Institute)
-
-> When both inversion and time-reversal symmetries are broken, the critical current of a superconductor can be nonreciprocal. In this work we show that in certain classes of two-dimensional superconductors with antisymmetric spin-orbit coupling, Cooper pairs acquire a finite momentum upon the application of an in-plane magnetic field, and as a result, critical currents in the direction parallel and antiparallel to the Cooper pair momentum become unequal. This supercurrent diode effect is also manifested in the polarity-dependence of in-plane critical fields induced by a supercurrent. These nonreciprocal effects may be found in polar SrTiO$_3$ film, few-layer MoTe$_2$ in the $T_d$ phase, and twisted bilayer graphene in which the valley degrees of freedom plays the role analogous to spin.
->
-> **Authors:** Noah F. Q. Yuan, Liang Fu  
-> **Preprint:** [arXiv:2106.01909](https://arxiv.org/abs/2106.01909)
-
-
-If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJEscOysrDIjHdLNJDlaGJ_WYrmrceO7BcOU)
-
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tJEscOysrDIjHdLNJDlaGJ_WYrmrceO7BcOU" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
 ### Cavity magnon-polaritons in cuprate parent compounds
@@ -74,6 +59,7 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 
 |     Speaker    | Title |
 |:--------------:|:-----:|
+| Noah F. Q. Yuan | [Supercurrent diode effect and finite momentum superconductivity](#supercurrent-diode-effect-and-finite-momentum-superconductivity) |
 | Risto Ojajärvi | [Superconductivity provides a giant enhancement to the spin battery effect](#superconductivity-provides-a-giant-enhancement-to-the-spin-battery-effect) |
 | Xavier Waintal | [Correlations and computational quantum transport: an approach for the automatic calculation of Feynman diagrams at large orders](#correlations-and-computational-quantum-transport:-an-approach-for-the-automatic-calculation-of-feynman-diagrams-at-large-orders) |
 | Antonio Manesco | [Correlation-induced valley topology in buckled graphene superlattices](#correlation-induced-valley-topology-in-buckled-graphene-superlattices) |
@@ -98,6 +84,23 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 | Joshuah T. Heath | [Landau Quasiparticles in Weak Power-Law Liquids](#landau-quasiparticles-in-weak-power-law-liquids) |
 | Hamed Vakili | [Using skyrmionic racetracks for unconventional computing](#using-skyrmionic-racetracks-for-unconventional-computing) |
 | Antonio Manesco | [Correlations in the elastic Landau level of spontaneously buckled graphene](#correlations-in-the-elastic-landau-level-of-spontaneously-buckled-graphene) |
+
+
+
+### Supercurrent diode effect and finite momentum superconductivity
+#### Noah F. Q. Yuan, Shenzhen JL Computational Science and Applied Research Institute
+
+<details><summary>abstract</summary>
+
+When both inversion and time-reversal symmetries are broken, the critical current of a superconductor can be nonreciprocal. In this work we show that in certain classes of two-dimensional superconductors with antisymmetric spin-orbit coupling, Cooper pairs acquire a finite momentum upon the application of an in-plane magnetic field, and as a result, critical currents in the direction parallel and antiparallel to the Cooper pair momentum become unequal. This supercurrent diode effect is also manifested in the polarity-dependence of in-plane critical fields induced by a supercurrent. These nonreciprocal effects may be found in polar SrTiO$_3$ film, few-layer MoTe$_2$ in the $T_d$ phase, and twisted bilayer graphene in which the valley degrees of freedom plays the role analogous to spin.
+
+Authors: Noah F. Q. Yuan, Liang Fu  
+Preprint: [arXiv:](https://arxiv.org/abs/)
+</details>
+
+
+*Video in preparation*
+
 
 
 
