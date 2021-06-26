@@ -10,15 +10,15 @@ Attendance is open to everyone, but please register to attend! If you would like
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-| July 7 | Andrea Caviglia | [*TBA*](#tba) |
+| July 7 | Andrea Caviglia | [Ultrafast control of magnetic interactions via light-driven phonons](#ultrafast-control-of-magnetic-interactions-via-light-driven-phonons) |
 
 ## Upcoming talks
 
 
 ### Andrea Caviglia (Delft University of Technology)
-#### *TBA*
+#### Ultrafast control of magnetic interactions via light-driven phonons
 
-> *TBA*
+> Resonant ultrafast excitation of infrared-active phonons is a powerful technique with which to control the electronic properties of materials that leads to remarkable phenomena such as light-induced superconductivity, switching of ferroelectric polarization and ultrafast insulator-to-metal transitions. We will discuss how light-driven phonons can be utilized to coherently manipulate macroscopic magnetic states. Intense mid-infrared electric field pulses tuned to resonance with a phonon mode of the archetypical antiferromagnet DyFeO3 induce ultrafast and long-living changes of the fundamental exchange interaction between rare-earth orbitals and transition metal spins. Non-thermal lattice control of the magnetic exchange, which defines the stability of the macroscopic magnetic state, allows us to perform picosecond coherent switching between competing antiferromagnetic and weakly ferromagnetic spin orders. In this talk, the potential of resonant phonon excitation for the manipulation of ferroic order on ultrafast timescales will be emphasized.
 
 
 If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tJAscO6oqj4vGtfvYKv3ZU7Q_3U1F-odPqTR)
