@@ -847,7 +847,6 @@
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJAscO6oqj4vGtfvYKv3ZU7Q_3U1F-odPqTR
 - speaker_name: Risto Ojajärvi
   speaker_affiliation: University of Jyväskylä
-  email: risto.m.m.ojajarvi@jyu.fi
   preprint: '2103.07412'
   title: Superconductivity provides a giant enhancement to the spin battery effect
   abstract: We develop a theory of the spin battery effect in superconductor/ferromagnetic
@@ -865,8 +864,7 @@
   time: 2021-06-23 12:00:00+00:00
   workflow_issue: 384
   event_type: speakers_corner
-  zoom_meeting_id: 92053830087
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJYtcuqgrTsqEtNvzmnqld0IzaQTzcN8aYGr
+  youtube_id: 0WORs165TZk
 - speaker_name: Noah F. Q. Yuan
   speaker_affiliation: Shenzhen JL Computational Science and Applied Research Institute
   email: yuanfanqi@csar.ac.cn
