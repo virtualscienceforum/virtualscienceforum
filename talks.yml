@@ -917,3 +917,23 @@
   event_type: speakers_corner
   zoom_meeting_id: 98805675237
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJwld-yuqT4oGdO6mG-aH71tYc15SyE8LQdf
+- speaker_name: Yang Zhang
+  speaker_affiliation: Massachusetts Institute of Technology
+  email: yzhang11@mit.edu
+  preprint: '2107.02167'
+  title: Spin-textured Chern bands in AB-stacked transition metal dichalcogenide bilayer
+    MoTe2/WSe2
+  abstract: While transition metal dichalcogenide (TMD) based moire materials have
+    been shown to host various correlated electronic phenomena, topological states
+    have not been experimentally observed until now. In this work, using first principles
+    calculations and continuum modeling, we reveal the displacement field induced
+    topological moire bands in AB-stacked TMD heterobilayer MoTe2/WSe2. Valley contrasting
+    Chern bands with non-trivial spin texture are formed from interlayer hybridization
+    between MoTe2 and WSe2 bands of nominally opposite spins. Our study establishes
+    a recipe for creating topological bands in AB stacked TMD bilayers in general,
+    which provides a highly tunable platform for realizing quantum spin Hall and interaction
+    induced quantum anomalous Hall effects.
+  authors: Yang Zhang, Trithep Devakul, Liang Fu
+  time: 2021-07-29 14:00:00+00:00
+  workflow_issue: 398
+  event_type: speakers_corner
