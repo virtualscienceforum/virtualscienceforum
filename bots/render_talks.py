@@ -70,7 +70,7 @@ button:hover {
 }
 </style>
 <body>
-<form id="registrationForm" method="post" action="/register" style="border:1px solid #ccc">
+<form id="registrationForm" method="post" action="vsf-worker.virtualscienceforum.workers.dev/register" style="border:1px solid #ccc">
   <div class="container">
     <h1>Sign Up</h1>
     <p>Please fill in this form to register for the talk by SPEAKERNAME.</p>
