@@ -888,7 +888,6 @@
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJEscOysrDIjHdLNJDlaGJ_WYrmrceO7BcOU
 - speaker_name: Jonathan Curtis
   speaker_affiliation: Harvard University
-  email: jcurtis@seas.harvard.edu
   preprint: '2106.07828'
   title: Cavity magnon-polaritons in cuprate parent compounds
   abstract: Cavity control of quantum matter may offer new ways to study and manipulate
@@ -915,8 +914,7 @@
   time: 2021-07-08 14:00:00+00:00
   workflow_issue: 390
   event_type: speakers_corner
-  zoom_meeting_id: 98805675237
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJwld-yuqT4oGdO6mG-aH71tYc15SyE8LQdf
+  youtube_id: ylGaVtPN2Bw
 - speaker_name: Yang Zhang
   speaker_affiliation: Massachusetts Institute of Technology
   email: yzhang11@mit.edu
