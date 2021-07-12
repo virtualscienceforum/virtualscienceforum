@@ -867,7 +867,6 @@
   youtube_id: 0WORs165TZk
 - speaker_name: Noah F. Q. Yuan
   speaker_affiliation: Shenzhen JL Computational Science and Applied Research Institute
-  email: yuanfanqi@csar.ac.cn
   preprint: '2106.01909'
   title: Supercurrent diode effect and finite momentum superconductivity
   abstract: When both inversion and time-reversal symmetries are broken, the critical
@@ -884,8 +883,7 @@
   time: 2021-06-24 14:00:00+00:00
   workflow_issue: 387
   event_type: speakers_corner
-  zoom_meeting_id: 95175429976
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJEscOysrDIjHdLNJDlaGJ_WYrmrceO7BcOU
+  youtube_id: Xvjouk02RGU
 - speaker_name: Jonathan Curtis
   speaker_affiliation: Harvard University
   preprint: '2106.07828'
