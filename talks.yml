@@ -915,7 +915,6 @@
   youtube_id: ylGaVtPN2Bw
 - speaker_name: Yang Zhang
   speaker_affiliation: Massachusetts Institute of Technology
-  email: yzhang11@mit.edu
   preprint: '2107.02167'
   title: Spin-textured Chern bands in AB-stacked transition metal dichalcogenide bilayer
     MoTe2/WSe2
@@ -933,5 +932,4 @@
   time: 2021-07-29 14:00:00+00:00
   workflow_issue: 398
   event_type: speakers_corner
-  zoom_meeting_id: 87066133313
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZMtce-prTgpG9fkDZC5ftcb8E883nycD03v
+  youtube_id: bVUWwupvPCE
