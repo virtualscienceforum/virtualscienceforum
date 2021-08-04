@@ -28,9 +28,26 @@ containing all of the upcoming talks. That way, more potential participants will
 
 
 
+## Schedule
+
+All times are shown in <span id="timezone">UTC</span> timezone.
+
+|   Date   |     Speaker    | Title |
+|:---------:|:--------------:|:-----:|
+| <time datetime="2021-08-18T16:00:00+00:00">August 18 16:00 UTC</time> | Brian Skinner | [Mysteries near the zero-field Wigner crystal transition in the 2D electron system ZnO](#mysteries-near-the-zero-field-wigner-crystal-transition-in-the-2d-electron-system-zno) |
+
 ## Upcoming talks
 
-There are no upcoming talks at the moment, apply [here](https://github.com/virtualscienceforum/virtualscienceforum/issues/new?template=speakers_corner_application.md&labels=speakers_corner&title=Speakers%27%20corner%20talk%20application) to present one.
+
+### Mysteries near the zero-field Wigner crystal transition in the 2D electron system ZnO
+#### Brian Skinner (Ohio State University)
+
+> I will discuss recent experimental results on the low-temperature transport in a strongly interacting zinc-oxide-based high mobility two dimensional electron system. The data shows clear hallmarks of the long-anticipated transition between a Fermi liquid phase and a Wigner crystal phase at zero magnetic field. Other features of the data, however, suggest new mysteries in the vicinity of this transition. This talk will highlight those mysteries, and overview a number of sharp and unexpected questions that are implied by the data. I will focus on the resistivity at ultra-low temperatures as a function of electron concentration and spin polarization.
+>
+> **Authors:** Joseph Falson, Inti Sodemann, Brian Skinner, Daniela Tabrea, Yusuke Kozuka, Atsushi Tsukazaki, Masashi Kawasaki, Klaus von Klitzing, Jurgen H Smet  
+> **Preprint:** [arXiv:2103.16586](https://arxiv.org/abs/2103.16586)
+
+
 
 
 
