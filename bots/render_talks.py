@@ -92,6 +92,7 @@ button:hover {
         </ul>
     </div>
 
+    <input type="hidden" name="eventType" id="eventType" value="EVENTTYPE" required>
     <input type="hidden" name="meetingID" id="meetingID" value="MEETINGID" required>
 
     <div id="recaptcha" name="recaptcha" class="g-recaptcha" data-sitekey="6Lf37MoZAAAAAF19QdljioXkLIw23w94QWpy9c5E"></div>
@@ -118,7 +119,7 @@ env = jinja2.Environment(
 env.filters['format_title'] = format_title
 
 def update_registration_form(talk):
-    talk['registration_form'] = registration_form_html.replace("SPEAKERNAME", talk['speaker_name']).replace("MEETINGID", talk['zoom_meeting_id'])
+    talk['registration_form'] = registration_form_html.replace("SPEAKERNAME", talk['speaker_name']).replace("MEETINGID", talk['zoom_meeting_id']).replace("EVENTTYPE", talk['event_type'])
 
 env.filter['update_registration_form'] = update_registration_form
 
