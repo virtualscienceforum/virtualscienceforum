@@ -32,7 +32,10 @@ def add_talk(gh, issue_number):
 
     if event_type == "speakers_corner":
         if any(talk.get('workflow_issue') == issue_number for talk in talks):
-            issue.create_comment("The talk is already scheduled, cannot update.")
+            issue.create_comment(
+                "The talk is already scheduled, cannot update automatically.\n"
+                "A VSF member will review and update your talk."
+            )
             return
 
         try:
