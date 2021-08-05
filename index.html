@@ -61,7 +61,7 @@
     }
 
     var xhr = new XMLHttpRequest();
-    xhr.open("POST", "https://vsf-worker.virtualscienceforum.workers.dev");
+    xhr.open("POST", "https://vsf-worker.virtualscienceforum.workers.dev/mailinglist");
 
     xhr.onload = function(event){
         if(event.target.status == 200 ) {
