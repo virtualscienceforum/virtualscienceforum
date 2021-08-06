@@ -21,6 +21,10 @@ Attendance is open to everyone, but please register to attend! If you would like
 > Classical machine learning (ML) provides a potentially powerful approach to solving challenging problems in quantum physics and chemistry. However, the advantages of ML over more traditional methods have not been firmly established. We prove that classical ML algorithms can efficiently predict ground state properties of a physical system, after learning from data obtained by measuring related systems. We also prove that classical ML algorithms can efficiently classify a wide range of quantum phases of matter. Our arguments are based on the concept of a classical shadow, a succinct classical description of a quantum state that can be constructed in feasible quantum experiments and be used to predict many properties of the state.> > This is joint work with Robert Huang (Caltech), Giacomo Torlai (AWS), Victor Albert (University of Maryland) and John Preskill (Caltech+AWS).
 
 
+If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tZUrfuuurD8qHdHwtQaHPli4j2Yo7rQiNmb8)
+
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tZUrfuuurD8qHdHwtQaHPli4j2Yo7rQiNmb8" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
 
 
 ## Recordings
