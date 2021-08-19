@@ -913,7 +913,6 @@
   youtube_id: bVUWwupvPCE
 - speaker_name: Brian Skinner
   speaker_affiliation: Ohio State University
-  email: skinner.352@osu.edu
   preprint: '2103.16586'
   title: Mysteries near the zero-field Wigner crystal transition in a 2D electron
     system
@@ -930,8 +929,7 @@
   time: 2021-08-18 16:00:00+00:00
   workflow_issue: 407
   event_type: speakers_corner
-  zoom_meeting_id: 82511950982
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZYoduihqzsjEtYqVGESBvPIO8gLaOGTbrPQ
+  youtube_id: mgsBW4f8U4Q
 - speaker_name: Richard Kueng
   speaker_affiliation: Johannes Kepler University, Linz, Austria
   title: Provably efficient machine learning for quantum many-body problems
