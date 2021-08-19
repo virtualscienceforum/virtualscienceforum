@@ -28,30 +28,9 @@ containing all of the upcoming talks. That way, more potential participants will
 
 
 
-## Schedule
-
-All times are shown in <span id="timezone">UTC</span> timezone.
-
-|   Date   |     Speaker    | Title |
-|:---------:|:--------------:|:-----:|
-| <time datetime="2021-08-18T16:00:00+00:00">August 18 16:00 UTC</time> | Brian Skinner | [Mysteries near the zero-field Wigner crystal transition in a 2D electron system](#mysteries-near-the-zero-field-wigner-crystal-transition-in-a-2d-electron-system) |
-
 ## Upcoming talks
 
-
-### Mysteries near the zero-field Wigner crystal transition in a 2D electron system
-#### Brian Skinner (Ohio State University)
-
-> I will discuss recent experimental results on the low-temperature transport in a strongly interacting zinc-oxide-based high mobility two dimensional electron system. The data shows clear hallmarks of the long-anticipated transition between a Fermi liquid phase and a Wigner crystal phase at zero magnetic field. Other features of the data, however, suggest new mysteries in the vicinity of this transition. This talk will highlight those mysteries, and overview a number of sharp and unexpected questions that are implied by the data. I will focus on the resistivity at ultra-low temperatures as a function of electron concentration and spin polarization.
->
-> **Authors:** Joseph Falson, Inti Sodemann, Brian Skinner, Daniela Tabrea, Yusuke Kozuka, Atsushi Tsukazaki, Masashi Kawasaki, Klaus von Klitzing, Jurgen H Smet  
-> **Preprint:** [arXiv:2103.16586](https://arxiv.org/abs/2103.16586)
-
-
-If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tZYoduihqzsjEtYqVGESBvPIO8gLaOGTbrPQ)
-
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tZYoduihqzsjEtYqVGESBvPIO8gLaOGTbrPQ" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
-
+There are no upcoming talks at the moment, apply [here](https://github.com/virtualscienceforum/virtualscienceforum/issues/new?template=speakers_corner_application.md&labels=speakers_corner&title=Speakers%27%20corner%20talk%20application) to present one.
 
 
 
@@ -59,6 +38,7 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 
 |     Speaker    | Title |
 |:--------------:|:-----:|
+| Brian Skinner | [Mysteries near the zero-field Wigner crystal transition in a 2D electron system](#mysteries-near-the-zero-field-wigner-crystal-transition-in-a-2d-electron-system) |
 | Yang Zhang | [Spin-textured Chern bands in AB-stacked transition metal dichalcogenide bilayer MoTe2/WSe2](#spin-textured-chern-bands-in-ab-stacked-transition-metal-dichalcogenide-bilayer-mote2/wse2) |
 | Jonathan Curtis | [Cavity magnon-polaritons in cuprate parent compounds](#cavity-magnon-polaritons-in-cuprate-parent-compounds) |
 | Noah F. Q. Yuan | [Supercurrent diode effect and finite momentum superconductivity](#supercurrent-diode-effect-and-finite-momentum-superconductivity) |
@@ -86,6 +66,23 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 | Joshuah T. Heath | [Landau Quasiparticles in Weak Power-Law Liquids](#landau-quasiparticles-in-weak-power-law-liquids) |
 | Hamed Vakili | [Using skyrmionic racetracks for unconventional computing](#using-skyrmionic-racetracks-for-unconventional-computing) |
 | Antonio Manesco | [Correlations in the elastic Landau level of spontaneously buckled graphene](#correlations-in-the-elastic-landau-level-of-spontaneously-buckled-graphene) |
+
+
+
+### Mysteries near the zero-field Wigner crystal transition in a 2D electron system
+#### Brian Skinner, Ohio State University
+
+<details><summary>abstract</summary>
+
+I will discuss recent experimental results on the low-temperature transport in a strongly interacting zinc-oxide-based high mobility two dimensional electron system. The data shows clear hallmarks of the long-anticipated transition between a Fermi liquid phase and a Wigner crystal phase at zero magnetic field. Other features of the data, however, suggest new mysteries in the vicinity of this transition. This talk will highlight those mysteries, and overview a number of sharp and unexpected questions that are implied by the data. I will focus on the resistivity at ultra-low temperatures as a function of electron concentration and spin polarization.
+
+Authors: Joseph Falson, Inti Sodemann, Brian Skinner, Daniela Tabrea, Yusuke Kozuka, Atsushi Tsukazaki, Masashi Kawasaki, Klaus von Klitzing, Jurgen H Smet  
+Preprint: [arXiv:](https://arxiv.org/abs/)
+</details>
+
+
+*Video in preparation*
+
 
 
 
