@@ -12,6 +12,7 @@ Attendance is open to everyone, but please register to attend! If you would like
 |:---------:|:--------------:|:-----:|
 | September 1 | Richard Kueng | [Provably efficient machine learning for quantum many-body problems](#provably-efficient-machine-learning-for-quantum-many-body-problems) |
 | September 15 | Andrea Caviglia | [Ultrafast control of magnetic interactions via light-driven phonons](#ultrafast-control-of-magnetic-interactions-via-light-driven-phonons) |
+| September 29 | Cui-Zu Chang | [Quantum Anomalous Hall Effect in the Magnetic Topological Insulator Thin Films](#quantum-anomalous-hall-effect-in-the-magnetic-topological-insulator-thin-films) |
 
 ## Upcoming talks
 
@@ -36,6 +37,13 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tZYodO2qrD4jE9whKurQGUXhmO7sXsaBoAxc)
 
 <iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tZYodO2qrD4jE9whKurQGUXhmO7sXsaBoAxc" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
+
+### Cui-Zu Chang (Pennsylvania State University)
+#### Quantum Anomalous Hall Effect in the Magnetic Topological Insulator Thin Films
+
+> The quantum anomalous Hall (QAH) effect can be considered as the quantum Hall (QH) effect without an external magnetic field, which can be realized by time-reversal symmetry breaking in a topologically non-trivial system [1, 2]. A QAH system carries spin-polarized dissipationless chiral edge transport channels without the need for external energy input, hence may have a huge impact on future electronic and spintronic device applications for ultralow-power consumption. The many decades' quest for the experimental realization of the QAH phenomenon became a possibility in 2006 with the discovery of topological insulators (TIs). In 2013, the QAH effect was observed in thin films of Cr-doped TI for the first time [3]. Two years later in a near-ideal system, V-doped TI, contrary to the negative prediction from first principle calculations [2], a high-precision QAH quantization with more robust magnetization and a perfectly dissipationless chiral current flow was demonstrated [4]. In this talk, I will introduce the route to the experimental observation of the QAH effect in the aforementioned two systems [3, 4], and also talk about our recent progress on the high Chern number QAH effect in magnetic TI multilayers [5].  >  [1] Haldane, Phys. Rev. Lett. 61, 2015 (1988).  >  [2] Yu et al, Science 329, 61 (2010).  >  [3] Chang et al, Science 340, 167(2013).  >  [4] Chang et al, Nat. Mater. 14, 473(2015).  >  [5] Zhao et al, Nature 588, 419 (2020).
+
 
 
 
