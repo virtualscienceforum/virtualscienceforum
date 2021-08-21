@@ -13,6 +13,7 @@ Attendance is open to everyone, but please register to attend! If you would like
 | September 1 | Richard Kueng | [Provably efficient machine learning for quantum many-body problems](#provably-efficient-machine-learning-for-quantum-many-body-problems) |
 | September 15 | Andrea Caviglia | [Ultrafast control of magnetic interactions via light-driven phonons](#ultrafast-control-of-magnetic-interactions-via-light-driven-phonons) |
 | September 29 | Cui-Zu Chang | [Quantum Anomalous Hall Effect in the Magnetic Topological Insulator Thin Films](#quantum-anomalous-hall-effect-in-the-magnetic-topological-insulator-thin-films) |
+| October 13 | Atac Imamoglu | [Strongly correlated electrons in atomically thin semiconductors](#strongly-correlated-electrons-in-atomically-thin-semiconductors) |
 
 ## Upcoming talks
 
@@ -48,6 +49,13 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tZYude2gqDwtHNRpqBYvVRzeZrifZ-c_e8zj)
 
 <iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tZYude2gqDwtHNRpqBYvVRzeZrifZ-c_e8zj" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
+
+### Atac Imamoglu (ETH Zurich)
+#### Strongly correlated electrons in atomically thin semiconductors
+
+> In this talk, I will describe recent experiments in atomically-thin transition metal dichalcogenides (TMDs) where Coulomb interactions between electrons dominate over their kinetic energy. Our measurements provide a direct evidence that the electrons at densities < 3 · 10^11 cm-2 in a pristine MoSe2 monolayer form a Wigner crystal even at B = 0. This is revealed by our low-temperature (T = 80 mK) magneto-optical spectroscopy experiments that utilize a newly developed technique allowing to unequivocally detect charge order in an electronic Mott-insulator state. This method relies on the modification of excitonic band structure arising due to the periodic potential experienced by the excitons interacting with a crystalline electronic lattice. Under such conditions, optically-inactive exciton states with finite momentum matching the reciprocal Wigner lattice vector k = k­W get Bragg scattered back to the light cone, where they hybridize with the zero-momentum bright exciton states. This leads to emergence of a new, umklapp peak in the optical spectrum heralding the presence of periodically-ordered electronic lattice.
+
 
 
 
