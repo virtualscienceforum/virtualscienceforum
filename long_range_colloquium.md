@@ -57,6 +57,10 @@ If the form below doesn't work, [register directly](https://virtualscienceforum-
 > In this talk, I will describe recent experiments in atomically-thin transition metal dichalcogenides (TMDs) where Coulomb interactions between electrons dominate over their kinetic energy. Our measurements provide a direct evidence that the electrons at densities < 3 · 10^11 cm-2 in a pristine MoSe2 monolayer form a Wigner crystal even at B = 0. This is revealed by our low-temperature (T = 80 mK) magneto-optical spectroscopy experiments that utilize a newly developed technique allowing to unequivocally detect charge order in an electronic Mott-insulator state. This method relies on the modification of excitonic band structure arising due to the periodic potential experienced by the excitons interacting with a crystalline electronic lattice. Under such conditions, optically-inactive exciton states with finite momentum matching the reciprocal Wigner lattice vector k = k­W get Bragg scattered back to the light cone, where they hybridize with the zero-momentum bright exciton states. This leads to emergence of a new, umklapp peak in the optical spectrum heralding the presence of periodically-ordered electronic lattice.
 
 
+If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tZMoc-qorzgsH9c37o5X6ScNQYPVvIpU9w_2)
+
+<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tZMoc-qorzgsH9c37o5X6ScNQYPVvIpU9w_2" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+
 
 
 ## Recordings
