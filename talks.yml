@@ -695,8 +695,7 @@
   time: 2021-05-12 17:30:00+00:00
   workflow_issue: 359
   event_type: lrc
-  zoom_meeting_id: 91005822087
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJUtd-ygrDkqEtMbTxLhLo08Ci1i4tRatEJd
+  youtube_id: r4JECgbJAD0
 - speaker_name: André Melo
   speaker_affiliation: Kavli Institute of Nanoscience, Delft University of Technology
   preprint: '2104.11239'
