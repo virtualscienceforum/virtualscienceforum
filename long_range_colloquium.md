@@ -10,23 +10,11 @@ Attendance is open to everyone, but please register to attend! If you would like
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-| September 1 | Richard Kueng | [Provably efficient machine learning for quantum many-body problems](#provably-efficient-machine-learning-for-quantum-many-body-problems) |
 | September 15 | Andrea Caviglia | [Ultrafast control of magnetic interactions via light-driven phonons](#ultrafast-control-of-magnetic-interactions-via-light-driven-phonons) |
 | September 29 | Cui-Zu Chang | [Quantum Anomalous Hall Effect in the Magnetic Topological Insulator Thin Films](#quantum-anomalous-hall-effect-in-the-magnetic-topological-insulator-thin-films) |
 | October 13 | Atac Imamoglu | [Strongly correlated electrons in atomically thin semiconductors](#strongly-correlated-electrons-in-atomically-thin-semiconductors) |
 
 ## Upcoming talks
-
-
-### Richard Kueng (Johannes Kepler University, Linz, Austria)
-#### Provably efficient machine learning for quantum many-body problems
-
-> Classical machine learning (ML) provides a potentially powerful approach to solving challenging problems in quantum physics and chemistry. However, the advantages of ML over more traditional methods have not been firmly established. We prove that classical ML algorithms can efficiently predict ground state properties of a physical system, after learning from data obtained by measuring related systems. We also prove that classical ML algorithms can efficiently classify a wide range of quantum phases of matter. Our arguments are based on the concept of a classical shadow, a succinct classical description of a quantum state that can be constructed in feasible quantum experiments and be used to predict many properties of the state.> > This is joint work with Robert Huang (Caltech), Giacomo Torlai (AWS), Victor Albert (University of Maryland) and John Preskill (Caltech+AWS).
-
-
-If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tZUrfuuurD8qHdHwtQaHPli4j2Yo7rQiNmb8)
-
-<iframe width="100%" height="940" src="https://virtualscienceforum-org.zoom.us/meeting/register/tZUrfuuurD8qHdHwtQaHPli4j2Yo7rQiNmb8" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
 
 
 ### Andrea Caviglia (Delft University of Technology)
@@ -259,6 +247,23 @@ Quantum matter hosts spectacular excited-state and nonequilibrium effects, but m
 <details><summary>abstract</summary>
 
 Topological band theory provides us with a powerful design-principle for metamaterials that control how waves propagate in space. These metamaterials are ideal to investigate novel phenomena difficult to observe in other platforms. In particular, I will present how artificial gauge fields lead to the appearance of chiral Landau levels in neutral Weyl systems and crystalline symmetries to novel fragile topological states in an acoustic super-structure.
+
+</details>
+
+
+*Video in preparation*
+
+
+
+
+### Provably efficient machine learning for quantum many-body problems
+#### Richard Kueng, 
+
+<details><summary>abstract</summary>
+
+Classical machine learning (ML) provides a potentially powerful approach to solving challenging problems in quantum physics and chemistry. However, the advantages of ML over more traditional methods have not been firmly established. We prove that classical ML algorithms can efficiently predict ground state properties of a physical system, after learning from data obtained by measuring related systems. We also prove that classical ML algorithms can efficiently classify a wide range of quantum phases of matter. Our arguments are based on the concept of a classical shadow, a succinct classical description of a quantum state that can be constructed in feasible quantum experiments and be used to predict many properties of the state.
+
+This is joint work with Robert Huang (Caltech), Giacomo Torlai (AWS), Victor Albert (University of Maryland) and John Preskill (Caltech+AWS).
 
 </details>
 
