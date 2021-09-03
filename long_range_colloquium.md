@@ -236,7 +236,7 @@ Quantum matter hosts spectacular excited-state and nonequilibrium effects, but m
 </details>
 
 
-*Video in preparation*
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FHHM_znD1cw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
