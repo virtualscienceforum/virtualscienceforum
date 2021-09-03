@@ -806,8 +806,7 @@
   time: 2021-06-09 17:30:00+00:00
   workflow_issue: 377
   event_type: lrc
-  zoom_meeting_id: 93339653078
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJcudOCuqzgqHdzIDMy9XdgJs-2Bc_khn1op
+  youtube_id: FHHM_znD1cw
 - speaker_name: Sebastian Huber
   speaker_affiliation: ETH Zurich
   title: Topological Mechanics
