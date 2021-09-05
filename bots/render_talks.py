@@ -75,9 +75,9 @@ button:hover {
     <p>Please fill in this form to register for the talk by SPEAKERNAME.</p>
     <hr>
     <label for="firstname"><b>First Name</b></label>
-    <input type="text" placeholder="Enter your first name" name="firstname" id="name" required>
+    <input type="text" placeholder="Enter your first name" name="firstname" id="firstname" required>
     <label for="lastname"><b>Last Name</b></label>
-    <input type="text" placeholder="Enter your last name" name="lastname" id="name" required>
+    <input type="text" placeholder="Enter your last name" name="lastname" id="lastname" required>
 
     <label for="address"><b>Email</b></label>
     <input type="email" placeholder="Enter your Email" name="address" id="address" required>
