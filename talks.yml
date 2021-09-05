@@ -823,28 +823,6 @@
   event_type: lrc
   zoom_meeting_id: 94300659980
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJAud-muqzIjEtSW4d0KN5ctbPJOx76vzJSX
-- speaker_name: Andrea Caviglia
-  speaker_affiliation: Delft University of Technology
-  title: Ultrafast control of magnetic interactions via light-driven phonons
-  abstract: Resonant ultrafast excitation of infrared-active phonons is a powerful
-    technique with which to control the electronic properties of materials that leads
-    to remarkable phenomena such as light-induced superconductivity, switching of
-    ferroelectric polarization and ultrafast insulator-to-metal transitions. We will
-    discuss how light-driven phonons can be utilized to coherently manipulate macroscopic
-    magnetic states. Intense mid-infrared electric field pulses tuned to resonance
-    with a phonon mode of the archetypical antiferromagnet DyFeO3 induce ultrafast
-    and long-living changes of the fundamental exchange interaction between rare-earth
-    orbitals and transition metal spins. Non-thermal lattice control of the magnetic
-    exchange, which defines the stability of the macroscopic magnetic state, allows
-    us to perform picosecond coherent switching between competing antiferromagnetic
-    and weakly ferromagnetic spin orders. In this talk, the potential of resonant
-    phonon excitation for the manipulation of ferroic order on ultrafast timescales
-    will be emphasized.
-  time: 2021-07-07 17:30:00+00:00
-  workflow_issue: 383
-  event_type: lrc
-  zoom_meeting_id: 94177045503
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJAscO6oqj4vGtfvYKv3ZU7Q_3U1F-odPqTR
 - speaker_name: Risto Ojajärvi
   speaker_affiliation: University of Jyväskylä
   preprint: '2103.07412'
@@ -867,7 +845,6 @@
   youtube_id: 0WORs165TZk
 - speaker_name: Noah F. Q. Yuan
   speaker_affiliation: Shenzhen JL Computational Science and Applied Research Institute
-  email: yuanfanqi@csar.ac.cn
   preprint: '2106.01909'
   title: Supercurrent diode effect and finite momentum superconductivity
   abstract: When both inversion and time-reversal symmetries are broken, the critical
@@ -884,11 +861,9 @@
   time: 2021-06-24 14:00:00+00:00
   workflow_issue: 387
   event_type: speakers_corner
-  zoom_meeting_id: 95175429976
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJEscOysrDIjHdLNJDlaGJ_WYrmrceO7BcOU
+  youtube_id: _7ZCNmafhiM
 - speaker_name: Jonathan Curtis
   speaker_affiliation: Harvard University
-  email: jcurtis@seas.harvard.edu
   preprint: '2106.07828'
   title: Cavity magnon-polaritons in cuprate parent compounds
   abstract: Cavity control of quantum matter may offer new ways to study and manipulate
@@ -915,11 +890,9 @@
   time: 2021-07-08 14:00:00+00:00
   workflow_issue: 390
   event_type: speakers_corner
-  zoom_meeting_id: 98805675237
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJwld-yuqT4oGdO6mG-aH71tYc15SyE8LQdf
+  youtube_id: ylGaVtPN2Bw
 - speaker_name: Yang Zhang
   speaker_affiliation: Massachusetts Institute of Technology
-  email: yzhang11@mit.edu
   preprint: '2107.02167'
   title: Spin-textured Chern bands in AB-stacked transition metal dichalcogenide bilayer
     MoTe2/WSe2
@@ -937,5 +910,65 @@
   time: 2021-07-29 14:00:00+00:00
   workflow_issue: 398
   event_type: speakers_corner
-  zoom_meeting_id: 87066133313
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZMtce-prTgpG9fkDZC5ftcb8E883nycD03v
+  youtube_id: bVUWwupvPCE
+- speaker_name: Brian Skinner
+  speaker_affiliation: Ohio State University
+  preprint: '2103.16586'
+  title: Mysteries near the zero-field Wigner crystal transition in a 2D electron
+    system
+  abstract: I will discuss recent experimental results on the low-temperature transport
+    in a strongly interacting zinc-oxide-based high mobility two dimensional electron
+    system. The data shows clear hallmarks of the long-anticipated transition between
+    a Fermi liquid phase and a Wigner crystal phase at zero magnetic field. Other
+    features of the data, however, suggest new mysteries in the vicinity of this transition.
+    This talk will highlight those mysteries, and overview a number of sharp and unexpected
+    questions that are implied by the data. I will focus on the resistivity at ultra-low
+    temperatures as a function of electron concentration and spin polarization.
+  authors: Joseph Falson, Inti Sodemann, Brian Skinner, Daniela Tabrea, Yusuke Kozuka,
+    Atsushi Tsukazaki, Masashi Kawasaki, Klaus von Klitzing, Jurgen H Smet
+  time: 2021-08-18 16:00:00+00:00
+  workflow_issue: 407
+  event_type: speakers_corner
+  youtube_id: mgsBW4f8U4Q
+- speaker_name: Richard Kueng
+  speaker_affiliation: Johannes Kepler University, Linz, Austria
+  title: Provably efficient machine learning for quantum many-body problems
+  abstract: "Classical machine learning (ML) provides a potentially powerful approach\
+    \ to solving challenging problems in quantum physics and chemistry. However, the\
+    \ advantages of ML over more traditional methods have not been firmly established.\
+    \ We prove that classical ML algorithms can efficiently predict ground state properties\
+    \ of a physical system, after learning from data obtained by measuring related\
+    \ systems. We also prove that classical ML algorithms can efficiently classify\
+    \ a wide range of quantum phases of matter. Our arguments are based on the concept\
+    \ of a classical shadow, a succinct classical description of a quantum state that\
+    \ can be constructed in feasible quantum experiments and be used to predict many\
+    \ properties of the state.\r\n\r\nThis is joint work with Robert Huang (Caltech),\
+    \ Giacomo Torlai (AWS), Victor Albert (University of Maryland) and John Preskill\
+    \ (Caltech+AWS)."
+  time: 2021-09-01 17:30:00+00:00
+  workflow_issue: 408
+  event_type: lrc
+  zoom_meeting_id: 81692624075
+  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZUrfuuurD8qHdHwtQaHPli4j2Yo7rQiNmb8
+- speaker_name: Andrea Caviglia
+  speaker_affiliation: Delft University of Technology
+  title: Ultrafast control of magnetic interactions via light-driven phonons
+  abstract: Resonant ultrafast excitation of infrared-active phonons is a powerful
+    technique with which to control the electronic properties of materials that leads
+    to remarkable phenomena such as light-induced superconductivity, switching of
+    ferroelectric polarization and ultrafast insulator-to-metal transitions. We will
+    discuss how light-driven phonons can be utilized to coherently manipulate macroscopic
+    magnetic states. Intense mid-infrared electric field pulses tuned to resonance
+    with a phonon mode of the archetypical antiferromagnet DyFeO3 induce ultrafast
+    and long-living changes of the fundamental exchange interaction between rare-earth
+    orbitals and transition metal spins. Non-thermal lattice control of the magnetic
+    exchange, which defines the stability of the macroscopic magnetic state, allows
+    us to perform picosecond coherent switching between competing antiferromagnetic
+    and weakly ferromagnetic spin orders. In this talk, the potential of resonant
+    phonon excitation for the manipulation of ferroic order on ultrafast timescales
+    will be emphasized.
+  time: 2021-09-15 17:30:00+00:00
+  workflow_issue: 383
+  event_type: lrc
+  zoom_meeting_id: 82534225998
+  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZYodO2qrD4jE9whKurQGUXhmO7sXsaBoAxc

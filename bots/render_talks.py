@@ -7,8 +7,7 @@ import jinja2
 import pytz
 from ruamel.yaml import YAML
 
-registration_form_html =
-`<!DOCTYPE html>
+registration_form_html ="""<!DOCTYPE html>
 <head>
 <script src='https://www.google.com/recaptcha/api.js'></script>
 </head>
@@ -102,7 +101,7 @@ button:hover {
   </div>
 </form>
 </body>
-</html>`
+</html>"""
 
 yaml = YAML(typ='safe')
 with open('../talks.yml') as f:
@@ -119,9 +118,9 @@ env = jinja2.Environment(
 env.filters['format_title'] = format_title
 
 def update_registration_form(talk):
-    talk['registration_form'] = registration_form_html.replace("SPEAKERNAME", talk['speaker_name']).replace("MEETINGID", talk['zoom_meeting_id']).replace("EVENTTYPE", talk['event_type'])
+    return registration_form_html.replace("SPEAKERNAME", talk['speaker_name']).replace("MEETINGID", str(talk['zoom_meeting_id'])).replace("EVENTTYPE", talk['event_type'])
 
-env.filter['update_registration_form'] = update_registration_form
+env.filters['registration_form'] = update_registration_form
 
 header = Path("../speakers-corner-header.md").read_text()
 
