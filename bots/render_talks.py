@@ -103,10 +103,10 @@ select {
     <input type='text' placeholder='Enter your affiliation' name='affiliation' id='affiliation-MEETINGID' required>
     <label for="howdidyouhear"><b>How did you hear about us?</b></label>
     <select id="howdidyouhear-MEETINGID" name="howdidyouhear" required>
-      <option value="emaillist">Email list</option>
-      <option value="colleague">Colleague (not an organizer)</option>
-      <option value="organizer">One of the organizers</option>
-      <option value="other" selected>Other</option>
+      <option value="Email list">Email list</option>
+      <option value="A colleague (not an organizer)">A colleague (not an organizer)</option>
+      <option value="One of the organizers">One of the organizers</option>
+      <option value="Other" selected>Other</option>
     </select>
     <div id='checkboxes'>
         <ul id='checkboxes' style='list-style:none'>
