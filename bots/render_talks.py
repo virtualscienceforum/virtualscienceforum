@@ -57,7 +57,7 @@ button:hover {
 }
 /* Clear floats */
 .clearfix::after {
-  content: "";
+  content: '';
   clear: both;
   display: table;
 }
@@ -69,34 +69,32 @@ button:hover {
 }
 </style>
 <body>
-<form id="registrationForm" method="post" action="vsf-worker.virtualscienceforum.workers.dev/register" style="border:1px solid #ccc">
-  <div class="container">
+<form id='registrationForm' method='post' action='vsf-worker.virtualscienceforum.workers.dev/register' style='border:1px solid #ccc'>
+  <div class='container'>
     <h1>Sign Up</h1>
     <p>Please fill in this form to register for the talk by SPEAKERNAME.</p>
     <hr>
-    <label for="firstname"><b>First Name</b></label>
-    <input type="text" placeholder="Enter your first name" name="firstname" id="firstname" required>
-    <label for="lastname"><b>Last Name</b></label>
-    <input type="text" placeholder="Enter your last name" name="lastname" id="lastname" required>
+    <label for='firstname'><b>First Name</b></label>
+    <input type='text' placeholder='Enter your first name' name='firstname' id='firstname' required>
+    <label for='lastname'><b>Last Name</b></label>
+    <input type='text' placeholder='Enter your last name' name='lastname' id='lastname' required>
 
-    <label for="address"><b>Email</b></label>
-    <input type="email" placeholder="Enter your Email" name="address" id="address" required>
-    <label for="addressconfirm"><b>Confirm Email</b></label>
-    <input type="email" placeholder="Confirm your Email" name="addressconfirm" id="address" required>
+    <label for='address'><b>Email</b></label>
+    <input type='email' placeholder='Enter your Email' name='address' id='address' required>
 
-    <div id="checkboxes">
-        <ul id="checkboxes" style='list-style:none'>
-          <li> <input type="checkbox" name="instructions-checkbox" value="confirm-instructions" required> Please confirm you have read the <a href='http://virtualscienceforum.org/#/attendeeguide'>participant instructions*</a> </li>
-          <li> <input type="checkbox" name="contact-checkbox" value="confirm-contact" checked> Please check this box if we may contact you about future VSF events </li>
+    <div id='checkboxes'>
+        <ul id='checkboxes' style='list-style:none'>
+          <li> <input type='checkbox' name='instructions-checkbox' value='confirm-instructions' required> Please confirm you have read the <a href='http://virtualscienceforum.org/#/attendeeguide'>participant instructions*</a> </li>
+          <li> <input type='checkbox' name='contact-checkbox' value='confirm-contact' checked> Please check this box if we may contact you about future VSF events </li>
         </ul>
     </div>
 
-    <input type="hidden" name="eventType" id="eventType" value="EVENTTYPE" required>
-    <input type="hidden" name="meetingID" id="meetingID" value="MEETINGID" required>
+    <input type='hidden' name='eventType' id='eventType' value='EVENTTYPE' required>
+    <input type='hidden' name='meetingID' id='meetingID' value='MEETINGID' required>
 
-    <div id="recaptcha" name="recaptcha" class="g-recaptcha" data-sitekey="6Lf37MoZAAAAAF19QdljioXkLIw23w94QWpy9c5E"></div>
-    <div class="clearfix">
-      <button type="submit" class="registerbtn">Register</button>
+    <div id='recaptcha' name='recaptcha' class='g-recaptcha' data-sitekey='6Lf37MoZAAAAAF19QdljioXkLIw23w94QWpy9c5E'></div>
+    <div class='clearfix'>
+      <button type='submit' class='registerbtn'>Register</button>
     </div>
   </div>
 </form>
