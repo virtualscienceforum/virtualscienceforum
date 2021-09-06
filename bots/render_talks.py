@@ -63,6 +63,13 @@ button:hover {
   float: left;
   width: 50%;
 }
+select {
+  width: 100%;
+  padding: 16px 20px;
+  border: none;
+  border-radius: 4px;
+  background-color: #f1f1f1;
+}
 /* Add padding to container elements */
 .container {
   padding: 16px;
@@ -81,7 +88,7 @@ button:hover {
 }
 </style>
 <body>
-<form id='registrationForm-MEETINGID' method='post' action='vsf-worker.virtualscienceforum.workers.dev/register' style='border:1px solid #ccc'>
+<form id='registrationForm-MEETINGID' method='post' action='http://vsf-worker.virtualscienceforum.workers.dev/register' style='border:1px solid #ccc'>
   <div class='container'>
     <h1>Sign Up</h1>
     <p>Please fill in this form to register for the talk by SPEAKERNAME.</p>
@@ -91,7 +98,16 @@ button:hover {
     <label for='lastname'><b>Last Name</b></label>
     <input type='text' placeholder='Enter your last name' name='lastname' id='lastname-MEETINGID' required>
     <label for='address'><b>Email</b></label>
-    <input type='email' placeholder='Enter your Email' name='address' id='address-MEETINGID' required>
+    <input type='email' placeholder='Enter your email' name='address' id='address-MEETINGID' required>
+    <label for='org'><b>Affiliation</b></label>
+    <input type='text' placeholder='Enter your affiliation' name='affiliation' id='affiliation-MEETINGID' required>
+    <label for="howdidyouhear"><b>How did you hear about us?</b></label>
+    <select id="howdidyouhear-MEETINGID" name="howdidyouhear" required>
+      <option value="emaillist">Email list</option>
+      <option value="colleague">Colleague (not an organizer)</option>
+      <option value="organizer">One of the organizers</option>
+      <option value="other" selected>Other</option>
+    </select>
     <div id='checkboxes'>
         <ul id='checkboxes' style='list-style:none'>
           <li> <input type='checkbox' name='instructions-checkbox' value='confirm-instructions' required> Please confirm you have read the <a href='http://virtualscienceforum.org/#/attendeeguide'>participant instructions*</a> </li>
