@@ -946,8 +946,7 @@
   time: 2021-09-01 17:30:00+00:00
   workflow_issue: 408
   event_type: lrc
-  zoom_meeting_id: 81692624075
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZUrfuuurD8qHdHwtQaHPli4j2Yo7rQiNmb8
+  youtube_id: a4QvjEyO0WY
 - speaker_name: Andrea Caviglia
   speaker_affiliation: Delft University of Technology
   title: Ultrafast control of magnetic interactions via light-driven phonons
