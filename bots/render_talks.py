@@ -80,6 +80,30 @@ select {
   clear: both;
   display: table;
 }
+.alert {
+  padding: 20px;
+  background-color: #f44336;
+  color: white;
+  opacity: 1;
+  transition: opacity 0.6s;
+  margin-bottom: 15px;
+}
+.alert.success {background-color: #4CAF50;}
+.alert.info {background-color: #2196F3;}
+.alert.warning {background-color: #ff9800;}
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 12px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.closebtn:hover {
+  color: black;
+}
 /* Change styles for cancel button and signup button on extra small screens */
 @media screen and (max-width: 300px) {
   .cancelbtn, .signupbtn {
@@ -88,7 +112,7 @@ select {
 }
 </style>
 <body>
-<form id='registrationForm-MEETINGID' method='post' action='http://vsf-worker.virtualscienceforum.workers.dev/register' style='border:1px solid #ccc'>
+<form id='registrationForm-MEETINGID' method='post' action='http://vsf-worker.virtualscienceforum.workers.dev/register' style='border:1px solid #ccc' onsubmit="submitZoomRegistration(event, MEETINGID)">
   <div class='container'>
     <h1>Sign Up</h1>
     <p>Please fill in this form to register for the talk by SPEAKERNAME.</p>
@@ -119,6 +143,10 @@ select {
     <div id='recaptcha' name='recaptcha' class='g-recaptcha' data-sitekey='6Lf37MoZAAAAAF19QdljioXkLIw23w94QWpy9c5E'></div>
     <div class='clearfix container'>
       <button type='submit' class='registerbtn'>Register</button>
+    </div>
+    <div id="errordiv-MEETINGID" class="alert" style="display:none">
+      <span class="closebtn" onclick="this.parentElement.style.display='none';"">&times;</span>
+      <strong id="errormsg-MEETINGID"></strong>
     </div>
   </div>
 </form>
