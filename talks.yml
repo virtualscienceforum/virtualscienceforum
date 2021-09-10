@@ -695,8 +695,7 @@
   time: 2021-05-12 17:30:00+00:00
   workflow_issue: 359
   event_type: lrc
-  zoom_meeting_id: 91005822087
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJUtd-ygrDkqEtMbTxLhLo08Ci1i4tRatEJd
+  youtube_id: r4JECgbJAD0
 - speaker_name: André Melo
   speaker_affiliation: Kavli Institute of Nanoscience, Delft University of Technology
   preprint: '2104.11239'
@@ -807,8 +806,7 @@
   time: 2021-06-09 17:30:00+00:00
   workflow_issue: 377
   event_type: lrc
-  zoom_meeting_id: 93339653078
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJcudOCuqzgqHdzIDMy9XdgJs-2Bc_khn1op
+  youtube_id: FHHM_znD1cw
 - speaker_name: Sebastian Huber
   speaker_affiliation: ETH Zurich
   title: Topological Mechanics
@@ -948,8 +946,7 @@
   time: 2021-09-01 17:30:00+00:00
   workflow_issue: 408
   event_type: lrc
-  zoom_meeting_id: 81692624075
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZUrfuuurD8qHdHwtQaHPli4j2Yo7rQiNmb8
+  youtube_id: a4QvjEyO0WY
 - speaker_name: Andrea Caviglia
   speaker_affiliation: Delft University of Technology
   title: Ultrafast control of magnetic interactions via light-driven phonons
@@ -972,3 +969,53 @@
   event_type: lrc
   zoom_meeting_id: 82534225998
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZYodO2qrD4jE9whKurQGUXhmO7sXsaBoAxc
+- speaker_name: Cui-Zu Chang
+  speaker_affiliation: Pennsylvania State University
+  title: Quantum Anomalous Hall Effect in the Magnetic Topological Insulator Thin
+    Films
+  abstract: "The quantum anomalous Hall (QAH) effect can be considered as the quantum\
+    \ Hall (QH) effect without an external magnetic field, which can be realized by\
+    \ time-reversal symmetry breaking in a topologically non-trivial system [1, 2].\
+    \ A QAH system carries spin-polarized dissipationless chiral edge transport channels\
+    \ without the need for external energy input, hence may have a huge impact on\
+    \ future electronic and spintronic device applications for ultralow-power consumption.\
+    \ The many decades' quest for the experimental realization of the QAH phenomenon\
+    \ became a possibility in 2006 with the discovery of topological insulators (TIs).\
+    \ In 2013, the QAH effect was observed in thin films of Cr-doped TI for the first\
+    \ time [3]. Two years later in a near-ideal system, V-doped TI, contrary to the\
+    \ negative prediction from first principle calculations [2], a high-precision\
+    \ QAH quantization with more robust magnetization and a perfectly dissipationless\
+    \ chiral current flow was demonstrated [4]. In this talk, I will introduce the\
+    \ route to the experimental observation of the QAH effect in the aforementioned\
+    \ two systems [3, 4], and also talk about our recent progress on the high Chern\
+    \ number QAH effect in magnetic TI multilayers [5].  \r\n [1] Haldane, Phys. Rev.\
+    \ Lett. 61, 2015 (1988).  \r\n [2] Yu et al, Science 329, 61 (2010).  \r\n [3]\
+    \ Chang et al, Science 340, 167(2013).  \r\n [4] Chang et al, Nat. Mater. 14,\
+    \ 473(2015).  \r\n [5] Zhao et al, Nature 588, 419 (2020)."
+  time: 2021-09-29 17:30:00+00:00
+  workflow_issue: 413
+  event_type: lrc
+  zoom_meeting_id: 82324867760
+  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZYude2gqDwtHNRpqBYvVRzeZrifZ-c_e8zj
+- speaker_name: Atac Imamoglu
+  speaker_affiliation: ETH Zurich
+  title: Strongly correlated electrons in atomically thin semiconductors
+  abstract: In this talk, I will describe recent experiments in atomically-thin transition
+    metal dichalcogenides (TMDs) where Coulomb interactions between electrons dominate
+    over their kinetic energy. Our measurements provide a direct evidence that the
+    electrons at densities < 3 · 10^11 cm-2 in a pristine MoSe2 monolayer form a Wigner
+    crystal even at B = 0. This is revealed by our low-temperature (T = 80 mK) magneto-optical
+    spectroscopy experiments that utilize a newly developed technique allowing to
+    unequivocally detect charge order in an electronic Mott-insulator state. This
+    method relies on the modification of excitonic band structure arising due to the
+    periodic potential experienced by the excitons interacting with a crystalline
+    electronic lattice. Under such conditions, optically-inactive exciton states with
+    finite momentum matching the reciprocal Wigner lattice vector k = k­W get Bragg
+    scattered back to the light cone, where they hybridize with the zero-momentum
+    bright exciton states. This leads to emergence of a new, umklapp peak in the optical
+    spectrum heralding the presence of periodically-ordered electronic lattice.
+  time: 2021-10-13 17:30:00+00:00
+  workflow_issue: 414
+  event_type: lrc
+  zoom_meeting_id: 87543013653
+  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZMoc-qorzgsH9c37o5X6ScNQYPVvIpU9w_2
