@@ -112,7 +112,7 @@ select {
 }
 </style>
 <body>
-<form id='registrationForm-MEETINGID' method='post' action='http://vsf-worker.virtualscienceforum.workers.dev/register' style='border:1px solid #ccc' onsubmit="submitZoomRegistration(event, MEETINGID)">
+<form id='registrationForm-MEETINGID' method='post' action='https://vsf-worker.virtualscienceforum.workers.dev/register' style='border:1px solid #ccc' onsubmit="submitZoomRegistration(event, MEETINGID)">
   <div class='container'>
     <h1>Sign Up</h1>
     <p>Please fill in this form to register for the talk by SPEAKERNAME.</p>

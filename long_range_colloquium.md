@@ -130,7 +130,7 @@ select {
 }
 </style>
 <body>
-<form id='registrationForm-82534225998' method='post' action='http://vsf-worker.virtualscienceforum.workers.dev/register' style='border:1px solid #ccc' onsubmit="submitZoomRegistration(event, 82534225998)">
+<form id='registrationForm-82534225998' method='post' action='https://vsf-worker.virtualscienceforum.workers.dev/register' style='border:1px solid #ccc' onsubmit="submitZoomRegistration(event, 82534225998)">
   <div class='container'>
     <h1>Sign Up</h1>
     <p>Please fill in this form to register for the talk by Andrea Caviglia.</p>
@@ -286,7 +286,7 @@ select {
 }
 </style>
 <body>
-<form id='registrationForm-82324867760' method='post' action='http://vsf-worker.virtualscienceforum.workers.dev/register' style='border:1px solid #ccc' onsubmit="submitZoomRegistration(event, 82324867760)">
+<form id='registrationForm-82324867760' method='post' action='https://vsf-worker.virtualscienceforum.workers.dev/register' style='border:1px solid #ccc' onsubmit="submitZoomRegistration(event, 82324867760)">
   <div class='container'>
     <h1>Sign Up</h1>
     <p>Please fill in this form to register for the talk by Cui-Zu Chang.</p>
@@ -442,7 +442,7 @@ select {
 }
 </style>
 <body>
-<form id='registrationForm-87543013653' method='post' action='http://vsf-worker.virtualscienceforum.workers.dev/register' style='border:1px solid #ccc' onsubmit="submitZoomRegistration(event, 87543013653)">
+<form id='registrationForm-87543013653' method='post' action='https://vsf-worker.virtualscienceforum.workers.dev/register' style='border:1px solid #ccc' onsubmit="submitZoomRegistration(event, 87543013653)">
   <div class='container'>
     <h1>Sign Up</h1>
     <p>Please fill in this form to register for the talk by Atac Imamoglu.</p>
