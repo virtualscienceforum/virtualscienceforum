@@ -1019,3 +1019,24 @@
   event_type: lrc
   zoom_meeting_id: 87543013653
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZMoc-qorzgsH9c37o5X6ScNQYPVvIpU9w_2
+- speaker_name: Yantao Li
+  speaker_affiliation: Indiana University
+  email: liyant@indiana.edu
+  preprint: '2107.10687'
+  title: Dirac Magic and Lifshitz Transitions in AA-Stacked Twisted Multilayer Graphene
+  abstract: We uncover a new type of magic-angle phenomena when an AA-stacked graphene
+    bilayer is twisted relative to another graphene system with band touching. In
+    the simplest case this constitutes a trilayer system formed by an AA-stacked bilayer
+    twisted relative to a single layer of graphene. We find multiple anisotropic Dirac
+    cones coexisting in such twisted multilayer structures at certain angles, which
+    we call "Dirac magic." We trace the origin of Dirac magic angles to the geometric
+    structure of the twisted AA-bilayer Dirac cones relative to the other band-touching
+    spectrum in the moir\'e reciprocal lattice. The anisotropy of the Dirac cones
+    and a concomitant cascade of saddle points induce a series of topological Lifshitz
+    transitions that can be tuned by the twist angle and perpendicular electric field.
+    We discuss the possibility of direct observation of Dirac magic as well as its
+    consequences for the correlated states of electrons in this moir\'e system.
+  authors: Yantao Li, Adam Eaton, H. A. Fertig, Babak Seradjeh
+  time: 2021-09-30 17:00:00+00:00
+  workflow_issue: 423
+  event_type: speakers_corner
