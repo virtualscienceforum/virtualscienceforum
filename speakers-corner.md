@@ -28,9 +28,26 @@ containing all of the upcoming talks. That way, more potential participants will
 
 
 
+## Schedule
+
+All times are shown in <span id="timezone">UTC</span> timezone.
+
+|   Date   |     Speaker    | Title |
+|:---------:|:--------------:|:-----:|
+| <time datetime="2021-09-30T17:00:00+00:00">September 30 17:00 UTC</time> | Yantao Li | [Dirac Magic and Lifshitz Transitions in AA-Stacked Twisted Multilayer Graphene](#dirac-magic-and-lifshitz-transitions-in-aa-stacked-twisted-multilayer-graphene) |
+
 ## Upcoming talks
 
-There are no upcoming talks at the moment, apply [here](https://github.com/virtualscienceforum/virtualscienceforum/issues/new?template=speakers_corner_application.md&labels=speakers_corner&title=Speakers%27%20corner%20talk%20application) to present one.
+
+### Dirac Magic and Lifshitz Transitions in AA-Stacked Twisted Multilayer Graphene
+#### Yantao Li (Indiana University)
+
+> We uncover a new type of magic-angle phenomena when an AA-stacked graphene bilayer is twisted relative to another graphene system with band touching. In the simplest case this constitutes a trilayer system formed by an AA-stacked bilayer twisted relative to a single layer of graphene. We find multiple anisotropic Dirac cones coexisting in such twisted multilayer structures at certain angles, which we call "Dirac magic." We trace the origin of Dirac magic angles to the geometric structure of the twisted AA-bilayer Dirac cones relative to the other band-touching spectrum in the moir\'e reciprocal lattice. The anisotropy of the Dirac cones and a concomitant cascade of saddle points induce a series of topological Lifshitz transitions that can be tuned by the twist angle and perpendicular electric field. We discuss the possibility of direct observation of Dirac magic as well as its consequences for the correlated states of electrons in this moir\'e system.
+>
+> **Authors:** Yantao Li, Adam Eaton, H. A. Fertig, Babak Seradjeh  
+> **Preprint:** [arXiv:2107.10687](https://arxiv.org/abs/2107.10687)
+
+
 
 
 
