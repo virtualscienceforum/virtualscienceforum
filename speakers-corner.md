@@ -50,7 +50,7 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 
 If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tZAtcOGprD0vGNC4uVf-Gimf8ZGTc7R-CfO1)
 
-<iframe width="100%" height="940" src="<!DOCTYPE html>
+<!DOCTYPE html>
 <head>
 <script src='https://www.google.com/recaptcha/api.js'></script>
 </head>
@@ -194,7 +194,8 @@ select {
   </div>
 </form>
 </body>
-</html>" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+</html>
+
 
 
 
