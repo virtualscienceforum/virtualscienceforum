@@ -10,167 +10,10 @@ Attendance is open to everyone, but please register to attend! If you would like
 
 |   Date   |     Speaker    | Title |
 |:---------:|:--------------:|:-----:|
-| September 15 | Andrea Caviglia | [Ultrafast control of magnetic interactions via light-driven phonons](#ultrafast-control-of-magnetic-interactions-via-light-driven-phonons) |
 | September 29 | Cui-Zu Chang | [Quantum Anomalous Hall Effect in the Magnetic Topological Insulator Thin Films](#quantum-anomalous-hall-effect-in-the-magnetic-topological-insulator-thin-films) |
 | October 13 | Atac Imamoglu | [Strongly correlated electrons in atomically thin semiconductors](#strongly-correlated-electrons-in-atomically-thin-semiconductors) |
 
 ## Upcoming talks
-
-
-### Andrea Caviglia (Delft University of Technology)
-#### Ultrafast control of magnetic interactions via light-driven phonons
-
-> Resonant ultrafast excitation of infrared-active phonons is a powerful technique with which to control the electronic properties of materials that leads to remarkable phenomena such as light-induced superconductivity, switching of ferroelectric polarization and ultrafast insulator-to-metal transitions. We will discuss how light-driven phonons can be utilized to coherently manipulate macroscopic magnetic states. Intense mid-infrared electric field pulses tuned to resonance with a phonon mode of the archetypical antiferromagnet DyFeO3 induce ultrafast and long-living changes of the fundamental exchange interaction between rare-earth orbitals and transition metal spins. Non-thermal lattice control of the magnetic exchange, which defines the stability of the macroscopic magnetic state, allows us to perform picosecond coherent switching between competing antiferromagnetic and weakly ferromagnetic spin orders. In this talk, the potential of resonant phonon excitation for the manipulation of ferroic order on ultrafast timescales will be emphasized.
-
-
-If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tZYodO2qrD4jE9whKurQGUXhmO7sXsaBoAxc)
-
-<!DOCTYPE html>
-<head>
-<script src='https://www.google.com/recaptcha/api.js'></script>
-</head>
-<html>
-<style>
-body {font-family: Arial, Helvetica, sans-serif;}
-* {box-sizing: border-box}
-/* Full-width input fields */
-input[type=text] {
-  width: 100%;
-  padding: 15px;
-  margin: 5px 0 22px 0;
-  display: inline-block;
-  border: none;
-  background: #f1f1f1;
-}
-input[type=email] {
-  width: 100%;
-  padding: 15px;
-  margin: 5px 0 22px 0;
-  display: inline-block;
-  border: none;
-  background: #f1f1f1;
-}
-input[type=text]:focus {
-  background-color: #ddd;
-  outline: none;
-}
-input[type=email]:focus {
-  background-color: #ddd;
-  outline: none;
-}
-hr {
-  border: 1px solid #f1f1f1;
-  margin-bottom: 25px;
-}
-/* Set a style for all buttons */
-button {
-  background-color: #4CAF50;
-  color: white;
-  padding: 14px 20px;
-  margin: 8px 0;
-  border: none;
-  cursor: pointer;
-  width: 100%;
-  opacity: 0.9;
-}
-button:hover {
-  opacity:1;
-}
-/* Float registration button and add an equal width */
-.registerbtn {
-  float: left;
-  width: 50%;
-}
-select {
-  width: 100%;
-  padding: 16px 20px;
-  border: none;
-  border-radius: 4px;
-  background-color: #f1f1f1;
-}
-/* Add padding to container elements */
-.container {
-  padding: 16px;
-}
-/* Clear floats */
-.clearfix::after {
-  content: '';
-  clear: both;
-  display: table;
-}
-.alert {
-  padding: 20px;
-  background-color: #f44336;
-  color: white;
-  opacity: 1;
-  transition: opacity 0.6s;
-  margin-bottom: 15px;
-}
-.alert.success {background-color: #4CAF50;}
-.alert.info {background-color: #2196F3;}
-.alert.warning {background-color: #ff9800;}
-.closebtn {
-  margin-left: 15px;
-  color: white;
-  font-weight: bold;
-  float: right;
-  font-size: 12px;
-  line-height: 20px;
-  cursor: pointer;
-  transition: 0.3s;
-}
-.closebtn:hover {
-  color: black;
-}
-/* Change styles for cancel button and signup button on extra small screens */
-@media screen and (max-width: 300px) {
-  .cancelbtn, .signupbtn {
-     width: 100%;
-  }
-}
-</style>
-<body>
-<form id='registrationForm-82534225998' method='post' action='https://vsf-worker.virtualscienceforum.workers.dev/register' style='border:1px solid #ccc' onsubmit="submitZoomRegistration(event, 82534225998)">
-  <div class='container'>
-    <h1>Sign Up</h1>
-    <p>Please fill in this form to register for the talk by Andrea Caviglia.</p>
-    <hr>
-    <label for='firstname'><b>First Name</b></label>
-    <input type='text' placeholder='Enter your first name' name='firstname' id='firstname-82534225998' required>
-    <label for='lastname'><b>Last Name</b></label>
-    <input type='text' placeholder='Enter your last name' name='lastname' id='lastname-82534225998' required>
-    <label for='address'><b>Email</b></label>
-    <input type='email' placeholder='Enter your email' name='address' id='address-82534225998' required>
-    <label for='org'><b>Affiliation</b></label>
-    <input type='text' placeholder='Enter your affiliation' name='affiliation' id='affiliation-82534225998' required>
-    <label for="howdidyouhear"><b>How did you hear about us?</b></label>
-    <select id="howdidyouhear-82534225998" name="howdidyouhear" required>
-      <option value="Email list">Email list</option>
-      <option value="A colleague (not an organizer)">A colleague (not an organizer)</option>
-      <option value="One of the organizers">One of the organizers</option>
-      <option value="Other" selected>Other</option>
-    </select>
-    <div id='checkboxes'>
-        <ul id='checkboxes' style='list-style:none'>
-          <li> <input type='checkbox' name='instructions-checkbox' value='confirm-instructions' required> Please confirm you have read the <a href='http://virtualscienceforum.org/#/attendeeguide'>participant instructions*</a> </li>
-          <li> <input type='checkbox' name='contact-checkbox' value='confirm-contact' checked> Please check this box if we may contact you about future VSF events </li>
-        </ul>
-    </div>
-    <input type='hidden' name='eventType' id='eventType-82534225998' value='lrc' required>
-    <input type='hidden' name='meetingID' id='meetingID-82534225998' value='82534225998' required>
-    <div id='recaptcha' name='recaptcha' class='g-recaptcha' data-sitekey='6Lf37MoZAAAAAF19QdljioXkLIw23w94QWpy9c5E'></div>
-    <div class='clearfix container'>
-      <button type='submit' class='registerbtn'>Register</button>
-    </div>
-    <div id="errordiv-82534225998" class="alert" style="display:none">
-      <span class="closebtn" onclick="this.parentElement.style.display='none';"">&times;</span>
-      <strong id="errormsg-82534225998"></strong>
-    </div>
-  </div>
-</form>
-</body>
-</html>
-
 
 
 ### Cui-Zu Chang (Pennsylvania State University)
@@ -704,5 +547,20 @@ This is joint work with Robert Huang (Caltech), Giacomo Torlai (AWS), Victor Alb
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/a4QvjEyO0WY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+### Ultrafast control of magnetic interactions via light-driven phonons
+#### Andrea Caviglia, 
+
+<details><summary>abstract</summary>
+
+Resonant ultrafast excitation of infrared-active phonons is a powerful technique with which to control the electronic properties of materials that leads to remarkable phenomena such as light-induced superconductivity, switching of ferroelectric polarization and ultrafast insulator-to-metal transitions. We will discuss how light-driven phonons can be utilized to coherently manipulate macroscopic magnetic states. Intense mid-infrared electric field pulses tuned to resonance with a phonon mode of the archetypical antiferromagnet DyFeO3 induce ultrafast and long-living changes of the fundamental exchange interaction between rare-earth orbitals and transition metal spins. Non-thermal lattice control of the magnetic exchange, which defines the stability of the macroscopic magnetic state, allows us to perform picosecond coherent switching between competing antiferromagnetic and weakly ferromagnetic spin orders. In this talk, the potential of resonant phonon excitation for the manipulation of ferroic order on ultrafast timescales will be emphasized.
+
+</details>
+
+
+*Video in preparation*
 
 
