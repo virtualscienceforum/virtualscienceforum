@@ -2,7 +2,9 @@ name: Open an organizational meeting issue
 
 on:
   schedule:
-    - cron: "0 15 * * FRI"
+    # The source of truth for the weekly meeting time. It's interpreted as
+    # European time minus 2 hours (for the purpose of daylight savings)
+    - cron: "30 14 * * TUE"
 
 jobs:
   org-issue:
