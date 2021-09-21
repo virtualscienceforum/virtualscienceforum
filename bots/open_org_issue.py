@@ -3,7 +3,7 @@ import os
 from datetime import datetime, timedelta
 
 import jinja2
-from ruamel_yaml import YAML
+from ruamel.yaml import YAML
 from github import Github
 import requests
 import bs4
