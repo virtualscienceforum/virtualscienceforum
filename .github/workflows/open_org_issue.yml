@@ -5,6 +5,7 @@ on:
     # The source of truth for the weekly meeting time. It's interpreted as
     # European time minus 2 hours (for the purpose of daylight savings)
     - cron: "30 14 * * TUE"
+  workflow_dispatch:
 
 jobs:
   org-issue:
