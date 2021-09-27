@@ -335,6 +335,155 @@ select {
 > *TBA*
 
 
+If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tZYtfu2uqjMiHNS7ch39K5Yw-m1LK0U0rPX_)
+
+<!DOCTYPE html>
+<head>
+<script src='https://www.google.com/recaptcha/api.js'></script>
+</head>
+<html>
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box}
+/* Full-width input fields */
+input[type=text] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+input[type=email] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+input[type=text]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+input[type=email]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+/* Set a style for all buttons */
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+button:hover {
+  opacity:1;
+}
+/* Float registration button and add an equal width */
+.registerbtn {
+  float: left;
+  width: 50%;
+}
+select {
+  width: 100%;
+  padding: 16px 20px;
+  border: none;
+  border-radius: 4px;
+  background-color: #f1f1f1;
+}
+/* Add padding to container elements */
+.container {
+  padding: 16px;
+}
+/* Clear floats */
+.clearfix::after {
+  content: '';
+  clear: both;
+  display: table;
+}
+.alert {
+  padding: 20px;
+  background-color: #f44336;
+  color: white;
+  opacity: 1;
+  transition: opacity 0.6s;
+  margin-bottom: 15px;
+}
+.alert.success {background-color: #4CAF50;}
+.alert.info {background-color: #2196F3;}
+.alert.warning {background-color: #ff9800;}
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 12px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.closebtn:hover {
+  color: black;
+}
+/* Change styles for cancel button and signup button on extra small screens */
+@media screen and (max-width: 300px) {
+  .cancelbtn, .signupbtn {
+     width: 100%;
+  }
+}
+</style>
+<body>
+<form id='registrationForm-82094648860' method='post' action='https://vsf-worker.virtualscienceforum.workers.dev/register' style='border:1px solid #ccc' onsubmit="submitZoomRegistration(event, 82094648860)">
+  <div class='container'>
+    <h1>Sign Up</h1>
+    <p>Please fill in this form to register for the talk by Nicole Yunger Halpern.</p>
+    <hr>
+    <label for='firstname'><b>First Name</b></label>
+    <input type='text' placeholder='Enter your first name' name='firstname' id='firstname-82094648860' required>
+    <label for='lastname'><b>Last Name</b></label>
+    <input type='text' placeholder='Enter your last name' name='lastname' id='lastname-82094648860' required>
+    <label for='address'><b>Email</b></label>
+    <input type='email' placeholder='Enter your email' name='address' id='address-82094648860' required>
+    <label for='org'><b>Affiliation</b></label>
+    <input type='text' placeholder='Enter your affiliation' name='affiliation' id='affiliation-82094648860' required>
+    <label for="howdidyouhear"><b>How did you hear about us?</b></label>
+    <select id="howdidyouhear-82094648860" name="howdidyouhear" required>
+      <option value="Email list">Email list</option>
+      <option value="A colleague (not an organizer)">A colleague (not an organizer)</option>
+      <option value="One of the organizers">One of the organizers</option>
+      <option value="Other" selected>Other</option>
+    </select>
+    <div id='checkboxes'>
+        <ul id='checkboxes' style='list-style:none'>
+          <li> <input type='checkbox' name='instructions-checkbox' value='confirm-instructions' required> Please confirm you have read the <a href='http://virtualscienceforum.org/#/attendeeguide'>participant instructions*</a> </li>
+          <li> <input type='checkbox' name='contact-checkbox' value='confirm-contact' checked> Please check this box if we may contact you about future VSF events </li>
+        </ul>
+    </div>
+    <input type='hidden' name='eventType' id='eventType-82094648860' value='lrc' required>
+    <input type='hidden' name='meetingID' id='meetingID-82094648860' value='82094648860' required>
+    <div id='recaptcha' name='recaptcha' class='g-recaptcha' data-sitekey='6Lf37MoZAAAAAF19QdljioXkLIw23w94QWpy9c5E'></div>
+    <div class='clearfix container'>
+      <button type='submit' class='registerbtn'>Register</button>
+    </div>
+    <div id="errordiv-82094648860" class="alert" style="display:none">
+      <span class="closebtn" onclick="this.parentElement.style.display='none';"">&times;</span>
+      <strong id="errormsg-82094648860"></strong>
+    </div>
+  </div>
+</form>
+</body>
+</html>
+
+
 
 
 ## Recordings
