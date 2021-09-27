@@ -1041,3 +1041,11 @@
   event_type: speakers_corner
   zoom_meeting_id: 84078126524
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZAtcOGprD0vGNC4uVf-Gimf8ZGTc7R-CfO1
+- speaker_name: Nicole Yunger Halpern
+  speaker_affiliation: Joint Institute for Quantum Information and Computer Science
+    [QuICS] and University of Maryland
+  title: '*TBA*'
+  abstract: '*TBA*'
+  time: 2021-10-27 17:30:00+00:00
+  workflow_issue: 431
+  event_type: lrc

@@ -12,6 +12,7 @@ Attendance is open to everyone, but please register to attend! If you would like
 |:---------:|:--------------:|:-----:|
 | September 29 | Cui-Zu Chang | [Quantum Anomalous Hall Effect in the Magnetic Topological Insulator Thin Films](#quantum-anomalous-hall-effect-in-the-magnetic-topological-insulator-thin-films) |
 | October 13 | Atac Imamoglu | [Strongly correlated electrons in atomically thin semiconductors](#strongly-correlated-electrons-in-atomically-thin-semiconductors) |
+| October 27 | Nicole Yunger Halpern | [*TBA*](#tba) |
 
 ## Upcoming talks
 
@@ -325,6 +326,13 @@ select {
 </form>
 </body>
 </html>
+
+
+
+### Nicole Yunger Halpern (Joint Institute for Quantum Information and Computer Science [QuICS] and University of Maryland)
+#### *TBA*
+
+> *TBA*
 
 
 
