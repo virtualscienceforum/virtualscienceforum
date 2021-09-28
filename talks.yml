@@ -1042,10 +1042,24 @@
   zoom_meeting_id: 84078126524
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZAtcOGprD0vGNC4uVf-Gimf8ZGTc7R-CfO1
 - speaker_name: Nicole Yunger Halpern
-  speaker_affiliation: Joint Institute for Quantum Information and Computer Science
-    [QuICS] and University of Maryland
-  title: '*TBA*'
-  abstract: '*TBA*'
+  speaker_affiliation: National Institute of Standards and Technology (NIST), Joint
+    Institute for Quantum Information and Computer Science (QuICS) University of Maryland
+  title: 'MBL-mobile: Many-body-localized engine'
+  abstract: "Many-body-localized (MBL) systems do not thermalize under their intrinsic\
+    \ dynamics. The athermality of MBL, we propose, can be harnessed for thermodynamic\
+    \ tasks. We illustrate this ability by formulating an Otto engine cycle for a\
+    \ quantum many-body system. The system is ramped between a strongly localized\
+    \ MBL regime and a thermal (or weakly localized) regime. The difference between\
+    \ the energy-level correlations of MBL systems and of thermal systems enables\
+    \ mesoscale engines to run in parallel in the thermodynamic limit, enhances the\
+    \ engine’s reliability, and suppresses worst-case trials. We estimate analytically\
+    \ and calculate numerically the engine’s efficiency and per-cycle power. The efficiency\
+    \ mirrors the efficiency of the conventional thermodynamic Otto engine. This work\
+    \ introduces a thermodynamic lens onto MBL, which, having been studied much recently,\
+    \ can now be leveraged in thermodynamic tasks.\r\n\r\nSerious reference: NYH,\
+    \ White, Gopalakrishnan, and Refael, Phys. Rev. B 99, 024203 (2019) https://dx.doi.org/10.1103/PhysRevB.99.024203.\r\
+    \n\r\nFun reference: NYH, “Quantum Steampunk,” Sci. Am. (May 2020) https:// www.scientificamerican.com/article/quantum-steampunk-19th-century-\
+    \ science-meets-technology-of-today/."
   time: 2021-10-27 17:30:00+00:00
   workflow_issue: 431
   event_type: lrc
