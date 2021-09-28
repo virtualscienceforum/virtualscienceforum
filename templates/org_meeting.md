@@ -1,4 +1,4 @@
-The meeting will take place at {{time}} [Zoom link](https://virtualscienceforum-org.zoom.us/my/vsfmeeting).
+The meeting will take place at {{time}} [Zoom link](https://virtualscienceforum-org.zoom.us/my/vsfmeeting?pwd=NlJrL2tieTIrSEptYlJXZGV3eENwdz09).
 
 [Meeting minutes HackMD]({{hackmd}})
 
