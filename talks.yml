@@ -1019,7 +1019,6 @@
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZMoc-qorzgsH9c37o5X6ScNQYPVvIpU9w_2
 - speaker_name: Yantao Li
   speaker_affiliation: Indiana University
-  email: liyant@indiana.edu
   preprint: '2107.10687'
   title: Dirac Magic and Lifshitz Transitions in AA-Stacked Twisted Multilayer Graphene
   abstract: We uncover a new type of magic-angle phenomena when an AA-stacked graphene
@@ -1038,8 +1037,7 @@
   time: 2021-09-30 17:00:00+00:00
   workflow_issue: 423
   event_type: speakers_corner
-  zoom_meeting_id: 84078126524
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZAtcOGprD0vGNC4uVf-Gimf8ZGTc7R-CfO1
+  youtube_id: asTSgrT5FDc
 - speaker_name: Nicole Yunger Halpern
   speaker_affiliation: National Institute of Standards and Technology (NIST), Joint
     Institute for Quantum Information and Computer Science (QuICS) University of Maryland
