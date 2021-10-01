@@ -28,175 +28,9 @@ containing all of the upcoming talks. That way, more potential participants will
 
 
 
-## Schedule
-
-All times are shown in <span id="timezone">UTC</span> timezone.
-
-|   Date   |     Speaker    | Title |
-|:---------:|:--------------:|:-----:|
-| <time datetime="2021-09-30T17:00:00+00:00">September 30 17:00 UTC</time> | Yantao Li | [Dirac Magic and Lifshitz Transitions in AA-Stacked Twisted Multilayer Graphene](#dirac-magic-and-lifshitz-transitions-in-aa-stacked-twisted-multilayer-graphene) |
-
 ## Upcoming talks
 
-
-### Dirac Magic and Lifshitz Transitions in AA-Stacked Twisted Multilayer Graphene
-#### Yantao Li (Indiana University)
-
-> We uncover a new type of magic-angle phenomena when an AA-stacked graphene bilayer is twisted relative to another graphene system with band touching. In the simplest case this constitutes a trilayer system formed by an AA-stacked bilayer twisted relative to a single layer of graphene. We find multiple anisotropic Dirac cones coexisting in such twisted multilayer structures at certain angles, which we call "Dirac magic." We trace the origin of Dirac magic angles to the geometric structure of the twisted AA-bilayer Dirac cones relative to the other band-touching spectrum in the moir\'e reciprocal lattice. The anisotropy of the Dirac cones and a concomitant cascade of saddle points induce a series of topological Lifshitz transitions that can be tuned by the twist angle and perpendicular electric field. We discuss the possibility of direct observation of Dirac magic as well as its consequences for the correlated states of electrons in this moir\'e system.
->
-> **Authors:** Yantao Li, Adam Eaton, H. A. Fertig, Babak Seradjeh  
-> **Preprint:** [arXiv:2107.10687](https://arxiv.org/abs/2107.10687)
-
-
-If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tZAtcOGprD0vGNC4uVf-Gimf8ZGTc7R-CfO1)
-
-<!DOCTYPE html>
-<head>
-<script src='https://www.google.com/recaptcha/api.js'></script>
-</head>
-<html>
-<style>
-body {font-family: Arial, Helvetica, sans-serif;}
-* {box-sizing: border-box}
-/* Full-width input fields */
-input[type=text] {
-  width: 100%;
-  padding: 15px;
-  margin: 5px 0 22px 0;
-  display: inline-block;
-  border: none;
-  background: #f1f1f1;
-}
-input[type=email] {
-  width: 100%;
-  padding: 15px;
-  margin: 5px 0 22px 0;
-  display: inline-block;
-  border: none;
-  background: #f1f1f1;
-}
-input[type=text]:focus {
-  background-color: #ddd;
-  outline: none;
-}
-input[type=email]:focus {
-  background-color: #ddd;
-  outline: none;
-}
-hr {
-  border: 1px solid #f1f1f1;
-  margin-bottom: 25px;
-}
-/* Set a style for all buttons */
-button {
-  background-color: #4CAF50;
-  color: white;
-  padding: 14px 20px;
-  margin: 8px 0;
-  border: none;
-  cursor: pointer;
-  width: 100%;
-  opacity: 0.9;
-}
-button:hover {
-  opacity:1;
-}
-/* Float registration button and add an equal width */
-.registerbtn {
-  float: left;
-  width: 50%;
-}
-select {
-  width: 100%;
-  padding: 16px 20px;
-  border: none;
-  border-radius: 4px;
-  background-color: #f1f1f1;
-}
-/* Add padding to container elements */
-.container {
-  padding: 16px;
-}
-/* Clear floats */
-.clearfix::after {
-  content: '';
-  clear: both;
-  display: table;
-}
-.alert {
-  padding: 20px;
-  background-color: #f44336;
-  color: white;
-  opacity: 1;
-  transition: opacity 0.6s;
-  margin-bottom: 15px;
-}
-.alert.success {background-color: #4CAF50;}
-.alert.info {background-color: #2196F3;}
-.alert.warning {background-color: #ff9800;}
-.closebtn {
-  margin-left: 15px;
-  color: white;
-  font-weight: bold;
-  float: right;
-  font-size: 12px;
-  line-height: 20px;
-  cursor: pointer;
-  transition: 0.3s;
-}
-.closebtn:hover {
-  color: black;
-}
-/* Change styles for cancel button and signup button on extra small screens */
-@media screen and (max-width: 300px) {
-  .cancelbtn, .signupbtn {
-     width: 100%;
-  }
-}
-</style>
-<body>
-<form id='registrationForm-84078126524' method='post' action='https://vsf-worker.virtualscienceforum.workers.dev/register' style='border:1px solid #ccc' onsubmit="submitZoomRegistration(event, 84078126524)">
-  <div class='container'>
-    <h1>Sign Up</h1>
-    <p>Please fill in this form to register for the talk by Yantao Li.</p>
-    <hr>
-    <label for='firstname'><b>First Name</b></label>
-    <input type='text' placeholder='Enter your first name' name='firstname' id='firstname-84078126524' required>
-    <label for='lastname'><b>Last Name</b></label>
-    <input type='text' placeholder='Enter your last name' name='lastname' id='lastname-84078126524' required>
-    <label for='address'><b>Email</b></label>
-    <input type='email' placeholder='Enter your email' name='address' id='address-84078126524' required>
-    <label for='org'><b>Affiliation</b></label>
-    <input type='text' placeholder='Enter your affiliation' name='affiliation' id='affiliation-84078126524' required>
-    <label for="howdidyouhear"><b>How did you hear about us?</b></label>
-    <select id="howdidyouhear-84078126524" name="howdidyouhear" required>
-      <option value="Email list">Email list</option>
-      <option value="A colleague (not an organizer)">A colleague (not an organizer)</option>
-      <option value="One of the organizers">One of the organizers</option>
-      <option value="Other" selected>Other</option>
-    </select>
-    <div id='checkboxes'>
-        <ul id='checkboxes' style='list-style:none'>
-          <li> <input type='checkbox' name='instructions-checkbox' value='confirm-instructions' required> Please confirm you have read the <a href='http://virtualscienceforum.org/#/attendeeguide'>participant instructions*</a> </li>
-          <li> <input type='checkbox' name='contact-checkbox' value='confirm-contact' checked> Please check this box if we may contact you about future VSF events </li>
-        </ul>
-    </div>
-    <input type='hidden' name='eventType' id='eventType-84078126524' value='speakers_corner' required>
-    <input type='hidden' name='meetingID' id='meetingID-84078126524' value='84078126524' required>
-    <div id='recaptcha' name='recaptcha' class='g-recaptcha' data-sitekey='6Lf37MoZAAAAAF19QdljioXkLIw23w94QWpy9c5E'></div>
-    <div class='clearfix container'>
-      <button type='submit' class='registerbtn'>Register</button>
-    </div>
-    <div id="errordiv-84078126524" class="alert" style="display:none">
-      <span class="closebtn" onclick="this.parentElement.style.display='none';"">&times;</span>
-      <strong id="errormsg-84078126524"></strong>
-    </div>
-  </div>
-</form>
-</body>
-</html>
-
-
+There are no upcoming talks at the moment, apply [here](https://github.com/virtualscienceforum/virtualscienceforum/issues/new?template=speakers_corner_application.md&labels=speakers_corner&title=Speakers%27%20corner%20talk%20application) to present one.
 
 
 
@@ -204,6 +38,7 @@ select {
 
 |     Speaker    | Title |
 |:--------------:|:-----:|
+| Yantao Li | [Dirac Magic and Lifshitz Transitions in AA-Stacked Twisted Multilayer Graphene](#dirac-magic-and-lifshitz-transitions-in-aa-stacked-twisted-multilayer-graphene) |
 | Brian Skinner | [Mysteries near the zero-field Wigner crystal transition in a 2D electron system](#mysteries-near-the-zero-field-wigner-crystal-transition-in-a-2d-electron-system) |
 | Yang Zhang | [Spin-textured Chern bands in AB-stacked transition metal dichalcogenide bilayer MoTe2/WSe2](#spin-textured-chern-bands-in-ab-stacked-transition-metal-dichalcogenide-bilayer-mote2/wse2) |
 | Jonathan Curtis | [Cavity magnon-polaritons in cuprate parent compounds](#cavity-magnon-polaritons-in-cuprate-parent-compounds) |
@@ -232,6 +67,23 @@ select {
 | Joshuah T. Heath | [Landau Quasiparticles in Weak Power-Law Liquids](#landau-quasiparticles-in-weak-power-law-liquids) |
 | Hamed Vakili | [Using skyrmionic racetracks for unconventional computing](#using-skyrmionic-racetracks-for-unconventional-computing) |
 | Antonio Manesco | [Correlations in the elastic Landau level of spontaneously buckled graphene](#correlations-in-the-elastic-landau-level-of-spontaneously-buckled-graphene) |
+
+
+
+### Dirac Magic and Lifshitz Transitions in AA-Stacked Twisted Multilayer Graphene
+#### Yantao Li, Indiana University
+
+<details><summary>abstract</summary>
+
+We uncover a new type of magic-angle phenomena when an AA-stacked graphene bilayer is twisted relative to another graphene system with band touching. In the simplest case this constitutes a trilayer system formed by an AA-stacked bilayer twisted relative to a single layer of graphene. We find multiple anisotropic Dirac cones coexisting in such twisted multilayer structures at certain angles, which we call "Dirac magic." We trace the origin of Dirac magic angles to the geometric structure of the twisted AA-bilayer Dirac cones relative to the other band-touching spectrum in the moir\'e reciprocal lattice. The anisotropy of the Dirac cones and a concomitant cascade of saddle points induce a series of topological Lifshitz transitions that can be tuned by the twist angle and perpendicular electric field. We discuss the possibility of direct observation of Dirac magic as well as its consequences for the correlated states of electrons in this moir\'e system.
+
+Authors: Yantao Li, Adam Eaton, H. A. Fertig, Babak Seradjeh  
+Preprint: [arXiv:](https://arxiv.org/abs/)
+</details>
+
+
+*Video in preparation*
+
 
 
 
