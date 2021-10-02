@@ -1,8 +1,8 @@
-body {font-family: Arial, Helvetica, sans-serif;}
+form.registration body {font-family: Arial, Helvetica, sans-serif;}
 * {box-sizing: border-box}
 
 /* Full-width input fields */
-input[type=text] {
+form.registration input[type=text] {
   width: 100%;
   padding: 15px;
   margin: 5px 0 22px 0;
@@ -11,18 +11,18 @@ input[type=text] {
   background: #f1f1f1;
 }
 
-input[type=text]:focus {
+form.registration input[type=text]:focus {
   background-color: #ddd;
   outline: none;
 }
 
-hr {
+form.registration hr {
   border: 1px solid #f1f1f1;
   margin-bottom: 25px;
 }
 
 /* Set a style for all buttons */
-button {
+form.registration button {
   background-color: #4CAF50;
   color: white;
   padding: 14px 20px;
@@ -33,30 +33,30 @@ button {
   opacity: 0.9;
 }
 
-button:hover {
+form.registration button:hover {
   opacity:1;
 }
 
 /* Float signup button and add an equal width */
-.signupbtn {
+form.registration .signupbtn {
   float: left;
   margin-top: 50px;
   width: 50%;
 }
 
 /* Add padding to container elements */
-.container {
+form.registration .container {
   padding: 16px;
 }
 
 /* Clear floats */
-.clearfix::after {
+form.registration .clearfix::after {
   content: "";
   clear: both;
   display: table;
 }
 
-.alert {
+form.registration .alert {
   padding: 20px;
   background-color: #f44336;
   color: white;
@@ -65,11 +65,11 @@ button:hover {
   margin-bottom: 15px;
 }
 
-.alert.success {background-color: #4CAF50;}
-.alert.info {background-color: #2196F3;}
-.alert.warning {background-color: #ff9800;}
+form.registration .alert.success {background-color: #4CAF50;}
+form.registration .alert.info {background-color: #2196F3;}
+form.registration .alert.warning {background-color: #ff9800;}
 
-.closebtn {
+form.registration .closebtn {
   margin-left: 15px;
   color: white;
   font-weight: bold;
@@ -80,13 +80,13 @@ button:hover {
   transition: 0.3s;
 }
 
-.closebtn:hover {
+form.registration .closebtn:hover {
   color: black;
 }
 
 /* Change styles for cancel button and signup button on extra small screens */
 @media screen and (max-width: 300px) {
-  .signupbtn {
+  form.registration .signupbtn {
      width: 100%;
   }
 }

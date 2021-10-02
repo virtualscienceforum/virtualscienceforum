@@ -1,3 +1,4 @@
+{% from "registration.md" import registration_form %}
 # Speakers' Corner
 
 Named after the renowned corner of Hyde Park in London, the Speakers' Corner seminars are a platform for everyone who would like to share their research.
@@ -55,7 +56,8 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 {% if talk.registration_url %}
 If the form below doesn't work, [register directly]({{ talk.registration_url }})
 
-<iframe width="100%" height="940" src="{{ talk.registration_url }}" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+{{ registration_form(talk) }}
+
 {% endif %}
 {% endfor %}
 {% else %}

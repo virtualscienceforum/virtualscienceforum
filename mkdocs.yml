@@ -53,6 +53,7 @@ plugins:
       include_yaml:
         - talks: talks.yml
       module_name: macros
+      include_dir: includes
 
 extra_javascript:
   - scripts/mathjax_config.js
@@ -61,3 +62,5 @@ extra_javascript:
   - https://unpkg.com/dayjs@1.8.21/dayjs.min.js
   - https://unpkg.com/dayjs@1.8.21/plugin/utc.js
   - scripts/render_time.js
+  - scripts/recaptcha_render.js
+  - https://www.google.com/recaptcha/api.js

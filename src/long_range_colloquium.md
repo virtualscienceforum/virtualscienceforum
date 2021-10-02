@@ -1,3 +1,4 @@
+{% from 'registration.md' import registration_form %}
 # Long Range Colloquium
 
 The Long Range Colloquium is a bi-weekly seminar series covering the latest developments in condensed matter physics and quantum information. We alternate experimental and theory talks to keep the schedule exciting for a varied audience: have a look at our 2021 schedule below!
@@ -27,7 +28,7 @@ Attendance is open to everyone, but please register to attend! If you would like
 {% if talk.registration_url %}
 If the form below doesn't work, [register directly]({{ talk.registration_url }})
 
-<iframe width="100%" height="940" src="{{ talk.registration_url }}" frameborder="0" marginheight="0" marginwidth="0" style="overflow-x:hidden"></iframe>
+{{ registration_form(talk) }}
 {% endif %}
 {% endfor %}
 
