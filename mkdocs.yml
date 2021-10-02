@@ -41,7 +41,7 @@ markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
   - toc:
-      permalink: True
+      toc_depth: 0
   - pymdownx.tabbed
   - admonition
   - pymdownx.details
