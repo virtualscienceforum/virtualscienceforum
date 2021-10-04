@@ -6,3 +6,6 @@ jinja2~=2.11
 ruamel.yaml~=0.16
 pytz~=2020.1
 beautifulsoup4~=4.9
+mkdocs-material~=7.3
+# Use master for unreleased talks support
+git+https://github.com/fralau/mkdocs_macros_plugin.git@7862d821278ae740607e2bdcb81451e063f3c4e7
