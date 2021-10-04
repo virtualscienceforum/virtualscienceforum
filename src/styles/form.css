@@ -90,3 +90,8 @@ form.registration .closebtn:hover {
      width: 100%;
   }
 }
+
+/* Correct logo width */
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+    width: unset;
+}

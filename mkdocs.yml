@@ -10,11 +10,12 @@ nav:
   - Current and planned events:
     - Long Range Colloquium: long_range_colloquium.md
     - Speakers' Corner: speakers-corner.md
-  - Call for organizers: announcement.md
-  - Organizer Guide: organizerguide.md
-  - Speaker Guide: speakerguide.md
-  - Moderator Guide: moderatorguide.md
-  - Attendee Guide: attendeeguide.md
+    - Call for organizers: announcement.md
+  - Guides:
+    - Organizer Guide: organizerguide.md
+    - Speaker Guide: speakerguide.md
+    - Moderator Guide: moderatorguide.md
+    - Attendee Guide: attendeeguide.md
   - Contact us: contact.md
   - Contributors: whoweare.md
   - Privacy policy: privacy_policy.md
@@ -31,10 +32,12 @@ extra_css:
 
 theme:
   name: material
+  logo: media/logo.png
   features:
     - navigation.instant
+    - navigation.tabs
   palette:
-    primary: 'white'
+    primary: 'indigo'
     accent: 'indigo'
 
 markdown_extensions:
