@@ -2,6 +2,8 @@ name: Deploy website
 
 on:
   push:
+    branches:
+      - master
   pull_request:
   schedule:
     - cron: '12 3 * * *'  # Rerender nightly
