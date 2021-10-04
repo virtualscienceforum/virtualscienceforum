@@ -25,10 +25,9 @@ jobs:
           python-version: 3.8
 
       - name: Install and build
-        working-directory: ./bots
         run: |
           python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          if [ -f bots/requirements.txt ]; then pip install -r bots/requirements.txt; fi
           mkdocs build
 
       - name: Upload artifacfts
