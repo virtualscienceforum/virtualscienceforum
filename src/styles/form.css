@@ -16,6 +16,20 @@ form.registration input[type=text]:focus {
   outline: none;
 }
 
+form.registration input[type=email] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+form.registration input[type=email]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
 form.registration hr {
   border: 1px solid #f1f1f1;
   margin-bottom: 25px;
@@ -35,6 +49,15 @@ form.registration button {
 
 form.registration button:hover {
   opacity:1;
+}
+
+/* Style dropdown box */
+form.registration select {
+  width: 100%;
+  padding: 16px 20px;
+  border: none;
+  border-radius: 4px;
+  background-color: #f1f1f1;
 }
 
 /* Float signup button and add an equal width */
