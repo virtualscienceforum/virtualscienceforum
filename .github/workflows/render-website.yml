@@ -37,4 +37,5 @@ jobs:
           BRANCH: pages
           FOLDER: .
           CLEAN: true
-          CLEAN-EXCLUDE: pr-*
+          CLEAN-EXCLUDE: |
+            pr-*/
