@@ -1,6 +1,7 @@
 site_name: Virtual Science Forum
 repo_url: https://github.com/virtualscienceforum/virtualscienceforum/
 repo_name: source
+remote_branch: pages
 docs_dir: src
 edit_uri: ""
 site_description: |

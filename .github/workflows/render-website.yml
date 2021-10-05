@@ -30,13 +30,16 @@ jobs:
           if [ -f bots/requirements.txt ]; then pip install -r bots/requirements.txt; fi
           mkdocs build
 
-      - name: Upload artifacfts
-        uses: actions/upload-artifact@v2
-        with:
-          name: website
-          path: site
-          retention-days: 30
+      - name: Deploy PR preview
+        run: |
+          git fetch origin pages --depth=1
+          git config user.name vsf-bot
+          git config user.email vsfbot@antonakhmerov.org
+          mike deploy pr-${{ github.event.pull_request.number }}
+          git push https://$GITHUB_TOKEN@github.com/virtualscienceforum/virtualscienceforum.git pages
         if: ${{ github.event_name == 'pull_request' }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.VSF_BOT_TOKEN }}
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.5
