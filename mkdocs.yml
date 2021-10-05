@@ -68,3 +68,4 @@ extra_javascript:
   - scripts/render_time.js
   - scripts/recaptcha_render.js
   - https://www.google.com/recaptcha/api.js
+  - scripts/cloudflare_communication.js
