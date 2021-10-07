@@ -38,7 +38,7 @@ theme:
     - navigation.instant
     - navigation.tabs
   palette:
-    primary: 'indigo'
+    primary: 'white'
     accent: 'indigo'
 
 markdown_extensions:
