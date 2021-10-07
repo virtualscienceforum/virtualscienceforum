@@ -28,12 +28,18 @@ if __name__ == "__main__":
     with open("../.github/workflows/open_org_issue.yml") as f:
         data = yaml.load(f)
     minutes, hours_utc, *_ = data["on"]["schedule"][0]["cron"].split()
+
+    # Format meeting time for the *upcoming* meeting
     meeting_time = datetime.now() + timedelta(days=7)
     meeting_time = meeting_time.replace(hour=int(hours_utc), minute=int(minutes))
     formatted_time = (
         f"{meeting_time + timedelta(hours=2):%-H:%M} European "
         f"/ {meeting_time - timedelta(hours=4):%-I:%M %p} Eastern"
     )
+
+    # *Today's* meeting will be next week's previous meeting
+    previous_meeting_time = datetime.now().replace(hour=int(hours_utc), minute=int(minutes))
+
     template = jinja2.Template(Path('../templates/org_meeting.md').read_text())
     title = f"VSF Organizational Meeting {meeting_time:%-d %B} {formatted_time}"
     body=template.render(
@@ -41,6 +47,7 @@ if __name__ == "__main__":
             f"# {title}\n\n ## OPEN \n\n Present: \n Asynchronous contributors: \n\n## Next chair\n\nChair name\n"
         ),
         date=f"{meeting_time:%Y-%m-%d}",
+        previousdate=f"{previous_meeting_time:%Y-%m-%d}",
         time=formatted_time
     )
 
