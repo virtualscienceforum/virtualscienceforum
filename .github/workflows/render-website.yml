@@ -69,7 +69,7 @@ jobs:
         with:
           token: ${{ secrets.VSF_BOT_TOKEN }}
           branch: pages
-          folder: .
+          folder: site
           clean: true
           clean-exclude: |
             pr-*/
