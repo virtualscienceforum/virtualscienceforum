@@ -38,8 +38,8 @@ theme:
     - navigation.instant
     - navigation.tabs
   palette:
-    primary: 'amber'
-    accent: 'indigo'
+    primary: 'light blue'
+    accent: 'light blue'
 
 markdown_extensions:
   - pymdownx.arithmatex:
