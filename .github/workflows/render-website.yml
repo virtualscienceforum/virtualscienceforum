@@ -4,6 +4,11 @@ on:
   push:
     branches:
       - master
+  pull_request:
+    types:
+      - opened
+      - synchronize
+      - closed
   schedule:
     - cron: '12 3 * * *'  # Rerender nightly
 
@@ -24,14 +29,43 @@ jobs:
           python-version: 3.8
 
       - name: Install and build
-        working-directory: ./bots
         run: |
           python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-          python3 render_talks.py
+          if [ -f bots/requirements.txt ]; then pip install -r bots/requirements.txt; fi
+          mkdocs build
+
+      - name: Deploy PR preview
+        run: |
+          git fetch origin pages --depth=1
+          git config user.name vsf-bot
+          git config user.email vsfbot@antonakhmerov.org
+          mike deploy pr-${{ github.event.pull_request.number }}
+          git push https://$GITHUB_TOKEN@github.com/virtualscienceforum/virtualscienceforum.git pages
+        if: ${{ github.event_name == 'pull_request' && (github.event.pull_request.opened || github.event.pull_request.synchronize) }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.VSF_BOT_TOKEN }}
+
+      - name: Comment Pull Request
+        uses: thollander/actions-comment-pull-request@v1.0.4
+        with:
+          message: "See the preview of the new version [here](https://virtualscienceforum.org/pr-${{ github.event.pull_request.number }}?)"
+          GITHUB_TOKEN: ${{ secrets.VSF_BOT_TOKEN }}
+        if: ${{ github.event_name == 'pull_request' && github.event.pull_request.opened }}
+
+      - name: Undeploy PR preview
+        run: |
+          git fetch origin pages --depth=1
+          git config user.name vsf-bot
+          git config user.email vsfbot@antonakhmerov.org
+          mike delete pr-${{ github.event.pull_request.number }}
+          git push https://$GITHUB_TOKEN@github.com/virtualscienceforum/virtualscienceforum.git pages
+        if: ${{ github.event_name == 'pull_request' && github.event.pull_request.closed }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.VSF_BOT_TOKEN }}
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.5
+        if: ${{ github.ref == 'ref/head/master' }}
         with:
           token: ${{ secrets.VSF_BOT_TOKEN }}
           branch: pages
