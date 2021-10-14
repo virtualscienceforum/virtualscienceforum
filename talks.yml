@@ -1061,3 +1061,27 @@
   event_type: lrc
   zoom_meeting_id: 82094648860
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZYtfu2uqjMiHNS7ch39K5Yw-m1LK0U0rPX_
+- speaker_name: Guanzhong Wang
+  speaker_affiliation: TU Delft
+  email: g.wang-4@tudelft.nl
+  preprint: '2110.05373'
+  title: Non-local measurement of quasiparticle distribution in proximitized semiconductor
+    nanowires using quantum dots
+  abstract: The lowest-energy excitations of superconductors do not carry an electric
+    charge, as their wave function is equally electron-like and hole-like. This fundamental
+    property is not easy to study in electrical measurements that rely on charge to
+    generate an observable signal. The ability of a quantum dot to act as a charge
+    filter enables us to solve this problem and measure the quasiparticle charge in
+    superconducting-semiconducting hybrid nanowire heterostructures. We report measurements
+    on a three-terminal circuit, in which an injection lead excites a non-equilibrium
+    in the hybrid system and the electron or hole component of the resulting quasiparticles
+    is detected using a quantum dot as a tunable charge and energy filter. The results
+    verify the chargeless nature of the quasiparticles at the gap edge and further
+    reveal the complete relaxation of injected charge and energy in a proximitized
+    nanowire, resolving open questions in previous three-terminal experiments. Our
+    setup can also be utilized to study spin physics in proximitized systems.
+  authors: Guanzhong Wang, Tom Dvir, Nick van Loo, Grzegorz P. Mazur, Sasa Gazibegovic,
+    Ghada Badawy, Erik P. A. M. Bakkers, Leo P. Kouwenhoven, Gijs de Lange
+  time: 2021-10-28 15:00:00+00:00
+  workflow_issue: 446
+  event_type: speakers_corner
