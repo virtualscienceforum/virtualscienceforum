@@ -51,7 +51,7 @@ jobs:
       - name: Comment Pull Request
         uses: thollander/actions-comment-pull-request@v1.0.4
         with:
-          message: "See the preview of the new version [here](https://virtualscienceforum.org/pr-${{ github.event.pull_request.number }})"
+          message: "See the preview of the new version [here](https://virtualscienceforum.org/pr-${{ github.event.pull_request.number }}/)"
           GITHUB_TOKEN: ${{ secrets.VSF_BOT_TOKEN }}
         if: | 
           github.event_name == 'pull_request' && github.event.action == 'opened'
