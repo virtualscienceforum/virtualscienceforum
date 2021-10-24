@@ -9,8 +9,6 @@ Join directly:
 [Speakers' Corner](speakers-corner.md){ .md-button }
 [ARQH workshop](arqh.md)
 
-*[ARQH]: Andreev reflection in Quantum Hall regime
-
 ## Welcome
 
 Virtual Science Forum is a [volunteer-run](whoweare.md) open platform aiming to accommodate organization of online conferences.
