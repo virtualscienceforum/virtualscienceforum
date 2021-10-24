@@ -7,6 +7,9 @@ Join directly:
 
 [Long Range Colloquium](long_range_colloquium.md){ .md-button }
 [Speakers' Corner](speakers-corner.md){ .md-button }
+[ARQH workshop](arqh.md)
+
+*[ARQH]: Andreev reflection in Quantum Hall regime
 
 ## Welcome
 
@@ -17,10 +20,6 @@ Additionally we develop best practices and provide recommendations for all commu
 ## What we do
 
 We offer beginning-to-end support for organizing an academic event of your own, check out the [organizer guide](organizerguide.md) to see what it takes. It could be a seminar series, a workshop or a tutorial. We prioritize upholding a safe, accessible, inclusive and equitable online environment for all across the spectrum of identities and lived experiences. We encourage participation, either as speakers, organizers or audience, of all members of the scientific community.
-
-### Current Events
-* [Long Range Colloquium](long_range_colloquium.md) series **every other Wednesday** at 1:30 pm EDT / 7:30pm CEST
-* [Speakers' Corner](speakers-corner.md), a **self-invited** seminar series
 
 ### Previous Events
 * Workshop: [Quantum Oscillations in insulators](quantum-oscillations-insulators.md)
