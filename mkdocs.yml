@@ -46,7 +46,8 @@ markdown_extensions:
       generic: true
   - toc:
       toc_depth: 0
-  - pymdownx.tabbed
+  - pymdownx.tabbed:
+      alternate_style: true
   - admonition
   - pymdownx.details
   - attr_list
