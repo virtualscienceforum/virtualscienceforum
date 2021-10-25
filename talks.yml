@@ -1109,3 +1109,21 @@
   event_type: speakers_corner
   zoom_meeting_id: 87027305142
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZMtde6rrj4rHtaOi4PNaemNZBP0QwiNsoJD
+- speaker_name: David Goldhaber-Gordon
+  speaker_affiliation: Stanford University
+  title: Can a solid-state quantum simulator help us understand materials?
+  abstract: 'When we speak of a quantum computer today, we usually mean one that can
+    run any algorithm. But the idea of using a quantum-based computer to simulate
+    aspects of our quantum world goes back at least to Feynman in the early 1980s.
+    Effective model Hamiltonians are central to condensed matter physics, as they
+    can capture the essence of material properties while avoiding the full complexity
+    of actual materials. But even those model Hamiltonians can be intractable to treat
+    on classical computers. Very perfect realizations of model Hamiltonians relevant
+    to materials can now be built with ensembles of cold atoms or with nanopatterned
+    solid state systems similar to those used to make qubits. I will compare new experimental
+    results to cutting-edge classical computation, and then ask: What happens when
+    we (soon!) get our wish and achieve a "quantum simulator" that can describe certain
+    interesting Hamiltonians with power beyond the best classical computers and algorithms?'
+  time: 2021-11-10 18:30:00+00:00
+  workflow_issue: 436
+  event_type: lrc
