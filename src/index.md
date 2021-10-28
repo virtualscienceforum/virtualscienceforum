@@ -7,7 +7,9 @@ Join directly:
 
 [Long Range Colloquium](long_range_colloquium.md){ .md-button }
 [Speakers' Corner](speakers-corner.md){ .md-button }
-[ARQH workshop](arqh.md)
+[ARQH workshop](arqh.md){ .md-button }
+
+*[ARQH]: Andreev reflection in quantum Hall regime
 
 ## Welcome
 
