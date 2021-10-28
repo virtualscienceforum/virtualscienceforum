@@ -6,6 +6,7 @@ document$.subscribe(function() {
         timezone.innerText = Intl.DateTimeFormat().resolvedOptions().timeZone
     };
     for (let time of document.getElementsByTagName("time")) {
-        time.innerText = dayjs(time.dateTime).local().format("MMMM D H:mm");
+        let format = time.getAttribute("data-format");
+        time.innerText = dayjs(time.dateTime).local().format(format !== null ? format : "MMMM D H:mm");
     }
 });
