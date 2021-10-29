@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 {% from 'registration.md' import registration_form %}
 # Superconductors + quantum Hall systems: state of the union 2021
 **December 9 2021 <time data-format="H:mm" datetime="2021-12-09T14:30:00+00:00">14:30</time>–<time data-format="H:mm" datetime="2021-12-09T17:00:00+00:00">17:00</time>** (all times are in <span id="timezone">UTC</span> timezone).
