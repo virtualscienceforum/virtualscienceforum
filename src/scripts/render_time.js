@@ -3,7 +3,7 @@ dayjs.extend(window.dayjs_plugin_utc)
 document$.subscribe(function() {
     var timezone = document.getElementById("timezone")
     if (!!timezone) {
-        timezone.innerText = Intl.DateTimeFormat().resolvedOptions().timeZone
+        timezone.innerText = Intl.DateTimeFormat().resolvedOptions().timeZone.replace("_", " ")
     };
     for (let time of document.getElementsByTagName("time")) {
         let format = time.getAttribute("data-format");
