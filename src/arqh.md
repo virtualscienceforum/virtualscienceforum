@@ -55,8 +55,10 @@ We will include the satellite talks in the workshop webpage.
 [Valla Fatemi](https://fatemilab.aep.cornell.edu/), Yale University & Cornell University  
 [Christian Schoenenberger](https://nanoelectronics.unibas.ch/), University of Basel
 
+If you have any questions, you may reach us via arqh2021@virtualscienceforum.org
+
 ## Registration
 
-If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tZEsceyhrTMtHtHp0TaldG-C0vg8AUjBe1bj)
+If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tZEtcuCoqDouGdLJm2C58iiI86McJMYmmC3h)
 
 {{ registration_form({"talk": {"zoom_meeting_id": "85059061436", "event_type": "lrc", }}) }}
