@@ -46,7 +46,8 @@ markdown_extensions:
       generic: true
   - toc:
       toc_depth: 0
-  - pymdownx.tabbed
+  - pymdownx.tabbed:
+      alternate_style: true
   - admonition
   - pymdownx.details
   - attr_list
@@ -69,3 +70,4 @@ extra_javascript:
   - scripts/recaptcha_render.js
   - https://www.google.com/recaptcha/api.js
   - scripts/cloudflare_communication.js
+  - scripts/render_video_iframe.js
