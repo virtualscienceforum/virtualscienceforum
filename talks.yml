@@ -1128,3 +1128,19 @@
   event_type: lrc
   zoom_meeting_id: 85165938745
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZEsceyhrTMtHtHp0TaldG-C0vg8AUjBe1bj
+- speaker_name: Bastien Lapierre
+  speaker_affiliation: University of Zurich
+  email: bastien.lapierre@uzh.ch
+  preprint: '2110.14651'
+  title: Topologically Localized Insulators
+  abstract: 'In this talk I will show that fully localized, three-dimensional, time-reversal-symmetry-broken
+    Anderson insulators support topologically distinct phases that can be labelled
+    by integers. Any two such topologically localized phases are separated by a metallic
+    phase. These novel topological phases are fundamentally distinct from insulators
+    without disorder: they are guaranteed to host delocalized states along their insulating
+    boundaries, giving rise to the quantized boundary Hall conductance whose value
+    is determined by the integer invariant assigned to the bulk.'
+  authors: Bastien Lapierre, Titus Neupert, Luka Trifunovic
+  time: 2021-11-25 14:00:00+00:00
+  workflow_issue: 456
+  event_type: speakers_corner
