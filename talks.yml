@@ -819,8 +819,7 @@
   time: 2021-06-23 17:30:00+00:00
   workflow_issue: 382
   event_type: lrc
-  zoom_meeting_id: 94300659980
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJAud-muqzIjEtSW4d0KN5ctbPJOx76vzJSX
+  youtube_id: 4qfcfvu8FtI
 - speaker_name: Risto Ojajärvi
   speaker_affiliation: University of Jyväskylä
   preprint: '2103.07412'
