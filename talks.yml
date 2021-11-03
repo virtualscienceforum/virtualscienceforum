@@ -1145,3 +1145,21 @@
   event_type: speakers_corner
   zoom_meeting_id: 85369078573
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZEuceCoqTMvHdecDtR8vcGDkaQGDa3GNkGl
+- speaker_name: Charles Kane
+  speaker_affiliation: University of Pennsylvania
+  email: vsf@antonakhmerov.org
+  preprint: '2108.05870'
+  title: Quantized Nonlinear Response in Ballistic Metals
+  abstract: A dramatic consequence of the role of topology in the structure of quantum
+    matter is the existence of topological invariants that are reflected in quantized
+    response functions. In this talk we will discuss a new variant on this theme.  We
+    introduce a non-linear frequency dependent D+1 terminal conductance that characterizes
+    a D dimensional Fermi gas, generalizing the Landauer conductance in 1 dimension.
+    For a 2D ballistic conductor we show that this conductance is quantized and probes
+    the Euler characteristic of the Fermi sea.   We critically address the roles of
+    electrical contacts and of Fermi liquid interactions, and we propose experiments
+    on 2D Dirac materials such as graphene using a triple point contact geometry.
+  authors: Charles Kane
+  time: 2021-12-02 15:00:00+00:00
+  workflow_issue: 458
+  event_type: speakers_corner
