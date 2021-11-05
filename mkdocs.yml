@@ -11,6 +11,7 @@ nav:
   - Current and planned events:
     - Long Range Colloquium: long_range_colloquium.md
     - Speakers' Corner: speakers-corner.md
+    - ARQH Workshop: arqh.md
     - Call for organizers: announcement.md
   - Guides:
     - Organizer Guide: organizerguide.md
@@ -48,9 +49,11 @@ markdown_extensions:
       toc_depth: 0
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.magiclink
   - admonition
   - pymdownx.details
   - attr_list
+  - abbr
 
 plugins:
   - search

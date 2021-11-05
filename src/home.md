@@ -11,6 +11,8 @@ We offer beginning-to-end support for organizing an academic event of your own, 
 ### Current Events
 * [Long Range Colloquium](long_range_colloquium.md) series **every other Wednesday** at 1:30 pm EDT / 7:30pm CEST
 * [Speakers' Corner](speakers-corner.md), a **self-invited** seminar series
+* Workshop: [Andreev reflection in quantum Hall regime](arqh.md)
+
 
 ### Previous Events
 * Workshop: [Quantum Oscillations in insulators](quantum-oscillations-insulators.md)
