@@ -819,8 +819,7 @@
   time: 2021-06-23 17:30:00+00:00
   workflow_issue: 382
   event_type: lrc
-  zoom_meeting_id: 94300659980
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJAud-muqzIjEtSW4d0KN5ctbPJOx76vzJSX
+  youtube_id: 4qfcfvu8FtI
 - speaker_name: Risto Ojajärvi
   speaker_affiliation: University of Jyväskylä
   preprint: '2103.07412'
@@ -1059,8 +1058,7 @@
   time: 2021-10-27 17:30:00+00:00
   workflow_issue: 431
   event_type: lrc
-  zoom_meeting_id: 82094648860
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZYtfu2uqjMiHNS7ch39K5Yw-m1LK0U0rPX_
+  youtube_id: TlJlaEqcTAs
 - speaker_name: Guanzhong Wang
   speaker_affiliation: TU Delft
   email: g.wang-4@tudelft.nl
@@ -1082,7 +1080,7 @@
     setup can also be utilized to study spin physics in proximitized systems.
   authors: Guanzhong Wang, Tom Dvir, Nick van Loo, Grzegorz P. Mazur, Sasa Gazibegovic,
     Ghada Badawy, Erik P. A. M. Bakkers, Leo P. Kouwenhoven, Gijs de Lange
-  time: 2021-10-28 15:00:00+00:00
+  time: 2021-11-18 16:00:00+00:00
   workflow_issue: 446
   event_type: speakers_corner
   zoom_meeting_id: 87348022774
@@ -1109,3 +1107,61 @@
   event_type: speakers_corner
   zoom_meeting_id: 87027305142
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZMtde6rrj4rHtaOi4PNaemNZBP0QwiNsoJD
+- speaker_name: David Goldhaber-Gordon
+  speaker_affiliation: Stanford University
+  title: Can a solid-state quantum simulator help us understand materials?
+  abstract: 'When we speak of a quantum computer today, we usually mean one that can
+    run any algorithm. But the idea of using a quantum-based computer to simulate
+    aspects of our quantum world goes back at least to Feynman in the early 1980s.
+    Effective model Hamiltonians are central to condensed matter physics, as they
+    can capture the essence of material properties while avoiding the full complexity
+    of actual materials. But even those model Hamiltonians can be intractable to treat
+    on classical computers. Very perfect realizations of model Hamiltonians relevant
+    to materials can now be built with ensembles of cold atoms or with nanopatterned
+    solid state systems similar to those used to make qubits. I will compare new experimental
+    results to cutting-edge classical computation, and then ask: What happens when
+    we (soon!) get our wish and achieve a "quantum simulator" that can describe certain
+    interesting Hamiltonians with power beyond the best classical computers and algorithms?'
+  time: 2021-11-10 18:30:00+00:00
+  workflow_issue: 436
+  event_type: lrc
+  zoom_meeting_id: 85165938745
+  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZEsceyhrTMtHtHp0TaldG-C0vg8AUjBe1bj
+- speaker_name: Bastien Lapierre
+  speaker_affiliation: University of Zurich
+  email: bastien.lapierre@uzh.ch
+  preprint: '2110.14651'
+  title: Topologically Localized Insulators
+  abstract: 'In this talk I will show that fully localized, three-dimensional, time-reversal-symmetry-broken
+    Anderson insulators support topologically distinct phases that can be labelled
+    by integers. Any two such topologically localized phases are separated by a metallic
+    phase. These novel topological phases are fundamentally distinct from insulators
+    without disorder: they are guaranteed to host delocalized states along their insulating
+    boundaries, giving rise to the quantized boundary Hall conductance whose value
+    is determined by the integer invariant assigned to the bulk.'
+  authors: Bastien Lapierre, Titus Neupert, Luka Trifunovic
+  time: 2021-11-25 14:00:00+00:00
+  workflow_issue: 456
+  event_type: speakers_corner
+  zoom_meeting_id: 85369078573
+  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZEuceCoqTMvHdecDtR8vcGDkaQGDa3GNkGl
+- speaker_name: Charles Kane
+  speaker_affiliation: University of Pennsylvania
+  email: vsf@antonakhmerov.org
+  preprint: '2108.05870'
+  title: Quantized Nonlinear Response in Ballistic Metals
+  abstract: A dramatic consequence of the role of topology in the structure of quantum
+    matter is the existence of topological invariants that are reflected in quantized
+    response functions. In this talk we will discuss a new variant on this theme.  We
+    introduce a non-linear frequency dependent D+1 terminal conductance that characterizes
+    a D dimensional Fermi gas, generalizing the Landauer conductance in 1 dimension.
+    For a 2D ballistic conductor we show that this conductance is quantized and probes
+    the Euler characteristic of the Fermi sea.   We critically address the roles of
+    electrical contacts and of Fermi liquid interactions, and we propose experiments
+    on 2D Dirac materials such as graphene using a triple point contact geometry.
+  authors: Charles Kane
+  time: 2021-12-02 15:00:00+00:00
+  workflow_issue: 458
+  event_type: speakers_corner
+  zoom_meeting_id: 89889643588
+  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZ0lf-CuqjgvEtw1AKLrU6yx2yjp2J_7YrBS

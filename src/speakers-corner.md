@@ -91,7 +91,7 @@ There are no upcoming talks at the moment, apply [here](https://github.com/virtu
 
 === "Video recording"
 
-    <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/{{ talk.youtube_id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div data-youtubeId="{{ talk.youtube_id }}"></div>
 
 {% endif %}
 

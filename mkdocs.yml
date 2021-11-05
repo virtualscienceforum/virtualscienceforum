@@ -48,6 +48,7 @@ markdown_extensions:
   - toc:
       toc_depth: 0
   - pymdownx.tabbed
+      alternate_style: true
   - pymdownx.magiclink
   - admonition
   - pymdownx.details
@@ -72,3 +73,4 @@ extra_javascript:
   - scripts/recaptcha_render.js
   - https://www.google.com/recaptcha/api.js
   - scripts/cloudflare_communication.js
+  - scripts/render_video_iframe.js
