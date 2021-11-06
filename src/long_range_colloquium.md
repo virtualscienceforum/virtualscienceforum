@@ -44,7 +44,7 @@ If the form below doesn't work, [register directly]({{ talk.registration_url }})
 {% for talk in talks | sort(attribute="time") | reverse if talk.time < now() and talk.event_type == "lrc" %}
 
 ### {{ talk.title }}
-**By {{ talk.speaker_name }} ({{ talk.speaker_affiliation }})**
+**By {{ talk.speaker_name }} ({{ talk.speaker_affiliation }}), <time datetime="{{ talk.time.isoformat() }}">{{ talk.time.strftime("%B %-d %-H:%M %Z") }}</time>**
 
 ===! "Abstract"
 

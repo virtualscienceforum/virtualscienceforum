@@ -44,7 +44,7 @@ All times are shown in <span id="timezone">UTC</span> timezone.
 
 {% for talk in upcoming | sort(attribute="time") %}
 ### {{ talk.title }}
-#### {{ talk.speaker_name }} ({{ talk.speaker_affiliation }})
+** {{ talk.speaker_name }} ({{ talk.speaker_affiliation }}), <time datetime="{{ talk.time.isoformat() }}">{{ talk.time.strftime("%B %-d %-H:%M %Z") }}</time>**
 
 {% for line in talk.abstract.split("\n") -%}
 > {{ line }}
