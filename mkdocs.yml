@@ -54,6 +54,7 @@ markdown_extensions:
   - pymdownx.details
   - attr_list
   - abbr
+  - meta
 
 plugins:
   - search
