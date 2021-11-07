@@ -1165,3 +1165,24 @@
   event_type: speakers_corner
   zoom_meeting_id: 89889643588
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZ0lf-CuqjgvEtw1AKLrU6yx2yjp2J_7YrBS
+- speaker_name: Nisarga Paul
+  speaker_affiliation: Massachusetts Institute of Technology
+  email: npaul@mit.edu
+  preprint: '2111.01805'
+  title: Giant proximity exchange and flat Chern band in 2D magnet-semiconductor heterostructures
+  abstract: 'Van der Waals (vdW) heterostructures formed by two-dimensional magnets
+    and semiconductors have provided a fertile ground for fundamental science and
+    for spintronics. In this talk I discuss two main results: (1) a first-principles
+    calculations finding a proximity exchange splitting of 14 meV equivalent to an
+    effective Zeeman field of 120 T in the vdW magnet-semiconductor heterostructure
+    MoS2/CrBr3 and (2) the appearance of a flat Chern band in the electronic bandstructure
+    of 2D magnet - semiconductor heterostructures when the magnetic layer hosts chiral
+    spin textures such as skyrmions. The latter result is derived in a completely
+    general continuum model. More specifically, a flat Chern band is found at a "magic"
+    value of magnetization (~0.2) for Schrödinger electrons, and it generally occurs
+    for Dirac electrons. I also discuss possible connections to skyrmions in magnetic
+    TIs and spintronics.'
+  authors: Nisarga Paul, Yang Zhang, Liang Fu
+  time: 2021-12-09 15:00:00+00:00
+  workflow_issue: 460
+  event_type: speakers_corner
