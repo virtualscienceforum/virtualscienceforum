@@ -42,7 +42,7 @@ In this workshop we aim to bring together experts working in the field, review o
 
 We welcome interested colleagues to deliver a *satellite talk* on closely related topics.
 We will announce these talks to all participants and use them in guiding the discussion.
-To let us know about your plan to give a talk, send us an [email](mailto://arqh2021@virtualscienceforum.org).
+To let us know about your plan to give a talk, send us an [email](mailto:arqh2021@virtualscienceforum.org).
 Then you may either:
 
 - register to give a talk in the [Speakers' Corner](speakers-corner.md) seminar series
