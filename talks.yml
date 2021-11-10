@@ -1125,8 +1125,7 @@
   time: 2021-11-10 18:30:00+00:00
   workflow_issue: 436
   event_type: lrc
-  zoom_meeting_id: 85165938745
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZEsceyhrTMtHtHp0TaldG-C0vg8AUjBe1bj
+  youtube_id: 2mkM-Sdi_Go
 - speaker_name: Bastien Lapierre
   speaker_affiliation: University of Zurich
   email: bastien.lapierre@uzh.ch
