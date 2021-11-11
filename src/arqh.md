@@ -51,6 +51,12 @@ Then you may either:
 
 We will include the satellite talks in the workshop webpage.
 
+### Schedule and recordings
+
+{% set talk1 = talks | selectattr("workflow_issue", "==", 462) | first %}
+- [**{{ talk1.title }}**](speakers-corner.md#{{ talk1.title | lower | a }})  
+  by {{ talk1.speaker_name }} ({{ talk1.speaker_affiliation }}), <time datetime="{{ talk1.time.isoformat() }}">{{ talk1.time.strftime("%B %-d %-H:%M %Z") }}</time>
+
 ## Organizers
 
 [Anton Akhmerov](https://antonakhmerov.org/), TU Delft  
