@@ -1207,3 +1207,23 @@
   event_type: speakers_corner
   zoom_meeting_id: 86819237158
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZIlduCqrTwrH9w-qTSiOnWpXzUFhyn7JiKv
+- speaker_name: Trithep Devakul
+  speaker_affiliation: MIT
+  email: tdevakul@mit.edu
+  preprint: '2109.13909'
+  title: Quantum anomalous Hall effect from inverted charge transfer gap
+  abstract: 'A general mechanism is presented by which topological physics arises
+    in strongly correlated systems without flat bands. Starting from a charge transfer
+    insulator, topology emerges when the charge transfer energy between the cation
+    and anion is reduced to invert the lower Hubbard band and the spin-degenerate
+    charge transfer band. A universal low-energy theory is developed for the inversion
+    of charge transfer gap in an $xy$ antiferromagnet. The inverted state is found
+    to be a quantum anomalous Hall (QAH) insulator with non-coplanar magnetism. Interactions
+    play two essential roles in this mechanism: producing the Mott gap and quasiparticle
+    bands necessary for band inversion, and driving non-coplanar magnetism after inversion.
+    Our theory applies to and explains the recently observed QAH state in AB-stacked
+    TMD bilayer MoTe$_2$/WSe$_2$.'
+  authors: Trithep Devakul, Liang Fu
+  time: 2021-12-07 16:00:00+00:00
+  workflow_issue: 467
+  event_type: speakers_corner
