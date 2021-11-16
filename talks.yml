@@ -1211,7 +1211,8 @@
   speaker_affiliation: MIT
   email: tdevakul@mit.edu
   preprint: '2109.13909'
-  title: "Quantum anomalous Hall effect from inverted charge transfer gap: application to moire transition metal dichalcogenide bilayers"
+  title: 'Quantum anomalous Hall effect from inverted charge transfer gap: application
+    to moire transition metal dichalcogenide bilayers'
   abstract: 'A general mechanism is presented by which topological physics arises
     in strongly correlated systems without flat bands. Starting from a charge transfer
     insulator, topology emerges when the charge transfer energy between the cation
@@ -1229,3 +1230,32 @@
   event_type: speakers_corner
   zoom_meeting_id: 86340009702
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZIuc-morjItGtabbw4YJe4xilE6DA91kIXV
+- speaker_name: Ding Zhang
+  speaker_affiliation: Tsinghua University
+  email: dingzhang@tsinghua.edu.cn
+  preprint: arXiv:1903.07627
+  title: Ising superconductivity in few-layer stanene
+  abstract: "The two-dimensional crystalline superconductors possess a variety of\
+    \ exotic properties. For instance, their Cooper pairs can sustain a large in-plane\
+    \ magnetic field owning to the spin-orbital locking [1]. Here we report two-dimensional\
+    \ superconductivity in few layer stanene—ultrathin gray tin (111)—with an enhanced\
+    \ in-plane upper critical field. The emergence of superconductivity in stanene\
+    \ is unexpected because bulk gray tin is non-superconductive. We found superconductivity\
+    \ in few-layer stanene on PbTe/Bi2Te3/Si(111) substrate grown by molecular beam\
+    \ epitaxy [2]. The superconducting properties can be modulated by varying the\
+    \ substrate thickness. The band structure of this system is consistent with first-principles\
+    \ calculations, suggesting topologically non-trivial properties. Furthermore,\
+    \ few-layer stanene hosts enhanced in-plane upper critical fields that greatly\
+    \ exceed the conventional limit. Few-layer stanene is centrosymmetric and its\
+    \ electronic bands center around the Γ point. Therefore, the established Ising\
+    \ superconductivity for transition metal dichalcogenide does not apply. Instead,\
+    \ we propose a novel type of spin locking mechanism—dubbed type-II Ising pairing,\
+    \ which accounts for the large in-plane upper critical magnetic field in centrosymmetric\
+    \ superconductor with multiple degenerate orbitals [3].\r\n\r\n1. D. Zhang and\
+    \ J. Falson, _Nanotechnology_ **32**, 502003 (2021).\r\n2. M. Liao#, Y. Zang#,\
+    \ et al. _Nat. Phys._ **14**, 344-348 (2018).\r\n3. J. Falson, et al. _Science_\
+    \ **367**, 1454 (2020)."
+  authors: ''
+  time: 2021-11-30 00:00:00+00:00
+  workflow_issue: 468
+  event_type: speakers_corner
