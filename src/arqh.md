@@ -5,7 +5,7 @@ hide:
   - navigation
 ---
 {% from 'registration.md' import registration_form %}
-# Andreev reflection in quantum Hall systems: state of the union 2021
+# Andreev reflection in quantum Hall systems: 2021 state of the union 
 **<time data-format="MMMM D YYYY H:mm" datetime="2021-12-09T14:30:00+00:00">December 9 2021 14:30</time>–<time data-format="H:mm" datetime="2021-12-09T17:00:00+00:00">17:00</time>** (all times are in <span id="timezone">UTC</span> timezone)
 
 ![Collage of Andreev quantum Hall systems](media/arqh_collage.svg){ width=80% }
