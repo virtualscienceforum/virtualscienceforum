@@ -1237,8 +1237,27 @@
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZYldeqqpj0tGdQYAPOcnR6QS0KA-dENsqi4
 - speaker_name: Corentin Coulais
   speaker_affiliation: University of Amsterdam
-  title: '*TBA*'
-  abstract: '*TBA*'
+  title: The Non-Hermitian physics of odd Robotic Matter
+  abstract: "Controlling how waves propagate, attenuate and amplify in simple, scalable\
+    \ geometric structures is a daunting challenge for science and technology. In\
+    \ this talk, I will discuss how odd matter—in which microscopic interactions are\
+    \ asymmetric and non-conservative—can be used to steer mechanical waves in unprecedented\
+    \ ways. Combining experiments on mechanical lattices of distributed robots with\
+    \ wave physics and continuum and topological mechanics, I will discuss the emergence\
+    \ of the non-Hermitian skin effect, of non-Hermitian topological waves and of\
+    \ one-way solitons. I will further show how these odd waves can be used to induce\
+    \ locomotion and unusual responses to impacts and hence pave the way towards a\
+    \ novel generation of materials with animate properties.\r\n\r\nReferences:\r\n\
+    \r\n1. Active impact and locomotion in robotic matter with nonlinear work cycles\
+    \  \r\n   Brandenbourger M., Scheibner C., Veenstra J., Vitelli V., Coulais C.,\
+    \ [arXiv:2108.08837](https://arxiv.org/abs/2108.08837)\r\n2. Topology and broken\
+    \ hermiticity  \r\n   Coulais C., Fleury R. and van Wezel J., [Nat. Phys. 17,\
+    \ 9–13 (2021)](https://doi.org/10.1038/s41567-020-01093-z)\r\n3. Observation of\
+    \ non-Hermitian topology and its bulk-edge correspondence in an active mechanical\
+    \ metamaterial  \r\n   Ghatak A., Brandenbourger M., van Wezel J. and Coulais\
+    \ C., [Proc. Natl. Ac. Sc. U.S.A. 117 (47) 29561 (2020)](https://doi.org/10.1073/pnas.2010580117)\r\
+    \n4. Non-reciprocal robotic metamaterials  \r\n   Brandenbourger M., Locsin X.,\
+    \ Lerner E. and Coulais C., [Nat. Commun., 10, 4608 (2019)](https://doi.org/10.1038/s41467-019-12599-3)"
   time: 2021-12-01 18:30:00+00:00
   workflow_issue: 430
   event_type: lrc
