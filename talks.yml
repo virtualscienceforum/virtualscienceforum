@@ -1235,3 +1235,10 @@
   event_type: speakers_corner
   zoom_meeting_id: 82823286730
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZYldeqqpj0tGdQYAPOcnR6QS0KA-dENsqi4
+- speaker_name: Corentin Coulais
+  speaker_affiliation: University of Amsterdam
+  title: '*TBA*'
+  abstract: '*TBA*'
+  time: 2021-12-01 18:30:00+00:00
+  workflow_issue: 430
+  event_type: lrc
