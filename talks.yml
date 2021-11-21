@@ -1263,3 +1263,23 @@
   event_type: lrc
   zoom_meeting_id: 84899123190
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZAlfuCprDgrE9Q9_rPqk_QJqGqagUbt__gz
+- speaker_name: Ivan Kulesh
+  speaker_affiliation: QuTech, Delft University of Technology
+  email: I.Kulesh-1@tudelft.nl
+  preprint: ''
+  title: Longitudinal resistance oscillations in InSbAs 2DEGs in a Quantum Hall regime
+  abstract: Integer quantum Hall states interacting with a superconducting electrode,
+    are predicted to form Andreev edge states. This effect is expected to exhibit
+    an oscillatory interference pattern in the longitudinal resistance, measured with
+    respect to the grounded superconducting lead. In InSb-based two-dimensional electron
+    gases we observe pronounced longitudinal  resistance oscillations. However, we
+    verify that the origin of such oscillation is not related to the superconductivity,
+    but rather, transport through the bulk in the disordered quantum Hall regime.
+    Understanding the origin and location in parameter states of these oscillations
+    is important to clearly distinguish between trivial and superconducting effects
+    in the quantum Hall regime.
+  authors: Ivan Kulesh, Mark van Blankenstein, Candice Thomas, Di Xiao, Geoffrey C.
+    Gardner, Michael J. Manfra, Srijit Goswami
+  time: 2021-12-08 16:00:00+00:00
+  workflow_issue: 471
+  event_type: speakers_corner
