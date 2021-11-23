@@ -1014,8 +1014,7 @@
   time: 2021-10-13 17:30:00+00:00
   workflow_issue: 414
   event_type: lrc
-  zoom_meeting_id: 87543013653
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZMoc-qorzgsH9c37o5X6ScNQYPVvIpU9w_2
+  youtube_id: vFi_4T0mmno
 - speaker_name: Yantao Li
   speaker_affiliation: Indiana University
   preprint: '2107.10687'
