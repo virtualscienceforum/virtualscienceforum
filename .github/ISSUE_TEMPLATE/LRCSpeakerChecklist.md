@@ -38,4 +38,6 @@ YYYY-MM-DD
 - [ ] A reminder email (-4 hours)
 - [ ] Start the LRC Zoom meeting using your VSF Zoom account
 - [ ] Relay to the speaker the video link and request approval of the recording publication.
-- [ ] respond with "the speaker approves publishing the recording. start HH:MM:SS, end HH:MM:SS"
+- [ ] respond with "the speaker approves publishing the recording.
+  If you want to trim it, use format "start HH:MM:SS, end HH:MM:SS, start HH:MM:SS, end HH:MM:SS"
+  (Without this the full video is published)
