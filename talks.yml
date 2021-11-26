@@ -1101,7 +1101,6 @@
   youtube_id: 2mkM-Sdi_Go
 - speaker_name: Bastien Lapierre
   speaker_affiliation: University of Zurich
-  email: bastien.lapierre@uzh.ch
   preprint: '2110.14651'
   title: Topologically Localized Insulators
   abstract: 'In this talk I will show that fully localized, three-dimensional, time-reversal-symmetry-broken
@@ -1115,8 +1114,7 @@
   time: 2021-11-25 14:00:00+00:00
   workflow_issue: 456
   event_type: speakers_corner
-  zoom_meeting_id: 85369078573
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZEuceCoqTMvHdecDtR8vcGDkaQGDa3GNkGl
+  youtube_id: WZKtDCKpF70
 - speaker_name: Charles Kane
   speaker_affiliation: University of Pennsylvania
   email: vsf@antonakhmerov.org
