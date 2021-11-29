@@ -1160,7 +1160,6 @@
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZIvce2qqj8qGdTFiTBNmUnBsYGKY06LmwKB
 - speaker_name: Antonio Manesco
   speaker_affiliation: TU Delft
-  email: am@antoniomanesco.org
   preprint: '2103.06722'
   title: Mechanisms of Andreev reflection in quantum Hall graphene
   abstract: We simulate a hybrid superconductor-graphene device in the quantum Hall
@@ -1176,8 +1175,7 @@
   time: 2021-11-29 16:00:00+00:00
   workflow_issue: 462
   event_type: speakers_corner
-  zoom_meeting_id: 86819237158
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZIlduCqrTwrH9w-qTSiOnWpXzUFhyn7JiKv
+  youtube_id: Sahg_wRv_kw
 - speaker_name: Trithep Devakul
   speaker_affiliation: MIT
   email: tdevakul@mit.edu
