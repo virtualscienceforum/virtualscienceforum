@@ -54,11 +54,28 @@ We will include the satellite talks in the workshop webpage.
 ### Schedule and recordings
 
 {% set talk1 = talks | selectattr("workflow_issue", "==", 462) | first %}
-- [**{{ talk1.title }}**](speakers-corner.md#{{ talk1.title | lower | a }})  
-  by {{ talk1.speaker_name }} ({{ talk1.speaker_affiliation }}), <time datetime="{{ talk1.time.isoformat() }}">{{ talk1.time.strftime("%B %-d %-H:%M %Z") }}</time>
 {% set talk2 = talks | selectattr("workflow_issue", "==", 471) | first %}
 - [**{{ talk2.title }}**](speakers-corner.md#{{ talk2.title | lower | a }})  
   by {{ talk2.speaker_name }} ({{ talk2.speaker_affiliation }}), <time datetime="{{ talk2.time.isoformat() }}">{{ talk2.time.strftime("%B %-d %-H:%M %Z") }}</time>
+
+#### {{ talk1.title }}
+**By {{ talk1.speaker_name }} ({{ talk1.speaker_affiliation }})**
+
+===! "Details"
+
+    **Authors:** {{ talk1.authors }}  
+    **Preprint:** [arXiv:{{ talk1.preprint }}](https://arxiv.org/abs/{{ talk1.preprint }})
+
+    {{ talk1.abstract | indent(width=4) }}
+
+{% if talk1.youtube_id %}
+
+=== "Video recording"
+
+    <div data-youtubeId="{{ talk1.youtube_id }}"></div>
+
+{% endif %}
+
 
 ## Organizers
 
