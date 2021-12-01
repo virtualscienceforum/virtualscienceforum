@@ -1280,3 +1280,27 @@
   event_type: speakers_corner
   zoom_meeting_id: 84839318466
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZAldOCrrzMuHNLMD4JQzZ-AWCgyL1bcQLzg
+- speaker_name: Jinglei Zhang
+  speaker_affiliation: Instute for Quantum Computing / University of Waterloo
+  email: jinglei.zhang@uwaterloo.ca
+  preprint: '2102.08920'
+  title: SU(2) hadrons on a quantum computer
+  abstract: We realize, for the first time, a non-Abelian gauge theory with both gauge
+    and matter fields on a quantum computer. This enables the observation of hadrons
+    and the calculation of their associated masses. The SU(2) gauge group considered
+    here represents an important first step towards ultimately studying quantum chromodynamics,
+    the theory that describes the properties of protons, neutrons and other hadrons.
+    Quantum computers are able to create important new opportunities for ongoing essential
+    research on gauge theories by providing simulations that are unattainable on classical
+    computers. Our calculations on an IBM superconducting platform utilize a variational
+    quantum eigensolver to study both meson and baryon states, hadrons which have
+    never been seen in a non-Abelian simulation on a quantum computer. We develop
+    a resource-efficient approach that not only allows the implementation of a full
+    SU(2) gauge theory on present-day quantum hardware, but further lays out the premises
+    for future quantum simulations that will address currently unanswered questions
+    in particle and nuclear physics.
+  authors: Yasar Atas, Jinglei Zhang, Randy Lewis, Amin Jahanpour, Jan F. Haase, Christine
+    A. Muschik
+  time: 2022-01-10 15:00:00+00:00
+  workflow_issue: 478
+  event_type: speakers_corner
