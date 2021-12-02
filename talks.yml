@@ -1201,7 +1201,6 @@
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZIuc-morjItGtabbw4YJe4xilE6DA91kIXV
 - speaker_name: Ding Zhang
   speaker_affiliation: Tsinghua University
-  email: dingzhang@tsinghua.edu.cn
   preprint: '1903.07627'
   title: Ising superconductivity in few-layer stanene
   abstract: "The two-dimensional crystalline superconductors possess a variety of\
@@ -1224,12 +1223,13 @@
     \ J. Falson, _Nanotechnology_ **32**, 502003 (2021).\r\n2. M. Liao#, Y. Zang#,\
     \ et al. _Nat. Phys._ **14**, 344-348 (2018).\r\n3. J. Falson, et al. _Science_\
     \ **367**, 1454 (2020)."
-  authors: 'Joseph Falson, Yong Xu, Menghan Liao, Yunyi Zang, Kejing Zhu, Chong Wang, Zetao Zhang, Hongchao Liu, Wenhui Duan, Ke He, Haiwen Liu, Jurgen H. Smet, Ding Zhang, Qi-Kun Xue'
+  authors: Joseph Falson, Yong Xu, Menghan Liao, Yunyi Zang, Kejing Zhu, Chong Wang,
+    Zetao Zhang, Hongchao Liu, Wenhui Duan, Ke He, Haiwen Liu, Jurgen H. Smet, Ding
+    Zhang, Qi-Kun Xue
   time: 2021-11-30 00:00:00+00:00
   workflow_issue: 468
   event_type: speakers_corner
-  zoom_meeting_id: 82823286730
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZYldeqqpj0tGdQYAPOcnR6QS0KA-dENsqi4
+  youtube_id: jdmRzGwS0Oc
 - speaker_name: Corentin Coulais
   speaker_affiliation: University of Amsterdam
   title: The Non-Hermitian physics of odd Robotic Matter
