@@ -1202,7 +1202,7 @@
 - speaker_name: Ding Zhang
   speaker_affiliation: Tsinghua University
   email: dingzhang@tsinghua.edu.cn
-  preprint: 1903.07627
+  preprint: '1903.07627'
   title: Ising superconductivity in few-layer stanene
   abstract: "The two-dimensional crystalline superconductors possess a variety of\
     \ exotic properties. For instance, their Cooper pairs can sustain a large in-plane\
@@ -1224,7 +1224,7 @@
     \ J. Falson, _Nanotechnology_ **32**, 502003 (2021).\r\n2. M. Liao#, Y. Zang#,\
     \ et al. _Nat. Phys._ **14**, 344-348 (2018).\r\n3. J. Falson, et al. _Science_\
     \ **367**, 1454 (2020)."
-  authors: ''
+  authors: 'Joseph Falson, Yong Xu, Menghan Liao, Yunyi Zang, Kejing Zhu, Chong Wang, Zetao Zhang, Hongchao Liu, Wenhui Duan, Ke He, Haiwen Liu, Jurgen H. Smet, Ding Zhang, Qi-Kun Xue'
   time: 2021-11-30 00:00:00+00:00
   workflow_issue: 468
   event_type: speakers_corner
