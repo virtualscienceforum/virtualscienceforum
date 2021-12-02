@@ -1117,7 +1117,6 @@
   youtube_id: WZKtDCKpF70
 - speaker_name: Charles Kane
   speaker_affiliation: University of Pennsylvania
-  email: vsf@antonakhmerov.org
   preprint: '2108.05870'
   title: Quantized Nonlinear Response in Ballistic Metals
   abstract: A dramatic consequence of the role of topology in the structure of quantum
@@ -1133,8 +1132,7 @@
   time: 2021-12-02 15:00:00+00:00
   workflow_issue: 458
   event_type: speakers_corner
-  zoom_meeting_id: 89889643588
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZ0lf-CuqjgvEtw1AKLrU6yx2yjp2J_7YrBS
+  youtube_id: 0OowE0YWV6w
 - speaker_name: Nisarga Paul
   speaker_affiliation: Massachusetts Institute of Technology
   email: npaul@mit.edu
