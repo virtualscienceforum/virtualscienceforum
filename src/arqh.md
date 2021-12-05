@@ -57,8 +57,8 @@ We will include the satellite talks in the workshop webpage.
 {% set talk2 = talks | selectattr("workflow_issue", "==", 471) | first %}
 - [**{{ talk2.title }}**](speakers-corner.md#{{ talk2.title | lower | a }})  
   by {{ talk2.speaker_name }} ({{ talk2.speaker_affiliation }}), <time datetime="{{ talk2.time.isoformat() }}">{{ talk2.time.strftime("%B %-d %-H:%M %Z") }}</time>
-- **Mesoscopic conductance along the proximitized quantum Hall edge**
-  by Vladislav D. Kurilovich (Department of Physics, Yale University)
+- **Mesoscopic conductance along the proximitized quantum Hall edge**  
+  by Vladislav D. Kurilovich (Department of Physics, Yale University)  
   [video to be uploaded]
   
 ### Recordings
