@@ -40,22 +40,10 @@ In this workshop we aim to bring together experts working in the field, review o
 
 ## Satellite talks
 
-We welcome interested colleagues to deliver a *satellite talk* on closely related topics.
-We will announce these talks to all participants and use them in guiding the discussion.
-To let us know about your plan to give a talk, send us an [email](mailto:arqh2021@virtualscienceforum.org).
-Then you may either:
-
-- register to give a talk in the [Speakers' Corner](speakers-corner.md) seminar series
-- share a YouTube link
-- send us a recording
-
-We will include the satellite talks in the workshop webpage.
-
+We invite the workshop participants to view the recordings of relevant talks below.
 
 {% set talk1 = talks | selectattr("workflow_issue", "==", 462) | first %}
 {% set talk2 = talks | selectattr("workflow_issue", "==", 471) | first %}
-  
-### Recordings
 
 #### {{ talk1.title }}
 **By {{ talk1.speaker_name }} ({{ talk1.speaker_affiliation }})**
