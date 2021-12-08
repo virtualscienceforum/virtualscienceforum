@@ -51,37 +51,60 @@ Then you may either:
 
 We will include the satellite talks in the workshop webpage.
 
-### Schedule 
 
 {% set talk1 = talks | selectattr("workflow_issue", "==", 462) | first %}
 {% set talk2 = talks | selectattr("workflow_issue", "==", 471) | first %}
-- [**{{ talk2.title }}**](speakers-corner.md#{{ talk2.title | lower | a }})  
-  by {{ talk2.speaker_name }} ({{ talk2.speaker_affiliation }}), <time datetime="{{ talk2.time.isoformat() }}">{{ talk2.time.strftime("%B %-d %-H:%M %Z") }}</time>
-- **Mesoscopic conductance along the proximitized quantum Hall edge**  
-  by Vladislav D. Kurilovich (Department of Physics, Yale University)  
-  [video to be uploaded]
   
 ### Recordings
 
 #### {{ talk1.title }}
 **By {{ talk1.speaker_name }} ({{ talk1.speaker_affiliation }})**
 
+===! "Video recording"
 
-===! "Details"
+    <iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/{{ talk1.youtube_id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+=== "Details"
 
     **Authors:** {{ talk1.authors }}  
-    **Preprint:** [arXiv:{{ talk1.preprint }}](https://arxiv.org/abs/{{ talk1.preprint }})
 
-    {{ talk1.abstract | indent(width=4) }}
+    {{ talk2.abstract | indent(width=4) }}
 
-{% if talk1.youtube_id %}
+#### {{ talk2.title }}
+**By {{ talk2.speaker_name }} ({{ talk2.speaker_affiliation }})**
 
-=== "Video recording"
+===! "Video recording"
 
-    <div data-youtubeId="{{ talk1.youtube_id }}"></div>
+    <iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/{{ talk2.youtube_id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-{% endif %}
+=== "Details"
 
+    **Authors:** {{ talk2.authors }}  
+
+    {{ talk2.abstract | indent(width=4) }}
+
+
+### Mesoscopic conductance along the proximitized quantum Hall edge
+** by Vladislav D. Kurilovich (Department of Physics, Yale University)**
+
+===! "Video recording"
+
+    <iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/y0RkSdphwh4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+=== "Details"
+
+    **Authors:** Vladislav D. Kurilovich, Leonid Glazman
+
+### Induced Superconductivity in FQH Edges in Presence of Dissipation
+** by Noam Schiller (Weizmann Institute of Science)**
+
+===! "Video recording"
+
+    <iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/h0rS7TyUUMI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+=== "Details"
+
+    **Authors:** Noam Schiller, Erez Berg, Yuval Oreg, Ady Stern, Barak Katzir, Netanel Lindner
 
 ## Organizers
 
