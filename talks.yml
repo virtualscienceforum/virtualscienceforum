@@ -1258,7 +1258,6 @@
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZAlfuCprDgrE9Q9_rPqk_QJqGqagUbt__gz
 - speaker_name: Ivan Kulesh
   speaker_affiliation: QuTech, Delft University of Technology
-  email: I.Kulesh-1@tudelft.nl
   preprint: ''
   title: Longitudinal resistance oscillations in InSbAs 2DEGs in a Quantum Hall regime
   abstract: Integer quantum Hall states interacting with a superconducting electrode,
@@ -1276,8 +1275,7 @@
   time: 2021-12-08 16:00:00+00:00
   workflow_issue: 471
   event_type: speakers_corner
-  zoom_meeting_id: 84839318466
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZAldOCrrzMuHNLMD4JQzZ-AWCgyL1bcQLzg
+  youtube_id: fVh1QAnVRcQ
 - speaker_name: Jinglei Zhang
   speaker_affiliation: Instute for Quantum Computing / University of Waterloo
   email: jinglei.zhang@uwaterloo.ca
