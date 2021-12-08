@@ -92,7 +92,7 @@ We invite the workshop participants to view the recordings of relevant talks bel
 
 === "Details"
 
-    **Authors:** Noam Schiller, Erez Berg, Yuval Oreg, Ady Stern, Barak Katzir, Netanel Lindner
+    **Authors:** Noam Schiller, Barak A. Katzir, Ady Stern, Erez Berg, Netanel Lindner, Yuval Oreg
 
 ## Organizers
 
