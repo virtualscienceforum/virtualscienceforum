@@ -1176,7 +1176,6 @@
   youtube_id: Sahg_wRv_kw
 - speaker_name: Trithep Devakul
   speaker_affiliation: MIT
-  email: tdevakul@mit.edu
   preprint: '2109.13909'
   title: 'Quantum anomalous Hall effect from inverted charge transfer gap: application
     to moire transition metal dichalcogenide bilayers'
@@ -1195,8 +1194,7 @@
   time: 2021-12-07 16:00:00+00:00
   workflow_issue: 467
   event_type: speakers_corner
-  zoom_meeting_id: 86340009702
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZIuc-morjItGtabbw4YJe4xilE6DA91kIXV
+  youtube_id: _9UykPvto7M
 - speaker_name: Ding Zhang
   speaker_affiliation: Tsinghua University
   preprint: '1903.07627'
