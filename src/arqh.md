@@ -84,7 +84,7 @@ We invite the workshop participants to view the recordings of relevant talks bel
     **Authors:** Vladislav D. Kurilovich, Leonid Glazman
 
 ### Induced Superconductivity in FQH Edges in Presence of Dissipation
-** by Noam Schiller (Weizmann Institute of Science)**
+** by Noam Schiller (Weizmann Institute) and Barak A. Katzir (Technion)**
 
 ===! "Video recording"
 
