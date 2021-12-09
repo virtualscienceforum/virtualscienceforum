@@ -19,6 +19,8 @@ sometimes in disagreement with existing theoretical predictions.
 
 In this workshop we aim to bring together experts working in the field, review observations and their interpretation, and identify the possible ways forward.
 
+**To join the meeting, please [register](#registration).**
+
 ## Program
 
 **<time data-format="MMMM D" datetime="2021-12-09T14:30:00+00:00">December 9</time>**
