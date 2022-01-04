@@ -57,6 +57,8 @@ We invite the workshop participants to view the recordings of relevant talks bel
 === "Details"
 
     **Authors:** {{ talk1.authors }}  
+    **Preprint:** [arXiv:{{ talk1.preprint }}](https://arxiv.org/abs/{{ talk1.preprint }})
+
 
     {{ talk2.abstract | indent(width=4) }}
 
@@ -70,6 +72,8 @@ We invite the workshop participants to view the recordings of relevant talks bel
 === "Details"
 
     **Authors:** {{ talk2.authors }}  
+    **Preprint:** [arXiv:{{ talk2.preprint }}](https://arxiv.org/abs/{{ talk2.preprint }})
+
 
     {{ talk2.abstract | indent(width=4) }}
 
@@ -83,7 +87,8 @@ We invite the workshop participants to view the recordings of relevant talks bel
 
 === "Details"
 
-    **Authors:** Vladislav D. Kurilovich, Leonid Glazman
+    **Authors:** Vladislav D. Kurilovich, Leonid Glazman  
+    **Preprint:** [arXiv:2201.00273](https://arxiv.org/abs/2201.00273)
 
 ### Induced Superconductivity in FQH Edges in Presence of Dissipation
 ** by Noam Schiller (Weizmann Institute) and Barak A. Katzir (Technion)**
@@ -103,9 +108,3 @@ We invite the workshop participants to view the recordings of relevant talks bel
 [Christian Schoenenberger](https://nanoelectronics.unibas.ch/), University of Basel
 
 If you have any questions, you may reach us via arqh2021@virtualscienceforum.org
-
-## Registration
-
-If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tZEtcuCoqDouGdLJm2C58iiI86McJMYmmC3h)
-
-{{ registration_form({"zoom_meeting_id": "85059061436", "event_type": "lrc", }) }}
