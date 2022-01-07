@@ -9,9 +9,7 @@ site_description: |
 nav:
   - Home: index.md
   - Current and planned events:
-    - Long Range Colloquium: long_range_colloquium.md
     - Speakers' Corner: speakers-corner.md
-    - ARQH Workshop: arqh.md
     - Call for organizers: announcement.md
   - Guides:
     - Organizer Guide: organizerguide.md
@@ -22,6 +20,8 @@ nav:
   - Contributors: whoweare.md
   - Privacy policy: privacy_policy.md
   - Past events:
+    - Long Range Colloquium 2021: long_range_colloquium-2021.md
+    - ARQH Workshop: arqh.md
     - "Workshop: Quantum Oscillations in insulators": quantum-oscillations-insulators.md
     - Long Range Colloquium 2020: long_range_colloquium-2020.md
     - Quantum transport workshop: quantum-transport-workshop.md
