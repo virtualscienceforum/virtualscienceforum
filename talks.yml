@@ -1135,7 +1135,6 @@
   youtube_id: 0OowE0YWV6w
 - speaker_name: Nisarga Paul
   speaker_affiliation: Massachusetts Institute of Technology
-  email: npaul@mit.edu
   preprint: '2111.01805'
   title: Giant proximity exchange and flat Chern band in 2D magnet-semiconductor heterostructures
   abstract: 'Van der Waals (vdW) heterostructures formed by two-dimensional magnets
@@ -1154,8 +1153,7 @@
   time: 2021-12-16 15:00:00+00:00
   workflow_issue: 460
   event_type: speakers_corner
-  zoom_meeting_id: 86264244030
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZIvce2qqj8qGdTFiTBNmUnBsYGKY06LmwKB
+  youtube_id: ALQ5Gfkkt-s
 - speaker_name: Antonio Manesco
   speaker_affiliation: TU Delft
   preprint: '2103.06722'
