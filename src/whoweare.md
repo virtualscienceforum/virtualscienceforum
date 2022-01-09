@@ -6,7 +6,7 @@ This list was last updated on *October 6th 2021*.
 ## Current contributors:
 
 * Anton Akhmerov, TU Delft
-* Valla Fatemi, Yale University
+* Valla Fatemi, Cornell University
 * Eliska Greplova, TU Delft
 * Evert van Nieuwenburg, Niels Bohr Institute
 * Giulia Pacchioni, Springer Nature
