@@ -1,0 +1,32 @@
+name: Send email
+
+on:
+  issue_comment:
+    types:
+      - created
+
+jobs:
+  trigger-email:
+    name: Publish the talk video
+    # Only run if:
+    # - Posted in the planning issue
+    # - Seems like it has the right text
+    # (The detailed check is on the receiving side)
+    if: |
+      contains(github.event.issue.labels.*.name, 'speakers_corner')
+      && contains(github.event.issue.labels.*.name, 'approved')
+      && github.event.comment.body == '@vsf-bot, please resend the host key'
+      && (github.event.comment.user.login == github.event.issue.user.login
+          || github.event.comment.user.author_association == 'MEMBER')
+    # Set the type of machine to run on
+    runs-on: ubuntu-latest
+
+    steps :
+      # Checks out a copy of your repository on the ubuntu-latest machine
+      - name: Send the registration email again
+        uses: peter-evans/repository-dispatch@v1
+        with:
+          token: ${{ secrets.VSF_BOT_TOKEN }}
+          repository: virtualscienceforum/automation
+          event-type: notify_author
+          client-payload: '{"issue": "${{ github.event.issue.number }}"}'
