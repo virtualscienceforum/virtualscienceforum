@@ -1273,7 +1273,6 @@
   youtube_id: fVh1QAnVRcQ
 - speaker_name: Jinglei Zhang
   speaker_affiliation: Instute for Quantum Computing / University of Waterloo
-  email: jinglei.zhang@uwaterloo.ca
   preprint: '2102.08920'
   title: SU(2) hadrons on a quantum computer
   abstract: We realize, for the first time, a non-Abelian gauge theory with both gauge
@@ -1295,5 +1294,4 @@
   time: 2022-01-10 15:00:00+00:00
   workflow_issue: 478
   event_type: speakers_corner
-  zoom_meeting_id: 81589776472
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZUof-CvqT0uHdbQzDAIFhGaby5QjYgpgAe4
+  youtube_id: 1zD-AjS56V0
