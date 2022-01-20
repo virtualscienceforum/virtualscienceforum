@@ -9,7 +9,7 @@ Join directly:
 
 Please fill out our survey
 
-[Online conference survey 2022](survey-2022.md){ .md-button }
+[Online scientific event survey](survey-2022.md){ .md-button }
 
 ## Welcome
 
