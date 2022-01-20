@@ -54,7 +54,7 @@ Finally, submit this information to the VSF. At this stage we aim to accept all 
 
 ### Reaching out to speakers: at least 6 weeks before the event
 
-Once we approve your application and reserved your time slot, you and your co-organizers can start contacting the speakers. The length of your event shouldn't exceed 3 hours, so once you decide the length and format of the talks, adjust the number of speakers accordingly.
+Once we approve your application and reserved your time slot, you and your co-organizers can start contacting the speakers.
 
 You should aim to secure your speakers at least one month prior to your event.
 
