@@ -1,0 +1,897 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Review of experimental progress and further directions in search of Andreev reflection in quantum Hall systems">
+      
+      
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.2.3, mkdocs-material-7.3.6">
+    
+    
+      
+        <title>ARQH workshop - Virtual Science Forum</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.a57b2b03.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.3f5d1f46.min.css">
+        
+          
+          
+          <meta name="theme-color" content="#02a6f2">
+        
+      
+    
+    
+    
+      
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>:root{--md-text-font-family:"Roboto";--md-code-font-family:"Roboto Mono"}</style>
+      
+    
+    
+    
+      <link rel="stylesheet" href="../styles/form.css">
+    
+    
+      
+
+
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="light-blue" data-md-color-accent="light-blue">
+  
+    
+    <script>function __prefix(e){return new URL("..",location).pathname+"."+e}function __get(e,t=localStorage){return JSON.parse(t.getItem(__prefix(e)))}</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="Virtual Science Forum" class="md-header__button md-logo" aria-label="Virtual Science Forum" data-md-component="logo">
+      
+  <img src="../media/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Virtual Science Forum
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              ARQH workshop
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        
+<a href="https://github.com/virtualscienceforum/virtualscienceforum/" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    source
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href=".." class="md-tabs__link">
+      Home
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../speakers-corner/" class="md-tabs__link">
+        Current and planned events
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../organizerguide/" class="md-tabs__link">
+        Guides
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../contact/" class="md-tabs__link">
+      Contact us
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../whoweare/" class="md-tabs__link">
+      Contributors
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../privacy_policy/" class="md-tabs__link">
+      Privacy policy
+    </a>
+  </li>
+
+      
+        
+  
+  
+    
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../long_range_colloquium-2021/" class="md-tabs__link md-tabs__link--active">
+        Past events
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" hidden>
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Virtual Science Forum" class="md-nav__button md-logo" aria-label="Virtual Science Forum" data-md-component="logo">
+      
+  <img src="../media/logo.png" alt="logo">
+
+    </a>
+    Virtual Science Forum
+  </label>
+  
+    <div class="md-nav__source">
+      
+<a href="https://github.com/virtualscienceforum/virtualscienceforum/" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    source
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        Home
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2">
+          Current and planned events
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Current and planned events" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Current and planned events
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../speakers-corner/" class="md-nav__link">
+        Speakers' Corner
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../unconventional-superconductivity/" class="md-nav__link">
+        Workshop on unconvential superconductivity
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../announcement/" class="md-nav__link">
+        Call for organizers
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3">
+          Guides
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Guides" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Guides
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../organizerguide/" class="md-nav__link">
+        Organizer Guide
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../speakerguide/" class="md-nav__link">
+        Speaker Guide
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../moderatorguide/" class="md-nav__link">
+        Moderator Guide
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../attendeeguide/" class="md-nav__link">
+        Attendee Guide
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../contact/" class="md-nav__link">
+        Contact us
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../whoweare/" class="md-nav__link">
+        Contributors
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../privacy_policy/" class="md-nav__link">
+        Privacy policy
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7" type="checkbox" id="__nav_7" checked>
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7">
+          Past events
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Past events" data-md-level="1">
+        <label class="md-nav__title" for="__nav_7">
+          <span class="md-nav__icon md-icon"></span>
+          Past events
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../long_range_colloquium-2021/" class="md-nav__link">
+        Long Range Colloquium 2021
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        ARQH Workshop
+      </a>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../quantum-oscillations-insulators/" class="md-nav__link">
+        Workshop: Quantum Oscillations in insulators
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../long_range_colloquium-2020/" class="md-nav__link">
+        Long Range Colloquium 2020
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../quantum-transport-workshop/" class="md-nav__link">
+        Quantum transport workshop
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Observing_Anyons_2020/" class="md-nav__link">
+        Observing Anyons 2020
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../SPM_workshop/" class="md-nav__link">
+        Scanning probe microscopy workshop
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../inauguralsession/" class="md-nav__link">
+        Inaugural session
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                <h1 id="andreev-reflection-in-quantum-hall-systems-2021-state-of-the-union">Andreev reflection in quantum Hall systems: 2021 state of the union</h1>
+<p><strong><time data-format="MMMM D YYYY H:mm" datetime="2021-12-09T14:30:00+00:00">December 9 2021 14:30</time>–<time data-format="H:mm" datetime="2021-12-09T17:00:00+00:00">17:00</time></strong> (all times are in <span id="timezone">UTC</span> timezone)</p>
+<p><img alt="Collage of Andreev quantum Hall systems" src="../media/arqh_collage.svg" width="80%" /></p>
+<p>A combination of superconductivity with quantum Hall effect allows perfectly nonlocal crossed Andreev reflection, which has made it a target of experimental search for more than a decade.</p>
+<p>Due to progress in material physics and emergence of new hybrid platforms, this search has resulted in a series of
+experiments observing a combined effect of chiral edge states and superconductivity.
+At the same time, measurements of Andreev conductance in the quantum Hall regime demonstrate wildly different behaviors,
+sometimes in disagreement with existing theoretical predictions.</p>
+<p>In this workshop we aim to bring together experts working in the field, review observations and their interpretation, and identify the possible ways forward.</p>
+<p><strong>To join the meeting, please <a href="#registration">register</a>.</strong></p>
+<h2 id="program">Program</h2>
+<p><strong><time data-format="MMMM D" datetime="2021-12-09T14:30:00+00:00">December 9</time></strong></p>
+<ul>
+<li><time data-format="H:mm" datetime="2021-12-09T14:30:00+00:00">14:30</time> Welcome</li>
+<li><time data-format="H:mm" datetime="2021-12-09T14:35:00+00:00">14:35</time>    <a href="https://www.lorentz.leidenuniv.nl/beenakker/"><strong>Carlo Beenakker</strong></a>, Leiden University<br />
+<em>The search for chiral Andreev edge states</em>  </li>
+<li><time data-format="H:mm" datetime="2021-12-09T14:55:00+00:00">14:55</time>    <a href="https://kim.physics.harvard.edu/people/onder-gul"><strong>Önder Gül</strong></a>, Harvard University<br />
+<em>Crossed Andreev reflection in fractional quantum Hall graphene devices</em>  <br />
+    Based on <a href="https://arxiv.org/abs/2009.07836">arXiv:2009.07836</a> and <a href="https://arxiv.org/abs/1609.08104">arXiv:1609.08104</a>   </li>
+<li><time data-format="H:mm" datetime="2021-12-09T15:15:00+00:00">15:15</time>    <a href="http://webhome.phy.duke.edu/~gleb/"><strong>Gleb Finkelstein</strong></a>, Duke University<br />
+<em>Supercurrent and Andreev edge states in the quantum Hall regime</em>  <br />
+    Based on <a href="https://arxiv.org/abs/1901.05928">arXiv:1901.05928</a> and <a href="https://arxiv.org/abs/1907.01722">arXiv:1907.01722</a>   </li>
+<li><time data-format="H:mm" datetime="2021-12-09T15:35:00+00:00">15:35</time>    <a href="https://wp.nyu.edu/shabanilab/"><strong>Javad Shabani</strong></a>, New York University<br />
+<em>Integer quantum Hall effect with a superconducting contact</em>  <br />
+    Based on <a href="https://arxiv.org/abs/2108.08899">arXiv:2108.08899</a> and ongoing work</li>
+<li><time data-format="H:mm" datetime="2021-12-09T15:55:00+00:00">15:55</time> Panel discussion with speakers and the participants</li>
+<li><time data-format="H:mm" datetime="2021-12-09T17:00:00+00:00">17:00</time> Concluding Remarks</li>
+</ul>
+<h2 id="satellite-talks">Satellite talks</h2>
+<p>We invite the workshop participants to view the recordings of relevant talks below.</p>
+<h4 id="mechanisms-of-andreev-reflection-in-quantum-hall-graphene">Mechanisms of Andreev reflection in quantum Hall graphene</h4>
+<p><strong>By Antonio Manesco (TU Delft)</strong></p>
+<div class="tabbed-set tabbed-alternate" data-tabs="1:2"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio" /><input id="__tabbed_1_2" name="__tabbed_1" type="radio" /><div class="tabbed-labels"><label for="__tabbed_1_1">Video recording</label><label for="__tabbed_1_2">Details</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<p><iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/Sahg_wRv_kw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+</div>
+<div class="tabbed-block">
+<p><strong>Authors:</strong> Antonio L. R. Manesco, Ian Matthias Flór, Chun-Xiao Liu, Anton R. Akhmerov<br />
+<strong>Preprint:</strong> <a href="https://arxiv.org/abs/2103.06722">arXiv:2103.06722</a></p>
+<p>Integer quantum Hall states interacting with a superconducting electrode, are predicted to form Andreev edge states. This effect is expected to exhibit an oscillatory interference pattern in the longitudinal resistance, measured with respect to the grounded superconducting lead. In InSb-based two-dimensional electron gases we observe pronounced longitudinal  resistance oscillations. However, we verify that the origin of such oscillation is not related to the superconductivity, but rather, transport through the bulk in the disordered quantum Hall regime. Understanding the origin and location in parameter states of these oscillations is important to clearly distinguish between trivial and superconducting effects in the quantum Hall regime.</p>
+</div>
+</div>
+</div>
+<h4 id="longitudinal-resistance-oscillations-in-insbas-2degs-in-a-quantum-hall-regime">Longitudinal resistance oscillations in InSbAs 2DEGs in a Quantum Hall regime</h4>
+<p><strong>By Ivan Kulesh (QuTech, Delft University of Technology)</strong></p>
+<div class="tabbed-set tabbed-alternate" data-tabs="2:2"><input checked="checked" id="__tabbed_2_1" name="__tabbed_2" type="radio" /><input id="__tabbed_2_2" name="__tabbed_2" type="radio" /><div class="tabbed-labels"><label for="__tabbed_2_1">Video recording</label><label for="__tabbed_2_2">Details</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<p><iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/fVh1QAnVRcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+</div>
+<div class="tabbed-block">
+<p><strong>Authors:</strong> Ivan Kulesh, Mark van Blankenstein, Candice Thomas, Di Xiao, Geoffrey C. Gardner, Michael J. Manfra, Srijit Goswami<br />
+<strong>Preprint:</strong> <a href="https://arxiv.org/abs/">arXiv:</a></p>
+<p>Integer quantum Hall states interacting with a superconducting electrode, are predicted to form Andreev edge states. This effect is expected to exhibit an oscillatory interference pattern in the longitudinal resistance, measured with respect to the grounded superconducting lead. In InSb-based two-dimensional electron gases we observe pronounced longitudinal  resistance oscillations. However, we verify that the origin of such oscillation is not related to the superconductivity, but rather, transport through the bulk in the disordered quantum Hall regime. Understanding the origin and location in parameter states of these oscillations is important to clearly distinguish between trivial and superconducting effects in the quantum Hall regime.</p>
+</div>
+</div>
+</div>
+<h3 id="mesoscopic-conductance-along-the-proximitized-quantum-hall-edge">Mesoscopic conductance along the proximitized quantum Hall edge</h3>
+<p><strong> by Vladislav D. Kurilovich (Department of Physics, Yale University)</strong></p>
+<div class="tabbed-set tabbed-alternate" data-tabs="3:2"><input checked="checked" id="__tabbed_3_1" name="__tabbed_3" type="radio" /><input id="__tabbed_3_2" name="__tabbed_3" type="radio" /><div class="tabbed-labels"><label for="__tabbed_3_1">Video recording</label><label for="__tabbed_3_2">Details</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<p><iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/y0RkSdphwh4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+</div>
+<div class="tabbed-block">
+<p><strong>Authors:</strong> Vladislav D. Kurilovich, Leonid Glazman<br />
+<strong>Preprint:</strong> <a href="https://arxiv.org/abs/2201.00273">arXiv:2201.00273</a></p>
+</div>
+</div>
+</div>
+<h3 id="induced-superconductivity-in-fqh-edges-in-presence-of-dissipation">Induced Superconductivity in FQH Edges in Presence of Dissipation</h3>
+<p><strong> by Noam Schiller (Weizmann Institute) and Barak A. Katzir (Technion)</strong></p>
+<div class="tabbed-set tabbed-alternate" data-tabs="4:2"><input checked="checked" id="__tabbed_4_1" name="__tabbed_4" type="radio" /><input id="__tabbed_4_2" name="__tabbed_4" type="radio" /><div class="tabbed-labels"><label for="__tabbed_4_1">Video recording</label><label for="__tabbed_4_2">Details</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<p><iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/h0rS7TyUUMI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+</div>
+<div class="tabbed-block">
+<p><strong>Authors:</strong> Noam Schiller, Barak A. Katzir, Ady Stern, Erez Berg, Netanel Lindner, Yuval Oreg</p>
+</div>
+</div>
+</div>
+<h2 id="organizers">Organizers</h2>
+<p><a href="https://antonakhmerov.org/">Anton Akhmerov</a>, TU Delft<br />
+<a href="https://fatemilab.aep.cornell.edu/">Valla Fatemi</a>, Yale University &amp; Cornell University<br />
+<a href="https://nanoelectronics.unibas.ch/">Christian Schoenenberger</a>, University of Basel</p>
+<p>If you have any questions, you may reach us via <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#97;&#114;&#113;&#104;&#50;&#48;&#50;&#49;&#64;&#118;&#105;&#114;&#116;&#117;&#97;&#108;&#115;&#99;&#105;&#101;&#110;&#99;&#101;&#102;&#111;&#114;&#117;&#109;&#46;&#111;&#114;&#103;">&#97;&#114;&#113;&#104;&#50;&#48;&#50;&#49;&#64;&#118;&#105;&#114;&#116;&#117;&#97;&#108;&#115;&#99;&#105;&#101;&#110;&#99;&#101;&#102;&#111;&#114;&#117;&#109;&#46;&#111;&#114;&#103;</a></p>
+                
+                  
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+        
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <nav class="md-footer__inner md-grid" aria-label="Footer">
+      
+        
+        <a href="../long_range_colloquium-2021/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Long Range Colloquium 2021" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              Long Range Colloquium 2021
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="../quantum-oscillations-insulators/" class="md-footer__link md-footer__link--next" aria-label="Next: Workshop: Quantum Oscillations in insulators" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              Workshop: Quantum Oscillations in insulators
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        
+          Made with
+          <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+            Material for MkDocs
+          </a>
+        
+        
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.instant", "navigation.tabs"], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../assets/javascripts/workers/search.fcfe8b6d.min.js", "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.b1047164.min.js"></script>
+      
+        <script src="../scripts/mathjax_config.js"></script>
+      
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+        <script src="https://unpkg.com/dayjs@1.8.21/dayjs.min.js"></script>
+      
+        <script src="https://unpkg.com/dayjs@1.8.21/plugin/utc.js"></script>
+      
+        <script src="../scripts/render_time.js"></script>
+      
+        <script src="../scripts/recaptcha_render.js"></script>
+      
+        <script src="https://www.google.com/recaptcha/api.js"></script>
+      
+        <script src="../scripts/cloudflare_communication.js"></script>
+      
+        <script src="../scripts/render_video_iframe.js"></script>
+      
+    
+  </body>
+</html>
