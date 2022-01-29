@@ -1295,3 +1295,23 @@
   workflow_issue: 478
   event_type: speakers_corner
   youtube_id: 1zD-AjS56V0
+- speaker_name: Mohit Gupta
+  speaker_affiliation: University of Minnesota
+  email: gupta610@umn.edu
+  preprint: '2201.01373'
+  title: Selective Control of Conductance Modes in Multi-terminal Josephson Junctions
+  abstract: The Andreev bound state spectra of multi-terminal Josephson junctions
+    form an artificial band structure, which is predicted to host tunable topological
+    phases under certain conditions. However, the number of conductance modes between
+    the terminals of multi-terminal Josephson junction must be few in order for this
+    spectrum to be experimentally accessible. In this work we employ a quantum point
+    contact geometry in three-terminal Josephson devices. We demonstrate independent
+    control of conductance modes between each pair of terminals and access to the
+    single-mode regime coexistent with the presence of superconducting coupling. These
+    results establish a full platform on which to realize tunable Andreev bound state
+    spectra in multi-terminal Josephson junctions.
+  authors: Gino V. Graziano, Mohit Gupta, Mihir Pendharkar, Jason T. Dong, Connor
+    P. Dempsey, Chris Palmstrøm, Vlad S. Pribiag
+  time: 2022-02-18 16:00:00+00:00
+  workflow_issue: 500
+  event_type: speakers_corner
