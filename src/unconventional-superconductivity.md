@@ -42,9 +42,9 @@ Conventional superconductors are characterized by the global U(1) phase rotation
 
 ## Organizers
 
-* Viktoriia Kornich (University of Wuerzburg)
+* Viktoriia Kornich (University of Würzburg)
 * [David Moeckli](https://sites.google.com/view/mockli/) (Universidade Federal do Rio Grande do Sul)
-* Alessio Calzona (University of Wuerzburg)
+* Alessio Calzona (University of Würzburg)
 
 <!-- If you have any questions, you may reach us via your_email@virtualscienceforum.org -->
 
