@@ -10,7 +10,7 @@ hide:
 
 Conventional superconductors are characterized by the global U(1) phase rotation symmetry breaking. Unconventional superconductors are a consequence of breaking of other symmetries. Thus, additional degrees of freedom (orbital, sublattice, bands, valley, etc.), electronic correlations, or more chemical elements reduce the symmetries leading to unconventional superconducting states. One might also obtain unconventional and exotic states extrinsically, e.g. by changing the geometry (interfaces and heterostructures) and applying gates or magnetic fields. This two-day workshop will gather experimentalists and theorists to discuss recent developments in unconventional and exotic superconductivity. The workshop's themes span heavy-fermion systems, high-Tc materials, high magnetic field effects, flat-band systems, and non-equilibrium superconductivity. 
 
-(media/Logo_Unconv_SC_Kornich.pdf){ width=80% } 
+![](media/Logo_Unconv_SC.svg){ width=30% } 
 
 **To join the meeting, please [register](#registration).**
 
