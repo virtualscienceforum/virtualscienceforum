@@ -113,7 +113,7 @@ Based on [arXiv:2009.07836](https://arxiv.org/abs/2009.07836) and [arXiv:1609.08
 
     - [time=0:08:12] Local gate close to the SC finger was used to change the filling factor in the vincinity of the SC.
 
-    - [time=0:11:43] Particle-like fractional, *e.g.* $u=1/3$, quantum Hall edge states have enhanced Andreev signal as magnetic field increase. Integer fillings don't change. Fractional and integer states also show different temperature behaviour.
+    - [time=0:11:43] Particle-like fractional, *e.g.* $\nu=1/3$, quantum Hall edge states have enhanced Andreev signal as magnetic field increase. Integer fillings don't change. Fractional and integer states also show different temperature behaviour.
 
     - [time=0:15:53]
       - Control experiment 1: gold finger. No negative signal.
@@ -157,12 +157,11 @@ Based on [arXiv:1901.05928](https://arxiv.org/abs/1901.05928) and [arXiv:1907.01
 
     - [time=0:10:04] Downstream longitudinal resistance ($R_{xx}$) and conventional Hall resistance are measured. $R_{xx}$ decays to zero with increasing temperature, recovering conventional QH behaviors.
 
-    - [time=0:10:15] Negative downstream resistance ($R_{xx}<0$) observed for $
-    u - 1.$
+    - [time=0:10:15] Negative downstream resistance ($R_{xx}<0$) observed for $\nu=1$.
 
     - [time=0:12:39] Changing the ground to a metallic contact recovers the expected zero downstream resistance in the absence of a superconductor.
 
-    - [time=0:13:23] The downstream resistance is positive for electrons and negative for holes. The measured $R_{xx}$ signal depends on the wavelength difference of the two chiral Andreev edge states. $V_	extrm{gate}$ changes the wavevector, leading to an oscillatory behavior.
+    - [time=0:13:23] The downstream resistance is positive for electrons and negative for holes. The measured $R_{xx}$ signal depends on the wavelength difference of the two chiral Andreev edge states. $V_\mathrm{gate}$ changes the wavevector, leading to an oscillatory behavior.
 
     - [time=0:16:30] Changing bias voltage also leads to oscillations because the momentum difference of chiral Andreev edge states changes with energy.
 
@@ -207,7 +206,7 @@ Based on [arXiv:2108.08899](https://arxiv.org/abs/2108.08899) and ongoing work
 
     - [time=0:09:52] The Hall resistance is recovered if one computes the difference between upstream and downstream resistances. Deviations appear near the transitions between plateaus.
 
-    - [time=0:12:05] Negative downstream signal is suppressed with bias current ($I_{	extrm{bias}} \sim \mu A$).
+    - [time=0:12:05] Negative downstream signal is suppressed with bias current ($I_{\mathrm{bias}} \sim \mu A$).
 
     - [time=0:15:57] When the NS interface is not cleaned, QH phase is still visible but the negative downstream resistance is barely seen. On the other hand, for the cleaned samples, the negative downstream resistance regime is clearly visible.
 
@@ -226,7 +225,7 @@ Based on [arXiv:2108.08899](https://arxiv.org/abs/2108.08899) and ongoing work
 ??? summary "Video minutes"
 
     - [time=0:01:51] Q (from Valla Fatemi to Önder Gul): What is the expected or measured Fermi level mismatch between NbN and Au with respect to graphene?<br/>
-      A: Fermi level mismatch is known to exist. Accumulation in a region of $\sim 50	ext{nm}$. Due to the fabrication, estimations might not be representative. We expect to have accumulation type of mismatch.
+      A: Fermi level mismatch is known to exist. Accumulation in a region of $\sim 50	nm$. Due to the fabrication, estimations might not be representative. We expect to have accumulation type of mismatch.
 
 
     - [time=0:04:24] Q (from Anton Akhmerov to Önder Gul): In the measurement, $R_{xx}$ is about to turn negative at 2K, is that correct? Do you have lower temperature dependence data? Would you expect $R_{xx}$ to turn negative, too?<br/>
@@ -235,15 +234,15 @@ Based on [arXiv:2108.08899](https://arxiv.org/abs/2108.08899) and ongoing work
     - [time=0:07:12] Q (from Mohit Gupta to Javad Shabani): In working with InAs with epitaxial coupling to Al, has there been any issues obtaining the interference pattern (Fraunhofer Oscillations) in 2-terminal Josephson junctions? In working with this material we are able to reproduce all the published characteristics except for the interference pattern. Understandably there can be many reasons for this but any insights will be helpful.<br/>
       A: Josephson junction with NbTiN was never done but is a possibility.
 
-    >[time=0:08:16] Q (from Anton Akhmerov to Javad Shabani): Why do you see a more complex pattern of plateaus in the $B$ vs $V_g$ diagram than the usual Landau fan? <br/>
+    - [time=0:08:16] Q (from Anton Akhmerov to Javad Shabani): Why do you see a more complex pattern of plateaus in the $B$ vs $V_g$ diagram than the usual Landau fan? <br/>
       A: Crossings in LL fan: multi-subbands.
 
-    >[time=0:08:50] Q (from Yuval Ronen to Javad Shabani): InAs is known to have accumalation of charge near the end of the 2DEG. did you try making similar JJ in the QHE to the one Gleb showed? Maybe there is SC currents also between the different SC contacts in the experiment you showed?<br/>
+    - [time=0:08:50] Q (from Yuval Ronen to Javad Shabani): InAs is known to have accumalation of charge near the end of the 2DEG. did you try making similar JJ in the QHE to the one Gleb showed? Maybe there is SC currents also between the different SC contacts in the experiment you showed?<br/>
       A: There is, indeed, surface charge accumulation in InAs. However, there is an extra InGaAs layer, so charge distribution is known pretty well. There was no charge accumulation control at the edges of the sample.
       Q (from Önder Gul to Javad Shabani): Remarks that there will be charge accumulation at the NS interface.
       A: The structure is somewhat different. There is an InAs pocket which is proximitized by the superconductor. Therefore, 2DEG devices are not that similar to graphene. CQED measurement suggests that InAs density under the superconductor is increased by a factor by 5-10.
 
-    >[time=0:07:12] Q: For Javad Shabani -- the SC contact of the NbTiN is on top of the Al or not? Are you etching with ion milling in-situ? and sputter NbTiN? how do you know when to stop, effect of disorder? From Yuval Ronen<br/>
+    - [time=0:07:12] Q: For Javad Shabani -- the SC contact of the NbTiN is on top of the Al or not? Are you etching with ion milling in-situ? and sputter NbTiN? how do you know when to stop, effect of disorder? From Yuval Ronen<br/>
       A: SC contact (proximity effect?)  from top is better than edge or side contact. 
 
     - [time=0:11:50] Q: For anyone -- Is there a conceptual difference between a side contact and a top contact, assuming that both work, which one would be better?<br/>
@@ -271,7 +270,7 @@ Based on [arXiv:2108.08899](https://arxiv.org/abs/2108.08899) and ongoing work
       A (Javad Shabani): InAs g-factor is really large. Don't know how the edge state resconstruction varies between graphene and InAs.
       **All in all: hard to conclude anything in the current experiments.**
 
-    >[time=0:28:06] Q (from Anton Akhmerov to everyone): What about bulk conduction? Current through nonequilibrium field distribtuion.<br/>
+    - [time=0:28:06] Q (from Anton Akhmerov to everyone): What about bulk conduction? Current through nonequilibrium field distribtuion.<br/>
       A (Javad Shabani): If the gap is contribtuing to conductance, it should show up in the measurement.
       A (Bertrand Halperin): If you are deep inside the QH state, then transport current is pretty much from the edge. If you map it, indeed there's current in the bulk, but doesn't contribute to transport. We should not care where the current is flowing in microscopic sense.
 
@@ -310,9 +309,9 @@ Based on [arXiv:2108.08899](https://arxiv.org/abs/2108.08899) and ongoing work
     ## Ideas for further experiments
 
     - Two similar questions:
-      - 1. Is it possible to obtain pristine oscillations in CAES using a type-II superconductor having a high Hc1, before magnetic fields when vortices start developing? (from Rajarshi Bhattacharyya)
-      - 2. For experimentalists – Do you imagine a way to minimize effects of vortices? (from Antonio Manesco)
-      - A (Javad Shabani): One idea is the chicken wire patterns to trap vortices. But ideally one wants to work at really small fields. So another idea is to put very thin Al on top of InAs (critical field in Al can reach 4T). Applying out-of-plane field, the superconductor survives. Then one can choose superconductors such as Nb or Ta instead of granular superconductors. In other words: use vertical superconducting contacts.
+      1. Is it possible to obtain pristine oscillations in CAES using a type-II superconductor having a high Hc1, before magnetic fields when vortices start developing? (from Rajarshi Bhattacharyya)
+      2. For experimentalists – Do you imagine a way to minimize effects of vortices? (from Antonio Manesco)<br/>
+      A (Javad Shabani): One idea is the chicken wire patterns to trap vortices. But ideally one wants to work at really small fields. So another idea is to put very thin Al on top of InAs (critical field in Al can reach 4T). Applying out-of-plane field, the superconductor survives. Then one can choose superconductors such as Nb or Ta instead of granular superconductors. In other words: use vertical superconducting contacts.
 
     - [time=0:54:09] R (Valla Fatemi) - A possible control experiment that simulates low DOS (like vortices) but without AR: use a contact of the material in question tuned by a gate to near a transition to an insulator, where resistance is high and puddles probably dominate to keep things inhomogeneous.
 
