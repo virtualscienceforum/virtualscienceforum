@@ -116,9 +116,9 @@ Based on [arXiv:2009.07836](https://arxiv.org/abs/2009.07836) and [arXiv:1609.08
     - [time=0:11:43] Particle-like fractional, *e.g.* $\nu=1/3$, quantum Hall edge states have enhanced Andreev signal as magnetic field increase. Integer fillings don't change. Fractional and integer states also show different temperature behaviour.
 
     - [time=0:15:53]
-      - Control experiment 1: gold finger. No negative signal.
-      - Control experiment 2: wider finger. No negative signal as well.
-      - Control experiment 3: longer finger. Negative resistance is still observed.
+        - Control experiment 1: gold finger. No negative signal.
+        - Control experiment 2: wider finger. No negative signal as well.
+        - Control experiment 3: longer finger. Negative resistance is still observed.
 
     - [time=0:17:52] Disorder limits CAR probability, due to the direct tunneling. Vortices should also limit CAR probability.
 
@@ -238,15 +238,15 @@ Based on [arXiv:2108.08899](https://arxiv.org/abs/2108.08899) and ongoing work
       A: Crossings in LL fan: multi-subbands.
 
     - [time=0:08:50] Q (from Yuval Ronen to Javad Shabani): InAs is known to have accumalation of charge near the end of the 2DEG. did you try making similar JJ in the QHE to the one Gleb showed? Maybe there is SC currents also between the different SC contacts in the experiment you showed?<br/>
-      A: There is, indeed, surface charge accumulation in InAs. However, there is an extra InGaAs layer, so charge distribution is known pretty well. There was no charge accumulation control at the edges of the sample.
-      Q (from Önder Gul to Javad Shabani): Remarks that there will be charge accumulation at the NS interface.
+      A: There is, indeed, surface charge accumulation in InAs. However, there is an extra InGaAs layer, so charge distribution is known pretty well. There was no charge accumulation control at the edges of the sample.<br/>
+      Q (from Önder Gul to Javad Shabani): Remarks that there will be charge accumulation at the NS interface.<br/>
       A: The structure is somewhat different. There is an InAs pocket which is proximitized by the superconductor. Therefore, 2DEG devices are not that similar to graphene. CQED measurement suggests that InAs density under the superconductor is increased by a factor by 5-10.
 
     - [time=0:07:12] Q: For Javad Shabani -- the SC contact of the NbTiN is on top of the Al or not? Are you etching with ion milling in-situ? and sputter NbTiN? how do you know when to stop, effect of disorder? From Yuval Ronen<br/>
       A: SC contact (proximity effect?)  from top is better than edge or side contact. 
 
     - [time=0:11:50] Q: For anyone -- Is there a conceptual difference between a side contact and a top contact, assuming that both work, which one would be better?<br/>
-      A: From Onder Gul -- It depends on material combinations and 2DEG properties. Best contact is the one that couples without doping. The interface may become disorder free without Fermi level mismatch. Perhaps a better option is to use vdW superconductor. In this way, the interface may be disorder free.
+      A: From Onder Gul -- It depends on material combinations and 2DEG properties. Best contact is the one that couples without doping. The interface may become disorder free without Fermi level mismatch. Perhaps a better option is to use vdW superconductor. In this way, the interface may be disorder free.<br/>
       A: From Javad Shabani -- You want strong induced SC and high transparent contact. In InAs at zero field make good transparency contancs. Requires further experiments to say the same at high field. In graphene I don't know what is the transparency at zero field.
 
 
@@ -264,24 +264,24 @@ Based on [arXiv:2108.08899](https://arxiv.org/abs/2108.08899) and ongoing work
       A: The simple picture, at QH they match. Before QH state, you have depth and rise, and it alternates. At the edges you have something more complicated, but the observation is correct. Needs further thinking.
 
     - [time=0:19:39] Q (from Anton Akhmerov to everyone): Can nonchiral edge states play a role in systematically enabling negative current by enabling local Andreev reflection? How can an experiment rule them out?<br/>
-      A (Gleb Finkelstein): When you're looking for supercurrent, the two contacts are close. In the Hall bar setup, Andreev states propagate about half micron long. When the distance between contact is longer, the non-chiral just localize in between somewhere. What happens near the contact, is much more difficult to address (perhaps one could control with local gates). Based on what we see, we don't believe there are not many counterpropagating edge states. We cannot exclude additional states near the contact, but probably the number is small. It is very hard to see their presence.
-      A (Lingfei Zhao): Counter propagating edge states probably don't matter in the normal edges because the $R_{xy}$ is still quantized. But at the interface it is hard to check.
-      A: (Önder Gul): Cannot conclude as well. Residual edge from Fermi level mismatch must lead to counter-propagating edge states.
-      A (Javad Shabani): InAs g-factor is really large. Don't know how the edge state resconstruction varies between graphene and InAs.
+      A (Gleb Finkelstein): When you're looking for supercurrent, the two contacts are close. In the Hall bar setup, Andreev states propagate about half micron long. When the distance between contact is longer, the non-chiral just localize in between somewhere. What happens near the contact, is much more difficult to address (perhaps one could control with local gates). Based on what we see, we don't believe there are not many counterpropagating edge states. We cannot exclude additional states near the contact, but probably the number is small. It is very hard to see their presence.<br/>
+      A (Lingfei Zhao): Counter propagating edge states probably don't matter in the normal edges because the $R_{xy}$ is still quantized. But at the interface it is hard to check.<br/>
+      A: (Önder Gul): Cannot conclude as well. Residual edge from Fermi level mismatch must lead to counter-propagating edge states.<br/>
+      A (Javad Shabani): InAs g-factor is really large. Don't know how the edge state resconstruction varies between graphene and InAs.<br/>
       **All in all: hard to conclude anything in the current experiments.**
 
     - [time=0:28:06] Q (from Anton Akhmerov to everyone): What about bulk conduction? Current through nonequilibrium field distribtuion.<br/>
-      A (Javad Shabani): If the gap is contribtuing to conductance, it should show up in the measurement.
+      A (Javad Shabani): If the gap is contribtuing to conductance, it should show up in the measurement.<br/>
       A (Bertrand Halperin): If you are deep inside the QH state, then transport current is pretty much from the edge. If you map it, indeed there's current in the bulk, but doesn't contribute to transport. We should not care where the current is flowing in microscopic sense.
 
     ## Theoretical aspects
 
     - [time=0:31:46] Q (from Anton Akhmerov to Vladislav Kurilovich and Leonid Glazman): You computed Andreev conductance near a superconductor and you observed rapidly fluctuating result. Can you imagine a situation in which this would not be the case and a systematic negative conductance would be expected?<br/>
-      A (Vladislav Kurilovich): Answer is no. Javad's data is peculiar. It should exhibit mesoscopic oscillations but there is unexpected persistent negative downstream resistance.
-      A (Leonid Glazman): Proximitization is differnt. In Javad's experiment the InAs is proximitized. In graphene, it's direct contact with the superconductor.
-      R (Anton Akhmerov): There is also a graphene experiment that also observes a systematic negative downstream current.
-      R (Javad Shabani): There is an experiment with larger sample size in which they don't observe negative resistence anymore.
-      Q (Javad Shabani): Why would vortices matter?
+      A (Vladislav Kurilovich): Answer is no. Javad's data is peculiar. It should exhibit mesoscopic oscillations but there is unexpected persistent negative downstream resistance.<br/>
+      A (Leonid Glazman): Proximitization is differnt. In Javad's experiment the InAs is proximitized. In graphene, it's direct contact with the superconductor.<br/>
+      R (Anton Akhmerov): There is also a graphene experiment that also observes a systematic negative downstream current.<br/>
+      R (Javad Shabani): There is an experiment with larger sample size in which they don't observe negative resistence anymore.<br/>
+      Q (Javad Shabani): Why would vortices matter?<br/>
       A (From Glazman): A vortex effectively work as normal island.
 
     - [time=0:36:12] Q (Philip Kim): A question about the doping ranges. InAs the SC is on top. I wonder if the schematic drawn by Javad holds.<br/>
@@ -291,12 +291,12 @@ Based on [arXiv:2108.08899](https://arxiv.org/abs/2108.08899) and ongoing work
       A: No direct evidence. The vortices don't want to be at the interface. Chicken wire patterns in the superconductor: no qualitative difference when these patterns are added (but context was different).
 
     - [time=0:39:18] Q (from Antonio Manesco to everyone): In graphene, one could expect constant conductance due to valley selection rule. But, for 2DEGs, one would expect chiral Andreev interference all the way (even without disorder). How to understand constant negative conductance then? From Antonio.<br/>
-      R (Anton Akhmerov): As Leonid pointed out, even if the system was clean one would expect an oscillatory signal, not just constant and negative.
-      A (Enrico Rossi): You have vortices as sink for the electrons. You keep losing holes to the vortices. This can explain negative resistance. The superconductor is grounded. The holes don't have the same tendency going to the ground.
-      Q (Anton Akhmerov): Shouldn't the absorption rate be the same for electrons and holes?
-      A (Enrico Rossi): The superconductor is grounded, so it could attract more electrons than holes.
-      A (Leonid Glazman): If DOS is energy-independent, and there is PHS, there shouldn't be no difference expected between electrons and holes. So this is not enough to explain the constantly negative signal. But maybe the non-linearity of the semiconductor dispersion is important.
-      A (Anton Akhmerov): Indeed, the non-linearity could be the reason for such asymmetry. But then the signal should vanish at zero bias.
+      R (Anton Akhmerov): As Leonid pointed out, even if the system was clean one would expect an oscillatory signal, not just constant and negative.<br/>
+      A (Enrico Rossi): You have vortices as sink for the electrons. You keep losing holes to the vortices. This can explain negative resistance. The superconductor is grounded. The holes don't have the same tendency going to the ground.<br/><br/>
+      Q (Anton Akhmerov): Shouldn't the absorption rate be the same for electrons and holes?<br/>
+      A (Enrico Rossi): The superconductor is grounded, so it could attract more electrons than holes.<br/>
+      A (Leonid Glazman): If DOS is energy-independent, and there is PHS, there shouldn't be no difference expected between electrons and holes. So this is not enough to explain the constantly negative signal. But maybe the non-linearity of the semiconductor dispersion is important.<br/>
+      A (Anton Akhmerov): Indeed, the non-linearity could be the reason for such asymmetry. But then the signal should vanish at zero bias.<br/>
       R (Gleb Finkelstein): Positive and negative signals amplitudes are similar (particle-hole symmetric). Survival probablity decays with the length of the interface.
 
 
@@ -308,8 +308,8 @@ Based on [arXiv:2108.08899](https://arxiv.org/abs/2108.08899) and ongoing work
 
     ## Ideas for further experiments
 
-    - Two similar questions:
-      1. Is it possible to obtain pristine oscillations in CAES using a type-II superconductor having a high Hc1, before magnetic fields when vortices start developing? (from Rajarshi Bhattacharyya)
+    - Two similar questions:<br/>
+      1. Is it possible to obtain pristine oscillations in CAES using a type-II superconductor having a high Hc1, before magnetic fields when vortices start developing? (from Rajarshi Bhattacharyya)<br/>
       2. For experimentalists – Do you imagine a way to minimize effects of vortices? (from Antonio Manesco)<br/>
       A (Javad Shabani): One idea is the chicken wire patterns to trap vortices. But ideally one wants to work at really small fields. So another idea is to put very thin Al on top of InAs (critical field in Al can reach 4T). Applying out-of-plane field, the superconductor survives. Then one can choose superconductors such as Nb or Ta instead of granular superconductors. In other words: use vertical superconducting contacts.
 
