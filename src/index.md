@@ -6,6 +6,7 @@ hide:
 Join directly:
 
 [Speakers' Corner](speakers-corner.md){ .md-button }
+[Workshop on unconventional superconductivity](unconventional-superconductivity.md){ .md-button }
 
 Please fill out our survey
 

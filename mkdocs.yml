@@ -10,6 +10,7 @@ nav:
   - Home: index.md
   - Current and planned events:
     - Speakers' Corner: speakers-corner.md
+    - Workshop on unconvential superconductivity: unconventional-superconductivity.md
     - Call for organizers: announcement.md
   - Guides:
     - Organizer Guide: organizerguide.md
