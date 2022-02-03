@@ -58,43 +58,36 @@ Between the seminars and the discussion session, a number of open questions, nee
 <iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/xPlPz1a5Zq8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<details>
-<summary>Video minutes</summary>
-<br>
+??? summary "Video minutes"
   
- [time=0:01:31] Skipping-orbits for both electrons and holes are in the same direction (opposite sign of both charge and mass). Expt. [10.1103/PhysRevB.76.115313](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.76.115313)  
-  
-  [time=0:04:52] Chiral modes don't necessarily transport a unit of charge. The transferred charge can even be zero.
-  
-  [time=0:05:31] The early works in the field are in "skipping orbit" limit. It is important to reach the single Landau level regime.
-  
-  [time=0:07:19] In graphene, Andreev reflection switches the valleys. Furthermore, the lowest Landau level in graphene is valley polarized. Therefore, there is no electron-hole conversion when the superconductor covers a single edge.
-  
-  [time=0:07:19] Valley polarization sets a selection rule for Andreev processes in graphene.
-  
-  [time=0:07:19] A two-terminal setup is considered in the theoretical work, while a three-terminal setup in the experiment. For a clean interface, quantized conductance is expected [[arXiv:cond-mat/0612698](https://arxiv.org/abs/cond-mat/0612698)]. In the experiment, conductance is not quantized and has irregular fluctuations [[arXiv:1907.01722](https://arxiv.org/abs/1907.01722)].
-  
-  [time=0:10:08] Interface disorder plays a major role [[arXiv:2103.06722](https://arxiv.org/abs/2103.06722)]. Not as universal as one would desire.
-  
-  [time=0:12:10] Chiral Andreev edge modes can carry supercurrent in a two-terminal Josephson junction setup.
-  
-  [time=0:13:53] For a squid ring, $4\pi$-periodicity in flux difference ($\delta \phi$) in the critical current is expected (so-called $4\pi$ periodic Fraunhofer oscillations). But, in the experiment by [Amet et al. Science  352, 966 (2016)](https://www.science.org/doi/abs/10.1126/science.aad6203), period-doubling is not observed.
-  
- **Questions period**
-  
-[time=0:16:53]<br/>
-Q (Yoichi Ando): In these experiments, how do we consider spins?<br/> 
-A: For odd filling factor, spin-orbit coupling is critical for Andreev reflection processes (for odd filling factor). The reason is that spin-polarized edge states are not supposed to feature Andreev reflection.
-
-
-[time=0:18:16]<br/>
-Q (Leonid Glazman): Remarks that there were earlier experimental works than the one presented by Carlo.
-
-[time=0:19:13]<br/>
-Q: Referring to slide 3 of Carlo's talk: in the bottom left picture, it really depends on the deatils of the lattice because the boundary. Could one deform the top in the bottom picture? Is there any intermediate point? See Figure 1 from [arXiv:cond-mat/0612698](https://arxiv.org/abs/cond-mat/0612698) <br/>
-A: In general, any graphene edge behaves as zigzag in long lengthscales ([arXiv:0710.2723](https://arxiv.org/abs/0710.2723)), which means that valley is a good quantum number. Thus, isospins in different edges can only be paralell or anti-parallel. What really matters is that if you cover a single edge or two edges.
-  
-</details>
+    - [time=0:01:31] Skipping-orbits for both electrons and holes are in the same direction (opposite sign of both charge and mass). Expt. [10.1103/PhysRevB.76.115313](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.76.115313)  
+    
+    - [time=0:04:52] Chiral modes don't necessarily transport a unit of charge. The transferred charge can even be zero.
+    
+    - [time=0:05:31] The early works in the field are in "skipping orbit" limit. It is important to reach the single Landau level regime.
+    
+    - [time=0:07:19] In graphene, Andreev reflection switches the valleys. Furthermore, the lowest Landau level in graphene is valley polarized. Therefore, there is no electron-hole conversion when the superconductor covers a single edge.
+    
+    - [time=0:07:19] Valley polarization sets a selection rule for Andreev processes in graphene.
+    
+    - [time=0:07:19] A two-terminal setup is considered in the theoretical work, while a three-terminal setup in the experiment. For a clean interface, quantized conductance is expected [[arXiv:cond-mat/0612698](https://arxiv.org/abs/cond-mat/0612698)]. In the experiment, conductance is not quantized and has irregular fluctuations [[arXiv:1907.01722](https://arxiv.org/abs/1907.01722)].
+    
+    - [time=0:10:08] Interface disorder plays a major role [[arXiv:2103.06722](https://arxiv.org/abs/2103.06722)]. Not as universal as one would desire.
+    
+    - [time=0:12:10] Chiral Andreev edge modes can carry supercurrent in a two-terminal Josephson junction setup.
+    
+    - [time=0:13:53] For a squid ring, $4\pi$-periodicity in flux difference ($\delta \phi$) in the critical current is expected (so-called $4\pi$ periodic Fraunhofer oscillations). But, in the experiment by [Amet et al. Science  352, 966 (2016)](https://www.science.org/doi/abs/10.1126/science.aad6203), period-doubling is not observed.
+    
+    **Questions period**
+    
+    - [time=0:16:53] Q (Yoichi Ando): In these experiments, how do we consider spins?<br/>
+        A: For odd filling factor, spin-orbit coupling is critical for Andreev reflection processes (for odd filling factor). The reason is that spin-polarized edge states are not supposed to feature Andreev reflection.
+    
+    - [time=0:18:16] Q (Leonid Glazman): Remarks that there were earlier experimental works than the one presented by Carlo.
+    
+    - [time=0:19:13] Q: Referring to slide 3 of Carlo's talk: in the bottom left picture, it really depends on the deatils of the lattice because the boundary. Could one deform the top in the bottom picture? Is there any intermediate point? See Figure 1 from [arXiv:cond-mat/0612698](https://arxiv.org/abs/cond-mat/0612698)<br/>
+        A: In general, any graphene edge behaves as zigzag in long lengthscales ([arXiv:0710.2723](https://arxiv.org/abs/0710.2723)), which means that valley is a good quantum number. Thus, isospins in different edges can only be paralell or anti-parallel. What really matters is that if you cover a single edge or two edges.
+      
 
 
 
