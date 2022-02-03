@@ -116,7 +116,7 @@ Based on [arXiv:2009.07836](https://arxiv.org/abs/2009.07836) and [arXiv:1609.08
     - [time=0:11:43] Particle-like fractional, *e.g.* $\nu=1/3$, quantum Hall edge states have enhanced Andreev signal as magnetic field increase. Integer fillings don't change. Fractional and integer states also show different temperature behaviour.
 
     - [time=0:15:53]<br/>
-        - Control experiment 1: gold finger. No negative signal.<br/><br/>
+        - Control experiment 1: gold finger. No negative signal.<br/>
         - Control experiment 2: wider finger. No negative signal as well.<br/>
         - Control experiment 3: longer finger. Negative resistance is still observed.
 
@@ -310,7 +310,7 @@ Based on [arXiv:2108.08899](https://arxiv.org/abs/2108.08899) and ongoing work
     - Two similar questions:<br/>
         1. Is it possible to obtain pristine oscillations in CAES using a type-II superconductor having a high Hc1, before magnetic fields when vortices start developing? (from Rajarshi Bhattacharyya)<br/>
         2. For experimentalists – Do you imagine a way to minimize effects of vortices? (from Antonio Manesco)<br/>
-        A (Javad Shabani): One idea is the chicken wire patterns to trap vortices. But ideally one wants to work at really small fields. So another idea is to put very thin Al on top of InAs (critical field in Al can reach 4T). Applying out-of-plane field, the superconductor survives. Then one can choose superconductors such as Nb or Ta instead of granular superconductors. In other words: use vertical superconducting contacts.
+        3. A (Javad Shabani): One idea is the chicken wire patterns to trap vortices. But ideally one wants to work at really small fields. So another idea is to put very thin Al on top of InAs (critical field in Al can reach 4T). Applying out-of-plane field, the superconductor survives. Then one can choose superconductors such as Nb or Ta instead of granular superconductors. In other words: use vertical superconducting contacts.
 
     - [time=0:54:09] R (Valla Fatemi) - A possible control experiment that simulates low DOS (like vortices) but without AR: use a contact of the material in question tuned by a gate to near a transition to an insulator, where resistance is high and puddles probably dominate to keep things inhomogeneous.
 
