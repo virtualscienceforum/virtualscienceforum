@@ -115,16 +115,16 @@ Based on [arXiv:2009.07836](https://arxiv.org/abs/2009.07836) and [arXiv:1609.08
 
     - [time=0:11:43] Particle-like fractional, *e.g.* $\nu=1/3$, quantum Hall edge states have enhanced Andreev signal as magnetic field increase. Integer fillings don't change. Fractional and integer states also show different temperature behaviour.
 
-    - [time=0:15:53]
-        - Control experiment 1: gold finger. No negative signal.
-        - Control experiment 2: wider finger. No negative signal as well.
+    - [time=0:15:53]<br/>
+        - Control experiment 1: gold finger. No negative signal.<br/><br/>
+        - Control experiment 2: wider finger. No negative signal as well.<br/>
         - Control experiment 3: longer finger. Negative resistance is still observed.
 
     - [time=0:17:52] Disorder limits CAR probability, due to the direct tunneling. Vortices should also limit CAR probability.
 
-    - [time=0:19:12] Future experiments: 
-      - Noise measurement to reveal the charge of the Andreev reflected holes.
-      - Tunneling into the zero mode at the end of the finger.
+    - [time=0:19:12] Future experiments:<br/>
+        - Noise measurement to reveal the charge of the Andreev reflected holes.<br/>
+        - Tunneling into the zero mode at the end of the finger.
 
     - [time=0:19:55] Non-saturating temperature dependence for fractional fillings.
 
@@ -167,8 +167,7 @@ Based on [arXiv:1901.05928](https://arxiv.org/abs/1901.05928) and [arXiv:1907.01
 
     - [time=0:18:35] Abrupt switching with magnetic fields is caused by vortices . Zooming in, one can see regions between the abrupt transitions that are smooth. (See also [Vladislav Kurilovich talk](https://www.youtube.com/watch?v=y0RkSdphwh4).)
 
-    - [time=0:20:44] On average, the system is neutral as can be seen from the longitudinal resistance statistics.
-    - See Figure 2c from [arXiv:1907.01722](https://arxiv.org/abs/1907.01722)) 
+    - [time=0:20:44] On average, the system is neutral as can be seen from the longitudinal resistance statistics. See Figure 2c from [arXiv:1907.01722](https://arxiv.org/abs/1907.01722)) 
 
     - [time=0:21:43] If there are vortices (being sinks for quasiparticles) in the superconductor, then the signal is suppressed.
 
@@ -309,9 +308,9 @@ Based on [arXiv:2108.08899](https://arxiv.org/abs/2108.08899) and ongoing work
     ## Ideas for further experiments
 
     - Two similar questions:<br/>
-      1. Is it possible to obtain pristine oscillations in CAES using a type-II superconductor having a high Hc1, before magnetic fields when vortices start developing? (from Rajarshi Bhattacharyya)<br/>
-      2. For experimentalists – Do you imagine a way to minimize effects of vortices? (from Antonio Manesco)<br/>
-      A (Javad Shabani): One idea is the chicken wire patterns to trap vortices. But ideally one wants to work at really small fields. So another idea is to put very thin Al on top of InAs (critical field in Al can reach 4T). Applying out-of-plane field, the superconductor survives. Then one can choose superconductors such as Nb or Ta instead of granular superconductors. In other words: use vertical superconducting contacts.
+        1. Is it possible to obtain pristine oscillations in CAES using a type-II superconductor having a high Hc1, before magnetic fields when vortices start developing? (from Rajarshi Bhattacharyya)<br/>
+        2. For experimentalists – Do you imagine a way to minimize effects of vortices? (from Antonio Manesco)<br/>
+        A (Javad Shabani): One idea is the chicken wire patterns to trap vortices. But ideally one wants to work at really small fields. So another idea is to put very thin Al on top of InAs (critical field in Al can reach 4T). Applying out-of-plane field, the superconductor survives. Then one can choose superconductors such as Nb or Ta instead of granular superconductors. In other words: use vertical superconducting contacts.
 
     - [time=0:54:09] R (Valla Fatemi) - A possible control experiment that simulates low DOS (like vortices) but without AR: use a contact of the material in question tuned by a gate to near a transition to an insulator, where resistance is high and puddles probably dominate to keep things inhomogeneous.
 
