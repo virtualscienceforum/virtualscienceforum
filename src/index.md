@@ -8,10 +8,6 @@ Join directly:
 [Speakers' Corner](speakers-corner.md){ .md-button }
 [Workshop on unconventional superconductivity](unconventional-superconductivity.md){ .md-button }
 
-Please fill out our survey
-
-[Online scientific event survey](survey-2022.md){ .md-button }
-
 ## Welcome
 
 Virtual Science Forum is a [volunteer-run](whoweare.md) open platform aiming to accommodate organization of online conferences.
