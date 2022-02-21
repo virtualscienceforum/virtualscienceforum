@@ -26,7 +26,7 @@ We offer beginning-to-end support for organizing an academic event of your own, 
 * [Observing Anyons 2020](Observing_Anyons_2020.md) mini-conference
 * Workshop on [Scanning Probe Microscopy](SPM_workshop.md)
 * Virtual March Meeting sessions on [quantum information and machine learning](inauguralsession.md)
-* 2020 run of the [Long Range Colloquium](long_range_colloquium.md) series
+* 2020 run of the [Long Range Colloquium](long_range_colloquium-2020.md) series
 
 *[ARQH]: Andreev reflection in quantum Hall regime
 
