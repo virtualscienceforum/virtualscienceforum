@@ -16,7 +16,12 @@ Additionally we develop best practices and provide recommendations for all commu
 
 ## What we do
 
-We offer beginning-to-end support for organizing an academic event of your own, check out the [organizer guide](organizerguide.md) to see what it takes. It could be a seminar series, a workshop or a tutorial. We prioritize upholding a safe, accessible, inclusive and equitable online environment for all across the spectrum of identities and lived experiences. We encourage participation, either as speakers, organizers or audience, of all members of the scientific community.
+We offer beginning-to-end support for organizing an academic event of your own:
+- We provide a minimal effort platform for making an event page, managing registrations, and publishing the talks.
+- We announce the events to our mailing list of currently around 1500 participants, mainly from condensed matter and quantum physics.
+- We provide advice, technical support, and a collection of best practices for running such an event.
+
+Check out the [organizer guide](organizerguide.md) to see what it takes. We have hosted workshops, tutorials, and seminar series. We prioritize upholding a safe, accessible, inclusive and equitable online environment for all across the spectrum of identities and lived experiences. We encourage participation, either as speakers, organizers or audience, of all members of the scientific community.
 
 ### Previous Events
 * [Long Range Colloquium](long_range_colloquium-2021.md)
