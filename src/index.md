@@ -19,7 +19,7 @@ Additionally we develop best practices and provide recommendations for all commu
 We offer beginning-to-end support for organizing an academic event of your own, check out the [organizer guide](organizerguide.md) to see what it takes. It could be a seminar series, a workshop or a tutorial. We prioritize upholding a safe, accessible, inclusive and equitable online environment for all across the spectrum of identities and lived experiences. We encourage participation, either as speakers, organizers or audience, of all members of the scientific community.
 
 ### Previous Events
-* [Long Range Colloquium](long_range_colloquium.md)
+* [Long Range Colloquium](long_range_colloquium-2021.md)
 * [ARQH workshop](arqh.md)
 * Workshop: [Quantum Oscillations in insulators](quantum-oscillations-insulators.md)
 * Mini-tutorial on [computational quantum transport](quantum-transport-workshop.md)
