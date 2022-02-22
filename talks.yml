@@ -1297,7 +1297,6 @@
   youtube_id: 1zD-AjS56V0
 - speaker_name: Mohit Gupta
   speaker_affiliation: University of Minnesota
-  email: gupta610@umn.edu
   preprint: '2201.01373'
   title: Selective Control of Conductance Modes in Multi-terminal Josephson Junctions
   abstract: The Andreev bound state spectra of multi-terminal Josephson junctions
@@ -1315,8 +1314,7 @@
   time: 2022-02-18 16:00:00+00:00
   workflow_issue: 500
   event_type: speakers_corner
-  zoom_meeting_id: 84196792966
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZAsfu-vpzkjHNKJlFTVpeSzXWDHoS6L0GOA
+  youtube_id: xjghMLlQGTA
 - speaker_name: Isidora Araya Day
   speaker_affiliation: QuTech and Kavli Institute of Nanoscience, TU Delft
   email: i.m.arayaday@tudelft.nl
