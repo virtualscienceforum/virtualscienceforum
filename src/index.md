@@ -17,6 +17,7 @@ Additionally we develop best practices and provide recommendations for all commu
 ## What we do
 
 We offer beginning-to-end support for organizing an academic event of your own:
+
 - We provide a minimal effort platform for making an event page, managing registrations, and publishing the talks.
 - We announce the events to our mailing list of currently around 1500 participants, mainly from condensed matter and quantum physics.
 - We provide advice, technical support, and a collection of best practices for running such an event.
