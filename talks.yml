@@ -1317,7 +1317,6 @@
   youtube_id: xjghMLlQGTA
 - speaker_name: Isidora Araya Day
   speaker_affiliation: QuTech and Kavli Institute of Nanoscience, TU Delft
-  email: i.m.arayaday@tudelft.nl
   preprint: '2202.07675'
   title: Topological defects in a double-mirror quadrupole insulator displace diverging
     charge
@@ -1332,5 +1331,4 @@
   time: 2022-03-09 17:00:00+00:00
   workflow_issue: 515
   event_type: speakers_corner
-  zoom_meeting_id: 85417152172
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZEpdu6pqzkrHdbqRzm-1sp2cZ2zfQpHBZ-C
+  youtube_id: sDse9rsaDXQ
