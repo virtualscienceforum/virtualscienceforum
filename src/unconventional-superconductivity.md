@@ -1,23 +1,22 @@
 ---
-title: Recent Developments in Exotic and Unconventional Superconductivity
-description: This workshop is dedicated to recent developments in unconventional and non-equilibrium superconductivity and superconductivity in exotic systems, e.g. flat-band systems.
+title: Developments in Unconventional Superconductivity
+description: A one-sentence description of the event
 hide:
   - navigation
 ---
 {% from 'registration.md' import registration_form %}
-
 # Recent Developments in Exotic and Unconventional Superconductivity
-**<time data-format="MMMM D YYYY H:mm" datetime="2022-03-30T14:00:00+02:00">March 30 2022 14:00</time>–<time data-format="H:mm" datetime="2022-03-30T18:30:00+02:00">18:30</time>** , **<time data-format="MMMM D YYYY H:mm" datetime="2022-03-31T14:00:00+02:00">March 31 2022 14:00</time>–<time data-format="H:mm" datetime="2022-03-31T18:20:00+02:00">18:20</time>** (all times are in <span id="timezone">Europe/Berlin</span> timezone)
+**<time data-format="MMMM D YYYY H:mm" datetime="2022-03-30T12:00:00+00:00">March 30 2022 14:00</time>–<time data-format="H:mm" datetime="2022-03-31T17:00:00+00:00">17:00</time>** (all times are in <span id="timezone">CET</span> timezone)
 
-Conventional superconductors are characterized by the global U(1) phase rotation symmetry breaking. Unconventional superconductors are a consequence of breaking of other symmetries. Thus, additional degrees of freedom (orbital, sublattice, bands, valley, etc.), electronic correlations, or more chemical elements reduce the symmetries leading to unconventional superconducting states. One might also obtain unconventional and exotic states extrinsically, e.g. by changing the geometry (interfaces and heterostructures) and applying gates or magnetic fields. This two-day workshop will gather experimentalists and theorists to discuss recent developments in unconventional and exotic superconductivity. The workshop's themes span heavy-fermion systems, high-Tc materials, high magnetic field effects, flat-band systems, and non-equilibrium superconductivity. 
+Unconventional superconductivity is a rapidly developing field that is of high interest nowadays, because new materials can support new technologies. E.g., p-wave superconductor is a potential host for Majorana fermions. Our conference is about various types of unconventional superconductors and also about exotic superconductivity, namely non-equilibrium superconductivity, superconductivity in flat-band systems. This conference will be interesting for both experimentalists and theoreticians.
 
-![](media/Logo_Unconv_SC.svg){ width=30% } 
+<!-- ![](media/filename.png){ width=80% } -->
 
 **To join the meeting, please [register](#registration).**
 
 ## Program
 
-**<time data-format="MMMM D" datetime="2021-03-30T14:00:00+02:00">March 30</time>**
+**<time data-format="MMMM D" datetime="2021-03-30T14:00:00+00:00">March 30</time>**
 
 - <time data-format="H:mm" datetime="2022-03-30T14:00:00+02:00">14:00</time> Welcome
 - <time data-format="H:mm" datetime="2022-03-30T14:05:00+02:00">14:05</time> Kristin Willa, Karlsruhe Institute of Technology  
@@ -68,11 +67,11 @@ amplification to photoinduced superconductivity**
 
 ## Organizers
 
-* Viktoriia Kornich (University of Würzburg)
-* [David Möckli](https://sites.google.com/view/mockli/) (Universidade Federal do Rio Grande do Sul)
-* Alessio Calzona (University of Würzburg)
+* Viktoriia Kornich (University of Wuerzburg)
+* [David Moeckli](https://sites.google.com/view/mockli/) (Universidade Federal do Rio Grande do Sul)
+* Alessio Calzona (University of Wuerzburg)
 
-If you have any questions, you may reach us at viktoriia.kornich@physik.uni-wuerzburg.de
+<!-- If you have any questions, you may reach us via your_email@virtualscienceforum.org -->
 
 ## Registration
 
