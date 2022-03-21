@@ -41,7 +41,7 @@ In the last few years, experimental breakthroughs in the field of non-reciprocal
 
 ## Organizers
 
-* Mazhar N. Ali, TU Delft
+* [Mazhar N. Ali, TU Delft](https://www.linkedin.com/in/profmaz/)
 * [Valla Fatemi, Cornell University](https://fatemilab.aep.cornell.edu/)
 * Heng Wu, TU Delft
 
