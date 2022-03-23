@@ -27,7 +27,8 @@ Conventional superconductors are characterized by the global U(1) phase rotation
 - <time data-format="H:mm" datetime="2022-03-30T15:25:00+02:00">15:25</time> break
 - <time data-format="H:mm" datetime="2022-03-30T15:35:00+02:00">15:35</time> Sofia Michaela Souliou, Karlsruhe Institute of Technology  
 **Pressure tuning of competing orders in superconducting YBa<sub>2</sub>Cu<sub>3</sub>O<sub>6+x</sub>**
-- <time data-format="H:mm" datetime="2022-03-30T16:15:00+02:00">16:15</time> Fahad Mahmood, University of Illinois Urbana-Champaign
+- <time data-format="H:mm" datetime="2022-03-30T16:15:00+02:00">16:15</time> Fahad Mahmood, University of Illinois Urbana-Champaign  
+**Illuminating strongly correlated materials and unconventional superconductors with multidimensional spectroscopies**
 - <time data-format="H:mm" datetime="2022-03-30T16:55:00+02:00">16:55</time> break
 - <time data-format="H:mm" datetime="2022-03-30T17:05:00+02:00">17:05</time> Amir Yacoby, Harvard University  
 **Fractional Chern Insulators Revealed using a Scanning Single Electron Transistor**
@@ -49,7 +50,8 @@ amplification to photoinduced superconductivity**
 - <time data-format="H:mm" datetime="2022-03-31T15:20:00+02:00">15:20</time> break
 - <time data-format="H:mm" datetime="2022-03-31T15:30:00+02:00">15:30</time> Aline Ramires, Paul Scherrer Institut  
 **Deconstructing Sr<sub>2</sub>RuO<sub>4</sub>: Insights from a microscopic perspective**
-- <time data-format="H:mm" datetime="2022-03-31T16:10:00+02:00">16:10</time> Andrey Chubukov, University of Minnesota
+- <time data-format="H:mm" datetime="2022-03-31T16:10:00+02:00">16:10</time> Andrey Chubukov, University of Minnesota  
+**Superconductivity out of a non-Fermi liquid**
 - <time data-format="H:mm" datetime="2022-03-31T16:50:00+02:00">16:50</time> break
 - <time data-format="H:mm" datetime="2022-03-31T17:00:00+02:00">17:00</time> Satoshi Ikegaya, Nagoya University,  
 **Anomalous proximity effect in topological superconductor hybrid systems**
