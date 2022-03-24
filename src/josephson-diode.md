@@ -23,7 +23,7 @@ Published work associated to each speaker is linked. Links point to arXiv whenev
 - <time data-format="H:mm" datetime="2022-05-18T14:30:00+00:00">14:30</time> Welcome by Valla Fatemi
 - <time data-format="H:mm" datetime="2022-05-18T14:35:00+00:00">14:35</time> Mazhar Ali, TU Delft - Introduction to the field
 - <time data-format="H:mm" datetime="2022-05-18T15:00:00+00:00">15:00</time> Teruo Ono, Kyoto University <br/>
-    [Observation of superconducting diode effect](https://www.nature.com/articles/s41586-020-2590-4)
+  [Observation of superconducting diode effect](https://www.nature.com/articles/s41586-020-2590-4)
 - <time data-format="H:mm" datetime="2022-05-18T15:45:00+00:00">15:45</time> Youichi Yanase, Kyoto University <br/>
   [Intrinsic Superconducting Diode Effect](https://arxiv.org/abs/2106.03326)
 - <time data-format="H:mm" datetime="2022-05-18T16:30:00+00:00">16:30</time> break
@@ -39,8 +39,8 @@ Published work associated to each speaker is linked. Links point to arXiv whenev
 
 - <time data-format="H:mm" datetime="2022-05-19T14:30:00+00:00">14:30</time> Welcome by Valla Fatemi
 - <time data-format="H:mm" datetime="2022-05-18T14:35:00+00:00">14:35</time> Nicola Paradiso, Regensburg University <br/>
-  [Effect of Rashba and Dresselhaus spin-orbit coupling on supercurrent rectification and magnetochiral anisotropy of ballistic Josephson junctions](https://arxiv.org/abs/2111.13983)
-  [Supercurrent rectification and magnetochiral effects in symmetric Josephson junctions](https://www.nature.com/articles/s41565%E2%80%90021%E2%80%9001009%E2%80%909)
+  [Effect of Rashba and Dresselhaus spin-orbit coupling on supercurrent rectification and magnetochiral anisotropy of ballistic Josephson junctions](https://arxiv.org/abs/2111.13983)<br/>
+  [Supercurrent rectification and magnetochiral effects in symmetric Josephson junctions](https://www.nature.com/articles/s41565%E2%80%90021%E2%80%9001009%E2%80%909)<br/>
   [Supercurrent diode effect and magnetochiral anisotropy in few-layer NbSe2 nanowires](https://arxiv.org/abs/2110.15752)
 - <time data-format="H:mm" datetime="2022-05-18T15:20:00+00:00">15:20</time> Naoto Nagaosa, Riken <br/>
   [A phenomenological theory of superconductor diodes](https://arxiv.org/abs/2106.03575v4)
@@ -48,7 +48,7 @@ Published work associated to each speaker is linked. Links point to arXiv whenev
   [Magnetic Josephson Junctions and Superconducting Diodes in Magic Angle Twisted Bilayer Graphene](https://arxiv.org/abs/2110.01067)
 - <time data-format="H:mm" datetime="2022-05-18T16:50:00+00:00">16:50</time> break
 - <time data-format="H:mm" datetime="2022-05-18T17:05:00+00:00">17:05</time> Liang Fu, MIT <br/>
-  [Supercurrent diode effect and finite momentum superconductivity](https://arxiv.org/abs/2106.01909v3)
+  [Supercurrent diode effect and finite momentum superconductivity](https://arxiv.org/abs/2106.01909v3)<br/>
   [Universal Josephson diode effect](https://arxiv.org/abs/2201.00831)
 - <time data-format="H:mm" datetime="2022-05-18T17:50:00+00:00">17:50</time> Jiang-Xiazi Lin, Brown University <br/>
   [Zero-field superconducting diode effect in small-twist-angle trilayer graphene](https://arxiv.org/abs/2112.07841v2)
