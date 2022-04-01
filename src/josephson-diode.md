@@ -37,7 +37,7 @@ Published work associated to each speaker is linked. Links point to arXiv whenev
   [Realization of the field-free Josephson diode](https://arxiv.org/abs/2103.15809)
 - <time data-format="H:mm" datetime="2022-05-18T18:15:00+00:00">18:15</time> Banabir Pal, MPI Halle <br/>
   [Josephson diode effect from Cooper pair momentum in a topological semimetal](https://arxiv.org/abs/2112.11285)
-- <time data-format="H:mm" datetime="2022-05-18T19:00:00+00:00">19:00</time> Informal discussion <br/>
+- <time data-format="H:mm" datetime="2022-05-18T19:00:00+00:00">19:00</time> Informal discussion until <time data-format="H:mm" datetime="2022-05-18T20:00:00+00:00">20:00</time> <br/>
 
 **<time data-format="MMMM D" datetime="2022-05-19T14:00:00+00:00">May 19</time>**
 
@@ -59,14 +59,14 @@ Published work associated to each speaker is linked. Links point to arXiv whenev
   [Zero-field superconducting diode effect in small-twist-angle trilayer graphene](https://arxiv.org/abs/2112.07841v2)
 - <time data-format="H:mm" datetime="2022-05-19T18:35:00+00:00">18:35</time> Mathias Scheurer, University of Innsbruck <br/>
   [Theory of zero-field diode effect in twisted trilayer graphene](https://arxiv.org/abs/2112.09115v1)
-- <time data-format="H:mm" datetime="2022-05-18T19:20:00+00:00">19:20</time> Informal discussion <br/>
+- <time data-format="H:mm" datetime="2022-05-19T19:20:00+00:00">19:20</time> Informal discussion until <time data-format="H:mm" datetime="2022-05-19T20:00:00+00:00">20:00</time><br/>
 
 
 ## Satellite talks
 
 We welcome interested colleagues to deliver a *satellite talk* on closely related research.
 We will announce these talks to all participants and use them in guiding the discussions.
-To let us know about your plan to give a talk, send us an [email](mailto:vf82@cornell.edu).
+To let us know about your plan to give a talk, send us an [email](mailto:superdiodes@virtualscienceforum.org).
 Then you may either:
 
 - register to give a talk in the [Speakers' Corner](speakers-corner.md) seminar series
@@ -81,7 +81,7 @@ We will include the satellite talks in this workshop webpage.
 * [Valla Fatemi, Cornell University](https://fatemilab.aep.cornell.edu/)
 * [Heng Wu, TU Delft](https://scholar.google.com/citations?user=muXxPsYAAAAJ&hl=en)
 
-<!-- If you have any questions, you may reach us via your_email@virtualscienceforum.org -->
+If you have any questions, you may reach us via [superdiodes@virtualscienceforum.org](mailto:superdiodes@virtualscienceforum.org)
 
 ## Registration
 
