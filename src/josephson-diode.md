@@ -35,8 +35,9 @@ Published work associated to each speaker is linked. Links point to arXiv whenev
 - <time data-format="H:mm" datetime="2022-05-18T16:30:00+00:00">16:30</time> break
 - <time data-format="H:mm" datetime="2022-05-18T16:45:00+00:00">16:45</time> Kun Jiang, CAS Beijing <br/>
   [General theory of Josephson Diodes](https://arxiv.org/abs/2112.08901v2)
-- <time data-format="H:mm" datetime="2022-05-18T17:30:00+00:00">17:30</time> Heng Wu, University of Regensburg <br/>
-- <time data-format="H:mm" datetime="2022-05-18T18:15:00+00:00">18:15</time> Denis Kochan, MPI Halle <br/>
+- <time data-format="H:mm" datetime="2022-05-18T17:30:00+00:00">17:30</time> Heng Wu, TU Delft <br/>
+  [Realization of the field-free Josephson Diode](https://arxiv.org/abs/2103.15809)
+- <time data-format="H:mm" datetime="2022-05-18T18:15:00+00:00">18:15</time> Denis Kochan, University of Regensburg <br/>
   [Supercurrent rectification and magnetochiral effects in symmetric Josephson junctions](https://www.nature.com/articles/s41565%E2%80%90021%E2%80%9001009%E2%80%909)<br/>
 - <time data-format="H:mm" datetime="2022-05-18T19:00:00+00:00">19:00</time> Informal discussion until <time data-format="H:mm" datetime="2022-05-18T20:00:00+00:00">20:00</time> <br/>
 
