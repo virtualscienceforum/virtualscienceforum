@@ -8,6 +8,8 @@ hide:
 # Superconducting diode effects
 **<time data-format="MMMM D YYYY H:mm" datetime="2022-05-17T14:30:00+00:00">May 18-19 2022 14:30</time>–<time data-format="H:mm" datetime="2022-03-31T20:00:00+00:00">20:00</time>** (all times are in <span id="timezone">CET</span> timezone)
 
+<img src="https://user-images.githubusercontent.com/61348213/162177872-6ba6ba0c-c97c-470c-87a4-aecbd83cb2bf.png" alt="drawing" width="600"/>
+
 In the last few years, experimental breakthroughs in the field of non-reciprocal superconductivity have led to the realization of the superconducting diode effect in both bulk superconducting films and Josephson junctions (i.e., Josephson diodes), both with and without an applied magnetic field to break time reversal symmetry. These results raise fundamental questions as to the origins and mechanisms of the different superconducting diode effects as well as open the door to game-changing advancements in superconducting electronics for technological applications. In this workshop, we bring together experimentalists creating and exploring novel superconducting diodes as well as theorists explaining and predicting these effects. Through a series of seminars and discussions, we will compile the status of the field and chart a path for the future. 
 
 <!-- ![](media/filename.png){ width=80% } -->
