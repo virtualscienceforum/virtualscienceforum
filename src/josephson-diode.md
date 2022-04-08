@@ -89,6 +89,6 @@ If you have any questions, you may reach us via [superdiodes@virtualscienceforum
 
 ## Registration
 
-If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/XXXXXXXXXXXXXXXXX)
+If the form below doesn't work, [register directly](https://virtualscienceforum-org.zoom.us/meeting/register/tZctcu2qqD0pHdKsx-nfWc-ilAyy-1XseA8I)
 
-{{ registration_form({"zoom_meeting_id": "XXXXXXXXXXXXX", "event_type": "lrc", }) }}
+{{ registration_form({"zoom_meeting_id": "83054266376", "event_type": "lrc", }) }}
