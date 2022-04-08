@@ -10,7 +10,6 @@ nav:
   - Home: index.md
   - Current and planned events:
     - Speakers' Corner: speakers-corner.md
-    - Workshop on unconvential superconductivity: unconventional-superconductivity.md
     - Workshop on superconducting diode effects: josephson-diode.md
     - Call for organizers: announcement.md
   - Guides:
@@ -22,6 +21,7 @@ nav:
   - Contributors: whoweare.md
   - Privacy policy: privacy_policy.md
   - Past events:
+    - Workshop on unconvential superconductivity: unconventional-superconductivity.md
     - Long Range Colloquium 2021: long_range_colloquium-2021.md
     - ARQH Workshop: arqh.md
     - "Workshop: Quantum Oscillations in insulators": quantum-oscillations-insulators.md
