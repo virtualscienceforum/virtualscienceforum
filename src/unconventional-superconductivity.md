@@ -2,70 +2,110 @@
 title: Recent Developments in Exotic and Unconventional Superconductivity
 description: This workshop is dedicated to recent developments in unconventional and non-equilibrium superconductivity and superconductivity in exotic systems, e.g. flat-band systems.
 ---
-{% from 'registration.md' import registration_form %}
 
 # Recent Developments in Exotic and Unconventional Superconductivity
-**<time data-format="MMMM D YYYY H:mm" datetime="2022-03-30T14:00:00+02:00">March 30 2022 14:00</time>–<time data-format="H:mm" datetime="2022-03-30T18:30:00+02:00">18:30</time>** , **<time data-format="MMMM D YYYY H:mm" datetime="2022-03-31T14:00:00+02:00">March 31 2022 14:00</time>–<time data-format="H:mm" datetime="2022-03-31T18:20:00+02:00">18:20</time>** (all times are in <span id="timezone">Europe/Berlin</span> timezone)
 
-Conventional superconductors are characterized by the global U(1) phase rotation symmetry breaking. Unconventional superconductors are a consequence of breaking of other symmetries. Thus, additional degrees of freedom (orbital, sublattice, bands, valley, etc.), electronic correlations, or more chemical elements reduce the symmetries leading to unconventional superconducting states. One might also obtain unconventional and exotic states extrinsically, e.g. by changing the geometry (interfaces and heterostructures) and applying gates or magnetic fields. This two-day workshop will gather experimentalists and theorists to discuss recent developments in unconventional and exotic superconductivity. The workshop's themes span heavy-fermion systems, high-Tc materials, high magnetic field effects, flat-band systems, and non-equilibrium superconductivity. 
+The workshop took place **March 30–31 2022**
 
-![](media/Logo_Unconv_SC.svg){ width=30% } 
+Conventional superconductors are characterized by the global U(1) phase rotation symmetry breaking. Unconventional superconductors are a consequence of breaking of other symmetries. Thus, additional degrees of freedom (orbital, sublattice, bands, valley, etc.), electronic correlations, or more chemical elements reduce the symmetries leading to unconventional superconducting states. One might also obtain unconventional and exotic states extrinsically, e.g. by changing the geometry (interfaces and heterostructures) and applying gates or magnetic fields. This two-day workshop will gather experimentalists and theorists to discuss recent developments in unconventional and exotic superconductivity. The workshop's themes span heavy-fermion systems, high-Tc materials, high magnetic field effects, flat-band systems, and non-equilibrium superconductivity.
 
-## Program
+![](media/Logo_Unconv_SC.svg){ width=30% }
 
-**<time data-format="MMMM D" datetime="2021-03-30T14:00:00+02:00">March 30</time>**
+## Workshop presentations
 
-- <time data-format="H:mm" datetime="2022-03-30T14:00:00+02:00">14:00</time> Welcome
-- <time data-format="H:mm" datetime="2022-03-30T14:05:00+02:00">14:05</time> Kristin Willa, Karlsruhe Institute of Technology  
-**Short ranged magnetic correlations as observed in thermodynamic measurements in UTe<sub>2</sub>**
-- <time data-format="H:mm" datetime="2022-03-30T14:45:00+02:00">14:45</time> Fernando de Juan, Donostia International Physics Center  
-**Collective modes of superconducting monolayer NbSe<sub>2</sub>**
-- <time data-format="H:mm" datetime="2022-03-30T15:25:00+02:00">15:25</time> break
-- <time data-format="H:mm" datetime="2022-03-30T15:35:00+02:00">15:35</time> Sofia Michaela Souliou, Karlsruhe Institute of Technology  
-**Pressure tuning of competing orders in superconducting YBa<sub>2</sub>Cu<sub>3</sub>O<sub>6+x</sub>**
-- <time data-format="H:mm" datetime="2022-03-30T16:15:00+02:00">16:15</time> Fahad Mahmood, University of Illinois Urbana-Champaign  
-**Illuminating strongly correlated materials and unconventional superconductors with multidimensional spectroscopies**
-- <time data-format="H:mm" datetime="2022-03-30T16:55:00+02:00">16:55</time> break
-- <time data-format="H:mm" datetime="2022-03-30T17:05:00+02:00">17:05</time> Amir Yacoby, Harvard University  
-**Fractional Chern Insulators Revealed using a Scanning Single Electron Transistor**
-- <time data-format="H:mm" datetime="2022-03-30T17:45:00+02:00">17:45</time> Dmitry Chichinadze, University of Minnesota,   
-**Nematic superconductivity in twisted bilayer graphene**
-- <time data-format="H:mm" datetime="2022-03-30T18:00:00+02:00">18:00</time> Shahar Simon, the Hebrew University of Jerusalem,  
-**Thickness-Dependent Tunneling Spectra of 2H-TaS<sub>2</sub>** 
-- <time data-format="H:mm" datetime="2022-03-30T18:15:00+02:00">18:15</time> Nicola Paradiso, University of Regensburg,  
-**Supercurrent diode effect in ballistic Josephson junctions with Rashba spin-orbit interaction**
+### Short ranged magnetic correlations as observed in thermodynamic measurements in UTe₂
+**by Kristin Willa**
 
+<iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/bVC0PT4cbHo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**<time data-format="MMMM D" datetime="2021-03-31T14:00:00+02:00">March 31</time>**
+### Collective modes of superconducting monolayer NbSe₂
+**by Fernando de Juan**
 
-- <time data-format="H:mm" datetime="2022-03-31T14:00:00+02:00">14:00</time> Tero Heikkilä, University of Jyväskylä  
-**Flat-band superconductivity**
-- <time data-format="H:mm" datetime="2022-03-31T14:40:00+02:00">14:40</time> Eugene Demler, ETH Zürich  
-**Optical responses of photoexcited materials: from parametric 
-amplification to photoinduced superconductivity**
-- <time data-format="H:mm" datetime="2022-03-31T15:20:00+02:00">15:20</time> break
-- <time data-format="H:mm" datetime="2022-03-31T15:30:00+02:00">15:30</time> Aline Ramires, Paul Scherrer Institut  
-**Deconstructing Sr<sub>2</sub>RuO<sub>4</sub>: Insights from a microscopic perspective**
-- <time data-format="H:mm" datetime="2022-03-31T16:10:00+02:00">16:10</time> Andrey Chubukov, University of Minnesota  
-**Superconductivity out of a non-Fermi liquid**
-- <time data-format="H:mm" datetime="2022-03-31T16:50:00+02:00">16:50</time> break
-- <time data-format="H:mm" datetime="2022-03-31T17:00:00+02:00">17:00</time> Satoshi Ikegaya, Nagoya University,  
-**Anomalous proximity effect in topological superconductor hybrid systems**
-- <time data-format="H:mm" datetime="2022-03-31T17:15:00+02:00">17:15</time> Tim Kokkeler, University of Twente,  
-**Dirty limit proximity effect for s+p-wave superconductors in 1D and 2D**
-- <time data-format="H:mm" datetime="2022-03-31T17:30:00+02:00">17:30</time> Yuri Fukaya, University of Salerno,  
-**Interorbital topological superconductivity in spin-orbit coupled superconductors with inversion symmetry breaking**
-- <time data-format="H:mm" datetime="2022-03-31T17:45:00+02:00">17:45</time> Pavel Dolgirev, Harvard University,  
-**Single-spin qubit magnetic spectroscopy of two-dimensional superconductivity**
-- <time data-format="H:mm" datetime="2022-03-31T18:00:00+02:00">18:00</time> Dimitri Pimenov, University of Minnesota,  
-**Twists and turns of pairing from repulsive dynamical interactions**
-- <time data-format="H:mm" datetime="2022-03-31T18:15:00+02:00">18:15</time> Concluding remarks
+<iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/dooZTszSmPs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Pressure tuning of competing orders in superconducting YBa₂Cu₃O_(6+x)
+**by Sofia Michaela Souliou**
+
+Video not available yet.
+
+<!-- <iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/Ho8mrmIbSsY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+### Illuminating strongly correlated materials and unconventional superconductors with multidimensional spectroscopies
+**by Fahad Mahmood**
+
+<iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/dxDsjdPSm-g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Fractional Chern Insulators Revealed using a Scanning Single Electron Transistor
+**by Amir Yacoby**
+
+Video not available yet.
+
+<!-- <iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/08ee6Y5I3-E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+### Nematic superconductivity in twisted bilayer graphene
+**by Dmitry Chichinadze**
+
+<iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/s1AGx3YXvfM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Thickness-Dependent Tunneling Spectra of 2H-TaS₂
+**by Shahar Simon**
+
+<iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/5KNCY6V1VHs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Supercurrent diode effect in ballistic Josephson junctions with Rashba spin-orbit interaction
+**by Nicola Paradiso**
+
+<iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/MjrAAgJ6yGw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Flat-band superconductivity
+**by Tero Heikkilä**
+
+<iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/DkjOibZUcRI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Optical responses of photoexcited materials: from parametric amplification to photoinduced superconductivity
+**by Eugene Demler**
+
+<iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/n73_OnX1bO4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Deconstructing Sr₂RuO₄: Insights from a microscopic perspective
+**by Aline Ramires**
+
+<iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/oKlHQn6vIos" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Superconductivity out of a non-Fermi liquid
+**by Andrey Chubukov**
+
+<iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/Ym9ze7ww8Cc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Anomalous proximity effect in topological superconductor hybrid systems
+**by Satoshi Ikegaya**
+
+<iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/EjowWuTkj24" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Dirty limit proximity effect for s+p-wave superconductors in 1D and 2D
+**by Tim Kokkeler**
+
+<iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/gcXwWSR_0L0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Interorbital topological superconductivity in spin-orbit coupled superconductors with inversion symmetry breaking
+**by Yuri Fukaya**
+
+<iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/Ec2rPlhNyvQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Single-spin qubit magnetic spectroscopy of two-dimensional superconductivity
+**by Pavel Dolgirev**
+
+<iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/T2lV_OR0eCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Twists and turns of pairing from repulsive dynamical interactions
+**by Dimitri Pimenov**
+
+<iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/V9cavzUKpZ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Organizers
 
-* Viktoriia Kornich (University of Würzburg)
-* [David Möckli](https://sites.google.com/view/mockli/) (Universidade Federal do Rio Grande do Sul)
-* Alessio Calzona (University of Würzburg)
+- Viktoriia Kornich (University of Würzburg)
+- [David Möckli](https://sites.google.com/view/mockli/) (Universidade Federal do Rio Grande do Sul)
+- Alessio Calzona (University of Würzburg)
 
 If you have any questions, you may reach us at viktoriia.kornich@physik.uni-wuerzburg.de
