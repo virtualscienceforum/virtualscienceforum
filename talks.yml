@@ -1060,7 +1060,6 @@
   youtube_id: TlJlaEqcTAs
 - speaker_name: Jean-Sébastien Caux
   speaker_affiliation: University of Amsterdam
-  email: vsf@antonakhmerov.org
   preprint: ''
   title: SciPost and the reform of scientific publishing
   abstract: "SciPost is a not-for-profit publishing initiative conceived, implemented\r\
@@ -1078,8 +1077,7 @@
   time: 2021-11-04 14:00:00+00:00
   workflow_issue: 449
   event_type: speakers_corner
-  zoom_meeting_id: 87027305142
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZMtde6rrj4rHtaOi4PNaemNZBP0QwiNsoJD
+  youtube_id: idZzRNSkb34
 - speaker_name: David Goldhaber-Gordon
   speaker_affiliation: Stanford University
   title: Can a solid-state quantum simulator help us understand materials?
