@@ -38,9 +38,7 @@ Video not available yet.
 ### Fractional Chern Insulators Revealed using a Scanning Single Electron Transistor
 **by Amir Yacoby**
 
-Video not available yet.
-
-<!-- <iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/08ee6Y5I3-E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/08ee6Y5I3-E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Nematic superconductivity in twisted bilayer graphene
 **by Dmitry Chichinadze**
