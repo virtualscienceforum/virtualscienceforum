@@ -1356,3 +1356,26 @@
   event_type: speakers_corner
   zoom_meeting_id: 83204090688
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZcvd-2opzssEtyDT0nWlHpbmPL88Thrii1a
+- speaker_name: Bruna Mendonca
+  speaker_affiliation: University of Sao Paulo
+  email: bsmend@usp.br
+  preprint: '2204.05078'
+  title: Can Caroli-de Gennes-Matricon and Majorana vortex states be distinguished
+    in the presence of impurities?
+  abstract: Majorana zero modes states (MZMs) are predicted to appear as bound states
+    in vortices of topological superconductors. MZMs are pinned at zero energy and
+    have zero charge due to particle-hole symmetry. MZMs in vortices of topological
+    superconductors tend to coexist with other subgap states, named Caroli-de Gennes-Matricon
+    (CdGM) states. The distinction between MZMs and CdGM is limited since current
+    experiments rely on zero-bias peak measurements obtained via scanning tunneling
+    spectroscopy. In this work, we show that a local impurity potential can push CdGM
+    states to zero energy. Furthermore, the finite charge in CdGM states can also
+    drop to zero under the same mechanism. We establish, through exploration of the
+    impurity parameter space, that these two phenomena generally happen in consonance.
+    This means that energy and charge shifts in CdGM may be enough to imitate spectroscopic
+    signatures of MZMs.
+  authors: Bruna S. de Mendonça, Antonio L. R. Manesco, Nancy Sandler, Luis G. G.
+    V. Dias da Silva
+  time: 2022-05-04 14:00:00+00:00
+  workflow_issue: 536
+  event_type: speakers_corner
