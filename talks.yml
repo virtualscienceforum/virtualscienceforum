@@ -1381,3 +1381,22 @@
   event_type: speakers_corner
   zoom_meeting_id: 83206559543
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZcvd--tqzIvHteltDwE2tIGzEzPrpafmHxE
+- speaker_name: Stefan Ilić
+  speaker_affiliation: Centro de Fisica de Materiales (CFM-MPC), San Sebastian, Spain
+  email: stefan.ilic@csic.es
+  preprint: '2108.00209'
+  title: Theory of the supercurrent diode effect in Rashba superconductors with arbitrary
+    disorder
+  abstract: We calculate the non-reciprocal critical current and quantify the supercurrent
+    diode effect in Rashba superconductors with arbitrary disorder, using the quasiclassical
+    Eilenberger equation. The non-reciprocity is caused by the helical superconducting
+    state, which appears when both inversion and time-reversal symmetries are broken.
+    In the absence of disorder, we find a very strong diode effect, with the non-reciprocity
+    exceeding 40% at optimal temperatures, magnetic fields and spin-orbit coupling.
+    We establish that the effect persists even in the presence of strong disorder.
+    We show that the sign of the diode effect changes as magnetic field and disorder
+    are increased, reflecting the changes in the nature of the helical state.
+  authors: Stefan Ilić, Sebastian Bergeret
+  time: 2022-05-11 14:00:00+00:00
+  workflow_issue: 537
+  event_type: speakers_corner
