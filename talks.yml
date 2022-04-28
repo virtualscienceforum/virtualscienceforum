@@ -1402,3 +1402,29 @@
   event_type: speakers_corner
   zoom_meeting_id: 87264860873
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZMvce2gqDsiHdda5RzuwLCbkS7-n0bbURHc
+- speaker_name: Bomin Zhang
+  speaker_affiliation: University of Pittsburgh
+  email: boz15@pitt.edu
+  preprint: Not submitted yet
+  title: Superconducting diode effect in InSb nanowires Josephson junctions
+  abstract: We study Josephson Junction in InSb nanowires that are half-covered with
+    15nm Tin shell, and observe critical current diffraction patterns skewed that
+    indicate break of inversion-symmetry in the magnetic field and bias direction.
+    We study this effect in 3D vector fields and show such it is stronger when the
+    external magnetic field is aligned perpendicular to the nanowire, in the substrate
+    plane, which is known as the direction of the effective Rashba spin-orbit (SO)
+    field in the junction. We discuss this effect in the context of phi0-Josephson
+    junction physics, one consequence of which is known in recent literature as the
+    'superconducting diode effect'. We perform numerical simulations with a tight-bonding
+    model to understand our findings. Current-phase relation derived from simulation
+    indicates the phase of the ground state is offset by $\phi_{0}$, different from
+    0 and pi when an external field is applied along the axis of the SO field. This
+    finding helps to understand the 'superconducting diode effect' in a 1D hybrid
+    nanowire system.
+  authors: Bomin Zhang, Zhuang Li, Victor Aguilar, Po Zhang, Mihir Pendharkar, Connor
+    Dempsey, Joon Sue Lue, Sean Harrington, Ghada Badawy, Sasa Gazibegovic, Jason
+    Jung, An-Hsi Chen, Susheng Tan, Marcel Verheijen, Moira Hocevar, Erik Bakkers,
+    Chris Palmstrøm, Sergey Frolov
+  time: 2022-05-10 14:00:00+00:00
+  workflow_issue: 539
+  event_type: speakers_corner
