@@ -75,10 +75,10 @@ We will include the satellite talks in this workshop webpage.
 
 ### Submitted Satellite Talks
 
-* May 10 10:00 ET - Bomin Zhang (University of Pittsburgh) <br/>
+* <time data-format="H:mm" datetime="2022-05-10T14:00:00+00:00">May 10 14:00</time> - Bomin Zhang (University of Pittsburgh) <br/>
   Superconducting diode effect in InSb nanowires Josephson junctions <br/>
   [Speakers' Corner link](https://virtualscienceforum.org/speakers-corner/#superconducting-diode-effect-in-insb-nanowires-josephson-junctions)
-*  May 11 10:00 ET - Stefan Ilić (Centro de Fisica de Materiales (CFM-MPC), San Sebastian, Spain) <br/>
+* <time data-format="H:mm" datetime="2022-05-11T14:00:00+00:00">May 11 14:00</time> - Stefan Ilić (Centro de Fisica de Materiales (CFM-MPC), San Sebastian, Spain) <br/>
   Theory of the supercurrent diode effect in Rashba superconductors with arbitrary disorder <br/>
   Preprint: [arXiv:2108.00209](https://arxiv.org/abs/2108.00209) <br/>
   [Speakers' Corner link](https://virtualscienceforum.org/speakers-corner/#theory-of-the-supercurrent-diode-effect-in-rashba-superconductors-with-arbitrary-disorder)
