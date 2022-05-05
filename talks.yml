@@ -1358,7 +1358,6 @@
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZcvd-2opzssEtyDT0nWlHpbmPL88Thrii1a
 - speaker_name: Bruna Mendonca
   speaker_affiliation: University of Sao Paulo
-  email: bsmend@usp.br
   preprint: '2204.05078'
   title: Can Caroli-de Gennes-Matricon and Majorana vortex states be distinguished
     in the presence of impurities?
@@ -1379,8 +1378,7 @@
   time: 2022-05-04 14:00:00+00:00
   workflow_issue: 536
   event_type: speakers_corner
-  zoom_meeting_id: 83206559543
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZcvd--tqzIvHteltDwE2tIGzEzPrpafmHxE
+  youtube_id: WE_sxbXYdYM
 - speaker_name: Stefan Ilić
   speaker_affiliation: Centro de Fisica de Materiales (CFM-MPC), San Sebastian, Spain
   email: stefan.ilic@csic.es
@@ -1407,17 +1405,16 @@
   email: boz15@pitt.edu
   preprint: Not submitted yet
   title: Superconducting diode effect in InSb nanowires Josephson junctions
-  abstract: We study Josephson Junction in InSb nanowires with 15nm Tin shells.
-    We observe critical current diffraction patterns skewed and
-    inversion-symmetric in the magnetic field and bias direction. The effect is
-    stronger when the external magnetic field is aligned perpendicular to the
-    nanowire, in the substrate plane. i.e. in the most likely direction of the
-    effective spin-orbit field in the junction. The effect is also tunable by the
-    gate voltage. We discuss this effect in the context of phi0-Josephson junction
-    physics, one consequence of which is known in recent literature as the
-    superconducting diode effect. We consider alternative explanations such as the
-    effective magnetic field and perform numerical simulations to understand our
-    findings.
+  abstract: We study Josephson Junction in InSb nanowires with 15nm Tin shells. We
+    observe critical current diffraction patterns skewed and inversion-symmetric in
+    the magnetic field and bias direction. The effect is stronger when the external
+    magnetic field is aligned perpendicular to the nanowire, in the substrate plane.
+    i.e. in the most likely direction of the effective spin-orbit field in the junction.
+    The effect is also tunable by the gate voltage. We discuss this effect in the
+    context of phi0-Josephson junction physics, one consequence of which is known
+    in recent literature as the superconducting diode effect. We consider alternative
+    explanations such as the effective magnetic field and perform numerical simulations
+    to understand our findings.
   authors: Bomin Zhang, Zhuang Li, Victor Aguilar, Po Zhang, Mihir Pendharkar, Connor
     Dempsey, Joon Sue Lue, Sean Harrington, Ghada Badawy, Sasa Gazibegovic, Jason
     Jung, An-Hsi Chen, Susheng Tan, Marcel Verheijen, Moira Hocevar, Erik Bakkers,
