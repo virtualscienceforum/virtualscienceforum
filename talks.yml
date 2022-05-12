@@ -1381,7 +1381,6 @@
   youtube_id: WE_sxbXYdYM
 - speaker_name: Stefan Ilić
   speaker_affiliation: Centro de Fisica de Materiales (CFM-MPC), San Sebastian, Spain
-  email: stefan.ilic@csic.es
   preprint: '2108.00209'
   title: Theory of the supercurrent diode effect in Rashba superconductors with arbitrary
     disorder
@@ -1398,8 +1397,7 @@
   time: 2022-05-11 14:00:00+00:00
   workflow_issue: 537
   event_type: speakers_corner
-  zoom_meeting_id: 87264860873
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZMvce2gqDsiHdda5RzuwLCbkS7-n0bbURHc
+  youtube_id: 2brfaawCliU
 - speaker_name: Bomin Zhang
   speaker_affiliation: University of Pittsburgh
   email: boz15@pitt.edu
