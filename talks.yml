@@ -1420,3 +1420,26 @@
   workflow_issue: 539
   event_type: speakers_corner
   youtube_id: ybJvtvxyxnE
+- speaker_name: Rubén Seoane Souto
+  speaker_affiliation: Center for Quantum Devices, Niels Bohr Institute, University
+    of Copenhagen, 2100 Copenhagen, Denmark Division of Solid State Physics and NanoLund,
+    Lund University, S-22100 Lund, Sweden
+  email: ruben.seoane_souto@ftf.lth.se
+  preprint: '2205.04469'
+  title: The Josephson diode effect in supercurrent interferometers
+  abstract: A Josephson diode is a non-reciprocal circuit element that supports a
+    larger dissipationless super-current in one direction than in the other. In this
+    work, we propose and theoretically study a class of Josephson diodes based on
+    supercurrent interferometers containing mesoscopic Josephson junctions, such as
+    point contacts or quantum dots, which are not diodes themselves but possess non-sinusoidal
+    current-phase relations. We show that such Josephson diodes have several important
+    advantages, like being electrically tunable and requiring neither Zeeman splitting
+    nor spin-orbit coupling, only time-reversal breaking by a magnetic flux. We also
+    show that our diodes have a characteristic AC response, revealed by the Shapiro
+    steps. Even the simplest realization of our Josephson diode paradigm that relies
+    on only two junctions can achieve efficiencies of up to ∼ 40% and far greater
+    efficiencies are achievable by concatenating multiple interferometer loops.
+  authors: Rubén Seoane Souto, Martin Leijnse, and Constantin Schrade
+  time: 2022-05-17 14:00:00+00:00
+  workflow_issue: 545
+  event_type: speakers_corner
