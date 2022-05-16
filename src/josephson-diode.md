@@ -74,22 +74,22 @@ Then you may either:
 We will include the satellite talks in this workshop webpage.
 
 ### Submitted Satellite Talks
-
-* <time data-format="MMMM D H:mm" datetime="2022-05-10T14:00:00+00:00">May 10 14:00</time> - Bomin Zhang (University of Pittsburgh) <br/>
-  Superconducting diode effect in InSb nanowires Josephson junctions <br/>
-  [Speakers' Corner video recording](https://virtualscienceforum.org/speakers-corner/#superconducting-diode-effect-in-insb-nanowires-josephson-junctions)
-* <time data-format="MMMM D H:mm" datetime="2022-05-11T14:00:00+00:00">May 11 14:00</time> - Stefan Ilić (Centro de Fisica de Materiales (CFM-MPC), San Sebastian, Spain) <br/>
-  Theory of the supercurrent diode effect in Rashba superconductors with arbitrary disorder <br/>
-  Preprint: [arXiv:2108.00209](https://arxiv.org/abs/2108.00209) <br/>
-  [Speakers' Corner video recording](https://virtualscienceforum.org/speakers-corner/#theory-of-the-supercurrent-diode-effect-in-rashba-superconductors-with-arbitrary-disorder)
+#### Upcoming
 * <time data-format="MMMM D H:mm" datetime="2022-05-17T14:00:00+00:00">May 17 14:00</time> - Rubén Seoane Souto (Center for Quantum Devices, Niels Bohr Institute, Copenhagen, Denmark) <br/>
   The Josephson diode effect in supercurrent interferometers
   Preprint: [arXiv:2205.04469](https://arxiv.org/abs/2205.04469) <br/>
   [Speakers' Corner link](https://virtualscienceforum.org/speakers-corner/#the-josephson-diode-effect-in-supercurrent-interferometers)
 
-  
-  
-  
+#### Recorded
+
+* <time data-format="MMMM D H:mm" datetime="2022-05-10T14:00:00+00:00">May 10 14:00</time> - Bomin Zhang (University of Pittsburgh) <br/>
+  Superconducting diode effect in InSb nanowires Josephson junctions <br/>
+  <iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/ybJvtvxyxnE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* <time data-format="MMMM D H:mm" datetime="2022-05-11T14:00:00+00:00">May 11 14:00</time> - Stefan Ilić (Centro de Fisica de Materiales (CFM-MPC), San Sebastian, Spain) <br/>
+  Theory of the supercurrent diode effect in Rashba superconductors with arbitrary disorder <br/>
+  Preprint: [arXiv:2108.00209](https://arxiv.org/abs/2108.00209) <br/>
+  <iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/2brfaawCliU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Organizers
 
 * [Mazhar N. Ali, TU Delft](https://www.linkedin.com/in/profmaz/)
