@@ -1424,7 +1424,6 @@
   speaker_affiliation: Center for Quantum Devices, Niels Bohr Institute, University
     of Copenhagen, 2100 Copenhagen, Denmark Division of Solid State Physics and NanoLund,
     Lund University, S-22100 Lund, Sweden
-  email: ruben.seoane_souto@ftf.lth.se
   preprint: '2205.04469'
   title: The Josephson diode effect in supercurrent interferometers
   abstract: A Josephson diode is a non-reciprocal circuit element that supports a
@@ -1443,8 +1442,7 @@
   time: 2022-05-17 14:00:00+00:00
   workflow_issue: 545
   event_type: speakers_corner
-  zoom_meeting_id: 85636736158
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZErdO-vrT0rH9wmrBcQU4g-9OTjEW6Ym5De
+  youtube_id: aHUUxavG-N0
 - speaker_name: André Melo
   speaker_affiliation: Kavli Institute of Nanoscience, Delft University of Technology
   email: am@andremelo.org
