@@ -22,7 +22,7 @@
     <div id='checkboxes'>
         <ul id='checkboxes' style='list-style:none'>
           <li> <input type='checkbox' name='instructions-checkbox' value='confirm-instructions' required> Please confirm you have read the <a href='http://virtualscienceforum.org/#/attendeeguide'>participant instructions*</a> </li>
-          <li> <input type='checkbox' name='contact-checkbox' value='confirm-contact' checked> Please check this box if we may contact you about future VSF events </li>
+          <li> <input type='checkbox' name='contact-checkbox' value='confirm-contact'> Please check this box if we may contact you about future VSF events </li>
         </ul>
     </div>
     <input type='hidden' name='eventType' id='eventType-{{talk.zoom_meeting_id}}' value='{{talk.event_type}}' required>
