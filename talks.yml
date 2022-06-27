@@ -1445,7 +1445,6 @@
   youtube_id: aHUUxavG-N0
 - speaker_name: André Melo
   speaker_affiliation: Kavli Institute of Nanoscience, Delft University of Technology
-  email: am@andremelo.org
   preprint: '2205.05689'
   title: Greedy optimization of the geometry of Majorana Josephson junctions
   abstract: Josephson junctions in a two-dimensional electron gas with spin-orbit
@@ -1467,5 +1466,4 @@
   time: 2022-06-16 15:00:00+00:00
   workflow_issue: 551
   event_type: speakers_corner
-  zoom_meeting_id: 81392127137
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZUufuuprDwrGdNI4EZs92WAPFtDpICVVuEE
+  youtube_id: rROGiSYX4d4
