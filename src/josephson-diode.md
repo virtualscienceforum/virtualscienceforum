@@ -23,42 +23,55 @@ Published work associated to each speaker is linked. Links point to arXiv whenev
 **<time data-format="MMMM D" datetime="2022-05-18T14:00:00+00:00">May 18</time>**
 
 - <time data-format="H:mm" datetime="2022-05-18T14:30:00+00:00">14:30</time> Welcome by Valla Fatemi
-- <time data-format="H:mm" datetime="2022-05-18T14:35:00+00:00">14:35</time> Mazhar Ali, TU Delft - Introduction to the field
+- <time data-format="H:mm" datetime="2022-05-18T14:35:00+00:00">14:35</time> Mazhar Ali, TU Delft - Introduction to the field  <br/>
+  <iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/ndhvA7RVBP4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - <time data-format="H:mm" datetime="2022-05-18T15:00:00+00:00">15:00</time> Teruo Ono, Kyoto University <br/>
-  [Observation of superconducting diode effect](https://www.nature.com/articles/s41586-020-2590-4)
+  [Observation of superconducting diode effect](https://www.nature.com/articles/s41586-020-2590-4)  <br/>
+  <iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/xa29ZKuoKhU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br/>
 - <time data-format="H:mm" datetime="2022-05-18T15:55:00+00:00">15:45</time> Akito Daido, Kyoto University <br/>
-  [Intrinsic Superconducting Diode Effect](https://arxiv.org/abs/2106.03326)
+  [Intrinsic Superconducting Diode Effect](https://arxiv.org/abs/2106.03326)  <br/>
+  <iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/aEKbTaRg_EI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - <time data-format="H:mm" datetime="2022-05-18T16:30:00+00:00">16:30</time> break
 - <time data-format="H:mm" datetime="2022-05-18T16:45:00+00:00">16:45</time> Kun Jiang, CAS Beijing <br/>
-  [General theory of Josephson Diodes](https://arxiv.org/abs/2112.08901v2)
+  [General theory of Josephson Diodes](https://arxiv.org/abs/2112.08901v2)  <br/>
+  <iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/m-pghCDy_jo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - <time data-format="H:mm" datetime="2022-05-18T17:30:00+00:00">17:30</time> Heng Wu, TU Delft <br/>
-  [Realization of the field-free Josephson Diode](https://arxiv.org/abs/2103.15809)
+  [Realization of the field-free Josephson Diode](https://arxiv.org/abs/2103.15809)  <br/>
+  <iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/8UYZj3bSL0Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - <time data-format="H:mm" datetime="2022-05-18T18:15:00+00:00">18:15</time> Denis Kochan, University of Regensburg <br/>
   [Supercurrent rectification and magnetochiral effects in symmetric Josephson junctions](https://www.nature.com/articles/s41565%E2%80%90021%E2%80%9001009%E2%80%909)<br/>
-- <time data-format="H:mm" datetime="2022-05-18T19:00:00+00:00">19:00</time> Informal discussion until <time data-format="H:mm" datetime="2022-05-18T20:00:00+00:00">20:00</time> <br/>
+  <iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/NjzmuYUTqCY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- <time data-format="H:mm" datetime="2022-05-18T19:00:00+00:00">19:00</time> Informal discussion until <time data-format="H:mm" datetime="2022-05-18T20:00:00+00:00">20:00</time><br/>
+  <iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/AjQ-vMWUBkc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **<time data-format="MMMM D" datetime="2022-05-19T14:00:00+00:00">May 19</time>**
 
 - <time data-format="H:mm" datetime="2022-05-19T14:30:00+00:00">14:30</time> Welcome by Heng Wu
 - <time data-format="H:mm" datetime="2022-05-19T14:35:00+00:00">14:35</time> Naoto Nagaosa, Riken <br/>
   [A phenomenological theory of superconductor diodes](https://arxiv.org/abs/2106.03575v4)
-  [Theory of nonreciprocal Josephson effect](https://arxiv.org/abs/2002.06458)
+  [Theory of nonreciprocal Josephson effect](https://arxiv.org/abs/2002.06458)<br/>
+  <iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/Y8-Xy0wNqXI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - <time data-format="H:mm" datetime="2022-05-19T15:20:00+00:00">15:20</time> Nicola Paradiso, Regensburg University <br/>
   [Effect of Rashba and Dresselhaus spin-orbit coupling on supercurrent rectification and magnetochiral anisotropy of ballistic Josephson junctions](https://arxiv.org/abs/2111.13983)<br/>
   [Supercurrent rectification and magnetochiral effects in symmetric Josephson junctions](https://www.nature.com/articles/s41565%E2%80%90021%E2%80%9001009%E2%80%909)<br/>
-  [Supercurrent diode effect and magnetochiral anisotropy in few-layer NbSe2 nanowires](https://arxiv.org/abs/2110.15752)
+  [Supercurrent diode effect and magnetochiral anisotropy in few-layer NbSe2 nanowires](https://arxiv.org/abs/2110.15752)<br/>
+  <iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/uDlMoubA-CA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - <time data-format="H:mm" datetime="2022-05-19T16:05:00+00:00">16:05</time> Dmitri Efetov, ICFO Barcelona <br/>
-  [Magnetic Josephson Junctions and Superconducting Diodes in Magic Angle Twisted Bilayer Graphene](https://arxiv.org/abs/2110.01067)
+  [Magnetic Josephson Junctions and Superconducting Diodes in Magic Angle Twisted Bilayer Graphene](https://arxiv.org/abs/2110.01067)<br/>
+  <iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/YJ0rMefvNQc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - <time data-format="H:mm" datetime="2022-05-19T16:50:00+00:00">16:50</time> break
 - <time data-format="H:mm" datetime="2022-05-19T17:05:00+00:00">17:05</time> Liang Fu, MIT <br/>
   [Supercurrent diode effect and finite momentum superconductivity](https://arxiv.org/abs/2106.01909v3)<br/>
-  [Universal Josephson diode effect](https://arxiv.org/abs/2201.00831)
+  [Universal Josephson diode effect](https://arxiv.org/abs/2201.00831)<br/>
+  <iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/YJ0rMefvNQc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - <time data-format="H:mm" datetime="2022-05-19T17:50:00+00:00">17:50</time> Jiang-Xiazi Lin, Brown University <br/>
-  [Zero-field superconducting diode effect in small-twist-angle trilayer graphene](https://arxiv.org/abs/2112.07841v2)
+  [Zero-field superconducting diode effect in small-twist-angle trilayer graphene](https://arxiv.org/abs/2112.07841v2)<br/>
+  <iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/aH8LmwTwOTw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - <time data-format="H:mm" datetime="2022-05-19T18:35:00+00:00">18:35</time> Mathias Scheurer, University of Innsbruck <br/>
-  [Theory of zero-field diode effect in twisted trilayer graphene](https://arxiv.org/abs/2112.09115v1)
+  [Theory of zero-field diode effect in twisted trilayer graphene](https://arxiv.org/abs/2112.09115v1)<br/>
+  <iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/ru_xu8AmlpQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - <time data-format="H:mm" datetime="2022-05-19T19:20:00+00:00">19:20</time> Informal discussion until <time data-format="H:mm" datetime="2022-05-19T20:00:00+00:00">20:00</time><br/>
-
+  <iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/GNrBMw9BOto" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Satellite talks
 
@@ -74,14 +87,11 @@ Then you may either:
 We will include the satellite talks in this workshop webpage.
 
 ### Submitted Satellite Talks
-#### Upcoming
+
 * <time data-format="MMMM D H:mm" datetime="2022-05-17T14:00:00+00:00">May 17 14:00</time> - Rubén Seoane Souto (Center for Quantum Devices, Niels Bohr Institute, Copenhagen, Denmark) <br/>
   The Josephson diode effect in supercurrent interferometers
   Preprint: [arXiv:2205.04469](https://arxiv.org/abs/2205.04469) <br/>
-  [Speakers' Corner link](https://virtualscienceforum.org/speakers-corner/#the-josephson-diode-effect-in-supercurrent-interferometers)
-
-#### Recorded
-
+    <iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/aHUUxavG-N0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * <time data-format="MMMM D H:mm" datetime="2022-05-10T14:00:00+00:00">May 10 14:00</time> - Bomin Zhang (University of Pittsburgh) <br/>
   Superconducting diode effect in InSb nanowires Josephson junctions <br/>
   <iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/ybJvtvxyxnE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
