@@ -6,7 +6,6 @@ hide:
 Join directly:
 
 [Speakers' Corner](speakers-corner.md){ .md-button }
-[Superconducting diode effects workshop](josephson-diode.md){ .md-button }
 
 ## Welcome
 
@@ -25,6 +24,7 @@ We offer beginning-to-end support for organizing an academic event of your own:
 Check out the [organizer guide](organizerguide.md) to see what it takes. We have hosted workshops, tutorials, and seminar series. We prioritize upholding a safe, accessible, inclusive and equitable online environment for all across the spectrum of identities and lived experiences. We encourage participation, either as speakers, organizers or audience, of all members of the scientific community.
 
 ### Previous Events
+* [Superconducting diode effects workshop](josephson-diode.md)
 * [Workshop on unconventional superconductivity](unconventional-superconductivity.md)
 * [Long Range Colloquium-2021](long_range_colloquium-2021.md)
 * [ARQH workshop](arqh.md)
