@@ -6,6 +6,7 @@ hide:
 Join directly:
 
 [Speakers' Corner](speakers-corner.md){ .md-button }
+[Floquet Summer School](floquet-school.md){ .md-button }
 
 ## Welcome
 
