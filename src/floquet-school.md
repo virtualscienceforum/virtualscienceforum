@@ -6,7 +6,7 @@ hide: [navigation]
 {% from 'registration.md' import registration_form %}
 # Floquet Summer School
 **<time data-format="MMMM D" datetime="2022-09-13T14:00:00+00:00">September 13</time> and <time data-format="D" datetime="2022-09-14T14:00:00+00:00">14</time> from <time data-format="H:mm" datetime="2022-09-13T14:00:00+00:00">14:00</time> to <time data-format="H:mm" datetime="2022-09-13T17:10:00+00:00">17:10</time>**  
-**<time data-format="MMMM D" datetime="2022-09-20T15:00:00+00:00">September 20</time>, <time data-format="D" datetime="2022-09-21T15:00:00+00:00">21</time>, <time data-format="D" datetime="2022-09-14T15:00:00+00:00">22</time> from <time data-format="H:mm" datetime="2022-09-13T15:00:00+00:00">14:00</time> to <time data-format="H:mm" datetime="2022-09-13T17:00:00+00:00">17:00</time>**  
+**<time data-format="MMMM D" datetime="2022-09-20T15:00:00+00:00">September 20</time>, <time data-format="D" datetime="2022-09-21T15:00:00+00:00">21</time>, <time data-format="D" datetime="2022-09-22T15:00:00+00:00">22</time> from <time data-format="H:mm" datetime="2022-09-20T15:00:00+00:00">14:00</time> to <time data-format="H:mm" datetime="2022-09-20T17:00:00+00:00">17:00</time>**  
 (all times are in <span class="timezone">UTC</span> timezone)
 
 ![school logo](media/floquet_school_logo.png){ width="600" }
@@ -32,8 +32,8 @@ The Floquet Summer School will bring together leading researchers in the field o
 
 |           |   Sep 20 (Tuesday)  |  Sep 21 (Wednesday) | Sep 22 (Thursday) |
 |-----------|:-------------------|:-------------------|:-----------------|
-| <time data-format="H:mm" datetime="2022-09-13T15:00:00+00:00">15:00</time> | Anushya Chandran    | Anushya Chandran    | Mikael Rechtsman  |
-| <time data-format="H:mm" datetime="2022-09-13T16:00:00+00:00">16:00</time> | Monika Aidelsburger | Monika Aidelsburger | Mikael Rechtsman  |
+| <time data-format="H:mm" datetime="2022-09-20T15:00:00+00:00">15:00</time> | Anushya Chandran    | Anushya Chandran    | Mikael Rechtsman  |
+| <time data-format="H:mm" datetime="2022-09-20T16:00:00+00:00">16:00</time> | Monika Aidelsburger | Monika Aidelsburger | Mikael Rechtsman  |
 
 
 ### List of lectures:
