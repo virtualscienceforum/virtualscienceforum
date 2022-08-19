@@ -6,14 +6,11 @@ hide:
 ---
 {% from 'registration.md' import registration_form %}
 # Floquet Summer School
+**<time data-format="MMMM D" datetime="2022-09-13T14:00:00+00:00">September 13</time> and <time data-format="D" datetime="2022-09-14T14:00:00+00:00">14</time> from <time data-format="H:mm" datetime="2022-09-13T14:00:00+00:00">14:00</time> to <time data-format="H:mm" datetime="2022-09-13T17:10:00+00:00">17:10</time>**  
+**<time data-format="MMMM D" datetime="2022-09-20T15:00:00+00:00">September 20</time>, <time data-format="D" datetime="2022-09-21T15:00:00+00:00">21</time>, <time data-format="D" datetime="2022-09-14T15:00:00+00:00">22</time> from <time data-format="H:mm" datetime="2022-09-13T15:00:00+00:00">14:00</time> to <time data-format="H:mm" datetime="2022-09-13T17:00:00+00:00">17:00</time>**  
+(all times are in <span class="timezone">UTC</span> timezone)
 
-**September 13 and 14 from 14:00 to 17:10 GMT**
-**and September 20, 21 and 22 from 15:00 to 17:00 GMT**
-
-<!--- **<time data-format="MMMM D H:mm" datetime="2022-05-18T14:30:00+00:00">XXXXX</time>–<time data-format="H:mm" datetime="2022-05-18T20:00:00+00:00">22:00</time>, <time data-format="MMMM D H:mm" datetime="2022-05-19T14:30:00+00:00">May 19 14:30</time>–<time data-format="H:mm" datetime="2022-05-19T20:00:00+00:00">22:00</time>** (all times are in <span class="timezone">CET</span> timezone)
--->
-
-![school logo](https://lab.sentef.org/wp-content/uploads/2021/03/PtW_McIver_RMP_Col_Fig1_build_18_0001-1024x683.png){ width="600" }
+![school logo](media/floquet_school_logo.png){ width="600" }
 
 The Floquet Summer School will bring together leading researchers in the field of Floquet quantum systems to provide introductory lectures aimed at graduate students working in the field or interested in learning about it. The lectures will take place online via Zoom.
 
@@ -24,20 +21,20 @@ The Floquet Summer School will bring together leading researchers in the field o
 ### Week 1:
 
 |           | Sep 13 (Tuesday) |       Sep 14 (Wednesday)      |
-|-----------|:----------------:|:-----------------------------:|
-| 13:55 GMT | Opening and welcome  |                               |
-| 14:00 GMT | Takashi Oka          | Takashi Oka                   |
-| 15:00 GMT | Mark Rudner          | Mark Rudner                   |
+|-----------|:----------------|:-----------------------------|
+| <time data-format="H:mm" datetime="2022-09-13T13:55:00+00:00">13:55</time> | Opening and welcome  |                               |
+| <time data-format="H:mm" datetime="2022-09-13T14:00:00+00:00">14:00</time> | Takashi Oka          | Takashi Oka                   |
+| <time data-format="H:mm" datetime="2022-09-13T15:00:00+00:00">15:00</time> | Mark Rudner          | Mark Rudner                   |
 |           | break (10')          | break (10')                   |
-| 16:10 GMT | Xavier Waintal       | Xavier Waintal / Thomas Kloss |
+| <time data-format="H:mm" datetime="2022-09-13T16:10:00+00:00">16:10</time> | Xavier Waintal       | Xavier Waintal / Thomas Kloss |
 
 
 ### Week 2:
 
 |           |   Sep 20 (Tuesday)  |  Sep 21 (Wednesday) | Sep 22 (Thursday) |
-|-----------|:-------------------:|:-------------------:|:-----------------:|
-| 15:00 GMT | Anushya Chandran    | Anushya Chandran    | Mikael Rechtsman  |
-| 16:00 GMT | Monika Aidelsburger | Monika Aidelsburger | Mikael Rechtsman  |
+|-----------|:-------------------|:-------------------|:-----------------|
+| <time data-format="H:mm" datetime="2022-09-13T15:00:00+00:00">15:00</time> | Anushya Chandran    | Anushya Chandran    | Mikael Rechtsman  |
+| <time data-format="H:mm" datetime="2022-09-13T16:00:00+00:00">16:00</time> | Monika Aidelsburger | Monika Aidelsburger | Mikael Rechtsman  |
 
 
 ### List of lectures:
