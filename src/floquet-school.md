@@ -1,17 +1,19 @@
 ---
 title: Floquet Summer School
-description:  # Add a longer description here
+description: A school for researchers interested in Floquet quantum systems
 hide:
   - navigation
 ---
 {% from 'registration.md' import registration_form %}
 # Floquet Summer School
-<!-- use the time  -->
-**<time data-format="MMMM D H:mm" datetime="2022-05-18T14:30:00+00:00">XXXXX</time>–<time data-format="H:mm" datetime="2022-05-18T20:00:00+00:00">22:00</time>, <time data-format="MMMM D H:mm" datetime="2022-05-19T14:30:00+00:00">May 19 14:30</time>–<time data-format="H:mm" datetime="2022-05-19T20:00:00+00:00">22:00</time>** (all times are in <span class="timezone">CET</span> timezone)
 
+**September 13 and 14 from 14:00 to 17:10 GMT**
+**and September 20, 21 and 22 from 15:00 to 17:00 GMT**
 
-<!-- add the logo to media folder -->
-![school logo](media/logo.png){ width="600" }
+<!--- **<time data-format="MMMM D H:mm" datetime="2022-05-18T14:30:00+00:00">XXXXX</time>–<time data-format="H:mm" datetime="2022-05-18T20:00:00+00:00">22:00</time>, <time data-format="MMMM D H:mm" datetime="2022-05-19T14:30:00+00:00">May 19 14:30</time>–<time data-format="H:mm" datetime="2022-05-19T20:00:00+00:00">22:00</time>** (all times are in <span class="timezone">CET</span> timezone)
+-->
+
+![school logo](https://lab.sentef.org/wp-content/uploads/2021/03/PtW_McIver_RMP_Col_Fig1_build_18_0001-1024x683.png){ width="600" }
 
 The Floquet Summer School will bring together leading researchers in the field of Floquet quantum systems to provide introductory lectures aimed at graduate students working in the field or interested in learning about it. The lectures will take place online via Zoom.
 
@@ -19,13 +21,26 @@ The Floquet Summer School will bring together leading researchers in the field o
 
 ## Program
 
-|           | Sep 13 (Tuesday) |       Sep 14 (Wednesday)      |   Sep 20 (Tuesday)  |  Sep 21 (Wednesday) | Sep 22 (Thursday) |
-|-----------|:----------------:|:-----------------------------:|:-------------------:|:-------------------:|:-----------------:|
-| 14:00 GMT | Takashi Oka      | Takashi Oka                   |                     |                     |                   |
-| 15:00 GMT | Mark Rudner      | Mark Rudner                   | Anushya Chandran    | Anushya Chandran    | Mikael Rechtsman  |
-| 16:00 GMT | Xavier Waintal   | Xavier Waintal / Thomas Kloss | Monika Aidelsburger | Monika Aidelsburger | Mikael Rechtsman  |
+### Week 1:
 
-List of lectures:
+|           | Sep 13 (Tuesday) |       Sep 14 (Wednesday)      |
+|-----------|:----------------:|:-----------------------------:|
+| 13:55 GMT | Opening and welcome  |                               |
+| 14:00 GMT | Takashi Oka          | Takashi Oka                   |
+| 15:00 GMT | Mark Rudner          | Mark Rudner                   |
+|           | break (10')          | break (10')                   |
+| 16:10 GMT | Xavier Waintal       | Xavier Waintal / Thomas Kloss |
+
+
+### Week 2:
+
+|           |   Sep 20 (Tuesday)  |  Sep 21 (Wednesday) | Sep 22 (Thursday) |
+|-----------|:-------------------:|:-------------------:|:-----------------:|
+| 15:00 GMT | Anushya Chandran    | Anushya Chandran    | Mikael Rechtsman  |
+| 16:00 GMT | Monika Aidelsburger | Monika Aidelsburger | Mikael Rechtsman  |
+
+
+### List of lectures:
 
 ??? summary "Basics of Floquet engineering of quantum materials *by Takashi Oka*"
 
@@ -88,10 +103,16 @@ List of lectures:
 
     The breaking of time-reversal symmetry is a particular challenge for photons, since as uncharged particles they do not naturally respond to external magnetic fields.  As a result, driving photonic systems periodically has been used as a natural means to realize photonic Chern insulators and their associated scatter-free chiral edge states.  Here, I will provide an overview of Floquet topological photonic systems, including the first realization of topological states of light.  I will then move on to talk about the interplay of topology, driving, and interactions/nonlinearity, and how together these can be more than the sum of their parts.  Finally, I will talk about unique device applications of topological photonic devices that go beyond standard analogies between condensed matter and photonic crystals.
 
+## Registration
+
+If the registration form below doesn't work, please register [here](https://virtualscienceforum-org.zoom.us/meeting/register/tZwsceuoqDwiHtQBJtQyHNW8D3qSAX2ri1Nm).
+
+{{ registration_form({"zoom_meeting_id": "88162067840", "event_type": "lrc", }) }}
+
 ## Organizers
 
-* Michael Sentef
-* Babak Seradjeh
-* Luis E. F. Foà Torres
+* [Michael Sentef](https://lab.sentef.org/michael-sentef/)
+* [Babak Seradjeh](https://qdyn.physics.indiana.edu/)
+* [Luis E. F. Foà Torres](https://www.foatorres.com/)
 
 If you have any questions, you may reach us via [FloquetSchool@virtualscienceforum.org](mailto:FloquetSchool@virtualscienceforum.org)
