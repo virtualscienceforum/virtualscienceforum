@@ -1,8 +1,7 @@
 ---
 title: Floquet Summer School
 description: A school for researchers interested in Floquet quantum systems
-hide:
-  - navigation
+hide: [navigation]
 ---
 {% from 'registration.md' import registration_form %}
 # Floquet Summer School
