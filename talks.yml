@@ -1467,24 +1467,3 @@
   workflow_issue: 551
   event_type: speakers_corner
   youtube_id: rROGiSYX4d4
-- speaker_name: Antonio Manesco
-  speaker_affiliation: Delft University of Technology
-  email: am@antoniomanesco.org
-  preprint: '2206.07333'
-  title: Spatial separation of spin currents in transition metal dichalcogenides
-  abstract: We theoretically predict spatial separation of spin-polarized ballistic
-    currents in transition metal dichalcogenides (TMDs) due to trigonal warping. We
-    quantify the effect in terms of spin polarization of charge carrier currents in
-    a prototypical 3-terminal ballistic device where spin-up and spin-down charge
-    carriers exit different leads. We show that the magnitude of the current spin
-    polarization depends strongly on the charge carrier energy and the direction with
-    respect to crystallographic orientations in the device. We study the (negative)
-    effect of lattice imperfections and disorder on the observed spin polarization.
-    Our investigation provides an avenue towards observing spin discrimination in
-    a defect-free time reversal-invariant material.
-  authors: Antonio L. R. Manesco, Artem Pulkin
-  time: 2022-09-01 15:00:00+00:00
-  workflow_issue: 565
-  event_type: speakers_corner
-  zoom_meeting_id: 83889248870
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZclf-CqqjMiHdSB2YepFi3WqkzQd4CdWhxy
