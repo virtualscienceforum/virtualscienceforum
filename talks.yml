@@ -1467,3 +1467,23 @@
   workflow_issue: 551
   event_type: speakers_corner
   youtube_id: rROGiSYX4d4
+- speaker_name: Yi Huang
+  speaker_affiliation: University of Minnesota
+  email: huan1756@umn.edu
+  preprint: '2201.11652'
+  title: What is the relation between activation energy and band gap in a 2D insulator?
+  abstract: What can one actually tell about the band gap from the activation energy
+    for conductivity in a 2D material? At first glance, it seems like the activation
+    energy should be equal to half the band gap if the Fermi level is in the middle
+    of the gap. But this simple relation is often strongly violated in experiments,
+    where it is common to observe a much smaller activation energy. In this talk,
+    we will review some examples of relevant experiments in topological insulators,
+    bilayer graphene, and Mott insulators in twisted moiré bilayers. We will show
+    theoretically how disorder, even when present at a very low level, almost inevitably
+    lowers the activation energy to a nonuniversal value that is parametrically smaller
+    than the band gap. We will further show how a sufficiently large disorder can
+    produce an apparent insulator-to-metal transition.
+  authors: Yi Huang, Brian Skinner, Boris Shklovskii
+  time: 2022-09-12 16:00:00+00:00
+  workflow_issue: 568
+  event_type: speakers_corner
