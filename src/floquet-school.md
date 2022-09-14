@@ -105,6 +105,9 @@ If the registration form below doesn't work, please register [here](https://virt
 
 {{ registration_form({"zoom_meeting_id": "88162067840", "event_type": "lrc", }) }}
 
+## Recorded Lectures
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLqJ4D_Db7W_oUZsiehNLtNyJTKyYxLaTh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Organizers
 
 * [Michael Sentef](https://lab.sentef.org/michael-sentef/)
