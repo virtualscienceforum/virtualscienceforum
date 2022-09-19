@@ -1469,7 +1469,6 @@
   youtube_id: rROGiSYX4d4
 - speaker_name: Yi Huang
   speaker_affiliation: University of Minnesota
-  email: huan1756@umn.edu
   preprint: '2201.11652'
   title: What is the relation between activation energy and band gap in a 2D insulator?
   abstract: What can one actually tell about the band gap from the activation energy
@@ -1487,8 +1486,7 @@
   time: 2022-09-12 16:00:00+00:00
   workflow_issue: 568
   event_type: speakers_corner
-  zoom_meeting_id: 88986670166
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZwkf--uqTsrHNIdpIFGEslln5RXkchywaA0
+  youtube_id: Nddlzysqqq8
 - speaker_name: Antonio Manesco
   speaker_affiliation: Delft University of Technology
   email: am@antoniomanesco.org
