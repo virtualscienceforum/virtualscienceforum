@@ -1510,3 +1510,24 @@
   event_type: speakers_corner
   zoom_meeting_id: 89869041494
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZ0lceCoqjouE9B-XhSI4UUxy_r2TtxFNILL
+- speaker_name: Isidora Araya Day
+  speaker_affiliation: QuTech, TU Delft
+  email: I.M.ArayaDay@tudelft.nl
+  preprint: '2209.00029'
+  title: Pfaffian invariant identifies magnetic obstructed atomic insulators
+  abstract: We derive a $\mathbb{Z}_4$ topological invariant that extends beyond symmetry
+    eigenvalues and Wilson loops and classifies two-dimensional insulators with a
+    $C_4 \mathcal{T}$ symmetry. To formulate this invariant, we consider an irreducible
+    Brillouin zone and constrain the spectrum of the open Wilson lines that compose
+    its boundary. We fix the gauge ambiguity of the Wilson lines by using the Pfaffian
+    at high symmetry momenta. As a result, we distinguish the four $C_4 \mathcal{T}$-protected
+    atomic insulators, each of which is adiabatically connected to a different atomic
+    limit. We establish the correspondence between the invariant and the obstructed
+    phases by constructing both the atomic limit Hamiltonians and a $C_4 \mathcal{T}$-symmetric
+    model that interpolates between them. The phase diagram shows that $C_4 \mathcal{T}$
+    insulators allow $\pm 1$ and $2$ changes of the invariant, where the latter is
+    overlooked by symmetry indicators.
+  authors: Isidora Araya Day, Anastasiia Varentcova, Daniel Varjas, Anton R. Akhmerov
+  time: 2022-10-03 16:00:00+00:00
+  workflow_issue: 571
+  event_type: speakers_corner
