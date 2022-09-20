@@ -1531,3 +1531,32 @@
   event_type: speakers_corner
   zoom_meeting_id: 81019582702
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZUtduCtpjktGtaGlUwzzLWMIzArUtxC7Wca
+- speaker_name: Wojciech Brzezicki
+  speaker_affiliation: Jagiellonian University, Krakow
+  email: w.brzezicki@uj.edu.pl
+  preprint: '2209.06912'
+  title: Unprotected edge modes in quantum spin Hall insulator candidate materials
+  abstract: The experiments in quantum spin Hall insulator candidate materials, such
+    as HgTe/CdTe and InAs/GaSb heterostructures, indicate that in addition to the
+    topologically protected helical edge modes these multilayer heterostructures may
+    also support additional edge states, which can contribute to the scattering and
+    the transport. We use first-principles calculations to derive an effective tight-binding
+    model for HgTe/CdTe, HgS/CdTe and InAs/GaSb heterostructures, and we show that
+    all these materials support additional edge states which are sensitive to the
+    edge termination. We trace the microscopic origin of these states back to a minimal
+    model supporting flat bands with a nontrivial quantum geometry that gives rise
+    to polarization charges at the edges. We show that the polarization charges transform
+    into the additional edge states when the flat bands are coupled to each other
+    and to the other states to form the Hamiltonian describing the full heterostructure.
+    Interestingly, in the HgTe/CdTe quantum wells the additional edge states are far
+    away from the Fermi level so that they do not contribute to the transport but
+    in the HgS/CdTe and InAs/GaSb heterostructures they appear within the bulk energy
+    gap giving rise to the possibility of multimode edge transport. Finally, we demonstrate
+    that because these additional edge modes are non-topological it is possible to
+    remove them from the bulk energy gap by modifying the edge potential for example
+    with the help of a side gate or chemical doping.
+  authors: Nguyen Minh Nguyen, Giuseppe Cuono, Rajibul Islam, Carmine Autieri, Timo
+    Hyart, Wojciech Brzezicki
+  time: 2022-10-18 15:00:00+00:00
+  workflow_issue: 573
+  event_type: speakers_corner
