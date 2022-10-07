@@ -1510,7 +1510,6 @@
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZ0lceCoqjouE9B-XhSI4UUxy_r2TtxFNILL
 - speaker_name: Isidora Araya Day
   speaker_affiliation: QuTech, TU Delft
-  email: I.M.ArayaDay@tudelft.nl
   preprint: '2209.00029'
   title: Pfaffian invariant identifies magnetic obstructed atomic insulators
   abstract: We derive a $\mathbb{Z}_4$ topological invariant that extends beyond symmetry
@@ -1529,8 +1528,7 @@
   time: 2022-10-03 16:00:00+00:00
   workflow_issue: 571
   event_type: speakers_corner
-  zoom_meeting_id: 81019582702
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZUtduCtpjktGtaGlUwzzLWMIzArUtxC7Wca
+  youtube_id: yALsHQBH9QE
 - speaker_name: Wojciech Brzezicki
   speaker_affiliation: Jagiellonian University, Krakow
   email: w.brzezicki@uj.edu.pl
