@@ -1562,7 +1562,6 @@
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZAscOyprj8oEtbur2p6rxRyzyXvKAVuCTA0
 - speaker_name: Ivan Amelio
   speaker_affiliation: ETH Zurich
-  email: iamelio@phys.ethz.ch
   preprint: '2210.03658'
   title: Polaron spectroscopy of a bilayer excitonic insulator
   abstract: Recent advances in fabrication of two dimensional materials and their
@@ -1582,5 +1581,4 @@
   time: 2022-10-26 15:00:00+00:00
   workflow_issue: 574
   event_type: speakers_corner
-  zoom_meeting_id: 89234343948
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZ0vdO2rqjgjHtxuRKgsueI77odCYPMsFFZJ
+  youtube_id: kbDaZgZ8vGY
