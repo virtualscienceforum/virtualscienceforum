@@ -3,7 +3,6 @@ title: Floquet Summer School
 description: A school for researchers interested in Floquet quantum systems
 hide: [navigation]
 ---
-{% from 'registration.md' import registration_form %}
 # Floquet Summer School
 **<time data-format="MMMM D" datetime="2022-09-13T14:00:00+00:00">September 13</time> and <time data-format="D" datetime="2022-09-14T14:00:00+00:00">14</time> from <time data-format="H:mm" datetime="2022-09-13T14:00:00+00:00">14:00</time> to <time data-format="H:mm" datetime="2022-09-13T17:10:00+00:00">17:10</time>**  
 **<time data-format="MMMM D" datetime="2022-09-20T15:00:00+00:00">September 20</time>, <time data-format="D" datetime="2022-09-21T15:00:00+00:00">21</time>, <time data-format="D" datetime="2022-09-22T15:00:00+00:00">22</time> from <time data-format="H:mm" datetime="2022-09-20T15:00:00+00:00">14:00</time> to <time data-format="H:mm" datetime="2022-09-20T17:00:00+00:00">17:00</time>**  
@@ -98,12 +97,6 @@ The Floquet Summer School will bring together leading researchers in the field o
 ??? summary "Floquet Topological Photonics *by Mikael Rechtsman*"
 
     The breaking of time-reversal symmetry is a particular challenge for photons, since as uncharged particles they do not naturally respond to external magnetic fields.  As a result, driving photonic systems periodically has been used as a natural means to realize photonic Chern insulators and their associated scatter-free chiral edge states.  Here, I will provide an overview of Floquet topological photonic systems, including the first realization of topological states of light.  I will then move on to talk about the interplay of topology, driving, and interactions/nonlinearity, and how together these can be more than the sum of their parts.  Finally, I will talk about unique device applications of topological photonic devices that go beyond standard analogies between condensed matter and photonic crystals.
-
-## Registration
-
-If the registration form below doesn't work, please register [here](https://virtualscienceforum-org.zoom.us/meeting/register/tZwsceuoqDwiHtQBJtQyHNW8D3qSAX2ri1Nm).
-
-{{ registration_form({"zoom_meeting_id": "88162067840", "event_type": "lrc", }) }}
 
 ## Recorded Lectures
 <iframe width="800" height="450" src="https://www.youtube.com/embed/videoseries?list=PLqJ4D_Db7W_oUZsiehNLtNyJTKyYxLaTh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

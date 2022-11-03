@@ -10,7 +10,6 @@ nav:
   - Home: index.md
   - Current and planned events:
     - Speakers' Corner: speakers-corner.md
-    - Floquet Summer School: floquet-school.md
     - Call for organizers: announcement.md
   - Guides:
     - Organizer Guide: organizerguide.md
@@ -21,6 +20,7 @@ nav:
   - Contributors: whoweare.md
   - Privacy policy: privacy_policy.md
   - Past events:
+    - Floquet Summer School: floquet-school.md
     - Workshop on superconducting diode effects: josephson-diode.md
     - Workshop on unconvential superconductivity: unconventional-superconductivity.md
     - Long Range Colloquium 2021: long_range_colloquium-2021.md
