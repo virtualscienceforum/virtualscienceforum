@@ -1582,3 +1582,33 @@
   workflow_issue: 574
   event_type: speakers_corner
   youtube_id: kbDaZgZ8vGY
+- speaker_name: Xiaozhou Feng
+  speaker_affiliation: The Ohio State University
+  email: feng.933@osu.edu
+  preprint: '2210.07264'
+  title: Measurement-induced phase transitions on dynamical quantum trees
+  abstract: Monitored many-body systems fall broadly into two dynamical phases, "entangling"
+    or "disentangling", separated by a transition as a function of the rate at which
+    measurements are made on the system. Producing an analytical theory of this measurement-induced
+    transition is an outstanding challenge. Recent work made progress in the context
+    of tree tensor networks, which can be related to all-to-all quantum circuit dynamics
+    with forced (postselected) measurement outcomes. So far, however, there are no
+    exact solutions for dynamics of spin-1/2 degrees of freedom (qubits) with "real"
+    measurements, whose outcome probabilities are sampled according to the Born rule.
+    Here we define dynamical processes for qubits, with real measurements, that have
+    a tree-like spacetime interaction graph, either collapsing or expanding the system
+    as a function of time. The former case yields an exactly solvable measurement
+    transition. We explore these processes analytically and numerically, exploiting
+    the recursive structure of the tree. We compare the case of "real" measurements
+    with the case of "forced" measurements. Both cases show a transition at a nontrivial
+    value of the measurement strength, with the real measurement case exhibiting a
+    smaller entangling phase. Both exhibit exponential scaling of the entanglement
+    near the transition, but they differ in the value of a critical exponent. An intriguing
+    difference between the two cases is that the real measurement case lies at the
+    boundary between two distinct types of critical scaling. On the basis of our results
+    we propose a protocol for realizing a measurement phase transition experimentally
+    via an expansion process.
+  authors: Xiaozhou Feng, Brian Skinner, Adam Nahum
+  time: 2022-11-14 17:00:00+00:00
+  workflow_issue: 575
+  event_type: speakers_corner
