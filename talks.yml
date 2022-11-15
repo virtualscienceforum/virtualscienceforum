@@ -1584,7 +1584,6 @@
   youtube_id: kbDaZgZ8vGY
 - speaker_name: Xiaozhou Feng
   speaker_affiliation: The Ohio State University
-  email: feng.933@osu.edu
   preprint: '2210.07264'
   title: Measurement-induced phase transitions on dynamical quantum trees
   abstract: Monitored many-body systems fall broadly into two dynamical phases, "entangling"
@@ -1612,5 +1611,4 @@
   time: 2022-11-14 17:00:00+00:00
   workflow_issue: 575
   event_type: speakers_corner
-  zoom_meeting_id: 82393287544
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZYufuqqpjwvHtBe3555XmLDTnpFEtErb1tf
+  youtube_id: GIAn1-kKPOc
