@@ -1612,3 +1612,30 @@
   workflow_issue: 575
   event_type: speakers_corner
   youtube_id: GIAn1-kKPOc
+- speaker_name: Aleksander Sanjuan Ciepielewski
+  speaker_affiliation: MagTop, Institute of Physics, Polish Academy of Sciences
+  email: sancie@magtop.ifpan.edu.pl
+  preprint: '2208.08366'
+  title: Transport signatures of Van Hove singularities in mesoscopic twisted bilayer
+    graphene
+  abstract: Magic-angle twisted bilayer graphene exhibits quasi-flat low-energy bands
+    with Van Hove singularities close to the Fermi level. These singularities play
+    an important role in the exotic phenomena observed in this material, such as superconductivity
+    and magnetism, by amplifying electronic correlation effects. In this work, we
+    study the correspondence of four-terminal conductance and the Fermi surface topology
+    as a function of the twist angle, pressure, and energy in mesoscopic, ballistic
+    samples of small-angle twisted bilayer graphene. We establish a correspondence
+    between features in the wide-junction conductance and the presence of van Hove
+    singularities in the density of states. Moreover, we identify additional transport
+    features, such as a large, pressure-tunable minimal conductance, conductance peaks
+    coinciding with non-singular band crossings, and unusually large conductance oscillations
+    as a function of the system size. Our results suggest that twisted bilayer graphene
+    close the magic angle is a unique system featuring simultaneously large conductance
+    due to the quasi-flat bands, strong quantum nonlinearity due to the Van Hove singularities
+    and high sensitivity to external parameters, which could be utilized in high-frequency
+    device applications and sensitive detectors.
+  authors: Aleksander Sanjuan Ciepielewski, Jakub Tworzydło, Timo Hyart, Alexander
+    Lau
+  time: 2023-01-24 15:00:00+00:00
+  workflow_issue: 577
+  event_type: speakers_corner
