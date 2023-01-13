@@ -1641,3 +1641,25 @@
   event_type: speakers_corner
   zoom_meeting_id: 85674014606
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZErcO2orz8sGtJqM4JFDl-eSjyAFvuAuhRE
+- speaker_name: Andriani Keliri
+  speaker_affiliation: LPTHE, Sorbonne University
+  email: akeliri@lpthe.jussieu.fr
+  preprint: '2208.11541'
+  title: Driven Andreev molecule
+  abstract: "We study the three terminal S-QD-S-QD-S Josephson junction biased with\
+    \ commensurate voltages. In the absence of voltage bias, the Andreev bound states\
+    \ (ABS) on each quantum dot hybridize and form an Andreev molecule, producing\
+    \ non-local effects in the Josephson current. However, the range of the hybridization\
+    \ is limited by the superconducting coherence length $\\xi_0$.\r\n\r\nApplication\
+    \ of commensurate dc voltages makes the system time-periodic, and the equilibrium\
+    \ ABS evolve into ladders of resonances with a finite lifetime due to multiple\
+    \ Andreev reflection processes. We use Floquet theory to map to a tight-binding\
+    \ model, and we calculate the Floquet spectrum and the subgap current. When the\
+    \ distance between the dots is $R\\sim \\xi_0,$ we find level splitting and modification\
+    \ of the subgap structure due to the proximity of the two junctions. Moreover,\
+    \ in the regime of large dot separation $R\\gg \\xi_0,$ we find that the periodic\
+    \ driving induces long-range coupling between the dots."
+  authors: Andriani Keliri, Benoît Douçot
+  time: 2023-01-26 15:00:00+00:00
+  workflow_issue: 579
+  event_type: speakers_corner
