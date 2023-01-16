@@ -1665,3 +1665,27 @@
   event_type: speakers_corner
   zoom_meeting_id: 84938300636
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZAkdOGrrjssGdLGfTRrSAkH-qtsDxQ0xkC2
+- speaker_name: Martina Ondina Soldini
+  speaker_affiliation: University of Zurich
+  email: msoldi@physik.uzh.ch
+  preprint: '2209.10556'
+  title: Interacting topological quantum chemistry of Mott atomic limits
+  abstract: Topological quantum chemistry (TQC) is a successful framework for identifying
+    (non-interacting) topological materials. Based on the symmetry eigenvalues of
+    Bloch eigenstates at high symmetry momenta, which are attainable from first principles
+    calculations, a band structure can either be classified as an atomic limit, in
+    other words adiabatically connected to independent electronic orbitals on the
+    respective crystal lattice, or it is topological. For interacting systems, there
+    is no single-particle band structure and hence, the TQC machinery grinds to a
+    halt. We develop a framework analogous to TQC, but employing n-particle Green's
+    function to classify interacting systems. Fundamentally, we define a class of
+    interacting reference states that generalize the notion of atomic limits, which
+    we call Mott atomic limits. Our formalism allows to fully classify these reference
+    states (with n=2), which can themselves represent symmetry protected topological
+    states. With this, we establish Mott atomic limit states as a generalisation of
+    the atomic limits to interacting systems.
+  authors: Martina O. Soldini, Nikita Astrakhantsev, Mikel Iraola, Apoorv Tiwari,
+    Mark H. Fischer, Roser Valentí, Maia G. Vergniory, Glenn Wagner, Titus Neupert
+  time: 2023-01-30 15:00:00+00:00
+  workflow_issue: 580
+  event_type: speakers_corner
