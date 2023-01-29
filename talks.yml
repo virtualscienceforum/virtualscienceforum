@@ -1614,7 +1614,6 @@
   youtube_id: GIAn1-kKPOc
 - speaker_name: Aleksander Sanjuan Ciepielewski
   speaker_affiliation: MagTop, Institute of Physics, Polish Academy of Sciences
-  email: sancie@magtop.ifpan.edu.pl
   preprint: '2208.08366'
   title: Transport signatures of Van Hove singularities in mesoscopic twisted bilayer
     graphene
@@ -1639,8 +1638,7 @@
   time: 2023-01-24 15:00:00+00:00
   workflow_issue: 577
   event_type: speakers_corner
-  zoom_meeting_id: 85674014606
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZErcO2orz8sGtJqM4JFDl-eSjyAFvuAuhRE
+  youtube_id: HhGRdBiMzoI
 - speaker_name: Andriani Keliri
   speaker_affiliation: LPTHE, Sorbonne University
   email: akeliri@lpthe.jussieu.fr
