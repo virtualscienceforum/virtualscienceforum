@@ -1665,7 +1665,6 @@
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZAkdOGrrjssGdLGfTRrSAkH-qtsDxQ0xkC2
 - speaker_name: Martina Ondina Soldini
   speaker_affiliation: University of Zurich
-  email: msoldi@physik.uzh.ch
   preprint: '2209.10556'
   title: Interacting topological quantum chemistry of Mott atomic limits
   abstract: Topological quantum chemistry (TQC) is a successful framework for identifying
@@ -1687,5 +1686,4 @@
   time: 2023-01-30 15:00:00+00:00
   workflow_issue: 580
   event_type: speakers_corner
-  zoom_meeting_id: 87640172917
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZMrc-mpqTkjG9OLzZCh3XFKSY68QNkt-xF7
+  youtube_id: _VZeaBGXLZQ
