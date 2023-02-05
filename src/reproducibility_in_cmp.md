@@ -3,6 +3,7 @@ title: Reproducibility workshop
 description: A discussion on the reproducibility of condensed matter physics research.
 hide: [navigation]
 ---
+{% from 'registration.md' import registration_form %}
 # Does condensed matter physics need to worry about a replication crisis?
 **<time data-format="MMMM D" datetime="2023-03-02T17:00:00+00:00">March 2</time> from <time data-format="H:mm" datetime="2023-03-02T17:00:00+00:00">17:00</time> to <time data-format="H:mm" datetime="2023-03-02T20:00:00+00:00">20:00</time>**  
 (all times are in <span class="timezone">UTC</span> timezone)
@@ -27,6 +28,12 @@ In this short workshop we will review the replication crisis as it has arisen in
     - Jessica Thomas (Physical Review)
     - Eugenie Reich (Pollock Cohen LLP)
     - Laurens Molenkamp (University of Würzburg)
+
+## Registration
+
+If the registration form below doesn't work, please register [here](https://virtualscienceforum-org.zoom.us/meeting/register/tZwtd-qrqj8uHtK-w46yozHKnvjokUjWX9g7).
+
+{{ registration_form({"zoom_meeting_id": "88003344446", "event_type": "lrc", }) }}
 
 
 ## Organizers
