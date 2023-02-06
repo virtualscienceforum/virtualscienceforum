@@ -9,6 +9,7 @@ site_description: |
 nav:
   - Home: index.md
   - Current and planned events:
+    - Reproducibility in condensed matter: reproducibility_in_cmp.md
     - Speakers' Corner: speakers-corner.md
     - Call for organizers: announcement.md
   - Guides:

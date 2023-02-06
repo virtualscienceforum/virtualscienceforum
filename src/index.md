@@ -6,6 +6,7 @@ hide:
 Join directly:
 
 [Speakers' Corner](speakers-corner.md){ .md-button }
+[Reproducibility crisis in condensed matter](reproducibility_in_cmp.md){ .md-button }
 
 ## Welcome
 
