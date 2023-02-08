@@ -19,9 +19,9 @@ In this short workshop we will review the replication crisis as it has arisen in
 ## Program
 
 - <time data-format="H:mm" datetime="2023-03-02T17:00:00+00:00">17:00</time> – <time data-format="H:mm" datetime="2023-03-02T17:05:00+00:00">17:05</time>, Welcome and Introduction
-- <time data-format="H:mm" datetime="2023-03-02T17:05:00+00:00">17:05</time> – <time data-format="H:mm" datetime="2023-03-02T17:45:00+00:00">17:45</time>, Simine Vazire (University of Melbourne)
-- <time data-format="H:mm" datetime="2023-03-02T17:45:00+00:00">17:45</time> – <time data-format="H:mm" datetime="2023-03-02T18:25:00+00:00">18:25</time>, James Hamlin (University of Florida)
-- <time data-format="H:mm" datetime="2023-03-02T18:25:00+00:00">18:25</time> – <time data-format="H:mm" datetime="2023-03-02T19:05:00+00:00">19:05</time>, Vincent Mourik (Forschungszentrum Jülich)
+- <time data-format="H:mm" datetime="2023-03-02T17:05:00+00:00">17:05</time> – <time data-format="H:mm" datetime="2023-03-02T17:45:00+00:00">17:45</time>, *What is a replication crisis and how do I know if I'm in one? Lessons from Psychology*, Simine Vazire (University of Melbourne)
+- <time data-format="H:mm" datetime="2023-03-02T17:45:00+00:00">17:45</time> – <time data-format="H:mm" datetime="2023-03-02T18:25:00+00:00">18:25</time>, *Extracting data from scientific publications*, James Hamlin (University of Florida)
+- <time data-format="H:mm" datetime="2023-03-02T18:25:00+00:00">18:25</time> – <time data-format="H:mm" datetime="2023-03-02T19:05:00+00:00">19:05</time>, *Non reproducible claims in Majorana research*, Vincent Mourik (Forschungszentrum Jülich)
 - <time data-format="H:mm" datetime="2023-03-02T19:05:00+00:00">19:05</time> – <time data-format="H:mm" datetime="2023-03-02T20:00:00+00:00">20:00</time>, panel discussion
     - David Muller (Cornell University)
     - Igor Mazin (George Mason University)
