@@ -1641,7 +1641,6 @@
   youtube_id: HhGRdBiMzoI
 - speaker_name: Andriani Keliri
   speaker_affiliation: LPTHE, Sorbonne University
-  email: akeliri@lpthe.jussieu.fr
   preprint: '2208.11541'
   title: Driven Andreev molecule
   abstract: "We study the three terminal S-QD-S-QD-S Josephson junction biased with\
@@ -1661,8 +1660,7 @@
   time: 2023-01-26 15:00:00+00:00
   workflow_issue: 579
   event_type: speakers_corner
-  zoom_meeting_id: 84938300636
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZAkdOGrrjssGdLGfTRrSAkH-qtsDxQ0xkC2
+  youtube_id: DkUHB8jQ-cs
 - speaker_name: Martina Ondina Soldini
   speaker_affiliation: University of Zurich
   preprint: '2209.10556'
@@ -1687,7 +1685,7 @@
   workflow_issue: 580
   event_type: speakers_corner
   youtube_id: _VZeaBGXLZQ
-- speaker_name: "Rekha Kumari"
+- speaker_name: Rekha Kumari
   speaker_affiliation: Indian Institute of Technology Kanpur, India
   email: rekha@iitk.ac.in
   preprint: '2301.07707'
