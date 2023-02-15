@@ -1,7 +1,6 @@
 ---
 title: Floquet Summer School
 description: A school for researchers interested in Floquet quantum systems
-hide: [navigation]
 ---
 # Floquet Summer School
 **<time data-format="MMMM D" datetime="2022-09-13T14:00:00+00:00">September 13</time> and <time data-format="D" datetime="2022-09-14T14:00:00+00:00">14</time> from <time data-format="H:mm" datetime="2022-09-13T14:00:00+00:00">14:00</time> to <time data-format="H:mm" datetime="2022-09-13T17:10:00+00:00">17:10</time>**  

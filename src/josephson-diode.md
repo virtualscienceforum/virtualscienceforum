@@ -1,8 +1,6 @@
 ---
 title: Superconducting Diode Effects Workshop
 description: A workshop gathering the world leaders in theory and experiments of superconducting diodes to discuss the status of the field and chart a path for the future. 
-hide:
-  - navigation
 ---
 # Superconducting diode effects
 **May 18–19 2022**
