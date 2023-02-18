@@ -1709,3 +1709,22 @@
   event_type: speakers_corner
   zoom_meeting_id: 86165779938
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZIsceyvqTIjGdwSV4Ii5JrBCDoESvpaEBVT
+- speaker_name: Michael B. Weissman
+  speaker_affiliation: University of Illinois at Urbana-Champaign
+  email: mbw@illinois.edu
+  preprint: '2101.05647'
+  title: Erroneous Statistics in Physical Review Physics Education Research
+  abstract: The American Physical Society publication Physical Review Physics Education
+    Research focuses on questions that are essentially social science. Unfortunately,
+    it routinely publishes and promotes papers that make egregious errors in statistical
+    reasoning, particularly in causal inference. As a result policy recommendations
+    based on PRPER papers can rest on causal conclusions that are unsupported by evidence
+    and sometimes  (e.g. on use of GREs) flatly contradicted by the evidence. I will
+    describe just one typical erroneous paper to illustrate the technical issues,
+    while providing references for critiques of many others. The PRPER editorial team
+    has an express policy of resisting the type of error correction traditionally
+    employed by Physical Review.
+  authors: M. B. Weissman
+  time: 2023-02-28 16:00:00+00:00
+  workflow_issue: 596
+  event_type: speakers_corner
