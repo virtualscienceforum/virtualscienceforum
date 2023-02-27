@@ -29,6 +29,28 @@ In this short workshop we will review the replication crisis as it has arisen in
     - Eugenie Reich (Pollock Cohen LLP)
     - Laurens Molenkamp (University of Würzburg)
 
+## Satellite talks
+
+#### Room-temperature superconductivity - or not?
+_Dirk van der Marel, University of Geneva_
+
+<iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/6CfNnG6hs3Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Hysteretic Supercurrents and Zero-bias Peaks in Semiconductor Nanowire Devices with Micromagnets
+_Yifan Jiang, University of Pittsburgh_
+
+<iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/v3hEEaChLpI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Is there any evidence for Many-Body Localization?
+_Anatoli Polkovnikov, Boston University_
+
+<iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/Rl_Wb2DZyvI?start=2713" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Erroneous Statistics in Physical Review Physics Education Research
+_Michael B. Weissman, University of Illinois at Urbana-Champaign_
+
+See the upcoming [Speakers' Corner talk](/speakers-corner/#erroneous-statistics-in-physical-review-physics-education-research)
+
 ## Registration
 
 If the registration form below doesn't work, please register [here](https://virtualscienceforum-org.zoom.us/meeting/register/tZwtd-qrqj8uHtK-w46yozHKnvjokUjWX9g7).
