@@ -46,10 +46,16 @@ _Anatoli Polkovnikov, Boston University_
 
 <iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/Rl_Wb2DZyvI?start=2713" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+#### Chiral Majorana Modes in Quantum Anomalous Hall Insulators
+_Morteza Kayyalha, Penn State University_
+
+<iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/jSern0eUQB4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 #### Erroneous Statistics in Physical Review Physics Education Research
 _Michael B. Weissman, University of Illinois at Urbana-Champaign_
 
-See the upcoming [Speakers' Corner talk](/speakers-corner/#erroneous-statistics-in-physical-review-physics-education-research)
+<iframe width="700" height="400" src="https://www.youtube-nocookie.com/embed/0NsNtqyiDco" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Registration
 
