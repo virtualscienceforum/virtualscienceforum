@@ -1711,7 +1711,6 @@
   registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZIsceyvqTIjGdwSV4Ii5JrBCDoESvpaEBVT
 - speaker_name: Michael B. Weissman
   speaker_affiliation: University of Illinois at Urbana-Champaign
-  email: mbw@illinois.edu
   preprint: '2101.05647'
   title: Erroneous Statistics in Physical Review Physics Education Research
   abstract: The American Physical Society publication Physical Review Physics Education
@@ -1728,5 +1727,4 @@
   time: 2023-02-28 16:00:00+00:00
   workflow_issue: 596
   event_type: speakers_corner
-  zoom_meeting_id: 83467018140
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZcpce6orzMrHtRHCgl-9uH8V3dA0CnOHkzG
+  youtube_id: 0NsNtqyiDco
