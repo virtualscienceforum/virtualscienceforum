@@ -1687,7 +1687,6 @@
   youtube_id: _VZeaBGXLZQ
 - speaker_name: Rekha Kumari
   speaker_affiliation: Indian Institute of Technology Kanpur, India
-  email: rekha@iitk.ac.in
   preprint: '2301.07707'
   title: Josephson-Current Signatures of Unpaired Floquet Majorana Bound States
   abstract: We theoretically study the transport signatures of unpaired Floquet Majorana
@@ -1707,8 +1706,7 @@
   time: 2023-02-28 14:00:00+00:00
   workflow_issue: 582
   event_type: speakers_corner
-  zoom_meeting_id: 86165779938
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZIsceyvqTIjGdwSV4Ii5JrBCDoESvpaEBVT
+  youtube_id: I6rv7uCq1XY
 - speaker_name: Michael B. Weissman
   speaker_affiliation: University of Illinois at Urbana-Champaign
   preprint: '2101.05647'
