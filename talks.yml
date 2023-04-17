@@ -1726,3 +1726,26 @@
   workflow_issue: 596
   event_type: speakers_corner
   youtube_id: 0NsNtqyiDco
+- speaker_name: Brian Skinner
+  speaker_affiliation: Ohio State
+  email: skinner.352@osu.edu
+  preprint: '2210.02469'
+  title: Exact solution for the filling-induced thermalization transition in a 1D
+    fracton system
+  abstract: 'We study a random circuit model of constrained fracton dynamics, in which
+    particles on a one-dimensional lattice undergo random local motion subject to
+    both charge and dipole moment conservation. The configuration space of this system
+    exhibits a continuous phase transition between a weakly fragmented ("thermalizing")
+    phase and a strongly fragmented ("nonthermalizing") phase as a function of the
+    number density of particles. Here, by mapping to two different problems in combinatorics,
+    we identify an exact solution for the critical density $n_c$. Specifically, when
+    evolution proceeds by operators that act on $\ell$ contiguous sites, the critical
+    density is given by $n_c = 1/(\ell -2)$. We identify the critical scaling near
+    the transition, and we show that there is a universal value of the correlation
+    length exponent $\nu = 2$. We confirm our theoretical results with numeric simulations.
+    In the thermalizing phase the dynamical exponent is subdiffusive: $z=4$, while
+    at the critical point it increases to $z_c \gtrsim 6$.'
+  authors: Calvin Pozderac, Steven Speck, Xiaozhou Feng, David A. Huse, Brian Skinner
+  time: 2023-05-02 16:00:00+00:00
+  workflow_issue: 600
+  event_type: speakers_corner
