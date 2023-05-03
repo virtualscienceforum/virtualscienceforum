@@ -326,7 +326,8 @@
     setting and because of their relevance for THz research.
   time: 2021-01-20 18:30:00+00:00
   zoom_meeting_id: 91408828715
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tJUpd-GgrDMtG9GonekDRLoqsodPxok4C-Az
+  registration_url: 
+    https://virtualscienceforum-org.zoom.us/meeting/register/tJUpd-GgrDMtG9GonekDRLoqsodPxok4C-Az
 - workflow_issue: 279
   event_type: lrc
   speaker_name: Andrea Young
@@ -1355,7 +1356,8 @@
   workflow_issue: 533
   event_type: speakers_corner
   zoom_meeting_id: 83204090688
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZcvd-2opzssEtyDT0nWlHpbmPL88Thrii1a
+  registration_url: 
+    https://virtualscienceforum-org.zoom.us/meeting/register/tZcvd-2opzssEtyDT0nWlHpbmPL88Thrii1a
 - speaker_name: Bruna Mendonca
   speaker_affiliation: University of Sao Paulo
   preprint: '2204.05078'
@@ -1507,7 +1509,8 @@
   workflow_issue: 565
   event_type: speakers_corner
   zoom_meeting_id: 89869041494
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZ0lceCoqjouE9B-XhSI4UUxy_r2TtxFNILL
+  registration_url: 
+    https://virtualscienceforum-org.zoom.us/meeting/register/tZ0lceCoqjouE9B-XhSI4UUxy_r2TtxFNILL
 - speaker_name: Isidora Araya Day
   speaker_affiliation: QuTech, TU Delft
   preprint: '2209.00029'
@@ -1559,7 +1562,8 @@
   workflow_issue: 573
   event_type: speakers_corner
   zoom_meeting_id: 84175104282
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZAscOyprj8oEtbur2p6rxRyzyXvKAVuCTA0
+  registration_url: 
+    https://virtualscienceforum-org.zoom.us/meeting/register/tZAscOyprj8oEtbur2p6rxRyzyXvKAVuCTA0
 - speaker_name: Ivan Amelio
   speaker_affiliation: ETH Zurich
   preprint: '2210.03658'
@@ -1728,7 +1732,6 @@
   youtube_id: 0NsNtqyiDco
 - speaker_name: Brian Skinner
   speaker_affiliation: Ohio State
-  email: skinner.352@osu.edu
   preprint: '2210.02469'
   title: Exact solution for the filling-induced thermalization transition in a 1D
     fracton system
@@ -1749,5 +1752,4 @@
   time: 2023-05-02 16:00:00+00:00
   workflow_issue: 600
   event_type: speakers_corner
-  zoom_meeting_id: 87555005442
-  registration_url: https://virtualscienceforum-org.zoom.us/meeting/register/tZMocuyorj4uHtZmFLZFqB34P1AQt26S8vqq
+  youtube_id: aF28QfSlFCE
