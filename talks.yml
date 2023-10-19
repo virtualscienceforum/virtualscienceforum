@@ -1750,7 +1750,6 @@
   youtube_id: aF28QfSlFCE
 - speaker_name: Julian Ingham
   speaker_affiliation: Columbia University
-  email: jingham@bu.edu
   preprint: '2308.00748'
   title: Revival of Quadratic Dirac fermions and the competition of ordered states
     in twisted bilayer graphene
@@ -1781,6 +1780,4 @@
   time: 2023-09-26 14:00:00+00:00
   workflow_issue: 601
   event_type: speakers_corner
-  zoom_meeting_id: 88027866898
-  registration_url: 
-    https://virtualscienceforum-org.zoom.us/meeting/register/tZwtde6gqD0iE9xbexo1mXRuqKbJ_99xu83F
+  youtube_id: Ac6-U-aef4U
