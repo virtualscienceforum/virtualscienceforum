@@ -1781,3 +1781,20 @@
   workflow_issue: 601
   event_type: speakers_corner
   youtube_id: Ac6-U-aef4U
+- speaker_name: A. Mert Bozkurt
+  speaker_affiliation: TU Delft, Quantum Tinkerer
+  email: a.m.bozkurt-1@tudelft.nl
+  preprint: '2307.04830'
+  title: Double-Fourier engineering of Josephson energy-phase relationships applied
+    to diodes
+  abstract: We present a systematic method to design arbitrary energy-phase relations
+    using parallel arms of two series Josephson tunnel junctions each. Our approach
+    employs Fourier engineering in the energy-phase relation of each arm and the position
+    of the arms in real space. We demonstrate our method by engineering the energy-phase
+    relation of a near-ideal superconducting diode, which we find to be robust against
+    the imperfections in the design parameters. Finally, we show the versatility of
+    our approach by designing various other energy-phase relations.
+  authors: A. Mert Bozkurt, Jasper Brookman, Valla Fatemi, Anton R. Akhmerov
+  time: 2023-11-14 15:00:00+00:00
+  workflow_issue: 602
+  event_type: speakers_corner
