@@ -1801,3 +1801,23 @@
   zoom_meeting_id: 87074393394
   registration_url: 
     https://virtualscienceforum-org.zoom.us/meeting/register/tZMtcO2rpzgpE9D7kSRCBzM5Q4mJD3yq_Ofm
+- speaker_name: Isidora Araya Day
+  speaker_affiliation: TU Delft
+  email: i.m.arayaday@tudelft.nl
+  preprint: ''
+  title: 'Pymablock: A software package for constructing effective models'
+  abstract: "In the study of quantum systems, effective models serve as a compact
+    and insightful representation. They reduce the complex Hilbert space to a manageable
+    low energy subspace, making the Hamiltonian interpretable and its observables
+    computationally friendly. However, the construction of an effective Hamiltonian,
+    which involves the application of perturbation theory, can be a daunting task,
+    especially when dealing with large Hilbert spaces, high perturbative orders, or
+    multiple perturbations.\r\n\r\nIn this talk, we introduce an algorithm designed
+    to streamline this process. Our algorithm is capable of constructing both symbolic
+    and numeric low energy models with computational efficiency. It is versatile,
+    with applications ranging from superconducting circuits and tight-binding models
+    to interacting Hamiltonians and more.\r\n\r\nSee our documentation at https://pymablock.readthedocs.io."
+  authors: Isidora Araya Day, Sebastian Miles, Daniel Varjas, Anton Akhmerov
+  time: 2023-11-15 16:00:00+00:00
+  workflow_issue: 603
+  event_type: speakers_corner
