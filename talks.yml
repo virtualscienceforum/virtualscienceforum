@@ -1824,3 +1824,24 @@
   zoom_meeting_id: 87248526746
   registration_url: 
     https://virtualscienceforum-org.zoom.us/meeting/register/tZMvc-GtrD0tHtK0HiD_FWVHyMxUmrZZICGY
+- speaker_name: Juan Daniel Torres Luna
+  speaker_affiliation: TU Delft
+  email: j.d.torresluna@tudelft.nl
+  preprint: '2307.03299'
+  title: Design of a Majorana trijunction
+  abstract: Braiding of Majorana states demonstrates their non-Abelian exchange statistics.
+    One implementation of braiding requires control of the pairwise couplings between
+    all Majorana states in a trijunction device. In order to have adiabaticity, a
+    trijunction device requires the desired pair coupling to be sufficently large
+    and the undesired couplings to vanish. In this work, we design and simulate of
+    a trijunction device in a two-dimensional electron gas with a focus on the normal
+    region that connects three Majorana states. We use an optimisation approach to
+    find the operational regime of the device in a multi-dimensional voltage space.
+    Using the optimization results, we simulate a braiding experiment by adiabatically
+    coupling different pairs of Majorana states without closing the topological gap.
+    We then evaluate the feasibility of braiding in a trijunction device for different
+    shapes and disorder strengths.
+  authors: Juan Daniel Torres Luna, Sathish R. Kuppuswamy, Anton R. Akhmerov
+  time: 2023-11-28 16:00:00+00:00
+  workflow_issue: 604
+  event_type: speakers_corner
