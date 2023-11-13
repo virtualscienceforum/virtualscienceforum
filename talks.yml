@@ -1848,3 +1848,25 @@
   zoom_meeting_id: 85461035403
   registration_url: 
     https://virtualscienceforum-org.zoom.us/meeting/register/tZEpceiorT4uGtfFBDt4-iC-TUIN_xPln6Wl
+- speaker_name: Peter Rohde
+  speaker_affiliation: BTQ & Macquarie University
+  email: peter.rohde@mq.edu.au
+  preprint: '2305.19865'
+  title: Proof-of-work consensus by quantum sampling
+  abstract: Since its advent in 2011, boson-sampling has been a preferred candidate
+    for demonstrating quantum advantage because of its simplicity and near-term requirements
+    compared to other quantum algorithms. We propose to use a variant, called coarse-grained
+    boson-sampling (CGBS), as a quantum Proof-of-Work (PoW) scheme for blockchain
+    consensus. The users perform boson-sampling using input states that depend on
+    the current block information, and commit their samples to the network. Afterward,
+    CGBS strategies are determined which can be used to both validate samples and
+    to reward successful miners. By combining rewards to miners committing honest
+    samples together with penalties to miners committing dishonest samples, a Nash
+    equilibrium is found that incentivizes honest nodes. The scheme works for both
+    Fock state boson sampling and Gaussian boson sampling and provides dramatic speedup
+    and energy savings relative to computation by classical hardware.
+  authors: Deepesh Singh, Boxiang Fu, Gopikrishnan Muraleedharan, Chen-Mou Cheng,
+    Nicolas Roussy Newton, Peter P. Rohde, Gavin K. Brennen
+  time: 2023-12-11 11:00:00+00:00
+  workflow_issue: 605
+  event_type: speakers_corner
