@@ -1873,3 +1873,24 @@
   zoom_meeting_id: 81163834732
   registration_url: 
     https://virtualscienceforum-org.zoom.us/meeting/register/tZUsceqgrT8tGdZBbFCCpAbd9K7ttvkD_adl
+- speaker_name: Suman Aich
+  speaker_affiliation: Indiana University Bloomington
+  email: aichs@iu.edu
+  preprint: '2311.04792'
+  title: Real-space multifold degeneracy in graphene irradiated by twisted light
+  abstract: We report the theoretical discovery of real-space multifold degenerate
+    Floquet-Bloch states in monolayer graphene coherently driven by twisted circulalry-polarized
+    light. Using Floquet theory, we characterize the real-space structure of quasienergies
+    and Floquet modes in terms of the orbital angular momentum and radial vortex profile
+    of light. We obtain the effective real-space Floquet Hamiltonian and show it supports
+    crossings of Floquet modes, especially at high-symmetry $K$ and $\Gamma$ points
+    of graphene, at specific radial positions from the vortex center. At specific
+    frequencies, the vortex bound states form a multifold degenerate structure in
+    real-space. This structure is purely dynamically generated and controlled by the
+    frequency and intensity of twisted light. We discuss the experimental feasibility
+    of observing and employing the real-space multifold degeneracy for coherent optoelectronic
+    quantum state engineering.
+  authors: Suman Aich, Babak Seradjeh
+  time: 2023-11-27 15:00:00+00:00
+  workflow_issue: 606
+  event_type: speakers_corner
