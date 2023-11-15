@@ -1783,7 +1783,6 @@
   youtube_id: Ac6-U-aef4U
 - speaker_name: A. Mert Bozkurt
   speaker_affiliation: TU Delft, Quantum Tinkerer
-  email: a.m.bozkurt-1@tudelft.nl
   preprint: '2307.04830'
   title: Double-Fourier engineering of Josephson energy-phase relationships applied
     to diodes
@@ -1798,9 +1797,7 @@
   time: 2023-11-14 15:00:00+00:00
   workflow_issue: 602
   event_type: speakers_corner
-  zoom_meeting_id: 87074393394
-  registration_url: 
-    https://virtualscienceforum-org.zoom.us/meeting/register/tZMtcO2rpzgpE9D7kSRCBzM5Q4mJD3yq_Ofm
+  youtube_id: CxYpV_V9_v8
 - speaker_name: Isidora Araya Day
   speaker_affiliation: TU Delft
   email: i.m.arayaday@tudelft.nl
