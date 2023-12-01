@@ -1820,7 +1820,6 @@
   youtube_id: SZUhc9aSDYI
 - speaker_name: Juan Daniel Torres Luna
   speaker_affiliation: TU Delft
-  email: j.d.torresluna@tudelft.nl
   preprint: '2307.03299'
   title: Design of a Majorana trijunction
   abstract: Braiding of Majorana states demonstrates their non-Abelian exchange statistics.
@@ -1839,9 +1838,7 @@
   time: 2023-11-28 16:00:00+00:00
   workflow_issue: 604
   event_type: speakers_corner
-  zoom_meeting_id: 85461035403
-  registration_url: 
-    https://virtualscienceforum-org.zoom.us/meeting/register/tZEpceiorT4uGtfFBDt4-iC-TUIN_xPln6Wl
+  youtube_id: K2h--JTGEnw
 - speaker_name: Peter Rohde
   speaker_affiliation: BTQ & Macquarie University
   email: peter.rohde@mq.edu.au
