@@ -1841,7 +1841,6 @@
   youtube_id: K2h--JTGEnw
 - speaker_name: Peter Rohde
   speaker_affiliation: BTQ & Macquarie University
-  email: peter.rohde@mq.edu.au
   preprint: '2305.19865'
   title: Proof-of-work consensus by quantum sampling
   abstract: Since its advent in 2011, boson-sampling has been a preferred candidate
@@ -1861,9 +1860,7 @@
   time: 2023-12-11 11:00:00+00:00
   workflow_issue: 605
   event_type: speakers_corner
-  zoom_meeting_id: 81163834732
-  registration_url: 
-    https://virtualscienceforum-org.zoom.us/meeting/register/tZUsceqgrT8tGdZBbFCCpAbd9K7ttvkD_adl
+  youtube_id: 6ko0Es5zjrs
 - speaker_name: Suman Aich
   speaker_affiliation: Indiana University Bloomington
   preprint: '2311.04792'
@@ -1906,4 +1903,5 @@
   workflow_issue: 607
   event_type: speakers_corner
   zoom_meeting_id: 89006299373
-  registration_url: "https://virtualscienceforum-org.zoom.us/meeting/register/tZ0td--qpzIpHdeZKaGL50yOhOPFeJ-b44uD"
+  registration_url: 
+    https://virtualscienceforum-org.zoom.us/meeting/register/tZ0td--qpzIpHdeZKaGL50yOhOPFeJ-b44uD
