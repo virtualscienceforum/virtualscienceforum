@@ -1882,26 +1882,3 @@
   workflow_issue: 606
   event_type: speakers_corner
   youtube_id: 1lBDYRaw8J8
-- speaker_name: Kostas Vilkelis
-  speaker_affiliation: TU Delft
-  email: kostasvilkelis@gmail.com
-  preprint: '2311.17160'
-  title: Chiral adiabatic transmission protected by Fermi surface topology
-  abstract: We demonstrate that Andreev modes that propagate along a transparent Josephson
-    junction have a perfect transmission at the point where three junctions meet.
-    The chirality and the number of quantized transmission channels is determined
-    by the topology of the Fermi surface and the vorticity of the superconducting
-    phase differences at the trijunction. We explain this chiral adiabatic transmission
-    (CAT) as a consequence of the adiabatic evolution of the scattering modes both
-    in momentum and real space. We identify an effective energy barrier that guarantees
-    quantized transmission. We expect that CAT is observable in nonlocal conductance
-    and thermal transport measurements. Furthermore, because it does not rely on particle-hole
-    symmetry, CAT is also possible to observe directly in metamaterials.
-  authors: Isidora Araya Day, Kostas Vilkelis, Antonio L. R. Manesco, A. Mert Bozkurt,
-    Valla Fatemi, Anton R. Akhmerov
-  time: 2024-01-29 16:00:00+00:00
-  workflow_issue: 607
-  event_type: speakers_corner
-  zoom_meeting_id: 89006299373
-  registration_url: 
-    https://virtualscienceforum-org.zoom.us/meeting/register/tZ0td--qpzIpHdeZKaGL50yOhOPFeJ-b44uD
