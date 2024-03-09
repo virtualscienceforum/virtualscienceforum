@@ -1884,7 +1884,6 @@
   youtube_id: 1lBDYRaw8J8
 - speaker_name: Kostas Vilkelis
   speaker_affiliation: TU Delft
-  email: kostasvilkelis@gmail.com
   preprint: '2311.17160'
   title: Chiral adiabatic transmission protected by Fermi surface topology
   abstract: We demonstrate that Andreev modes that propagate along a transparent Josephson
@@ -1902,6 +1901,4 @@
   time: 2024-02-27 15:00:00+00:00
   workflow_issue: 608
   event_type: speakers_corner
-  zoom_meeting_id: 86535820137
-  registration_url: 
-    https://virtualscienceforum-org.zoom.us/meeting/register/tZIodOygrDsrGdNROZ5SSaFXwR8_N7CCW8QW
+  youtube_id: OFBGtmzKjuI
