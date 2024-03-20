@@ -1902,3 +1902,21 @@
   workflow_issue: 608
   event_type: speakers_corner
   youtube_id: OFBGtmzKjuI
+- speaker_name: Yugo Onishi
+  speaker_affiliation: Massachusetts Institute of Technology
+  email: yugo0o24@mit.edu
+  preprint: '2401.13847'
+  title: Quantum weight
+  abstract: We introduce the concept of quantum weight as a fundamental property of
+    insulating states of matter that is encoded in the ground-state static structure
+    and measures quantum fluctuation in electrons' center of mass. We find a sum rule
+    that directly relates quantum weight -- a ground state property -- with the negative-first
+    moment of the optical conductivity above the gap frequency. Building on this connection
+    to optical absorption, we derive both an upper bound and a lower bound on quantum
+    weight in terms of electron density, dielectric constant, and energy gap. Therefore,
+    quantum weight constitutes a key material parameter that can be experimentally
+    determined from X-ray scattering.
+  authors: Yugo Onishi, Liang Fu
+  time: 2024-04-05 14:00:00+00:00
+  workflow_issue: 609
+  event_type: speakers_corner
