@@ -1904,7 +1904,6 @@
   youtube_id: OFBGtmzKjuI
 - speaker_name: Yugo Onishi
   speaker_affiliation: Massachusetts Institute of Technology
-  email: yugo0o24@mit.edu
   preprint: '2401.13847'
   title: Quantum weight
   abstract: We introduce the concept of quantum weight as a fundamental property of
@@ -1920,6 +1919,4 @@
   time: 2024-04-05 14:00:00+00:00
   workflow_issue: 609
   event_type: speakers_corner
-  zoom_meeting_id: 84710791567
-  registration_url: 
-    https://virtualscienceforum-org.zoom.us/meeting/register/tZAqdumvpzovHNMuPSUXcOahNFPo_2tl-z32
+  youtube_id: 8AZE47sxumE
