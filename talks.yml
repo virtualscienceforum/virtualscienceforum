@@ -1922,7 +1922,6 @@
   youtube_id: 8AZE47sxumE
 - speaker_name: Antonio Manesco
   speaker_affiliation: TUDelft
-  email: fermionic@antoniomanesco.org
   preprint: '2309.00447'
   title: Fermionic quantum computation with Cooper pair splitters
   abstract: We propose a practical implementation of a universal quantum computer
@@ -1943,9 +1942,7 @@
   time: 2024-05-21 15:00:00+00:00
   workflow_issue: 610
   event_type: speakers_corner
-  zoom_meeting_id: 87406789048
-  registration_url: 
-    https://virtualscienceforum-org.zoom.us/meeting/register/tZMpd--vpjIqHtwLPn7U1474U89qbZOKSS7a
+  youtube_id: _uUHnu1Dec0
 - speaker_name: Juan Daniel Torres
   speaker_affiliation: TU Delft
   email: jdtorresluna@tudelft.nl
