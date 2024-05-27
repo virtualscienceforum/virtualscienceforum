@@ -1964,3 +1964,31 @@
   zoom_meeting_id: 85662879849
   registration_url: 
     https://virtualscienceforum-org.zoom.us/meeting/register/tZErceugqTIiHt3LJURrU3ynuPfWlMEEE81P
+- speaker_name: Xiaozhou Feng
+  speaker_affiliation: The University of Texas at Austin
+  email: xiaozhou.feng@austin.utexas.edu
+  preprint: '2405.13894'
+  title: Charge and Spin Sharpening Transitions on Dynamical Quantum Trees
+  abstract: The dynamics of monitored systems can exhibit a measurement-induced phase
+    transition (MIPT) between entangling and disentangling phases, tuned by the measurement
+    rate. When the dynamics obeys a continuous symmetry, the entangling phase further
+    splits into a fuzzy phase and a sharp phase based on the scaling of fluctuations
+    of the symmetry charge. While the sharpening transition for Abelian symmetries
+    is well understood analytically, no such understanding exists for the non- Abelian
+    case. In this work, building on a recent analytical solution of the MIPT on tree-like
+    circuit architectures (where qubits are repatedly added or removed from the system
+    in a recursive pattern), we study entanglement and sharpening transitions in monitored
+    dynamical quantum trees obeying U (1) and SU (2) symmetries. The recursive structure
+    of tree tensor networks enables powerful analytical and numerical methods to determine
+    the phase diagrams in both cases. In the U (1) case, we analytically derive a
+    Fisher-KPP-like differential equation that allows us to locate the critical point
+    and identify its properties. We find that the entanglement/purification and sharpening
+    transitions generically occur at distinct measurement rates. In the SU (2) case,
+    we find that the fuzzy phase is generic, and a sharp phase is possible only in
+    the limit of maximal measurement rate. In this limit, we analytically solve the
+    boundaries separating the fuzzy and sharp phases, and find them to be in agreement
+    with exact numerical simulations.
+  authors: Xiaozhou Feng, Nadezhda Fishchenko, Sarang Gopalakrishnan, Matteo Ippoliti
+  time: 2024-06-10 18:00:00+00:00
+  workflow_issue: 612
+  event_type: speakers_corner
