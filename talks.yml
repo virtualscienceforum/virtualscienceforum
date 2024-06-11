@@ -1966,7 +1966,6 @@
     https://virtualscienceforum-org.zoom.us/meeting/register/tZErceugqTIiHt3LJURrU3ynuPfWlMEEE81P
 - speaker_name: Xiaozhou Feng
   speaker_affiliation: The University of Texas at Austin
-  email: xiaozhou.feng@austin.utexas.edu
   preprint: '2405.13894'
   title: Charge and Spin Sharpening Transitions on Dynamical Quantum Trees
   abstract: The dynamics of monitored systems can exhibit a measurement-induced phase
@@ -1992,6 +1991,4 @@
   time: 2024-06-10 18:00:00+00:00
   workflow_issue: 612
   event_type: speakers_corner
-  zoom_meeting_id: 89707195293
-  registration_url: 
-    https://virtualscienceforum-org.zoom.us/meeting/register/tZ0qd-6ppz4oE9cMFX7naJpbESY3tNqZ-JFZ
+  youtube_id: 2i6Y9U8lAEw
