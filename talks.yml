@@ -1992,3 +1992,22 @@
   workflow_issue: 612
   event_type: speakers_corner
   youtube_id: 2i6Y9U8lAEw
+- speaker_name: David Scheer
+  speaker_affiliation: RWTH Aachen University
+  email: david.scheer@rwth-aachen.de
+  preprint: '2406.14435'
+  title: 'The superconducting clock-circuit: Improving the coherence of Josephson
+    radiation beyond the thermodynamic uncertainty relation'
+  abstract: In the field of superconducting electronics, the on-chip generation of
+    AC radiation is essential for further advancements. Although a Josephson junction
+    can emit AC radiation from a purely DC voltage bias, the coherence of this radiation
+    is significantly limited by Johnson-Nyquist noise. We relate this limitation to
+    the thermodynamic uncertainty relation (TUR) in the field of stochastic thermodynamics.
+    Recent findings indicate that the thermodynamic uncertainty relation can be broken
+    by a classical pendulum clock. We demonstrate how the violation of the TUR can
+    be used as a design principle for radiation sources by showing that a superconducting
+    clock circuit emits coherent AC radiation from a DC bias.
+  authors: David Scheer, Jonas Völler, Fabian Hassler
+  time: 2024-07-11 14:00:00+00:00
+  workflow_issue: 613
+  event_type: speakers_corner
