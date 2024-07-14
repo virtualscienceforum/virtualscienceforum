@@ -1945,7 +1945,6 @@
   youtube_id: _uUHnu1Dec0
 - speaker_name: Juan Daniel Torres
   speaker_affiliation: TU Delft
-  email: jdtorresluna@tudelft.nl
   preprint: '2405.00538'
   title: Probing valley phenomena with gate-defined valley splitters
   abstract: 'Despite many reports of valley-related phenomena in graphene and its
@@ -1961,9 +1960,7 @@
   time: 2024-06-04 15:00:00+00:00
   workflow_issue: 611
   event_type: speakers_corner
-  zoom_meeting_id: 85662879849
-  registration_url: 
-    https://virtualscienceforum-org.zoom.us/meeting/register/tZErceugqTIiHt3LJURrU3ynuPfWlMEEE81P
+  youtube_id: 424oTxtFQNU
 - speaker_name: Xiaozhou Feng
   speaker_affiliation: The University of Texas at Austin
   preprint: '2405.13894'
