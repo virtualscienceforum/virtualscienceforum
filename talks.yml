@@ -1991,7 +1991,6 @@
   youtube_id: 2i6Y9U8lAEw
 - speaker_name: David Scheer
   speaker_affiliation: RWTH Aachen University
-  email: david.scheer@rwth-aachen.de
   preprint: '2406.14435'
   title: 'The superconducting clock-circuit: Improving the coherence of Josephson
     radiation beyond the thermodynamic uncertainty relation'
@@ -2008,6 +2007,4 @@
   time: 2024-07-11 14:00:00+00:00
   workflow_issue: 613
   event_type: speakers_corner
-  zoom_meeting_id: 84037823331
-  registration_url: 
-    https://virtualscienceforum-org.zoom.us/meeting/register/tZAtdO6grDgpGdXFpoTNUcRYC-7oFHgbOEA2
+  youtube_id: rllLoY6i49U
