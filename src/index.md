@@ -3,11 +3,6 @@ hide:
   - navigation
 ---
 
-Join directly:
-
-[Speakers' Corner](speakers-corner.md){ .md-button }
-[Reproducibility crisis in condensed matter](reproducibility_in_cmp.md){ .md-button }
-
 ## Welcome
 
 Virtual Science Forum is a [volunteer-run](whoweare.md) open platform aiming to accommodate organization of online conferences.
