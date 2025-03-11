@@ -20,6 +20,8 @@ We offer beginning-to-end support for organizing an academic event of your own:
 Check out the [organizer guide](organizerguide.md) to see what it takes. We have hosted workshops, tutorials, and seminar series. We prioritize upholding a safe, accessible, inclusive and equitable online environment for all across the spectrum of identities and lived experiences. We encourage participation, either as speakers, organizers or audience, of all members of the scientific community.
 
 ### Previous Events
+* [Speakers' Corner](speakers-corner.md) seminar series
+* [Reproducibility crisis in condensed matter](reproducibility_in_cmp.md)
 * [Floquet Summer School](floquet-school.md)
 * [Superconducting diode effects workshop](josephson-diode.md)
 * [Workshop on unconventional superconductivity](unconventional-superconductivity.md)
