@@ -10,8 +10,6 @@ on:
       - synchronize
       - reopened
       - closed
-  schedule:
-    - cron: '12 3 * * *'  # Rerender nightly
 
 jobs:
   build-and-deploy:

@@ -1,10 +1,6 @@
 name: Open an organizational meeting issue
 
 on:
-  schedule:
-    # The source of truth for the weekly meeting time. It's interpreted as
-    # European time minus 2 hours (for the purpose of daylight savings)
-    - cron: "00 15 * * MON"
   workflow_dispatch:
 
 jobs:
